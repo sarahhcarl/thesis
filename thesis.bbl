@@ -1,0 +1,410 @@
+\begin{thebibliography}{}
+
+\bibitem[An and Jones, 2006]{an2006large}
+An, Y. Y. L.~J. and Jones, S.~J. (2006).
+\newblock A large-scale computational approach to drug repositioning.
+\newblock {\em Genome Informatics}, 17(2):239--247.
+
+\bibitem[Ashburner et~al., 2000]{ashburner2000gene}
+Ashburner, M., Ball, C.~A., Blake, J.~A., Botstein, D., Butler, H., Cherry,
+  J.~M., Davis, A.~P., Dolinski, K., Dwight, S.~S., Eppig, J.~T., et~al.
+  (2000).
+\newblock Gene ontology: tool for the unification of biology.
+\newblock {\em Nature genetics}, 25(1):25--29.
+
+\bibitem[Barratt and Frail, 2012]{barratt2012drug}
+Barratt, M.~J. and Frail, D.~E. (2012).
+\newblock {\em Drug repositioning: Bringing new life to shelved assets and
+  existing drugs}.
+\newblock Wiley. com.
+
+\bibitem[Black et~al., 1994]{black1994raloxifene}
+Black, L.~J., Sato, M., Rowley, E., Magee, D., Bekele, A., Williams, D.,
+  Cullinan, G., Bendele, R., Kauffman, R., Bensch, W., et~al. (1994).
+\newblock Raloxifene (ly139481 hci) prevents bone loss and reduces serum
+  cholesterol without causing uterine hypertrophy in ovariectomized rats.
+\newblock {\em Journal of Clinical Investigation}, 93(1):63.
+
+\bibitem[Bodenreider, 2004]{bodenreider2004unified}
+Bodenreider, O. (2004).
+\newblock The unified medical language system (umls): integrating biomedical
+  terminology.
+\newblock {\em Nucleic acids research}, 32(suppl 1):D267--D270.
+
+\bibitem[Campillos et~al., 2008]{campillos2008drug}
+Campillos, M., Kuhn, M., Gavin, A.-C., Jensen, L.~J., and Bork, P. (2008).
+\newblock Drug target identification using side-effect similarity.
+\newblock {\em Science}, 321(5886):263--266.
+
+\bibitem[Chiang and Butte, 2009]{chiang2009systematic}
+Chiang, A.~P. and Butte, A.~J. (2009).
+\newblock Systematic evaluation of drug--disease relationships to identify
+  leads for novel drug uses.
+\newblock {\em Clinical Pharmacology \& Therapeutics}, 86(5):507--510.
+
+\bibitem[Darwin and Bynum, 2009]{darwin2009origin}
+Darwin, C. and Bynum, W.~F. (2009).
+\newblock {\em The origin of species by means of natural selection: or, the
+  preservation of favored races in the struggle for life}.
+\newblock AL Burt.
+
+\bibitem[De~Franchi et~al., 2010]{de2010binding}
+De~Franchi, E., Schalon, C., Messa, M., Onofri, F., Benfenati, F., and Rognan,
+  D. (2010).
+\newblock Binding of protein kinase inhibitors to synapsin i inferred from
+  pair-wise binding site similarity measurements.
+\newblock {\em PLoS One}, 5(8):e12214.
+
+\bibitem[DiMasi, 2001]{dimasi2001new}
+DiMasi, J.~A. (2001).
+\newblock New drug development in the united states from 1963 to 1999.
+\newblock {\em Clinical pharmacology and therapeutics}, 69(5):286.
+
+\bibitem[Dudley et~al., 2011a]{dudley2011exploiting}
+Dudley, J.~T., Deshpande, T., and Butte, A.~J. (2011a).
+\newblock Exploiting drug--disease relationships for computational drug
+  repositioning.
+\newblock {\em Briefings in bioinformatics}, 12(4):303--311.
+
+\bibitem[Dudley et~al., 2011b]{dudley2011computational}
+Dudley, J.~T., Sirota, M., Shenoy, M., Pai, R., Roedder, S., Chiang, A.~P.,
+  Morgan, A.~A., Sarwal, M., Pasricha, P.~J., and Butte, A.~J. (2011b).
+\newblock Computational repositioning of the anticonvulsant topiramate for
+  inflammatory bowel disease.
+\newblock {\em Science translational medicine}, 3(96):96ra76.
+
+\bibitem[Duran-Frigola et~al., 2012]{duran2012recycling}
+Duran-Frigola, M., Aloy, P., et~al. (2012).
+\newblock Recycling side-effects into clinical markers for drug repositioning.
+\newblock {\em Genome Med}, 4(3).
+
+\bibitem[Eckert and Bajorath, 2007]{eckert2007molecular}
+Eckert, H. and Bajorath, J. (2007).
+\newblock Molecular similarity analysis in virtual screening: foundations,
+  limitations and novel approaches.
+\newblock {\em Drug discovery today}, 12(5):225--233.
+
+\bibitem[FDA, 2007]{fdaraloxifen}
+FDA (Sptember 2007).
+\newblock Raloxifene hydrochloride.
+\newblock
+  \url{http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ucm129243.htm}.
+
+\bibitem[Fliri et~al., 2005]{fliri2005analysis}
+Fliri, A.~F., Loging, W.~T., Thadeio, P.~F., and Volkmann, R.~A. (2005).
+\newblock Analysis of drug-induced effect patterns to link structure and side
+  effects of medicines.
+\newblock {\em Nature chemical biology}, 1(7):389--397.
+
+\bibitem[Fliri et~al., 2007]{fliri2007analysis}
+Fliri, A.~F., Loging, W.~T., and Volkmann, R.~A. (2007).
+\newblock Analysis of system structure--function relationships.
+\newblock {\em ChemMedChem}, 2(12):1774--1782.
+
+\bibitem[Franke et~al., 2010]{franke2010genome}
+Franke, A., McGovern, D.~P., Barrett, J.~C., Wang, K., Radford-Smith, G.~L.,
+  Ahmad, T., Lees, C.~W., Balschun, T., Lee, J., Roberts, R., et~al. (2010).
+\newblock Genome-wide meta-analysis increases to 71 the number of confirmed
+  crohn's disease susceptibility loci.
+\newblock {\em Nature genetics}, 42(12):1118--1125.
+
+\bibitem[Furberg et~al., 2010]{furberg2010genome}
+Furberg, H., Kim, Y., Dackor, J., Boerwinkle, E., Franceschini, N., Ardissino,
+  D., Bernardinelli, L., Mannucci, P., Mauri, F., Merlini, P.~A., et~al.
+  (2010).
+\newblock Genome-wide meta-analyses identify multiple loci associated with
+  smoking behavior.
+\newblock {\em Nature genetics}, 42(5):441--447.
+
+\bibitem[Ghofrani et~al., 2006]{ghofrani2006sildenafil}
+Ghofrani, H.~A., Osterloh, I.~H., and Grimminger, F. (2006).
+\newblock Sildenafil: from angina to erectile dysfunction to pulmonary
+  hypertension and beyond.
+\newblock {\em Nature Reviews Drug Discovery}, 5(8):689--702.
+
+\bibitem[Goto et~al., 1996]{goto1996organizing}
+Goto, S., Bono, H., Ogata, H., Fujibuchi, W., Nishioka, T., Sato, K., Kanehisa,
+  M., et~al. (1996).
+\newblock Organizing and computing metabolic pathway data in terms of binary
+  relations.
+\newblock In {\em Pacific Symposium on Biocomputing. Pacific Symposium on
+  Biocomputing}, pages 175--186.
+
+\bibitem[Gottlieb et~al., 2011]{gottlieb2011predict}
+Gottlieb, A., Stein, G.~Y., Ruppin, E., and Sharan, R. (2011).
+\newblock Predict: a method for inferring novel drug indications with
+  application to personalized medicine.
+\newblock {\em Molecular systems biology}, 7(1).
+
+\bibitem[Haupt and Schroeder, 2011]{haupt2011old}
+Haupt, V.~J. and Schroeder, M. (2011).
+\newblock Old friends in new guise: repositioning of known drugs with
+  structural bioinformatics.
+\newblock {\em Briefings in bioinformatics}, 12(4):312--326.
+
+\bibitem[Hoehndorf et~al., 2007]{hoehndorf2007representing}
+Hoehndorf, R., Loebe, F., Kelso, J., and Herre, H. (2007).
+\newblock Representing default knowledge in biomedical ontologies: Application
+  to the integration of anatomy and phenotype ontologies.
+\newblock {\em BMC bioinformatics}, 8(1):377.
+
+\bibitem[Hoehndorf et~al., 2011]{hoehndorf2011phenomenet}
+Hoehndorf, R., Schofield, P.~N., and Gkoutos, G.~V. (2011).
+\newblock Phenomenet: a whole-phenome approach to disease gene discovery.
+\newblock {\em Nucleic acids research}, 39(18):e119--e119.
+
+\bibitem[Hopkins, 2008]{hopkins2008network}
+Hopkins, A.~L. (2008).
+\newblock Network pharmacology: the next paradigm in drug discovery.
+\newblock {\em Nature chemical biology}, 4(11):682--690.
+
+\bibitem[Hurle et~al., 2013]{hurle2013computational}
+Hurle, M., Yang, L., Xie, Q., Rajpal, D., Sanseau, P., and Agarwal, P. (2013).
+\newblock Computational drug repositioning: From data to therapeutics.
+\newblock {\em Clinical Pharmacology \& Therapeutics}.
+
+\bibitem[Iorio et~al., 2010]{iorio2010discovery}
+Iorio, F., Bosotti, R., Scacheri, E., Belcastro, V., Mithbaokar, P., Ferriero,
+  R., Murino, L., Tagliaferri, R., Brunetti-Pierri, N., Isacchi, A., et~al.
+  (2010).
+\newblock Discovery of drug mode of action and drug repositioning from
+  transcriptional responses.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  107(33):14621--14626.
+
+\bibitem[Johnson and Maggiora, 1990]{johnson1990concepts}
+Johnson, M.~A. and Maggiora, G.~M. (1990).
+\newblock {\em Concepts and applications of molecular similarity}.
+\newblock Wiley New York.
+
+\bibitem[Jordan et~al., 1987]{jordan1987effects}
+Jordan, V.~C., Phelps, E., and Lindgren, J.~U. (1987).
+\newblock Effects of anti-estrogens on bone in castrated and intact female
+  rats.
+\newblock {\em Breast cancer research and treatment}, 10(1):31--35.
+
+\bibitem[Kathiresan et~al., 2008]{kathiresan2008six}
+Kathiresan, S., Melander, O., Guiducci, C., Surti, A., Burtt, N.~P., Rieder,
+  M.~J., Cooper, G.~M., Roos, C., Voight, B.~F., Havulinna, A.~S., et~al.
+  (2008).
+\newblock Six new loci associated with blood low-density lipoprotein
+  cholesterol, high-density lipoprotein cholesterol or triglycerides in humans.
+\newblock {\em Nature genetics}, 40(2):189--197.
+
+\bibitem[Keiser et~al., 2009]{keiser2009predicting}
+Keiser, M.~J., Setola, V., Irwin, J.~J., Laggner, C., Abbas, A.~I., Hufeisen,
+  S.~J., Jensen, N.~H., Kuijer, M.~B., Matos, R.~C., Tran, T.~B., et~al.
+  (2009).
+\newblock Predicting new molecular targets for known drugs.
+\newblock {\em Nature}, 462(7270):175--181.
+
+\bibitem[Kinnings et~al., 2009]{kinnings2009drug}
+Kinnings, S.~L., Liu, N., Buchmeier, N., Tonge, P.~J., Xie, L., and Bourne,
+  P.~E. (2009).
+\newblock Drug discovery using chemical systems biology: repositioning the safe
+  medicine comtan to treat multi-drug and extensively drug resistant
+  tuberculosis.
+\newblock {\em PLoS computational biology}, 5(7):e1000423.
+
+\bibitem[Krall et~al., 1988]{krall1988characterization}
+Krall, J., Fittingoff, M., and Rajfer, J. (1988).
+\newblock Characterization of cyclic nucleotide and inositol 1, 4,
+  5-trisphosphate-sensitive calcium-exchange activity of smooth muscle cells
+  cultured from the human corpora cavernosa.
+\newblock {\em Biology of reproduction}, 39(4):913--922.
+
+\bibitem[Kruger et~al., 2012]{kruger2012mapping}
+Kruger, F.~A., Rostom, R., and Overington, J.~P. (2012).
+\newblock Mapping small molecule binding data to structural domains.
+\newblock {\em BMC bioinformatics}, 13(Suppl 17):S11.
+
+\bibitem[Kunkel et~al., 2011]{kunkel2011mrna}
+Kunkel, S.~D., Suneja, M., Ebert, S.~M., Bongers, K.~S., Fox, D.~K., Malmberg,
+  S.~E., Alipour, F., Shields, R.~K., and Adams, C.~M. (2011).
+\newblock mrna expression signatures of human skeletal muscle atrophy identify
+  a natural compound that increases muscle mass.
+\newblock {\em Cell metabolism}, 13(6):627--638.
+
+\bibitem[Lamb et~al., 2006]{lamb2006connectivity}
+Lamb, J., Crawford, E.~D., Peck, D., Modell, J.~W., Blat, I.~C., Wrobel, M.~J.,
+  Lerner, J., Brunet, J.-P., Subramanian, A., Ross, K.~N., et~al. (2006).
+\newblock The connectivity map: using gene-expression signatures to connect
+  small molecules, genes, and disease.
+\newblock {\em science}, 313(5795):1929--1935.
+
+\bibitem[Li et~al., 2010]{li2010pubchem}
+Li, Q., Cheng, T., Wang, Y., and Bryant, S.~H. (2010).
+\newblock Pubchem as a public resource for drug discovery.
+\newblock {\em Drug discovery today}, 15(23):1052--1057.
+
+\bibitem[Li and Agarwal, 2009]{li2009pathway}
+Li, Y. and Agarwal, P. (2009).
+\newblock A pathway-based view of human diseases and disease relationships.
+\newblock {\em PloS one}, 4(2):e4346.
+
+\bibitem[LINCS, 2014]{cmap}
+LINCS (January 2014).
+\newblock Connectivity map.
+\newblock \url{http://lincscloud.org/}.
+
+\bibitem[Lipinski et~al., 1997]{lipinski1997experimental}
+Lipinski, C.~A., Lombardo, F., Dominy, B.~W., and Feeney, P.~J. (1997).
+\newblock Experimental and computational approaches to estimate solubility and
+  permeability in drug discovery and development settings.
+\newblock {\em Advanced drug delivery reviews}, 23(1):3--25.
+
+\bibitem[Lounkine et~al., 2012]{lounkine2012large}
+Lounkine, E., Keiser, M.~J., Whitebread, S., Mikhailov, D., Hamon, J., Jenkins,
+  J.~L., Lavan, P., Weber, E., Doak, A.~K., C{\^o}t{\'e}, S., et~al. (2012).
+\newblock Large-scale prediction and testing of drug activity on side-effect
+  targets.
+\newblock {\em Nature}, 486(7403):361--367.
+
+\bibitem[Matthews et~al., 2009]{matthews2009reactome}
+Matthews, L., Gopinath, G., Gillespie, M., Caudy, M., Croft, D., de~Bono, B.,
+  Garapati, P., Hemish, J., Hermjakob, H., Jassal, B., et~al. (2009).
+\newblock Reactome knowledgebase of human biological pathways and processes.
+\newblock {\em Nucleic acids research}, 37(suppl 1):D619--D622.
+
+\bibitem[Men et~al., 2010]{men20101}
+Men, A., Le, C., Charlab, R., Gobburu, J., and Lesko, L. (2010).
+\newblock 1: Sardana d, zhu c, zhang m, gudivada rc, yang l, jegga ag. drug
+  repositioning for orphan diseases. brief bioinform. 2011 jul; 12 (4): 346-56.
+  doi.
+\newblock {\em Policy}, 8(5):343--50.
+
+\bibitem[Mendel, 1866]{mendel1866versuche}
+Mendel, G. (1866).
+\newblock Versuche {\"u}ber pflanzenhybriden.
+\newblock {\em Verhandlungen des naturforschenden Vereines in Brunn 4: 3}, 44.
+
+\bibitem[Napolitano et~al., 2013]{napolitano2013drug}
+Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
+  M., and Greco, D. (2013).
+\newblock Drug repositioning: A machine-learning approach through data
+  integration.
+\newblock {\em Journal of Cheminformatics}, 5(1):30.
+
+\bibitem[New-York-Times-Archives, 1998]{nytimes}
+New-York-Times-Archives (March 1998).
+\newblock U.s. approves sale of impotence pill; huge market seen.
+\newblock
+  \url{http://www.nytimes.com/1998/03/28/us/us-approves-sale-of-impotence-pill-huge-market-seen.html?pagewanted=all&src=pm}.
+
+\bibitem[NHS-Choices, 2014a]{anginanhs}
+NHS-Choices (January 2014a).
+\newblock Angina.
+\newblock \url{http://www.nhs.uk/conditions/Angina/Pages/Introduction.aspx}.
+
+\bibitem[NHS-Choices, 2014b]{hypertensionnhs}
+NHS-Choices (January 2014b).
+\newblock High blood pressure.
+\newblock
+  \url{http://www.nhs.uk/conditions/Blood-pressure-(high)/Pages/Introduction.aspx}.
+
+\bibitem[Noeske et~al., 2006]{noeske2006predicting}
+Noeske, T., Sasse, B.~C., Stark, H., Parsons, C.~G., Weil, T., and Schneider,
+  G. (2006).
+\newblock Predicting compound selectivity by self-organizing maps:
+  Cross-activities of metabotropic glutamate receptor antagonists.
+\newblock {\em ChemMedChem}, 1(10):1066--1068.
+
+\bibitem[Paolini et~al., 2006]{paolini2006global}
+Paolini, G.~V., Shapland, R.~H., van Hoorn, W.~P., Mason, J.~S., and Hopkins,
+  A.~L. (2006).
+\newblock Global mapping of pharmacological space.
+\newblock {\em Nature biotechnology}, 24(7):805--815.
+
+\bibitem[Renaud and Xuereb, 2002]{renaud2002erectile}
+Renaud, R.~C. and Xuereb, H. (2002).
+\newblock Erectile-dysfunction therapies.
+\newblock {\em Nature Reviews Drug Discovery}, 1(9):663--664.
+
+\bibitem[Sampaio et~al., 1991]{sampaio1991thalidomide}
+Sampaio, E.~P., Sarno, E.~N., Galilly, R., Cohn, Z.~A., and Kaplan, G. (1991).
+\newblock Thalidomide selectively inhibits tumor necrosis factor alpha
+  production by stimulated human monocytes.
+\newblock {\em The Journal of experimental medicine}, 173(3):699--703.
+
+\bibitem[Sanseau et~al., 2012]{sanseau2012use}
+Sanseau, P., Agarwal, P., Barnes, M.~R., Pastinen, T., Richards, J.~B., Cardon,
+  L.~R., and Mooser, V. (2012).
+\newblock Use of genome-wide association studies for drug repositioning.
+\newblock {\em Nature biotechnology}, 30(4):317--320.
+
+\bibitem[Sirota et~al., 2011]{sirota2011discovery}
+Sirota, M., Dudley, J.~T., Kim, J., Chiang, A.~P., Morgan, A.~A.,
+  Sweet-Cordero, A., Sage, J., and Butte, A.~J. (2011).
+\newblock Discovery and preclinical validation of drug indications using
+  compendia of public gene expression data.
+\newblock {\em Science translational medicine}, 3(96):96ra77.
+
+\bibitem[Stephens and Brynner, 2009]{stephens2009dark}
+Stephens, T.~D. and Brynner, R. (2009).
+\newblock {\em Dark remedy: The impact of thalidomide and its revival as a
+  vital medicine}.
+\newblock Basic Books.
+
+\bibitem[Suthram et~al., 2010]{suthram2010network}
+Suthram, S., Dudley, J.~T., Chiang, A.~P., Chen, R., Hastie, T.~J., and Butte,
+  A.~J. (2010).
+\newblock Network-based elucidation of human disease similarities reveals
+  common functional modules enriched for pluripotent drug targets.
+\newblock {\em PLoS computational biology}, 6(2):e1000662.
+
+\bibitem[Swinney and Anthony, 2011]{swinney2011were}
+Swinney, D.~C. and Anthony, J. (2011).
+\newblock How were new medicines discovered?
+\newblock {\em Nature reviews Drug discovery}, 10(7):507--519.
+
+\bibitem[Wei et~al., 2006]{wei2006gene}
+Wei, G., Twomey, D., Lamb, J., Schlis, K., Agarwal, J., Stam, R.~W., Opferman,
+  J.~T., Sallan, S.~E., den Boer, M.~L., Pieters, R., et~al. (2006).
+\newblock Gene expression-based chemical genomics identifies rapamycin as a
+  modulator of mcl1 and glucocorticoid resistance.
+\newblock {\em Cancer cell}, 10(4):331--342.
+
+\bibitem[Wermuth, 2006]{wermuth2006selective}
+Wermuth, C.~G. (2006).
+\newblock Selective optimization of side activities: the sosa approach.
+\newblock {\em Drug discovery today}, 11(3):160--164.
+
+\bibitem[Whirl-Carrillo et~al., 2012]{whirl2012pharmacogenomics}
+Whirl-Carrillo, M., McDonagh, E., Hebert, J., Gong, L., Sangkuhl, K., Thorn,
+  C., Altman, R., and Klein, T.~E. (2012).
+\newblock Pharmacogenomics knowledge for personalized medicine.
+\newblock {\em Clinical Pharmacology \& Therapeutics}, 92(4):414--417.
+
+\bibitem[Wikipedia, 2014a]{offlabelwiki}
+Wikipedia (January 2014a).
+\newblock Off-label use.
+\newblock \url{http://en.wikipedia.org/wiki/Off-label_use}.
+
+\bibitem[Wikipedia, 2014b]{ehrlichwiki}
+Wikipedia (January 2014b).
+\newblock Paul ehrlich.
+\newblock \url{http://en.wikipedia.org/wiki/Paul_Ehrlich#Magic_bullet}.
+
+\bibitem[Wikipedia, 2014c]{phenotypewiki}
+Wikipedia (January 2014c).
+\newblock Phenotype.
+\newblock \url{http://en.wikipedia.org/wiki/Phenotype}.
+
+\bibitem[Wikipedia, 2014d]{prehistoricwiki}
+Wikipedia (January 2014d).
+\newblock Prehistoric medicine.
+\newblock \url{http://en.wikipedia.org/wiki/Prehistoric_medicine}.
+
+\bibitem[Yang and Agarwal, 2011]{yang2011systematic}
+Yang, L. and Agarwal, P. (2011).
+\newblock Systematic drug repositioning based on clinical side-effects.
+\newblock {\em PloS one}, 6(12):e28025.
+
+\bibitem[Zahler et~al., 2007]{zahler2007inverse}
+Zahler, S., Tietze, S., Totzke, F., Kubbutat, M., Meijer, L., Vollmar, A.~M.,
+  and Apostolakis, J. (2007).
+\newblock Inverse in silico screening for identification of kinase inhibitor
+  targets.
+\newblock {\em Chemistry \& biology}, 14(11):1207--1214.
+
+\end{thebibliography}

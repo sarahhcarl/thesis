@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.10.8)  19 JAN 2014 18:03
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  13 FEB 2014 19:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,8 +6,7 @@ entering extended mode
 **thesis.tex
 (./thesis.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
-aded.
+Babel <3.9f> and hyphenation patterns for 2 languages loaded.
 (./cam-thesis.cls
 Document Class: cam-thesis 2012/04/12 University of Cambridge thesis class
 
@@ -69,18 +68,24 @@ LaTeX Info: Redefining \addtolength on input line 77.
 \calc@Cskip=\skip45
 ) (/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/share/texlive/texmf-dist/tex/latex/rotating/rotating.sty
-Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-\c@r@tfl@t=\count92
-\rotFPtop=\skip46
-\rotFPbot=\skip47
-\rot@float@box=\box26
-\rot@mess@toks=\toks15
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)) (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks15
+\AP@partial=\box26
+\AP@footins=\box27
 ) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
 
@@ -94,8 +99,7 @@ Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -120,71 +124,72 @@ Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
 Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
+Package atveryend Info: \AP@enddocument detected (standard20110627).
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen107
-\Hy@linkcounter=\count93
-\Hy@pagecounter=\count94
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count95
+\Hy@SavedSpaceFactor=\count94
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `pdffitwindow' set `true' on input line 3941.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 3941.
-Package hyperref Info: Option `colorlinks' set `false' on input line 3941.
-Package hyperref Info: Option `pdfusetitle' set `true' on input line 3941.
-Package hyperref Info: Hyper figures OFF on input line 4062.
-Package hyperref Info: Link nesting OFF on input line 4067.
-Package hyperref Info: Hyper index ON on input line 4070.
-Package hyperref Info: Plain pages OFF on input line 4077.
-Package hyperref Info: Backreferencing OFF on input line 4082.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 4319.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
+Package hyperref Info: Option `colorlinks' set `false' on input line 4319.
+Package hyperref Info: Option `pdfusetitle' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4300.
-\c@Hy@tempcnt=\count96
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count95
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4653.
-\Fld@menulength=\count97
-\Field@Width=\dimen108
-\Fld@charsize=\dimen109
-Package hyperref Info: Hyper figures OFF on input line 5773.
-Package hyperref Info: Link nesting OFF on input line 5778.
-Package hyperref Info: Hyper index ON on input line 5781.
-Package hyperref Info: backreferencing OFF on input line 5788.
-Package hyperref Info: Link coloring OFF on input line 5793.
-Package hyperref Info: Link coloring with OCG OFF on input line 5798.
-Package hyperref Info: PDF/A mode OFF on input line 5803.
-LaTeX Info: Redefining \ref on input line 5843.
-LaTeX Info: Redefining \pageref on input line 5847.
-\Hy@abspage=\count98
-\c@Item=\count99
-\c@Hfootnote=\count100
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen108
+\Fld@menulength=\count96
+\Field@Width=\dimen109
+\Fld@charsize=\dimen110
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
 )
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
-\Fld@listcount=\count101
-\c@bookmark@seq@number=\count102
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip48
+\Hy@SectionHShift=\skip46
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty
 Package: hypcap 2011/02/16 v1.11 Adjusting the anchors of captions (HO)
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
@@ -194,70 +199,70 @@ Package: makeidx 2000/03/29 v1.0m Standard LaTeX package
 \openout3 = `thesis.idx'.
 
 Writing index file thesis.idx
-\cam@topmargin=\skip49
-\cam@bottommargin=\skip50
+\cam@topmargin=\skip47
+\cam@bottommargin=\skip48
 ) (./01Preamble.tex (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.st
 y
-Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip51
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks16
-\ex@=\dimen110
+\ex@=\dimen111
 )) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen111
+\pmbraise@=\dimen112
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count103
-LaTeX Info: Redefining \frac on input line 211.
-\uproot@=\count104
-\leftroot@=\count105
-LaTeX Info: Redefining \overline on input line 307.
-\classnum@=\count106
-\DOTSCASE@=\count107
-LaTeX Info: Redefining \ldots on input line 379.
-LaTeX Info: Redefining \dots on input line 382.
-LaTeX Info: Redefining \cdots on input line 467.
-\Mathstrutbox@=\box27
-\strutbox@=\box28
-\big@size=\dimen112
-LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
-\macc@depth=\count108
-\c@MaxMatrixCols=\count109
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
 \dotsspace@=\muskip11
-\c@parentequation=\count110
-\dspbrk@lvl=\count111
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
 \tag@help=\toks17
-\row@=\count112
-\column@=\count113
-\maxfields@=\count114
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
 \andhelp@=\toks18
-\eqnshift@=\dimen113
-\alignsep@=\dimen114
-\tagshift@=\dimen115
-\tagwidth@=\dimen116
-\totwidth@=\dimen117
-\lineht@=\dimen118
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
 \@envbody=\toks19
-\multlinegap=\skip52
-\multlinetaggap=\skip53
+\multlinegap=\skip50
+\multlinetaggap=\skip51
 \mathdisplay@stack=\toks20
-LaTeX Info: Redefining \[ on input line 2666.
-LaTeX Info: Redefining \] on input line 2667.
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 ) (/usr/share/texlive/texmf-dist/tex/latex/hvindex/hvindex.sty
@@ -265,65 +270,66 @@ Package: hvindex 2009/10/24\ 0.03\ Index macros (hv)
 `hvindex' v0.03, 2009/10/24 (hv)) (/usr/share/texlive/texmf-dist/tex/latex/titl
 esec/titlesec.sty
 Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
-\ttl@box=\box29
-\beforetitleunit=\skip54
-\aftertitleunit=\skip55
-\ttl@plus=\dimen119
-\ttl@minus=\dimen120
+\ttl@box=\box30
+\beforetitleunit=\skip52
+\aftertitleunit=\skip53
+\ttl@plus=\dimen120
+\ttl@minus=\dimen121
 \ttl@toksa=\toks21
-\titlewidth=\dimen121
-\titlewidthlast=\dimen122
-\titlewidthfirst=\dimen123
+\titlewidth=\dimen122
+\titlewidthlast=\dimen123
+\titlewidthfirst=\dimen124
 ) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip56
-\bibsep=\skip57
+\bibhang=\skip54
+\bibsep=\skip55
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count115
+\c@NAT@ctr=\count114
 ) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-Package: amsthm 2009/07/02 v2.20.1
+Package: amsthm 2004/08/06 v2.20
 \thm@style=\toks22
 \thm@bodyfont=\toks23
 \thm@headfont=\toks24
 \thm@notefont=\toks25
 \thm@headpunct=\toks26
-\thm@preskip=\skip58
-\thm@postskip=\skip59
-\thm@headsep=\skip60
+\thm@preskip=\skip56
+\thm@postskip=\skip57
+\thm@headsep=\skip58
 \dth@everypar=\toks27
 )
-\c@definition=\count116
-\c@example=\count117
+\c@definition=\count115
+\c@example=\count116
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
-\captionmargin=\dimen124
-\captionmargin@=\dimen125
-\captionwidth=\dimen126
-\caption@indent=\dimen127
-\caption@parindent=\dimen128
-\caption@hangindent=\dimen129
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen125
+\captionmargin@=\dimen126
+\captionwidth=\dimen127
+\caption@tempdima=\dimen128
+\caption@indent=\dimen129
+\caption@parindent=\dimen130
+\caption@hangindent=\dimen131
 )
-\c@ContinuedFloat=\count118
+\c@ContinuedFloat=\count117
 Package caption Info: hyperref package is loaded.
 Package caption Info: hypcap package is loaded.
-Package caption Info: rotating package is loaded.
 ) (/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty
 Package: subfig 2005/06/28 ver: 1.3 subfig package
-\c@KVtest=\count119
-\sf@farskip=\skip61
-\sf@captopadj=\dimen130
-\sf@capskip=\skip62
-\sf@nearskip=\skip63
-\c@subfigure=\count120
-\c@subfigure@save=\count121
-\c@lofdepth=\count122
-\c@subtable=\count123
-\c@subtable@save=\count124
-\c@lotdepth=\count125
-\sf@top=\skip64
-\sf@bottom=\skip65
+\c@KVtest=\count118
+\sf@farskip=\skip59
+\sf@captopadj=\dimen132
+\sf@capskip=\skip60
+\sf@nearskip=\skip61
+\c@subfigure=\count119
+\c@subfigure@save=\count120
+\c@lofdepth=\count121
+\c@subtable=\count122
+\c@subtable@save=\count123
+\c@lotdepth=\count124
+\sf@top=\skip62
+\sf@bottom=\skip63
 )) (./02ThesisInfo.tex) (./03Abstract.tex) (./04Acknowledgments.tex) (./thesis.
 aux)
 \openout1 = `thesis.aux'.
@@ -344,16 +350,16 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count126
-\scratchdimen=\dimen131
-\scratchbox=\box30
-\nofMPsegments=\count127
-\nofMParguments=\count128
+\scratchcounter=\count125
+\scratchdimen=\dimen133
+\scratchbox=\box31
+\nofMPsegments=\count126
+\nofMParguments=\count127
 \everyMPshowfont=\toks28
-\MPscratchCnt=\count129
-\MPscratchDim=\dimen132
-\MPnumerator=\count130
-\makeMPintoPDFobject=\count131
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen134
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
 \everyMPtoPDFconversion=\toks29
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -368,14 +374,14 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-\AtBeginShipoutBox=\box31
+\AtBeginShipoutBox=\box32
 Package hyperref Info: Link coloring OFF on input line 16.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count132
+\c@section@level=\count131
 )
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
@@ -387,30 +393,30 @@ LaTeX Info: Redefining \nameref on input line 16.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
-\cam@logo=\box32
-<CUni.pdf, id=72, 330.23375pt x 69.25874pt>
+\cam@logo=\box33
+<CUni.pdf, id=143, 330.23375pt x 69.25874pt>
 File: CUni.pdf Graphic file (type pdf)
 <use CUni.pdf>
 Package pdftex.def Info: CUni.pdf used on input line 18.
 (pdftex.def)             Requested size: 207.70511pt x 43.56242pt.
-\cam@title=\box33
+\cam@title=\box34
 LaTeX Font Info:    Try loading font information for U+msa on input line 18.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-\cam@collegeshieldbox=\box34
-<CollegeShields/Darwin.pdf, id=73, 146.7081pt x 173.448pt>
+\cam@collegeshieldbox=\box35
+<CollegeShields/Darwin.pdf, id=144, 146.7081pt x 173.448pt>
 File: CollegeShields/Darwin.pdf Graphic file (type pdf)
 <use CollegeShields/Darwin.pdf>
 Package pdftex.def Info: CollegeShields/Darwin.pdf used on input line 18.
 (pdftex.def)             Requested size: 48.13174pt x 56.9055pt.
-\cam@authorcollege=\box35
-\cam@submitnotice=\box36
-\cam@titlepagevspace=\skip66
+\cam@authorcollege=\box36
+\cam@submitnotice=\box37
+\cam@titlepagevspace=\skip64
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./CUni.pdf> <./CollegeShie
@@ -429,135 +435,139 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 ] [7] [8
 
-] (./thesis.toc)
+] (./thesis.toc
+Overfull \hbox (12.1585pt too wide) in paragraph at lines 22--22
+ [][] [][]\OT1/cmr/m/n/12 Chapter 2 - De-scrip-tion log-ics and biomed-i-cal kn
+owl- 
+ []
+
+[9])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
-[9] [10
-
-] (./11Chapter1.tex
+[10] (./11Chapter1.tex
 Chapter 1.
 Missing character: There is no ‚ in font cmbx12!
 Missing character: There is no Ä in font cmbx12!
 Missing character: There is no ô in font cmbx12!
 
 Package natbib Warning: Citation `prehistoricwiki' on page 11 undefined on inpu
-t line 15.
+t line 17.
 
 [11
+
 
 ]
 
 Package natbib Warning: Citation `dimasi2001new' on page 12 undefined on input 
-line 17.
+line 19.
 
 
 Package natbib Warning: Citation `barratt2012drug' on page 12 undefined on inpu
-t line 23.
+t line 25.
 
 [12]
 
 Package natbib Warning: Citation `men20101' on page 13 undefined on input line 
-25.
+27.
 
 
 Package natbib Warning: Citation `swinney2011were' on page 13 undefined on inpu
-t line 32.
+t line 34.
 
 
 Package natbib Warning: Citation `prehistoricwiki' on page 13 undefined on inpu
-t line 34.
+t line 36.
 
-<./Figures/fig1-1.pdf, id=152, 397.485pt x 252.945pt>
+[13] <./Figures/fig1-1.pdf, id=268, 397.485pt x 252.945pt>
 File: ./Figures/fig1-1.pdf Graphic file (type pdf)
 <use ./Figures/fig1-1.pdf>
-Package pdftex.def Info: ./Figures/fig1-1.pdf used on input line 38.
+Package pdftex.def Info: ./Figures/fig1-1.pdf used on input line 40.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[13]
 
 Package natbib Warning: Citation `barratt2012drug' on page 14 undefined on inpu
-t line 43.
+t line 45.
 
-<./Figures/fig1-2.pdf, id=160, 397.485pt x 252.945pt>
+<./Figures/fig1-2.pdf, id=270, 397.485pt x 252.945pt>
 File: ./Figures/fig1-2.pdf Graphic file (type pdf)
 <use ./Figures/fig1-2.pdf>
-Package pdftex.def Info: ./Figures/fig1-2.pdf used on input line 47.
+Package pdftex.def Info: ./Figures/fig1-2.pdf used on input line 49.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
 Package natbib Warning: Citation `ehrlichwiki' on page 14 undefined on input li
-ne 52.
+ne 54.
 
 
 Package natbib Warning: Citation `paolini2006global' on page 14 undefined on in
-put line 52.
+put line 54.
 
 
 Package natbib Warning: Citation `li2010pubchem' on page 14 undefined on input 
-line 52.
+line 54.
 
 [14 <./Figures/fig1-1.pdf>] [15 <./Figures/fig1-2.pdf>]
 
 Package natbib Warning: Citation `offlabelwiki' on page 16 undefined on input l
-ine 56.
+ine 58.
 
 
 Package natbib Warning: Citation `barratt2012drug' on page 16 undefined on inpu
-t line 64.
+t line 66.
 
 [16]
 
 Package natbib Warning: Citation `anginanhs' on page 17 undefined on input line
- 78.
+ 80.
 
 
-Package natbib Warning: Citation `nytimes' on page 17 undefined on input line 7
-8.
-
-
-Package natbib Warning: Citation `renaud2002erectile' on page 17 undefined on i
-nput line 78.
+Package natbib Warning: Citation `nytimes' on page 17 undefined on input line 8
+0.
 
 
 Package natbib Warning: Citation `renaud2002erectile' on page 17 undefined on i
-nput line 78.
+nput line 80.
+
+
+Package natbib Warning: Citation `renaud2002erectile' on page 17 undefined on i
+nput line 80.
 
 
 Package natbib Warning: Citation `ghofrani2006sildenafil' on page 17 undefined 
-on input line 78.
+on input line 80.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 7030) has occurred while \output is active []
 
-[17] <./Figures/fig1-3.pdf, id=206, 397.485pt x 252.945pt>
+[17] <./Figures/fig1-3.pdf, id=316, 397.485pt x 252.945pt>
 File: ./Figures/fig1-3.pdf Graphic file (type pdf)
 <use ./Figures/fig1-3.pdf>
-Package pdftex.def Info: ./Figures/fig1-3.pdf used on input line 82.
+Package pdftex.def Info: ./Figures/fig1-3.pdf used on input line 84.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
 Package natbib Warning: Citation `krall1988characterization' on page 18 undefin
-ed on input line 87.
+ed on input line 89.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `stephens2009dark' on page 18 undefined on inp
-ut line 91.
+ut line 93.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `stephens2009dark' on page 18 undefined on inp
-ut line 91.
+ut line 93.
 
 
 Package natbib Warning: Citation `barratt2012drug' on page 18 undefined on inpu
-t line 91.
+t line 93.
 
 
 Package natbib Warning: Citation `sampaio1991thalidomide' on page 18 undefined 
-on input line 91.
+on input line 93.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -568,145 +578,145 @@ Underfull \vbox (badness 6559) has occurred while \output is active []
 [19 <./Figures/fig1-3.pdf>]
 
 Package natbib Warning: Citation `jordan1987effects' on page 20 undefined on in
-put line 95.
+put line 97.
 
 
 Package natbib Warning: Citation `black1994raloxifene' on page 20 undefined on 
-input line 95.
+input line 97.
 
 
 Package natbib Warning: Citation `fdaraloxifen' on page 20 undefined on input l
-ine 95.
+ine 97.
 
 [20]
-Overfull \hbox (19.20074pt too wide) in paragraph at lines 97--97
+Overfull \hbox (19.20074pt too wide) in paragraph at lines 99--99
  |[]\OT1/cmr/bx/n/17.28 Computational ap-proaches to-wards drug repo-
  []
 
 
 Package natbib Warning: Citation `dudley2011exploiting' on page 21 undefined on
- input line 100.
+ input line 102.
 
 
 Package natbib Warning: Citation `hurle2013computational' on page 21 undefined 
-on input line 100.
+on input line 102.
 
-[21] <./Figures/fig1-4.pdf, id=246, 397.485pt x 252.945pt>
+[21] <./Figures/fig1-4.pdf, id=356, 397.485pt x 252.945pt>
 File: ./Figures/fig1-4.pdf Graphic file (type pdf)
 <use ./Figures/fig1-4.pdf>
-Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 106.
+Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 108.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
 Package natbib Warning: Citation `lipinski1997experimental' on page 22 undefine
-d on input line 113.
+d on input line 115.
 
 
 Package natbib Warning: Citation `johnson1990concepts' on page 22 undefined on 
-input line 113.
+input line 115.
 
 
 Package natbib Warning: Citation `eckert2007molecular' on page 22 undefined on 
-input line 113.
+input line 115.
 
 [22 <./Figures/fig1-4.pdf>]
 
 Package natbib Warning: Citation `noeske2006predicting' on page 23 undefined on
- input line 115.
-
-
-Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
  input line 117.
 
 
-Package natbib Warning: Citation `lounkine2012large' on page 23 undefined on in
-put line 117.
+Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
+ input line 119.
 
-<./Figures/fig1-5.pdf, id=260, 397.485pt x 180.675pt>
+
+Package natbib Warning: Citation `lounkine2012large' on page 23 undefined on in
+put line 119.
+
+<./Figures/fig1-5.pdf, id=370, 397.485pt x 180.675pt>
 File: ./Figures/fig1-5.pdf Graphic file (type pdf)
 <use ./Figures/fig1-5.pdf>
-Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 121.
+Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 123.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
 
 Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
- input line 122.
+ input line 124.
 
 
 Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
- input line 122.
+ input line 124.
 
 
 Package natbib Warning: Citation `eckert2007molecular' on page 23 undefined on 
-input line 126.
+input line 128.
 
 [23]
 
 Package natbib Warning: Citation `lamb2006connectivity' on page 24 undefined on
- input line 131.
+ input line 133.
 
-[24 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=285, 397.485pt x 252.945p
+[24 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=395, 397.485pt x 252.945p
 t>
 File: ./Figures/fig1-6.pdf Graphic file (type pdf)
 <use ./Figures/fig1-6.pdf>
-Package pdftex.def Info: ./Figures/fig1-6.pdf used on input line 135.
+Package pdftex.def Info: ./Figures/fig1-6.pdf used on input line 137.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
 Package natbib Warning: Citation `iorio2010discovery' on page 25 undefined on i
-nput line 143.
+nput line 145.
 
 [25 <./Figures/fig1-6.pdf>]
 
 Package natbib Warning: Citation `sirota2011discovery' on page 26 undefined on 
-input line 145.
+input line 147.
 
 
 Package natbib Warning: Citation `dudley2011computational' on page 26 undefined
- on input line 145.
+ on input line 147.
 
 
 Package natbib Warning: Citation `wei2006gene' on page 26 undefined on input li
-ne 147.
+ne 149.
 
 
 Package natbib Warning: Citation `kunkel2011mrna' on page 26 undefined on input
- line 147.
+ line 149.
 
 [26]
 
-Package natbib Warning: Citation `cmap' on page 27 undefined on input line 151.
+Package natbib Warning: Citation `cmap' on page 27 undefined on input line 153.
 
 
 
 Package natbib Warning: Citation `lamb2006connectivity' on page 27 undefined on
- input line 151.
+ input line 153.
 
 
 Package natbib Warning: Citation `haupt2011old' on page 27 undefined on input l
-ine 156.
+ine 158.
 
 [27]
 
 Package natbib Warning: Citation `haupt2011old' on page 28 undefined on input l
-ine 158.
+ine 160.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `de2010binding' on page 28 undefined on input 
-line 158.
+line 160.
 
 
 Package natbib Warning: Citation `de2010binding' on page 28 undefined on input 
-line 158.
+line 160.
 
-<./Figures/fig1-7.pdf, id=311, 397.485pt x 209.58301pt>
+<./Figures/fig1-7.pdf, id=420, 397.485pt x 209.58301pt>
 File: ./Figures/fig1-7.pdf Graphic file (type pdf)
 <use ./Figures/fig1-7.pdf>
-Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 162.
+Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 164.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
 
 Package natbib Warning: Citation `zahler2007inverse' on page 28 undefined on in
-put line 167.
+put line 169.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -720,7 +730,7 @@ Missing character: There is no ô in font cmr12!
 [28 <./Figures/fig1-7.pdf>]
 
 Package natbib Warning: Citation `kinnings2009drug' on page 29 undefined on inp
-ut line 169.
+ut line 171.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -730,76 +740,76 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
 Package natbib Warning: Citation `wermuth2006selective' on page 29 undefined on
- input line 169.
+ input line 171.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `haupt2011old' on page 29 undefined on input l
-ine 171.
+ine 173.
 
 
 Package natbib Warning: Citation `kruger2012mapping' on page 29 undefined on in
-put line 171.
+put line 173.
 
 [29]
 
 Package natbib Warning: Citation `phenotypewiki' on page 30 undefined on input 
-line 177.
+line 179.
 
 
 Package natbib Warning: Citation `darwin2009origin' on page 30 undefined on inp
-ut line 177.
+ut line 179.
 
 
 Package natbib Warning: Citation `mendel1866versuche' on page 30 undefined on i
-nput line 177.
+nput line 179.
 
 
 Package natbib Warning: Citation `swinney2011were' on page 30 undefined on inpu
-t line 177.
+t line 179.
 
 
 Package natbib Warning: Citation `duran2012recycling' on page 30 undefined on i
-nput line 177.
+nput line 179.
 
-<./Figures/fig1-8.pdf, id=334, 397.485pt x 144.54pt>
+<./Figures/fig1-8.pdf, id=443, 397.485pt x 144.54pt>
 File: ./Figures/fig1-8.pdf Graphic file (type pdf)
 <use ./Figures/fig1-8.pdf>
-Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 183.
+Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 185.
 (pdftex.def)             Requested size: 397.48402pt x 144.53963pt.
 
 Package natbib Warning: Citation `fliri2005analysis' on page 30 undefined on in
-put line 188.
+put line 190.
 
 
 Package natbib Warning: Citation `fliri2007analysis' on page 30 undefined on in
-put line 188.
+put line 190.
 
 
 Package natbib Warning: Citation `campillos2008drug' on page 30 undefined on in
-put line 188.
+put line 190.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `campillos2008drug' on page 30 undefined on in
-put line 188.
+put line 190.
 
 
 Package natbib Warning: Citation `bodenreider2004unified' on page 30 undefined 
-on input line 188.
+on input line 190.
 
 [30]
 
 Package natbib Warning: Citation `yang2011systematic' on page 31 undefined on i
-nput line 190.
+nput line 192.
 
 
 Package natbib Warning: Citation `whirl2012pharmacogenomics' on page 31 undefin
-ed on input line 190.
+ed on input line 192.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -807,53 +817,53 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [31 <./Figures/fig1-8.pdf>]
 
 Package natbib Warning: Citation `duran2012recycling' on page 32 undefined on i
-nput line 192.
+nput line 194.
 
 
 Package natbib Warning: Citation `hoehndorf2011phenomenet' on page 32 undefined
- on input line 192.
+ on input line 194.
 
 
 Package natbib Warning: Citation `hoehndorf2007representing' on page 32 undefin
-ed on input line 192.
+ed on input line 194.
 
 
 Package natbib Warning: Citation `sanseau2012use' on page 32 undefined on input
- line 196.
+ line 198.
 
 
 Package natbib Warning: Citation `kathiresan2008six' on page 32 undefined on in
-put line 196.
+put line 198.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `franke2010genome' on page 32 undefined on inp
-ut line 196.
+ut line 198.
 
 
 Package natbib Warning: Citation `furberg2010genome' on page 32 undefined on in
-put line 196.
+put line 198.
 
 
-Overfull \hbox (3.41823pt too wide) in paragraph at lines 196--197
+Overfull \hbox (3.41823pt too wide) in paragraph at lines 198--199
 \OT1/cmr/m/n/12 tional Hu-man Genome Re-search In-sti-tute (http://www.genome.g
 ov/gwastudies/).
  []
 
-[32] <./Figures/fig1-9.pdf, id=358, 397.485pt x 252.945pt>
+[32] <./Figures/fig1-9.pdf, id=468, 397.485pt x 252.945pt>
 File: ./Figures/fig1-9.pdf Graphic file (type pdf)
 <use ./Figures/fig1-9.pdf>
-Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 200.
+Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 202.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
 Package natbib Warning: Citation `sanseau2012use' on page 33 undefined on input
- line 201.
+ line 203.
 
 
 Package natbib Warning: Citation `sanseau2012use' on page 33 undefined on input
- line 201.
+ line 203.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -861,10 +871,10 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-[33] <./Figures/fig1-10.pdf, id=365, 397.485pt x 216.81pt>
+[33] <./Figures/fig1-10.pdf, id=475, 397.485pt x 216.81pt>
 File: ./Figures/fig1-10.pdf Graphic file (type pdf)
 <use ./Figures/fig1-10.pdf>
-Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 213.
+Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 215.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -880,26 +890,26 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
 
 Package natbib Warning: Citation `chiang2009systematic' on page 34 undefined on
- input line 218.
+ input line 220.
 
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
 
 Package natbib Warning: Citation `li2009pathway' on page 34 undefined on input 
-line 219.
+line 221.
 
 
 Package natbib Warning: Citation `matthews2009reactome' on page 34 undefined on
- input line 219.
+ input line 221.
 
 
 Package natbib Warning: Citation `goto1996organizing' on page 34 undefined on i
-nput line 219.
+nput line 221.
 
 
 Package natbib Warning: Citation `suthram2010network' on page 34 undefined on i
-nput line 220.
+nput line 222.
 
 
 Underfull \vbox (badness 1178) has occurred while \output is active []
@@ -908,15 +918,15 @@ Underfull \vbox (badness 1178) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [35 <./Figures/fig1-10.pdf>]
-Overfull \hbox (22.88115pt too wide) in paragraph at lines 223--223
+Overfull \hbox (22.88115pt too wide) in paragraph at lines 225--225
  |[]\OT1/cmr/bx/n/14.4 Machine learn-ing and con-cepts com-bi-na-tion ap-proach
 es| 
  []
 
-<./Figures/fig1-11.pdf, id=393, 397.485pt x 202.356pt>
+<./Figures/fig1-11.pdf, id=503, 397.485pt x 202.356pt>
 File: ./Figures/fig1-11.pdf Graphic file (type pdf)
 <use ./Figures/fig1-11.pdf>
-Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 229.
+Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 231.
 (pdftex.def)             Requested size: 397.48402pt x 202.3555pt.
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
@@ -926,16 +936,16 @@ Missing character: There is no Ä in font cmr10!
 Missing character: There is no ¶ in font cmr10!
 
 Package natbib Warning: Citation `gottlieb2011predict' on page 36 undefined on 
-input line 234.
+input line 236.
 
 
 Package natbib Warning: Citation `lamb2006connectivity' on page 36 undefined on
- input line 234.
+ input line 236.
 
 [36]
 
 Package natbib Warning: Citation `napolitano2013drug' on page 37 undefined on i
-nput line 236.
+nput line 238.
 
 [37 <./Figures/fig1-11.pdf>]
 Missing character: There is no ‚ in font cmr12!
@@ -946,1018 +956,554 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
 
 Package natbib Warning: Citation `an2006large' on page 38 undefined on input li
-ne 244.
-
-
-LaTeX Warning: Reference `table1' on page 38 undefined on input line 247.
+ne 246.
 
 [38]
-Underfull \hbox (badness 8151) in paragraph at lines 252--252
-[]\OT1/cmr/m/n/12 Biomedical ad-
- []
 
+Package natbib Warning: Citation `hopkins2008network' on page 39 undefined on i
+nput line 290.
 
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-\OT1/cmr/m/n/12 How-ever, the
- []
+<./Figures/fig1-13.pdf, id=529, 397.485pt x 195.129pt>
+File: ./Figures/fig1-13.pdf Graphic file (type pdf)
+<use ./Figures/fig1-13.pdf>
+Package pdftex.def Info: ./Figures/fig1-13.pdf used on input line 295.
+(pdftex.def)             Requested size: 397.48402pt x 195.12851pt.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-\OT1/cmr/m/n/12 strong breeze
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 253--254
-\OT1/cmr/m/n/12 the tem-per-a-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-[]\OT1/cmr/m/n/12 Cloudy with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-\OT1/cmr/m/n/12 rain, across
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-\OT1/cmr/m/n/12 many north-ern
- []
-
-
-Underfull \hbox (badness 1205) in paragraph at lines 255--257
-\OT1/cmr/m/n/12 re-gions. Clear
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-\OT1/cmr/m/n/12 spells across
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 255--257
-\OT1/cmr/m/n/12 and North-ern
- []
-
-
-Underfull \hbox (badness 6725) in paragraph at lines 258--261
-[]\OT1/cmr/m/n/12 Rain will still
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
-\OT1/cmr/m/n/12 linger for the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
-\OT1/cmr/m/n/12 di-tions will
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
-\OT1/cmr/m/n/12 im-prove by
- []
-
-
-Underfull \hbox (badness 5288) in paragraph at lines 258--261
-\OT1/cmr/m/n/12 early af-ter-noon
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--261
-\OT1/cmr/m/n/12 and con-tinue
- []
-
-
-Underfull \hbox (badness 6016) in paragraph at lines 258--261
-\OT1/cmr/m/n/12 through-out the
- []
-
-
-Overfull \hbox (294.4041pt too wide) in paragraph at lines 250--264
- [] 
+Overfull \hbox (16.5268pt too wide) in paragraph at lines 301--301
+ |[]\OT1/cmr/bx/n/17.28 Thesis: Bi-o-log-i-cal pro-cess and molec-u-lar func-
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[39]
-Underfull \hbox (badness 8151) in paragraph at lines 270--270
-[]\OT1/cmr/m/n/12 Biomedical ad-
+[39 <./Figures/fig1-13.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/bx/n/8 Biomedical
  []
 
 
-./11Chapter1.tex:273: LaTeX Error: \begin{tabular} on input line 268 ended by \
-end{minipage}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.273 \end{sidewaystable}
-                         
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-./11Chapter1.tex:273: Missing } inserted.
-<inserted text> 
-                }
-l.273 \end{sidewaystable}
-                         
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-I'm guessing that you meant to end an alignment here.
-
-./11Chapter1.tex:273: Misplaced \cr.
-<inserted text> \cr 
-                    
-l.273 \end{sidewaystable}
-                         
-I can't figure out why you would want to use a tab mark
-or \cr or \span just now. If something like a right brace
-up above has ended a previous alignment prematurely,
-you're probably due for more error messages, and you
-might try typing `S' now just to see what is salvageable.
-
-./11Chapter1.tex:273: Missing \cr inserted.
-<inserted text> 
-                \cr 
-l.273 \end{sidewaystable}
-                         
-(That makes 100 errors; please try again.) 
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/bx/n/8 Technical ad-van-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Chemical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 straigt-for-ward in-ter-pre-ta-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 struc-tures with un-known
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 able to en-code and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 search for chem-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 struc-tures (fin-ger-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Prediction can have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 weak bind-ing, not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 nesse-cary phar-ma-co-
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 changes made to a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 molec-u-lar struc-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 can change a lot
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 the bi-o-log-i-cal out-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 i-fi-ca-tions by the cell
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 (pro-drugs), there-fore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 orig-i-nal struc-ture is
+ []
+
+
+Package natbib Warning: Citation `noeske2006predicting' on page 40 undefined on
+ input line 304.
+
+
+Package natbib Warning: Citation `keiser2009predicting' on page 40 undefined on
+ input line 304.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Gene ex-pres-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 expressed (sig-na-ture)
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 is pos-si-ble to de-fine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 states (Con-nec-tiv-ity
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 the bi-o-log-i-cal func-tion, no
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 pre-vi-ous knowl-edge re-quired
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 ity Map data freely
+ []
+
+
+Underfull \hbox (badness 1077) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 avail-able and ex-tend-
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 ac-terise some states,
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 as-pect can be over-
+ []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Selection of the rep-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 re-sen-ta-tive genes is
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 chal-leng-ing, con-nec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 recorded on can-cer
+ []
+
+
+Package natbib Warning: Citation `iorio2010discovery' on page 40 undefined on i
+nput line 304.
+
+
+Package natbib Warning: Citation `sirota2011discovery' on page 40 undefined on 
+input line 304.
+
+
+Package natbib Warning: Citation `dudley2011computational' on page 40 undefined
+ on input line 304.
+
+
+Package natbib Warning: Citation `wei2006gene' on page 40 undefined on input li
+ne 304.
+
+
+Package natbib Warning: Citation `kunkel2011mrna' on page 40 undefined on input
+ line 304.
+
+
+Package natbib Warning: Citation `lamb2006connectivity' on page 40 undefined on
+ input line 304.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Computational mod-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 straigt-for-ward in-ter-pre-ta-tion,
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 can be used with chem-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 struc-tures with un-known
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Predicting a bind-ing
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 high num-ber of false
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Structural databases
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 are not com-plete,
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 not all pro-teins are
+ []
+
+
+Package natbib Warning: Citation `ashburner2000gene' on page 40 undefined on in
+put line 304.
+
+
+Package natbib Warning: Citation `haupt2011old' on page 40 undefined on input l
+ine 304.
+
+
+Package natbib Warning: Citation `de2010binding' on page 40 undefined on input 
+line 304.
+
+
+Package natbib Warning: Citation `zahler2007inverse' on page 40 undefined on in
+put line 304.
+
+
+Package natbib Warning: Citation `kinnings2009drug' on page 40 undefined on inp
+ut line 304.
+
+
+Overfull \hbox (56.9696pt too wide) in paragraph at lines 304--304
+ [][] 
+ []
+
+[40
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/bx/n/8 Biomedical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/bx/n/8 Technical ad-van-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 in-for-ma-tion al-ready
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 ev-ery-day, de-creas-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Does not pro-vide
+ []
+
+
+Package natbib Warning: Citation `sanseau2012use' on page 41 undefined on input
+ line 304.
+
+
+Package natbib Warning: Citation `chiang2009systematic' on page 41 undefined on
+ input line 304.
+
+
+Package natbib Warning: Citation `li2009pathway' on page 41 undefined on input 
+line 304.
+
+
+Package natbib Warning: Citation `suthram2010network' on page 41 undefined on i
+nput line 304.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 learning al-go-rithm
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 from a se-ries of de-
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 men-sions, pro-vid-ing a more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Numerous machine-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 learning pro-gram
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 and method-olo-gies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Biological in-ter-pre-
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 ta-tion di-fi-cult (black
+ []
+
+
+Package natbib Warning: Citation `gottlieb2011predict' on page 41 undefined on 
+input line 304.
+
+
+Package natbib Warning: Citation `napolitano2013drug' on page 41 undefined on i
+nput line 304.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Formal rep-re-sen-ta-
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Systemic char-ac-ter-i-sa-tion of
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Predictions can have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 weak bind-ing, not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 304--304
+\OT1/cmr/m/n/8 nesse-cary phar-ma-co-
+ []
+
+
+Overfull \hbox (56.9696pt too wide) in paragraph at lines 304--304
+ [][] 
+ []
+
+[41
+
+
+
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[42
+
+
+] <./Figures/fig1-12.pdf, id=566, 397.485pt x 252.945pt>
+File: ./Figures/fig1-12.pdf Graphic file (type pdf)
+<use ./Figures/fig1-12.pdf>
+Package pdftex.def Info: ./Figures/fig1-12.pdf used on input line 317.
+(pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
+
+Package natbib Warning: Citation `hypertensionnhs' on page 43 undefined on inpu
+t line 322.
+
+[43 <./Figures/fig1-12.pdf>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Package natbib Warning: Citation `ashburner2000gene' on page 44 undefined on in
+put line 324.
+
+[44]
+Overfull \hbox (5.73087pt too wide) in paragraph at lines 334--334
+ |[]\OT1/cmr/bx/n/12 Chapter 2 - De-scrip-tion log-ics and biomed-i-cal knowl-e
+dge (Spec-
+ []
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+[45]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+) (./12Chapter2.tex [46]
+Chapter 2.
+Missing character: There is no ‚ in font cmbx12!
+Missing character: There is no Ä in font cmbx12!
+Missing character: There is no ô in font cmbx12!
+[47
+
+]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[48]
+Underfull \vbox (badness 5133) has occurred while \output is active []
+
+[49] [50] [51] [52] [53]) [54]
+No file thesis.bbl.
+(./21Appendix.tex [55] [56
+
+]
+Appendix A.
+) (./22Index.tex [57] [58
+
+] (./thesis.ind))
+
+Package natbib Warning: There were undefined citations.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 39.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 39.
+(./thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 39.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 39.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: A247E80DD2D6A41264C29AFA7C7A2A6F;3295.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 39.
+ ) 
 Here is how much of TeX's memory you used:
- 8262 strings out of 495059
- 121380 string characters out of 3182030
- 219250 words of memory out of 3000000
- 11237 multiletter control sequences out of 15000+200000
- 12267 words of font info for 45 fonts, out of 3000000 for 9000
+ 8468 strings out of 495031
+ 125163 string characters out of 6181531
+ 222637 words of memory out of 5000000
+ 11399 multiletter control sequences out of 15000+600000
+ 13221 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,16n,39p,2795b,501s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,8n,39p,2795b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (58 pages, 731994 bytes).
+PDF statistics:
+ 712 PDF objects out of 1000 (max. 8388607)
+ 580 compressed objects within 6 object streams
+ 112 named destinations out of 1000 (max. 500000)
+ 356 words of extra memory for PDF output out of 10000 (max. 10000000)
 
-./11Chapter1.tex:273:  ==> Fatal error occurred, no output PDF file produced!

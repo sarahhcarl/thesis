@@ -1,6 +1,7 @@
-PWD /home/samuel/git/thesis
+PWD /home/loopasam/git/thesis
 INPUT /etc/texmf/web2c/texmf.cnf
-INPUT /usr/share/texlive/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
 INPUT thesis.tex
 OUTPUT thesis.log
@@ -10,7 +11,6 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
@@ -49,6 +49,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -86,12 +88,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hvindex/hvindex.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/hvindex/hvindex.sty
+INPUT owl.sty
+INPUT owl.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
@@ -211,6 +215,7 @@ INPUT ./Figures/fig1-11.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT ./Figures/fig1-13.pdf
 INPUT ./Figures/fig1-13.pdf
 INPUT ./Figures/fig1-13.pdf
@@ -233,6 +238,7 @@ INPUT ./thesis.out
 INPUT ./thesis.out
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb

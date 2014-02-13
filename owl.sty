@@ -1,0 +1,179 @@
+% Description logic and OWL package
+
+\NeedsTeXFormat{LaTeX2e}
+
+\ProvidesPackage{owl}[21/08/2012 2nd version]
+
+\RequirePackage{xspace}
+\RequirePackage{amsthm}
+
+
+% ---------------- DL names ----------------------
+
+% the DL in mathcal
+\newcommand{\dl}[1]{\ensuremath{\mathcal{\MakeUppercase{#1}}}\xspace}
+
+% the DL in mathcal + D for datatype
+\newcommand{\dld}[1]{\ensuremath{\mathcal{\MakeUppercase{#1}}(D)}\xspace}
+
+% EL++ shortcut
+
+\newcommand{\elplusplus}{\ensuremath{\mathcal{EL^{++}}}\xspace}
+
+
+
+
+% ---------------- Ontologies ----------------------
+
+\newcommand{\ont}{\ensuremath{\mathcal{O}}\xspace}
+\newcommand{\axiom}{\ensuremath{\alpha}\xspace}
+\newcommand{\sig}[1]{\ensuremath{sig(#1)}\xspace}
+
+\newcommand{\closure}[1]{\ensuremath{#1^{*}}\xspace}
+
+
+
+% ensures that axioms and concept names are printed in mathsf font
+\newcommand{\cn}[1]{\ensuremath{\mathsf{#1}}\xspace}
+\newcommand{\ax}[1]{\ensuremath{\mathsf{#1}}\xspace}
+
+% prints axioms and concept names in italics
+\newcommand{\dlax}[1]{\ensuremath{#1}\xspace}
+\newcommand{\dlcn}[1]{\ensuremath{#1}\xspace}
+
+\newcommand{\ent}{\ensuremath{\eta}\xspace}
+\newcommand{\entset}{\ensuremath{\varepsilon_{\ont}}\xspace}
+\newcommand{\entsetplus}{\ensuremath{\varepsilon_{\ont}^{+}}\xspace}
+\newcommand{\entsetminus}{\ensuremath{\varepsilon_{\ont}^{-}}\xspace}
+
+\newcommand{\entsetk}{\ensuremath{\varepsilon_{\K}}\xspace}
+
+% the definition of an interpretation (domain + function)
+\newcommand{\interpretation}{\ensuremath{\mathcal{\langle \bigtriangleup^{I}, \cdot^{I} \rangle}}\xspace}
+% this adds a raised I to concept, role, individual names
+\newcommand{\interp}{\ensuremath{\mathcal{^{I}}}\xspace}
+\newcommand{\deltai}{\ensuremath{\mathcal{\bigtriangleup^{I}}}\xspace}
+\newcommand{\doti}{\ensuremath{\mathcal{\cdot^{I}}}\xspace}
+
+\newcommand{\tbox}{\ensuremath{\mathcal{T}}\xspace}
+\newcommand{\abox}{\ensuremath{\mathcal{A}}\xspace}
+\newcommand{\rbox}{\ensuremath{\mathcal{R}}\xspace}
+
+
+% ---------------- Logical operators ----------------------
+
+
+\newcommand{\subcls}{\ensuremath{\sqsubseteq}\xspace}
+\newcommand{\eqcls}{\ensuremath{\equiv}\xspace}
+\newcommand{\conj}{\ensuremath{\sqcap}\xspace}
+\newcommand{\disj}{\ensuremath{\sqcup}\xspace}
+\newcommand{\inv}[1]{\ensuremath{#1^{-}}\xspace}
+
+\newcommand{\domain}[2]{\ensuremath{\mathsf{domain(#1, #2)}}}
+\newcommand{\range}[2]{\ensuremath{\mathsf{range(#1, #2)}}}
+
+
+\newcommand{\entails}{\ensuremath{\models}\xspace}
+
+\newcommand{\notentails}{\ensuremath{\not\models}\xspace}
+
+
+\newcommand{\thing}{\ensuremath{\top}\xspace}
+\newcommand{\nothing}{\ensuremath{\bot}\xspace}
+
+\newcommand{\rcirc}{\ensuremath{\circ}\xspace}
+
+\newcommand{\nom}[1]{\ensuremath{\{#1\}}\xspace}
+
+
+
+
+% ---------------- Tools ----------------
+
+\newcommand \swoop{Swoop\xspace}
+\newcommand \owlsight{OWLSight\xspace}
+\newcommand \protege{Prot\'eg\'e 4\xspace}
+\newcommand \tbc{Top Braid Composer\xspace}
+\newcommand \neon{The NeOn Toolkit\xspace}
+
+\newcommand \hermit{HermiT\xspace}
+\newcommand \factpp{FaCT++\xspace}
+\newcommand \pellet{Pellet\xspace}
+
+\newcommand \kaon{KAON2\xspace}
+
+\newcommand \cel{CEL\xspace}
+\newcommand \racerpro{RacerPro\xspace}
+\newcommand \trowl{TrOWL\xspace}
+
+
+
+
+% ---------------- Justifications ----------------
+
+
+\newcommand \just{{\ensuremath{\mathcal{J}}}\xspace}
+\newcommand \justs{{\ensuremath{Justs(\entset)}}\xspace}
+\newcommand \justseta{{\ensuremath{Justs(\eta)}}\xspace}
+
+\newcommand \justeta{{\ensuremath{(\mathcal{J}, \ent)}}\xspace}
+
+
+\newcommand \justax{{\ensuremath{JustAx(\entset)}}\xspace}
+
+\newcommand \jgraph{{\ensuremath{G(\entset)}}\xspace}
+\newcommand \jgraphdef{{\ensuremath{\jgraph = (\entset \cup \justs \cup \justax, E_{1} \cup E_{2})}}\xspace}
+
+\newcommand{\repair}{\ensuremath{\mathcal{R}}\xspace}
+
+\newcommand{\isom}{\ensuremath{\approx_{i}}\xspace}
+\newcommand{\sisom}{\ensuremath{\approx_{s}}\xspace}
+\newcommand{\lisom}{\ensuremath{\approx_{\ell}}\xspace}
+
+\newcommand{\jtemplate}{\ensuremath{\Theta}\xspace}
+
+\newcommand{\jlemma}{\ensuremath{\lambda}\xspace}
+\newcommand{\jlemmas}{\ensuremath{\Lambda}\xspace}
+
+\newcommand{\lemmaj}{\ensuremath{\just^{\Lambda_{S}}}\xspace}
+
+
+
+% ---------------- Modularity ----------------
+
+\newcommand{\module}{\ensuremath{\mathcal{M}}\xspace}
+
+\newcommand{\xmod}{\ensuremath{x\textup{-mod}}}
+\newcommand{\topmod}{\ensuremath{\top\textup{-mod}}}
+\newcommand{\botmod}{\ensuremath{\bot\textup{-mod}}}
+\newcommand{\tbsmod}{\ensuremath{\top\!\bot^\ast\textup{-mod}}}
+
+%\newcommand{\tbstar}{\top\!\!\!\perp\!\!\!^*}
+%\newcommand{\btstar}{\top\!\!\!\perp\!\!\!^*}
+
+\newcommand{\modulenotion}{x\textup{-mod}}
+
+
+% ---------------- AOB ----------------
+
+
+\newcommand{\econn}{$\mathcal{E}$-connection\xspace}
+\newcommand{\econns}{$\mathcal{E}$-connections\xspace}
+
+% ---------------- Frequently used letters ----------------
+
+% single letters
+\newcommand{\J}{\ensuremath{\mathcal{J}}\xspace}
+\newcommand{\I}{\ensuremath{\mathcal{I}}\xspace}
+\renewcommand{\S}{\ensuremath{\mathcal{S}}\xspace}
+\renewcommand{\O}{\ensuremath{\mathcal{O}}\xspace}
+\newcommand{\T}{\ensuremath{\mathcal{T}}\xspace}
+\newcommand{\A}{\ensuremath{\mathcal{A}}\xspace}
+\newcommand{\R}{\ensuremath{\mathcal{R}}\xspace}
+\newcommand{\Q}{\ensuremath{\mathcal{Q}}\xspace}
+\renewcommand{\L}{\ensuremath{\mathcal{L}}\xspace}
+\newcommand{\M}{\ensuremath{\mathcal{M}}\xspace}
+\newcommand{\N}{\ensuremath{\mathcal{N}}\xspace}
+\newcommand{\W}{\ensuremath{\mathcal{W}}\xspace}
+\newcommand{\K}{\ensuremath{\mathcal{K}}\xspace}
+\renewcommand{\P}{\ensuremath{\mathcal{P}}\xspace}

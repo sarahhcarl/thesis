@@ -28,6 +28,7 @@ thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texl
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty)
+thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty)
@@ -50,6 +51,7 @@ thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,12Chapter2.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,21Appendix.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,22Index.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,cam-thesis.cls)
+thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,owl.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,thesis.tex)
 .SECONDEXPANSION:
 -include CUni.pdf.gpi.d

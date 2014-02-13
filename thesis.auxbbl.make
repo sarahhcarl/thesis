@@ -1,7 +1,7 @@
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces Drug repositioning using disease relationships (diseasome). The similarity between two diseases (A) can be calculated by looking at the shared drugs used for the treatment of these diseases (B) or at the commonly shared pathways (C). When applied to all diseases, one can build a “diseasome” or disease map, useful to relate indications and find drug repositioning opportunities.\relax }}{35}{figure.caption.14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces Drug repositioning using disease relationships (diseasome). The similarity between two diseases (A) can be calculated by looking at the shared drugs used for the treatment of these diseases (B) or at the commonly shared pathways (C). When applied to all diseases, one can build a “diseasome” or disease map, useful to relate indications and find drug repositioning opportunities.\relax }}{36}{figure.caption.14}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.11}{\ignorespaces Drug repositioning using a combination of descriptors. A machine learning algorithm is trained over a series of features, such as chemical similarity, shared target proteins, etc… After evaluation of the model, some repositioning predictions can be generated from the statistical learning.\relax }}{37}{figure.caption.15}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.12}{\ignorespaces Evolution trend of the documents related to drug repositioning. Standardised frequency: Number of documents indexed on PubMed for a search divided by the total number of articles published the same year. The higher, the more popular a topic is. The frequency increases with the time for both searches, showing a growing interest in the domain.\relax }}{42}{figure.caption.16}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.13}{\ignorespaces Schematic representation of the concept of mechanism and mode of action. (A) The mechanism of action can be defined as the physical activity of the ligand on a protein target. The mode of action characterises the pharmacology of the small molecule in the context of the organism. (B) Examples related to blood coagulation illustrating the usage of the mechanism and mode of action concepts.\relax }}{44}{figure.caption.17}}
@@ -19,22 +19,23 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{40}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{41}{table.1.2}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{63}{chapter*.18}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{65}{chapter*.18}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{11}{chapter.1}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge }{49}{chapter.2}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{65}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{49}{chapter.2}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{67}{appendix.A}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Relevance of drug repositioning}{12}{section.1.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: Success stories}{17}{section.1.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Computational approaches towards drug repositioning}{21}{section.1.3}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.4}Thesis: Biological process and molecular function for drug repositioning}{42}{section.1.4}}
-\@writefile{toc}{\contentsline {section}{\numberline {2.1}Biomedical knowledge}{50}{section.2.1}}
-\@writefile{toc}{\contentsline {section}{\numberline {2.2}Description logics for biomedical knowledge}{52}{section.2.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.1}Introduction}{50}{section.2.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.2}Biomedical knowledge}{51}{section.2.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge}{53}{section.2.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.1}Opportunities for finding new indications}{13}{subsection.1.1.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.2}Drug repositioning faces legal and scientific challenges}{16}{subsection.1.1.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.1}Sildenafil: Repositioning from clinical side-effects}{18}{subsection.1.2.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.2}Thalidomide: Repositioning a hazardous drug}{19}{subsection.1.2.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.3}Raloxifene: Expanding the application line}{20}{subsection.1.2.3}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.3.1}Chemical structure-based approaches}{22}{subsection.1.3.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3.1}Chemical structure-based approaches}{23}{subsection.1.3.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.2}Gene expression and functional genomics-based approaches}{25}{subsection.1.3.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.3}Protein structure and molecular docking-based approaches}{28}{subsection.1.3.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.4}Phenotype and side-effect-based approaches}{30}{subsection.1.3.4}}
@@ -44,16 +45,16 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.8}Summary}{39}{subsection.1.3.8}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.1}Rationale}{43}{subsection.1.4.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.2}Towards the specification, implementation and analysis}{45}{subsection.1.4.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.1}Formalisation in biomedical sciences}{50}{subsection.2.1.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.1.2}Requirements for biomedical knowledge formalisation}{51}{subsection.2.1.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Problem addressed}{53}{subsection.2.2.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Expressivity and complexity}{55}{subsection.2.2.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Formalisation in biomedical sciences}{51}{subsection.2.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{52}{subsection.2.2.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{54}{subsection.2.3.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{55}{subsection.2.3.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{46}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{46}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{46}{subsubsection.1.4.2.3}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook}{47}{subsubsection.1.4.2.4}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.1.1}Formalism varies among natural sciences}{50}{subsubsection.2.1.1.1}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.1.1.2}Organisms as complex machines}{51}{subsubsection.2.1.1.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.1}Formalism varies among natural sciences}{51}{subsubsection.2.2.1.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{52}{subsubsection.2.2.1.2}}
 \@writefile{toc}{\thispagestyle {empty}}
 \AtEndDocument{\ifx\hyper@anchor\@undefined
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
@@ -72,11 +73,15 @@
 \citation{campillos2008drug}
 \citation{campillos2008drug}
 \citation{chiang2009systematic}
+\citation{chiang2009systematic}
 \citation{cmap}
+\citation{croset2013brain}
 \citation{darwin2009origin}
 \citation{de2010binding}
 \citation{de2010binding}
+\citation{de2010binding}
 \citation{dimasi2001new}
+\citation{dudley2011computational}
 \citation{dudley2011computational}
 \citation{dudley2011exploiting}
 \citation{duran2012recycling}
@@ -92,6 +97,8 @@
 \citation{ghofrani2006sildenafil}
 \citation{goto1996organizing}
 \citation{gottlieb2011predict}
+\citation{gottlieb2011predict}
+\citation{haupt2011old}
 \citation{haupt2011old}
 \citation{haupt2011old}
 \citation{haupt2011old}
@@ -101,19 +108,25 @@
 \citation{hurle2013computational}
 \citation{hypertensionnhs}
 \citation{iorio2010discovery}
+\citation{iorio2010discovery}
 \citation{johnson1990concepts}
 \citation{jordan1987effects}
 \citation{kathiresan2008six}
 \citation{keiser2009predicting}
 \citation{keiser2009predicting}
 \citation{keiser2009predicting}
+\citation{keiser2009predicting}
+\citation{kinnings2009drug}
 \citation{kinnings2009drug}
 \citation{krall1988characterization}
 \citation{kruger2012mapping}
 \citation{kunkel2011mrna}
+\citation{kunkel2011mrna}
 \citation{lamb2006connectivity}
 \citation{lamb2006connectivity}
 \citation{lamb2006connectivity}
+\citation{lamb2006connectivity}
+\citation{li2009pathway}
 \citation{li2009pathway}
 \citation{li2010pubchem}
 \citation{lipinski1997experimental}
@@ -122,6 +135,8 @@
 \citation{men20101}
 \citation{mendel1866versuche}
 \citation{napolitano2013drug}
+\citation{napolitano2013drug}
+\citation{noeske2006predicting}
 \citation{noeske2006predicting}
 \citation{nytimes}
 \citation{offlabelwiki}
@@ -135,16 +150,21 @@
 \citation{sanseau2012use}
 \citation{sanseau2012use}
 \citation{sanseau2012use}
+\citation{sanseau2012use}
+\citation{sirota2011discovery}
 \citation{sirota2011discovery}
 \citation{stephens2009dark}
 \citation{stephens2009dark}
 \citation{suthram2010network}
+\citation{suthram2010network}
 \citation{swinney2011were}
 \citation{swinney2011were}
+\citation{wei2006gene}
 \citation{wei2006gene}
 \citation{wermuth2006selective}
 \citation{whirl2012pharmacogenomics}
 \citation{yang2011systematic}
+\citation{zahler2007inverse}
 \citation{zahler2007inverse}
 \fi}
 \fi}
@@ -158,5 +178,7 @@
 \let\contentsline\oldcontentsline
 \let\newlabel\oldnewlabel
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\providecommand\HyField@AuxAddToCoFields[2]{}
 \providecommand\HyField@AuxAddToFields[1]{}
 \providecommand\HyperFirstAtBeginDocument{\AtBeginDocument}
+\providecommand\hyper@newdestlabel[2]{}

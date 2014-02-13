@@ -22,14 +22,15 @@
 \BOOKMARK [3][-]{subsubsection.1.4.2.2}{Chapter 3 - The Functional Therapeutic Chemical Classification System \(Implementation\)}{subsection.1.4.2}% 22
 \BOOKMARK [3][-]{subsubsection.1.4.2.3}{Chapter 4 - Systematic drug repositioning analysis}{subsection.1.4.2}% 23
 \BOOKMARK [3][-]{subsubsection.1.4.2.4}{Chapter 5 - Outlook}{subsection.1.4.2}% 24
-\BOOKMARK [0][-]{chapter.2}{Description logics and biomedical knowledge }{}% 25
-\BOOKMARK [1][-]{section.2.1}{Biomedical knowledge}{chapter.2}% 26
-\BOOKMARK [2][-]{subsection.2.1.1}{Formalisation in biomedical sciences}{section.2.1}% 27
-\BOOKMARK [3][-]{subsubsection.2.1.1.1}{Formalism varies among natural sciences}{subsection.2.1.1}% 28
-\BOOKMARK [3][-]{subsubsection.2.1.1.2}{Organisms as complex machines}{subsection.2.1.1}% 29
-\BOOKMARK [2][-]{subsection.2.1.2}{Requirements for biomedical knowledge formalisation}{section.2.1}% 30
-\BOOKMARK [1][-]{section.2.2}{Description logics for biomedical knowledge}{chapter.2}% 31
-\BOOKMARK [2][-]{subsection.2.2.1}{Problem addressed}{section.2.2}% 32
-\BOOKMARK [2][-]{subsection.2.2.2}{Expressivity and complexity}{section.2.2}% 33
-\BOOKMARK [0][-]{chapter*.18}{Bibliography}{}% 34
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 35
+\BOOKMARK [0][-]{chapter.2}{Description logics and biomedical knowledge \(Specification\)}{}% 25
+\BOOKMARK [1][-]{section.2.1}{Introduction}{chapter.2}% 26
+\BOOKMARK [1][-]{section.2.2}{Biomedical knowledge}{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.2.1}{Formalisation in biomedical sciences}{section.2.2}% 28
+\BOOKMARK [3][-]{subsubsection.2.2.1.1}{Formalism varies among natural sciences}{subsection.2.2.1}% 29
+\BOOKMARK [3][-]{subsubsection.2.2.1.2}{Organisms as complex machines}{subsection.2.2.1}% 30
+\BOOKMARK [2][-]{subsection.2.2.2}{Requirements for biomedical knowledge formalisation}{section.2.2}% 31
+\BOOKMARK [1][-]{section.2.3}{Description logics for biomedical knowledge}{chapter.2}% 32
+\BOOKMARK [2][-]{subsection.2.3.1}{Problem addressed}{section.2.3}% 33
+\BOOKMARK [2][-]{subsection.2.3.2}{Expressivity and complexity}{section.2.3}% 34
+\BOOKMARK [0][-]{chapter*.18}{Bibliography}{}% 35
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 36

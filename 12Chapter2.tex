@@ -39,15 +39,30 @@ The study of biomedical sciences was not guided by such strong mathematics. Core
 
 Because of these obstacles among other things, biomedical sciences are traditionally less formalised than their counterparts, the biological knowledge being often captured by a textual description inside a document, or sometimes with the help of a conceptual schema \citep{lazebnik2002can}. Figure \ref{fig2-1} and \ref{fig2-2} present examples of media used to convey, record and communicate life sciences knowledge.
 
-fig 2-1
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig2-1}
+    \caption{Examples of capture of information in biology. (A) A flask containing hundreds of individuals of the species drosophila melanogaster. The population is identified with a label on the container. (B) Schema of a  canonical plant cell, similar to the one found in text-books. Parts of interest are annotated with terms, following a descriptive approach. Pictures from Wikipedia.}
+    \label{fig2-1}
+\end{figure}
 
-fig 2-2
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig2-2}
+    \caption{Formalisation in biomedical sciences. (A) Diagram showing the evolutionary taxonomy of invertebrates. Drawn by Jean-Baptiste Lamarck’s in 1815. (B) Mechanistic illustration of the cardiovascular system. Arrows illustrate the flow of blood and the logical connection between the annotated parts. (C) MAPK/ERK signaling pathway. Schema of the cascade of molecular events leading to activation of transcription factors. The logic of the system is informally captured using arrows, colours and shapes. Images from Wikipedia.}
+    \label{fig2-2}
+\end{figure}
 
 Nowadays, with the advent of computers and the Internet, known biological entities and concepts are further stored inside public databases. Often, a manual curation step over the published literature improves the consistency and correctness of the data \citep{brooksbank2014european}. The structured information makes it easier for the community to retrieve the data and to perform statistical analyses on it. Nonetheless, this framework is not fully formalised; for example it is not possible to mathematically prove why a drug could be useful for a disease, such as one can logically derive with a series of steps the value of the variable $ x $ out of the following equation: $ 2x = 4 + x $.
 
 How can one further formalise biomedical knowledge to assist the development of new medicines and the study of the living world? A naive approach would try to simplify the system life scientists are working with into a meaningful analogy \citep{lazebnik2002can}. In this regard, I will present how the study of a living organism can be compared to the study of a black box machine, namely a device for which nothing about the internal workings is known (see Figure \ref{fig2-3}).
 
-fig 2-3
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig2-3}
+    \caption{Blackbox model. (A) Schematic representation of a blackbox. Given an input, an observable output is produced. The internal workings are supposedly not understood. (B) Cells or organism are blackboxes: They can carry various and observable functions from an input, yet the internal workings are not necessarily fully understood.}
+    \label{fig2-3}
+\end{figure}
 
 \subsubsection{Organisms as complex machines}
 
@@ -61,7 +76,15 @@ Supposing that a fully functional airplane was found somewhere and the only thin
 
 The first task done would be to schematise the device, as shown in Figure \ref{fig2-4}-A. Then the fundamental physical parts would get annotated with arbitrary names (\ref{fig2-4}-B). With an increased understanding of the physical modules composing the airplane, it would then be possible to discover the roles played by the various parts of the machinery. Objects would receive functional annotations, namely an explanation of what they do in the overall flying process, as shown on Figure \ref{fig2-4}-C. Up to this step, the system would be characterised as a collection of discrete physical and functional modules, each isolated from one another. Finally, in order to appreciate the machine as a whole, it would become mandatory to link the modules based on their relation types. Figure \ref{fig2-4}-D shows the high level logical organisation of the machine, which integrates the parts to understand the overall process.
 
-//fig 2-4 et 2-4 bis
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig2-4}
+    \includegraphics{fig2-4bis}
+    \caption{Caption.}
+    \label{fig2-4}
+\end{figure}
+
+\subsubsection{Organisms as complex machines}
 
 Unveiling the internal logic of the black box machine using this descriptive methodology would later allow extensive querying of the model of the system and simulation of its behaviour. For instance, assuming a problem was identified with the lift of an airplane, preventing it from flying. From the model, it would be possible to retrieve all the known parts directly or indirectly involved in the lift process, derive a list of potentially faulty components and suggest ideas on how to logically repair it and restore its ability to fulfil its primary goal, flying.
 
@@ -87,7 +110,12 @@ In practice, organisms are probably more analogous to Rube-Goldberg machines tha
 
 Taxonomies have always been at the heart of biological sciences; take for instance the work of Carl Linnaeus and the Systema Naturae \citep{von1770systema}. Classifications are further used to organize species, protein and chemical families, to name a few examples. Historically speaking, categorical information has provided a good and intuitive framework to capture biomedical knowledge; therefore, any attempt for further formalisation must be able to handle this type of data, as well as to leverage its use.
 
-fig 2-5
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig2-5}
+    \caption{Rube Goldberg machine: Over-engineered or overdone machine that performs a very simple task in a very complex fashion, usually including a chain reaction \citep{rubewiki}. The picture shows the "Self-Operating Napkin“. When the spoon soup is raised, a cascade of events are triggered ending as the napkin coming toward the man’s face. The task performed is relatively trivial, yet many steps are needed to execute it. Organisms are assumed to be analog to Rube Goldberg machines because of evolution; the internal wiring is not necessarily straightforward and progressively evolved and changed \citep{ravasz2002hierarchical}. Illustration from Wikipedia.}
+    \label{fig2-5}
+\end{figure}
 
 \subsubsection{Distributed and scalable}
 

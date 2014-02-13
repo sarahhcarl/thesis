@@ -13,6 +13,11 @@
 \newlabel{fig1-7}
 \newlabel{fig1-8}
 \newlabel{fig1-9}
+\newlabel{fig2-1}
+\newlabel{fig2-2}
+\newlabel{fig2-3}
+\newlabel{fig2-4}
+\newlabel{fig2-5}
 \newlabel{sec:opp}
 \newlabel{table1}
 \newlabel{table2}

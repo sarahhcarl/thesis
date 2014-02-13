@@ -14,22 +14,27 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {1.7}{\ignorespaces Drug repositioning using protein structure and binding site. The 3D structure of proteins and their respective binding sites can be compared using a scoring function. On this basis, it is assumed that similar binding sites can bind the same ligand. For instance, knowing that protein X has a similar binding site to the one in protein Y, and that molecule Z binds to protein X, one can forward the hypothesis stating that molecule Z should bind to protein Y too. Illustration from the Protein Data Bank.\relax }}{29}{figure.caption.11}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.8}{\ignorespaces Drug repositioning using phenotype information. Knowledge about the phenotypic outcome triggered by a drug can be used in order to establish relative similarities. (A) The diagram illustrates a theoretical example using reported side-effects: The more side-effects are commonly shared by two drugs, the more similar these two drugs are. The similarity can be used to either derive potential off-targets or new indications.\relax }}{31}{figure.caption.12}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.9}{\ignorespaces Drug repositioning using genetic information. (A) Single-nucleotide polymorphism (SNP) are associated with a phenotypic trait, here LDL cholesterol. The gene where the SNP is found (HMGCR) encodes for a protein, targeted by statins (drug class). Statins are indicated as cholesterol lowering agents, which is confirmed by the trait associated with the SNP. (B) Sometimes the trait associated with the SNP diverges from the indication of the drug, as shown on the diagram (post-traumatic stress disorder against smoking cessation). In such cases, a repositioning hypothesis can be generated. Examples are detailed in the text. See \cite  {sanseau2012use} for more explanations.\relax }}{34}{figure.caption.13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Examples of capture of information in biology. (A) A flask containing hundreds of individuals of the species drosophila melanogaster. The population is identified with a label on the container. (B) Schema of a canonical plant cell, similar to the one found in text-books. Parts of interest are annotated with terms, following a descriptive approach. Pictures from Wikipedia.\relax }}{53}{figure.caption.18}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Formalisation in biomedical sciences. (A) Diagram showing the evolutionary taxonomy of invertebrates. Drawn by Jean-Baptiste Lamarck’s in 1815. (B) Mechanistic illustration of the cardiovascular system. Arrows illustrate the flow of blood and the logical connection between the annotated parts. (C) MAPK/ERK signaling pathway. Schema of the cascade of molecular events leading to activation of transcription factors. The logic of the system is informally captured using arrows, colours and shapes. Images from Wikipedia.\relax }}{54}{figure.caption.19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Blackbox model. (A) Schematic representation of a blackbox. Given an input, an observable output is produced. The internal workings are supposedly not understood. (B) Cells or organism are blackboxes: They can carry various and observable functions from an input, yet the internal workings are not necessarily fully understood.\relax }}{55}{figure.caption.20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Caption.\relax }}{61}{figure.caption.21}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.5}{\ignorespaces Rube Goldberg machine: Over-engineered or overdone machine that performs a very simple task in a very complex fashion, usually including a chain reaction \citep  {rubewiki}. The picture shows the "Self-Operating Napkin“. When the spoon soup is raised, a cascade of events are triggered ending as the napkin coming toward the man’s face. The task performed is relatively trivial, yet many steps are needed to execute it. Organisms are assumed to be analog to Rube Goldberg machines because of evolution; the internal wiring is not necessarily straightforward and progressively evolved and changed \citep  {ravasz2002hierarchical}. Illustration from Wikipedia.\relax }}{62}{figure.caption.22}}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{40}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{41}{table.1.2}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{68}{chapter*.18}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{71}{chapter*.23}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{11}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{49}{chapter.2}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{69}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{73}{appendix.A}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Relevance of drug repositioning}{12}{section.1.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: Success stories}{17}{section.1.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Computational approaches towards drug repositioning}{21}{section.1.3}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.4}Thesis: Biological process and molecular function for drug repositioning}{42}{section.1.4}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.1}Introduction}{50}{section.2.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.2}Biomedical knowledge}{51}{section.2.2}}
-\@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{58}{section.2.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{59}{section.2.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.1}Opportunities for finding new indications}{13}{subsection.1.1.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.2}Drug repositioning faces legal and scientific challenges}{16}{subsection.1.1.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.1}Sildenafil: Repositioning from clinical side-effects}{18}{subsection.1.2.1}}
@@ -46,20 +51,21 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.1}Rationale}{43}{subsection.1.4.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.2}Towards the specification, implementation and analysis}{45}{subsection.1.4.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Contemporary formalism in biomedical sciences}{51}{subsection.2.2.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{55}{subsection.2.2.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{58}{subsection.2.3.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{59}{subsection.2.3.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{56}{subsection.2.2.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{60}{subsection.2.3.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{60}{subsection.2.3.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{46}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{46}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{46}{subsubsection.1.4.2.3}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook}{47}{subsubsection.1.4.2.4}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.1}Formalism varies among natural sciences}{51}{subsubsection.2.2.1.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{53}{subsubsection.2.2.1.2}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{55}{subsubsection.2.2.2.1}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.2}Definitions}{56}{subsubsection.2.2.2.2}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.3}Hierarchies and abstraction}{56}{subsubsection.2.2.2.3}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.4}Distributed and scalable}{57}{subsubsection.2.2.2.4}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{57}{subsubsection.2.2.2.5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.3}Organisms as complex machines}{55}{subsubsection.2.2.1.3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{56}{subsubsection.2.2.2.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.2}Definitions}{57}{subsubsection.2.2.2.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.3}Hierarchies and abstraction}{57}{subsubsection.2.2.2.3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.4}Distributed and scalable}{58}{subsubsection.2.2.2.4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{59}{subsubsection.2.2.2.5}}
 \@writefile{toc}{\thispagestyle {empty}}
 \AtEndDocument{\ifx\hyper@anchor\@undefined
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
@@ -165,8 +171,12 @@
 \citation{prehistoricwiki}
 \citation{prehistoricwiki}
 \citation{ravasz2002hierarchical}
+\citation{ravasz2002hierarchical}
+\citation{ravasz2002hierarchical}
 \citation{renaud2002erectile}
 \citation{renaud2002erectile}
+\citation{rubewiki}
+\citation{rubewiki}
 \citation{sampaio1991thalidomide}
 \citation{sanseau2012use}
 \citation{sanseau2012use}
@@ -216,6 +226,11 @@
 \newlabel{fig1-7}
 \newlabel{fig1-8}
 \newlabel{fig1-9}
+\newlabel{fig2-1}
+\newlabel{fig2-2}
+\newlabel{fig2-3}
+\newlabel{fig2-4}
+\newlabel{fig2-5}
 \newlabel{sec:opp}
 \newlabel{table1}
 \newlabel{table2}

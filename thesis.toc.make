@@ -26,12 +26,17 @@
 \contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{49}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{50}{section.2.1}
 \contentsline {section}{\numberline {2.2}Biomedical knowledge}{51}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Formalisation in biomedical sciences}{51}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.1}Contemporary formalism in biomedical sciences}{51}{subsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.1.1}Formalism varies among natural sciences}{51}{subsubsection.2.2.1.1}
-\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{52}{subsubsection.2.2.1.2}
-\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{52}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge}{53}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{54}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{55}{subsection.2.3.2}
-\contentsline {chapter}{Bibliography}{65}{chapter*.18}
-\contentsline {chapter}{\numberline {A}Extra Information}{67}{appendix.A}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{53}{subsubsection.2.2.1.2}
+\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{55}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{55}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Definitions}{56}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Hierarchies and abstraction}{56}{subsubsection.2.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.2.4}Distributed and scalable}{57}{subsubsection.2.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{57}{subsubsection.2.2.2.5}
+\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{58}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{58}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{59}{subsection.2.3.2}
+\contentsline {chapter}{Bibliography}{68}{chapter*.18}
+\contentsline {chapter}{\numberline {A}Extra Information}{69}{appendix.A}

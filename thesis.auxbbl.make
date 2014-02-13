@@ -19,17 +19,17 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{40}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{41}{table.1.2}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{65}{chapter*.18}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{68}{chapter*.18}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{11}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{49}{chapter.2}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{67}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{69}{appendix.A}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Relevance of drug repositioning}{12}{section.1.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: Success stories}{17}{section.1.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Computational approaches towards drug repositioning}{21}{section.1.3}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.4}Thesis: Biological process and molecular function for drug repositioning}{42}{section.1.4}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.1}Introduction}{50}{section.2.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.2}Biomedical knowledge}{51}{section.2.2}}
-\@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge}{53}{section.2.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{58}{section.2.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.1}Opportunities for finding new indications}{13}{subsection.1.1.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.2}Drug repositioning faces legal and scientific challenges}{16}{subsection.1.1.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.2.1}Sildenafil: Repositioning from clinical side-effects}{18}{subsection.1.2.1}}
@@ -45,23 +45,30 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.8}Summary}{39}{subsection.1.3.8}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.1}Rationale}{43}{subsection.1.4.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.2}Towards the specification, implementation and analysis}{45}{subsection.1.4.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Formalisation in biomedical sciences}{51}{subsection.2.2.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{52}{subsection.2.2.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{54}{subsection.2.3.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{55}{subsection.2.3.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.1}Contemporary formalism in biomedical sciences}{51}{subsection.2.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{55}{subsection.2.2.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{58}{subsection.2.3.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{59}{subsection.2.3.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{46}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{46}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{46}{subsubsection.1.4.2.3}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook}{47}{subsubsection.1.4.2.4}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.1}Formalism varies among natural sciences}{51}{subsubsection.2.2.1.1}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{52}{subsubsection.2.2.1.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{53}{subsubsection.2.2.1.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{55}{subsubsection.2.2.2.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.2}Definitions}{56}{subsubsection.2.2.2.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.3}Hierarchies and abstraction}{56}{subsubsection.2.2.2.3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.4}Distributed and scalable}{57}{subsubsection.2.2.2.4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{57}{subsubsection.2.2.2.5}}
 \@writefile{toc}{\thispagestyle {empty}}
 \AtEndDocument{\ifx\hyper@anchor\@undefined
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
 \bibdata{thesis}
 \bibstyle{apalike}
+\citation{Form_and_function_2013}
 \citation{an2006large}
 \citation{anginanhs}
+\citation{antezana2009biological}
 \citation{ashburner2000gene}
 \citation{ashburner2000gene}
 \citation{barratt2012drug}
@@ -70,6 +77,8 @@
 \citation{barratt2012drug}
 \citation{black1994raloxifene}
 \citation{bodenreider2004unified}
+\citation{brooksbank2014european}
+\citation{brooksbank2014european}
 \citation{campillos2008drug}
 \citation{campillos2008drug}
 \citation{chiang2009systematic}
@@ -90,6 +99,7 @@
 \citation{eckert2007molecular}
 \citation{ehrlichwiki}
 \citation{fdaraloxifen}
+\citation{fisher2007executable}
 \citation{fliri2005analysis}
 \citation{fliri2007analysis}
 \citation{franke2010genome}
@@ -98,6 +108,7 @@
 \citation{goto1996organizing}
 \citation{gottlieb2011predict}
 \citation{gottlieb2011predict}
+\citation{hartwell1999molecular}
 \citation{haupt2011old}
 \citation{haupt2011old}
 \citation{haupt2011old}
@@ -126,16 +137,25 @@
 \citation{lamb2006connectivity}
 \citation{lamb2006connectivity}
 \citation{lamb2006connectivity}
+\citation{lazebnik2002can}
+\citation{lazebnik2002can}
+\citation{lazebnik2002can}
+\citation{le2006biomodels}
 \citation{li2009pathway}
 \citation{li2009pathway}
 \citation{li2010pubchem}
 \citation{lipinski1997experimental}
 \citation{lounkine2012large}
+\citation{machado2011modeling}
+\citation{masswiki}
 \citation{matthews2009reactome}
 \citation{men20101}
 \citation{mendel1866versuche}
+\citation{meng2004modeling}
+\citation{meng2004modeling}
 \citation{napolitano2013drug}
 \citation{napolitano2013drug}
+\citation{nielsen1999ultratrace}
 \citation{noeske2006predicting}
 \citation{noeske2006predicting}
 \citation{nytimes}
@@ -144,6 +164,7 @@
 \citation{phenotypewiki}
 \citation{prehistoricwiki}
 \citation{prehistoricwiki}
+\citation{ravasz2002hierarchical}
 \citation{renaud2002erectile}
 \citation{renaud2002erectile}
 \citation{sampaio1991thalidomide}
@@ -151,6 +172,7 @@
 \citation{sanseau2012use}
 \citation{sanseau2012use}
 \citation{sanseau2012use}
+\citation{sciencewiki}
 \citation{sirota2011discovery}
 \citation{sirota2011discovery}
 \citation{stephens2009dark}
@@ -159,6 +181,8 @@
 \citation{suthram2010network}
 \citation{swinney2011were}
 \citation{swinney2011were}
+\citation{thermowiki}
+\citation{von1770systema}
 \citation{wei2006gene}
 \citation{wei2006gene}
 \citation{wermuth2006selective}

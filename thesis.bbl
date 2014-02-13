@@ -5,6 +5,12 @@ An, Y. Y. L.~J. and Jones, S.~J. (2006).
 \newblock A large-scale computational approach to drug repositioning.
 \newblock {\em Genome Informatics}, 17(2):239--247.
 
+\bibitem[Antezana et~al., 2009]{antezana2009biological}
+Antezana, E., Kuiper, M., and Mironov, V. (2009).
+\newblock Biological knowledge management: the emerging role of the semantic
+  web technologies.
+\newblock {\em Briefings in bioinformatics}, 10(4):392--407.
+
 \bibitem[Ashburner et~al., 2000]{ashburner2000gene}
 Ashburner, M., Ball, C.~A., Blake, J.~A., Botstein, D., Butler, H., Cherry,
   J.~M., Davis, A.~P., Dolinski, K., Dwight, S.~S., Eppig, J.~T., et~al.
@@ -30,6 +36,12 @@ Bodenreider, O. (2004).
 \newblock The unified medical language system (umls): integrating biomedical
   terminology.
 \newblock {\em Nucleic acids research}, 32(suppl 1):D267--D270.
+
+\bibitem[Brooksbank et~al., 2014]{brooksbank2014european}
+Brooksbank, C., Bergman, M.~T., Apweiler, R., Birney, E., and Thornton, J.
+  (2014).
+\newblock The european bioinformatics institute’s data resources 2014.
+\newblock {\em Nucleic acids research}, 42(D1):D18--D25.
 
 \bibitem[Campillos et~al., 2008]{campillos2008drug}
 Campillos, M., Kuhn, M., Gavin, A.-C., Jensen, L.~J., and Bork, P. (2008).
@@ -89,11 +101,21 @@ Eckert, H. and Bajorath, J. (2007).
   limitations and novel approaches.
 \newblock {\em Drug discovery today}, 12(5):225--233.
 
+\bibitem[Editorial, 2013]{Form_and_function_2013}
+Editorial (2013).
+\newblock Form and function.
+\newblock {\em Nature}, 495(7440):141--142.
+
 \bibitem[FDA, 2007]{fdaraloxifen}
 FDA (Sptember 2007).
 \newblock Raloxifene hydrochloride.
 \newblock
   \url{http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ucm129243.htm}.
+
+\bibitem[Fisher and Henzinger, 2007]{fisher2007executable}
+Fisher, J. and Henzinger, T.~A. (2007).
+\newblock Executable cell biology.
+\newblock {\em Nature biotechnology}, 25(11):1239--1249.
 
 \bibitem[Fliri et~al., 2005]{fliri2005analysis}
 Fliri, A.~F., Loging, W.~T., Thadeio, P.~F., and Volkmann, R.~A. (2005).
@@ -140,6 +162,11 @@ Gottlieb, A., Stein, G.~Y., Ruppin, E., and Sharan, R. (2011).
 \newblock Predict: a method for inferring novel drug indications with
   application to personalized medicine.
 \newblock {\em Molecular systems biology}, 7(1).
+
+\bibitem[Hartwell et~al., 1999]{hartwell1999molecular}
+Hartwell, L.~H., Hopfield, J.~J., Leibler, S., and Murray, A.~W. (1999).
+\newblock From molecular to modular cell biology.
+\newblock {\em Nature}, 402:C47--C52.
 
 \bibitem[Haupt and Schroeder, 2011]{haupt2011old}
 Haupt, V.~J. and Schroeder, M. (2011).
@@ -237,6 +264,19 @@ Lamb, J., Crawford, E.~D., Peck, D., Modell, J.~W., Blat, I.~C., Wrobel, M.~J.,
   small molecules, genes, and disease.
 \newblock {\em science}, 313(5795):1929--1935.
 
+\bibitem[Lazebnik, 2002]{lazebnik2002can}
+Lazebnik, Y. (2002).
+\newblock Can a biologist fix a radio?-or, what i learned while studying
+  apoptosis.
+\newblock {\em Cancer cell}, 2(3):179--182.
+
+\bibitem[Le~Novere et~al., 2006]{le2006biomodels}
+Le~Novere, N., Bornstein, B., Broicher, A., Courtot, M., Donizelli, M.,
+  Dharuri, H., Li, L., Sauro, H., Schilstra, M., Shapiro, B., et~al. (2006).
+\newblock Biomodels database: a free, centralized database of curated,
+  published, quantitative kinetic models of biochemical and cellular systems.
+\newblock {\em Nucleic acids research}, 34(suppl 1):D689--D691.
+
 \bibitem[Li et~al., 2010]{li2010pubchem}
 Li, Q., Cheng, T., Wang, Y., and Bryant, S.~H. (2010).
 \newblock Pubchem as a public resource for drug discovery.
@@ -265,6 +305,12 @@ Lounkine, E., Keiser, M.~J., Whitebread, S., Mikhailov, D., Hamon, J., Jenkins,
   targets.
 \newblock {\em Nature}, 486(7403):361--367.
 
+\bibitem[Machado et~al., 2011]{machado2011modeling}
+Machado, D., Costa, R.~S., Rocha, M., Ferreira, E.~C., Tidor, B., and Rocha, I.
+  (2011).
+\newblock Modeling formalisms in systems biology.
+\newblock {\em AMB Express}, 1(1):1--14.
+
 \bibitem[Matthews et~al., 2009]{matthews2009reactome}
 Matthews, L., Gopinath, G., Gillespie, M., Caudy, M., Croft, D., de~Bono, B.,
   Garapati, P., Hemish, J., Hermjakob, H., Jassal, B., et~al. (2009).
@@ -282,6 +328,11 @@ Men, A., Le, C., Charlab, R., Gobburu, J., and Lesko, L. (2010).
 Mendel, G. (1866).
 \newblock Versuche {\"u}ber pflanzenhybriden.
 \newblock {\em Verhandlungen des naturforschenden Vereines in Brunn 4: 3}, 44.
+
+\bibitem[Meng et~al., 2004]{meng2004modeling}
+Meng, T.~C., Somani, S., and Dhar, P. (2004).
+\newblock Modeling and simulation of biological systems with stochasticity.
+\newblock {\em In silico biology}, 4(3):293--309.
 
 \bibitem[Napolitano et~al., 2013]{napolitano2013drug}
 Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
@@ -307,6 +358,11 @@ NHS-Choices (January 2014b).
 \newblock
   \url{http://www.nhs.uk/conditions/Blood-pressure-(high)/Pages/Introduction.aspx}.
 
+\bibitem[Nielsen, 1999]{nielsen1999ultratrace}
+Nielsen, F.~H. (1999).
+\newblock Ultratrace minerals.
+\newblock {\em Modern nutrition in health and disease}, 9:283--303.
+
 \bibitem[Noeske et~al., 2006]{noeske2006predicting}
 Noeske, T., Sasse, B.~C., Stark, H., Parsons, C.~G., Weil, T., and Schneider,
   G. (2006).
@@ -319,6 +375,12 @@ Paolini, G.~V., Shapland, R.~H., van Hoorn, W.~P., Mason, J.~S., and Hopkins,
   A.~L. (2006).
 \newblock Global mapping of pharmacological space.
 \newblock {\em Nature biotechnology}, 24(7):805--815.
+
+\bibitem[Ravasz et~al., 2002]{ravasz2002hierarchical}
+Ravasz, E., Somera, A.~L., Mongru, D.~A., Oltvai, Z.~N., and Barab{\'a}si,
+  A.-L. (2002).
+\newblock Hierarchical organization of modularity in metabolic networks.
+\newblock {\em science}, 297(5586):1551--1555.
 
 \bibitem[Renaud and Xuereb, 2002]{renaud2002erectile}
 Renaud, R.~C. and Xuereb, H. (2002).
@@ -362,6 +424,13 @@ Swinney, D.~C. and Anthony, J. (2011).
 \newblock How were new medicines discovered?
 \newblock {\em Nature reviews Drug discovery}, 10(7):507--519.
 
+\bibitem[von Linn{\'e} and Lange, 1770]{von1770systema}
+von Linn{\'e}, C. and Lange, J.~J. (1770).
+\newblock {\em Systema Naturae: Per Regna Tria Naturae, Secundum Classes,
+  Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis},
+  volume~3.
+\newblock Curt.
+
 \bibitem[Wei et~al., 2006]{wei2006gene}
 Wei, G., Twomey, D., Lamb, J., Schlis, K., Agarwal, J., Stam, R.~W., Opferman,
   J.~T., Sallan, S.~E., den Boer, M.~L., Pieters, R., et~al. (2006).
@@ -380,25 +449,40 @@ Whirl-Carrillo, M., McDonagh, E., Hebert, J., Gong, L., Sangkuhl, K., Thorn,
 \newblock Pharmacogenomics knowledge for personalized medicine.
 \newblock {\em Clinical Pharmacology \& Therapeutics}, 92(4):414--417.
 
-\bibitem[Wikipedia, 2014a]{offlabelwiki}
+\bibitem[Wikipedia, 2014a]{masswiki}
 Wikipedia (January 2014a).
+\newblock Conservation of mass.
+\newblock \url{http://en.wikipedia.org/wiki/Conservation_of_mass}.
+
+\bibitem[Wikipedia, 2014b]{offlabelwiki}
+Wikipedia (January 2014b).
 \newblock Off-label use.
 \newblock \url{http://en.wikipedia.org/wiki/Off-label_use}.
 
-\bibitem[Wikipedia, 2014b]{ehrlichwiki}
-Wikipedia (January 2014b).
+\bibitem[Wikipedia, 2014c]{ehrlichwiki}
+Wikipedia (January 2014c).
 \newblock Paul ehrlich.
 \newblock \url{http://en.wikipedia.org/wiki/Paul_Ehrlich#Magic_bullet}.
 
-\bibitem[Wikipedia, 2014c]{phenotypewiki}
-Wikipedia (January 2014c).
+\bibitem[Wikipedia, 2014d]{phenotypewiki}
+Wikipedia (January 2014d).
 \newblock Phenotype.
 \newblock \url{http://en.wikipedia.org/wiki/Phenotype}.
 
-\bibitem[Wikipedia, 2014d]{prehistoricwiki}
-Wikipedia (January 2014d).
+\bibitem[Wikipedia, 2014e]{prehistoricwiki}
+Wikipedia (January 2014e).
 \newblock Prehistoric medicine.
 \newblock \url{http://en.wikipedia.org/wiki/Prehistoric_medicine}.
+
+\bibitem[Wikipedia, 2014f]{sciencewiki}
+Wikipedia (January 2014f).
+\newblock Science.
+\newblock \url{http://en.wikipedia.org/wiki/Science}.
+
+\bibitem[Wikipedia, 2014g]{thermowiki}
+Wikipedia (January 2014g).
+\newblock Thermodynamics.
+\newblock \url{http://en.wikipedia.org/wiki/Thermodynamics}.
 
 \bibitem[Yang and Agarwal, 2011]{yang2011systematic}
 Yang, L. and Agarwal, P. (2011).

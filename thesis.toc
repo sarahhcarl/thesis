@@ -38,7 +38,7 @@
 \contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{61}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Problems addressed by description logics}{61}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{63}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}DLs’ components and relation to life sciences}{65}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.3}DLs' components and relation to life sciences}{65}{subsection.2.3.3}
 \contentsline {subsubsection}{\numberline {2.3.3.1}Description logics core entities}{66}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Named Individuals}\\}{66}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Concepts}\\}{67}{subsubsection.2.3.3.1}
@@ -59,5 +59,11 @@
 \contentsline {subsection}{\numberline {2.3.4}Reasoning services}{74}{subsection.2.3.4}
 \contentsline {subsection}{\numberline {2.3.5}The Web Ontology Language 2 (OWL2)}{76}{subsection.2.3.5}
 \contentsline {section}{\numberline {2.4}Implementation with life-science information}{77}{section.2.4}
-\contentsline {chapter}{Bibliography}{89}{chapter*.31}
-\contentsline {chapter}{\numberline {A}Extra Information}{91}{appendix.A}
+\contentsline {subsection}{\numberline {2.4.1}Integration with biomedical ontologies}{77}{subsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.1.1}Open Biomedical Ontologies (OBO)}{77}{subsubsection.2.4.1.1}
+\contentsline {subsubsection}{\numberline {2.4.1.2}Approximations and assumptions}{80}{subsubsection.2.4.1.2}
+\contentsline {subsection}{\numberline {2.4.2}Integration with databases}{82}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Brain library - implementing programmatic solutions}{84}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}Summary}{86}{section.2.5}
+\contentsline {chapter}{Bibliography}{100}{chapter*.36}
+\contentsline {chapter}{\numberline {A}Extra Information}{101}{appendix.A}

@@ -37,12 +37,18 @@
 \BOOKMARK [1][-]{section.2.3}{Description logics for biomedical knowledge representation}{chapter.2}% 37
 \BOOKMARK [2][-]{subsection.2.3.1}{Problems addressed by description logics}{section.2.3}% 38
 \BOOKMARK [2][-]{subsection.2.3.2}{Expressivity and complexity}{section.2.3}% 39
-\BOOKMARK [2][-]{subsection.2.3.3}{DLs’ components and relation to life sciences}{section.2.3}% 40
+\BOOKMARK [2][-]{subsection.2.3.3}{DLs' components and relation to life sciences}{section.2.3}% 40
 \BOOKMARK [3][-]{subsubsection.2.3.3.1}{Description logics core entities}{subsection.2.3.3}% 41
 \BOOKMARK [3][-]{subsubsection.2.3.3.2}{Axioms}{subsection.2.3.3}% 42
 \BOOKMARK [3][-]{subsubsection.2.3.3.3}{Constructors}{subsection.2.3.3}% 43
 \BOOKMARK [2][-]{subsection.2.3.4}{Reasoning services}{section.2.3}% 44
 \BOOKMARK [2][-]{subsection.2.3.5}{The Web Ontology Language 2 \(OWL2\)}{section.2.3}% 45
 \BOOKMARK [1][-]{section.2.4}{Implementation with life-science information}{chapter.2}% 46
-\BOOKMARK [0][-]{chapter*.31}{Bibliography}{}% 47
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 48
+\BOOKMARK [2][-]{subsection.2.4.1}{Integration with biomedical ontologies}{section.2.4}% 47
+\BOOKMARK [3][-]{subsubsection.2.4.1.1}{Open Biomedical Ontologies \(OBO\)}{subsection.2.4.1}% 48
+\BOOKMARK [3][-]{subsubsection.2.4.1.2}{Approximations and assumptions}{subsection.2.4.1}% 49
+\BOOKMARK [2][-]{subsection.2.4.2}{Integration with databases}{section.2.4}% 50
+\BOOKMARK [2][-]{subsection.2.4.3}{Brain library - implementing programmatic solutions}{section.2.4}% 51
+\BOOKMARK [1][-]{section.2.5}{Summary}{chapter.2}% 52
+\BOOKMARK [0][-]{chapter*.36}{Bibliography}{}% 53
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 54

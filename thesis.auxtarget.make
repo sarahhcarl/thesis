@@ -1,5 +1,6 @@
 \newlabel{approaches}
 \newlabel{complexity}
+\newlabel{coredl}
 \newlabel{exists}
 \newlabel{expression}
 \newlabel{fig1-10}
@@ -19,6 +20,11 @@
 \newlabel{fig2-11}
 \newlabel{fig2-12}
 \newlabel{fig2-13}
+\newlabel{fig2-14}
+\newlabel{fig2-15}
+\newlabel{fig2-16}
+\newlabel{fig2-17}
+\newlabel{fig2-18}
 \newlabel{fig2-1}
 \newlabel{fig2-2}
 \newlabel{fig2-3}

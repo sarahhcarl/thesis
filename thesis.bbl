@@ -92,6 +92,12 @@ Cobham, A. (1965).
 \newblock In {\em Proceedings of the 1964 Congress for Logic, Methodology, and
   the Philosophy of Science}, pages 24--30.
 
+\bibitem[Consortium et~al., 2013]{uniprot2013update}
+Consortium, U. et~al. (2013).
+\newblock Update on activities at the universal protein resource (uniprot) in
+  2013.
+\newblock {\em Nucleic acids research}, 41(D1):D43--D47.
+
 \bibitem[Croset et~al., 2013]{croset2013brain}
 Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013).
 \newblock Brain: biomedical knowledge manipulation.
@@ -114,6 +120,12 @@ De~Franchi, E., Schalon, C., Messa, M., Onofri, F., Benfenati, F., and Rognan,
 DiMasi, J.~A. (2001).
 \newblock New drug development in the united states from 1963 to 1999.
 \newblock {\em Clinical pharmacology and therapeutics}, 69(5):286.
+
+\bibitem[Dreger, 1998]{dreger1998ambiguous}
+Dreger, A.~D. (1998).
+\newblock “ambiguous sex”—or ambivalent medicine?: Ethical issues in the
+  treatment of intersexuality.
+\newblock {\em Hastings Center Report}, 28(3):24--35.
 
 \bibitem[Dudley et~al., 2011a]{dudley2011exploiting}
 Dudley, J.~T., Deshpande, T., and Butte, A.~J. (2011a).
@@ -181,6 +193,12 @@ Furberg, H., Kim, Y., Dackor, J., Boerwinkle, E., Franceschini, N., Ardissino,
   smoking behavior.
 \newblock {\em Nature genetics}, 42(5):441--447.
 
+\bibitem[Gaulton et~al., 2012]{gaulton2012chembl}
+Gaulton, A., Bellis, L.~J., Bento, A.~P., Chambers, J., Davies, M., Hersey, A.,
+  Light, Y., McGlinchey, S., Michalovich, D., Al-Lazikani, B., et~al. (2012).
+\newblock Chembl: a large-scale bioactivity database for drug discovery.
+\newblock {\em Nucleic acids research}, 40(D1):D1100--D1107.
+
 \bibitem[Ghofrani et~al., 2006]{ghofrani2006sildenafil}
 Ghofrani, H.~A., Osterloh, I.~H., and Grimminger, F. (2006).
 \newblock Sildenafil: from angina to erectile dysfunction to pulmonary
@@ -196,6 +214,19 @@ Gillespie, D.~T. (2007).
 GO (January 2014).
 \newblock Go relations.
 \newblock \url{http://www.geneontology.org/GO.ontology.relations.shtml}.
+
+\bibitem[Golbreich et~al., 2006]{golbreich2006foundational}
+Golbreich, C., Zhang, S., and Bodenreider, O. (2006).
+\newblock The foundational model of anatomy in owl: Experience and
+  perspectives.
+\newblock {\em Web Semantics: Science, Services and Agents on the World Wide
+  Web}, 4(3):181--195.
+
+\bibitem[Gon{\c{c}}alves et~al., 2013]{gonccalves2013owl}
+Gon{\c{c}}alves, R.~S., Bail, S., Jimenez-Ruiz, E., Matentzoglu, N., Parsia,
+  B., Glimm, B., and Kazakov, Y. (2013).
+\newblock Owl reasoner evaluation (ore) workshop 2013 results: Short report.
+\newblock In {\em 2nd OWL Reasoner Evaluation Workshop (ORE 2013)}, page~1.
 
 \bibitem[Goto et~al., 1996]{goto1996organizing}
 Goto, S., Bono, H., Ogata, H., Fujibuchi, W., Nishioka, T., Sato, K., Kanehisa,
@@ -216,6 +247,11 @@ Gruber, T., Ontology, I. L.~L., and {\"O}zsu, M.~T. (2009).
 \newblock Encyclopedia of database systems.
 \newblock {\em Ontology}.
 
+\bibitem[Hanage, 2013]{hanage2013fuzzy}
+Hanage, W.~P. (2013).
+\newblock Fuzzy species revisited.
+\newblock {\em BMC biology}, 11(1):41.
+
 \bibitem[Hartwell et~al., 1999]{hartwell1999molecular}
 Hartwell, L.~H., Hopfield, J.~J., Leibler, S., and Murray, A.~W. (1999).
 \newblock From molecular to modular cell biology.
@@ -226,6 +262,11 @@ Haupt, V.~J. and Schroeder, M. (2011).
 \newblock Old friends in new guise: repositioning of known drugs with
   structural bioinformatics.
 \newblock {\em Briefings in bioinformatics}, 12(4):312--326.
+
+\bibitem[Hendler, 2014]{littlesemantics}
+Hendler, J. (January 2014).
+\newblock A little semantics goes a long way.
+\newblock \url{http://www.cs.rpi.edu/~hendler/LittleSemanticsWeb.html}.
 
 \bibitem[Hitzler et~al., 2009]{hitzler2009owl}
 Hitzler, P., Kr{\"o}tzsch, M., Parsia, B., Patel-Schneider, P.~F., and Rudolph,
@@ -246,6 +287,12 @@ Hoehndorf, R., Loebe, F., Kelso, J., and Herre, H. (2007).
   to the integration of anatomy and phenotype ontologies.
 \newblock {\em BMC bioinformatics}, 8(1):377.
 
+\bibitem[Hoehndorf et~al., 2010]{hoehndorf2010relations}
+Hoehndorf, R., Oellrich, A., Dumontier, M., Kelso, J., Rebholz-Schuhmann, D.,
+  and Herre, H. (2010).
+\newblock Relations as patterns: bridging the gap between obo and owl.
+\newblock {\em BMC bioinformatics}, 11(1):441.
+
 \bibitem[Hoehndorf et~al., 2011b]{hoehndorf2011phenomenet}
 Hoehndorf, R., Schofield, P.~N., and Gkoutos, G.~V. (2011b).
 \newblock Phenomenet: a whole-phenome approach to disease gene discovery.
@@ -255,6 +302,17 @@ Hoehndorf, R., Schofield, P.~N., and Gkoutos, G.~V. (2011b).
 Hopkins, A.~L. (2008).
 \newblock Network pharmacology: the next paradigm in drug discovery.
 \newblock {\em Nature chemical biology}, 4(11):682--690.
+
+\bibitem[Horridge and Bechhofer, 2011]{horridge2011owl}
+Horridge, M. and Bechhofer, S. (2011).
+\newblock The owl api: A java api for owl ontologies.
+\newblock {\em Semantic Web}, 2(1):11--21.
+
+\bibitem[Horridge et~al., 2006]{horridge2006manchester}
+Horridge, M., Drummond, N., Goodwin, J., Rector, A.~L., Stevens, R., and Wang,
+  H. (2006).
+\newblock The manchester owl syntax.
+\newblock In {\em OWLed}, volume 216.
 
 \bibitem[Hurle et~al., 2013]{hurle2013computational}
 Hurle, M., Yang, L., Xie, Q., Rajpal, D., Sanseau, P., and Agarwal, P. (2013).
@@ -281,6 +339,12 @@ Jordan, V.~C., Phelps, E., and Lindgren, J.~U. (1987).
   rats.
 \newblock {\em Breast cancer research and treatment}, 10(1):31--35.
 
+\bibitem[Jupp et~al., 2012]{jupp2012logical}
+Jupp, S., Stevens, R., and Hoehndorf, R. (2012).
+\newblock Logical gene ontology annotations (goal): exploring gene ontology
+  annotations with owl.
+\newblock {\em J Biomed Semantics}, 3.
+
 \bibitem[Kathiresan et~al., 2008]{kathiresan2008six}
 Kathiresan, S., Melander, O., Guiducci, C., Surti, A., Burtt, N.~P., Rieder,
   M.~J., Cooper, G.~M., Roos, C., Voight, B.~F., Havulinna, A.~S., et~al.
@@ -288,6 +352,11 @@ Kathiresan, S., Melander, O., Guiducci, C., Surti, A., Burtt, N.~P., Rieder,
 \newblock Six new loci associated with blood low-density lipoprotein
   cholesterol, high-density lipoprotein cholesterol or triglycerides in humans.
 \newblock {\em Nature genetics}, 40(2):189--197.
+
+\bibitem[Kazakov et~al., 2013]{kazakov2013incredible}
+Kazakov, Y., Kr{\"o}tzsch, M., and Siman{\v{c}}{\'\i}k, F. (2013).
+\newblock The incredible elk.
+\newblock {\em Journal of Automated Reasoning}, pages 1--61.
 
 \bibitem[Keiser et~al., 2009]{keiser2009predicting}
 Keiser, M.~J., Setola, V., Irwin, J.~J., Laggner, C., Abbas, A.~I., Hufeisen,
@@ -310,6 +379,12 @@ Kinnings, S.~L., Liu, N., Buchmeier, N., Tonge, P.~J., Xie, L., and Bourne,
   medicine comtan to treat multi-drug and extensively drug resistant
   tuberculosis.
 \newblock {\em PLoS computational biology}, 5(7):e1000423.
+
+\bibitem[Knublauch et~al., 2005]{knublauch2005protege}
+Knublauch, H., Horridge, M., Musen, M.~A., Rector, A.~L., Stevens, R.,
+  Drummond, N., Lord, P.~W., Noy, N.~F., Seidenberg, J., and Wang, H. (2005).
+\newblock The protege owl experience.
+\newblock In {\em OWLED}.
 
 \bibitem[Krall et~al., 1988]{krall1988characterization}
 Krall, J., Fittingoff, M., and Rajfer, J. (1988).
@@ -377,6 +452,11 @@ Lipinski, C.~A., Lombardo, F., Dominy, B.~W., and Feeney, P.~J. (1997).
   permeability in drug discovery and development settings.
 \newblock {\em Advanced drug delivery reviews}, 23(1):3--25.
 
+\bibitem[Lord, 2013]{lord2013semantic}
+Lord, P. (2013).
+\newblock The semantic web takes wing: Programming ontologies with tawny-owl.
+\newblock {\em arXiv preprint arXiv:1303.0213}.
+
 \bibitem[Lounkine et~al., 2012]{lounkine2012large}
 Lounkine, E., Keiser, M.~J., Whitebread, S., Mikhailov, D., Hamon, J., Jenkins,
   J.~L., Lavan, P., Weber, E., Doak, A.~K., C{\^o}t{\'e}, S., et~al. (2012).
@@ -412,6 +492,18 @@ Mendel, G. (1866).
 Meng, T.~C., Somani, S., and Dhar, P. (2004).
 \newblock Modeling and simulation of biological systems with stochasticity.
 \newblock {\em In silico biology}, 4(3):293--309.
+
+\bibitem[Mungall et~al., 2011]{mungall2011cross}
+Mungall, C.~J., Bada, M., Berardini, T.~Z., Deegan, J., Ireland, A., Harris,
+  M.~A., Hill, D.~P., and Lomax, J. (2011).
+\newblock Cross-product extensions of the gene ontology.
+\newblock {\em Journal of biomedical informatics}, 44(1):80--86.
+
+\bibitem[Mungall et~al., 2010]{mungall2010integrating}
+Mungall, C.~J., Gkoutos, G.~V., Smith, C.~L., Haendel, M.~A., Lewis, S.~E., and
+  Ashburner, M. (2010).
+\newblock Integrating phenotype ontologies across multiple species.
+\newblock {\em Genome biology}, 11(1):R2.
 
 \bibitem[Napolitano et~al., 2013]{napolitano2013drug}
 Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
@@ -453,6 +545,11 @@ Noeske, T., Sasse, B.~C., Stark, H., Parsons, C.~G., Weil, T., and Schneider,
   Cross-activities of metabotropic glutamate receptor antagonists.
 \newblock {\em ChemMedChem}, 1(10):1066--1068.
 
+\bibitem[OBO, 2014]{obofoundry}
+OBO (January 2014).
+\newblock Obo foundry.
+\newblock \url{http://www.obofoundry.org/}.
+
 \bibitem[Ong et~al., 2007]{ong2007prevalence}
 Ong, K.~L., Cheung, B.~M., Man, Y.~B., Lau, C.~P., and Lam, K.~S. (2007).
 \newblock Prevalence, awareness, treatment, and control of hypertension among
@@ -488,6 +585,11 @@ Sanseau, P., Agarwal, P., Barnes, M.~R., Pastinen, T., Richards, J.~B., Cardon,
 \newblock Use of genome-wide association studies for drug repositioning.
 \newblock {\em Nature biotechnology}, 30(4):317--320.
 
+\bibitem[Schulz and Jansen, 2013]{schulz2013formal}
+Schulz, S. and Jansen, L. (2013).
+\newblock Formal ontologies in biomedical knowledge representation.
+\newblock {\em Yearbook of medical informatics}, 8(1):132.
+
 \bibitem[Sirota et~al., 2011]{sirota2011discovery}
 Sirota, M., Dudley, J.~T., Kim, J., Chiang, A.~P., Morgan, A.~A.,
   Sweet-Cordero, A., Sage, J., and Butte, A.~J. (2011).
@@ -502,8 +604,8 @@ Stephens, T.~D. and Brynner, R. (2009).
 \newblock Basic Books.
 
 \bibitem[Stevens et~al., 2007]{stevens2007using}
-Stevens, R., Ega{\~n}a~Aranguren, M., Wolstencroft, K., Sattler, U., Drummond,
-  N., Horridge, M., and Rector, A. (2007).
+Stevens, R., Egana~Aranguren, M., Wolstencroft, K., Sattler, U., Drummond, N.,
+  Horridge, M., and Rector, A. (2007).
 \newblock Using owl to model biological knowledge.
 \newblock {\em International Journal of Human-Computer Studies},
   65(7):583--594.
@@ -527,10 +629,28 @@ ter Horst, H.~J. (2005).
 \newblock {\em Web Semantics: Science, Services and Agents on the World Wide
   Web}, 3(2):79--115.
 
+\bibitem[Tirmizi et~al., 2011]{tirmizi2011mapping}
+Tirmizi, S.~H., Aitken, S., Moreira, D.~A., Mungall, C., Sequeda, J., Shah,
+  N.~H., and Miranker, D.~P. (2011).
+\newblock Mapping between the obo and owl ontology languages.
+\newblock {\em Journal of biomedical semantics}, 2(Suppl 1):S3.
+
 \bibitem[Turing, 1950]{turing1950computing}
 Turing, A.~M. (1950).
 \newblock Computing machinery and intelligence.
 \newblock {\em Mind}, pages 433--460.
+
+\bibitem[Vempati et~al., 2012]{vempati2012formalization}
+Vempati, U.~D., Przydzial, M.~J., Chung, C., Abeyruwan, S., Mir, A., Sakurai,
+  K., Visser, U., Lemmon, V.~P., and Sch{\"u}rer, S.~C. (2012).
+\newblock Formalization, annotation and analysis of diverse drug and probe
+  screening assay datasets using the bioassay ontology (bao).
+\newblock {\em PloS one}, 7(11):e49198.
+
+\bibitem[Villanueva-Rosales and Dumontier, 2008]{villanueva2008yowl}
+Villanueva-Rosales, N. and Dumontier, M. (2008).
+\newblock yowl: An ontology-driven knowledge base for yeast biologists.
+\newblock {\em Journal of biomedical informatics}, 41(5):779--789.
 
 \bibitem[von Linn{\'e} and Lange, 1770]{von1770systema}
 von Linn{\'e}, C. and Lange, J.~J. (1770).
@@ -539,13 +659,19 @@ von Linn{\'e}, C. and Lange, J.~J. (1770).
   volume~3.
 \newblock Curt.
 
-\bibitem[W3C, 2014a]{computationalprop}
+\bibitem[W3C, 2014a]{disjointw3c}
 W3C (January 2014a).
+\newblock Class disjointness.
+\newblock
+  \url{http://www.w3.org/TR/2009/WD-owl2-primer-20090421/#Class_Disjointness}.
+
+\bibitem[W3C, 2014b]{computationalprop}
+W3C (January 2014b).
 \newblock Computational properties of owl2 profiles.
 \newblock \url{http://www.w3.org/TR/owl2-profiles/#Computational_Properties}.
 
-\bibitem[W3C, 2014b]{owlw3c}
-W3C (January 2014b).
+\bibitem[W3C, 2014c]{owlw3c}
+W3C (January 2014c).
 \newblock Owl 2 web ontology language.
 \newblock \url{http://www.w3.org/TR/owl2-overview/}.
 

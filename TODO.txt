@@ -5,8 +5,8 @@ $ \exists $ ∃
 ⊑ $ \sqsubseteq $
 $ \circ $ ◦
 EL++ \dl{EL\textsuperscript{++}}
-⊤
-⊓
+⊤ $ \top $
+⊓   $ \sqcap $
 
 http://www.rpi.edu/dept/arc/training/latex/LaTeX_symbols.pdf
 http://en.wikipedia.org/wiki/List_of_mathematical_symbols

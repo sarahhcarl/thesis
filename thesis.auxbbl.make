@@ -15,27 +15,32 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {1.8}{\ignorespaces Drug repositioning using phenotype information. Knowledge about the phenotypic outcome triggered by a drug can be used in order to establish relative similarities. (A) The diagram illustrates a theoretical example using reported side-effects: The more side-effects are commonly shared by two drugs, the more similar these two drugs are. The similarity can be used to either derive potential off-targets or new indications.\relax }}{31}{figure.caption.12}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.9}{\ignorespaces Drug repositioning using genetic information. (A) Single-nucleotide polymorphism (SNP) are associated with a phenotypic trait, here LDL cholesterol. The gene where the SNP is found (HMGCR) encodes for a protein, targeted by statins (drug class). Statins are indicated as cholesterol lowering agents, which is confirmed by the trait associated with the SNP. (B) Sometimes the trait associated with the SNP diverges from the indication of the drug, as shown on the diagram (post-traumatic stress disorder against smoking cessation). In such cases, a repositioning hypothesis can be generated. Examples are detailed in the text. See \cite  {sanseau2012use} for more explanations.\relax }}{34}{figure.caption.13}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.10}{\ignorespaces Description logics constructors. (A) Constructors help to compose with concepts. The logic behind constructors is analogous to some of the semantic found in cuneiform scripts (3000 BC) (personal interpretation). (B) Concept intersection: The individuals member in the same time of the concept Man and Parent are asserted to be of type Father on the axiom presented.\relax }}{71}{figure.caption.27}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.11}{\ignorespaces Description logics constructors: Existential restriction (A) Example of existential restriction expression with the implication. Note that all individuals of ∃part-of.Cell are linked to a cell individual via a part-of role. Yet some cell instances exist without being linked (in blue – for instance red blood cell). (B) Definition of the concept Nucleus from the existential restriction construct: Nucleus $ \sqsubseteq $ $ \exists $ part-of.Cell, meaning that all instances of nucleus are necessarily linked to an instance of cell. There exist some instances of $ \exists $ part-of.Cell not being nucleus instance (orange). This type of construct is commonly encountered in biology.\relax }}{73}{figure.caption.28}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.12}{\ignorespaces Description logics constructors: Role composition. (A) Example of composed property, the “uncle” relationship. When two instances are linked using a “brother-of” property, then followed by a “parent-of” property, then a reasoner can create a property between the first and the last individual, as shown on figure between John and Paul. (B) Informal illustration of a transitive property using the Gene Ontology specification \citep  {gorels}. When two terms are connected by a part-of relation and directly followed by another part-of property, then a part-of relation can be added between the first and last term. For instance here one can deduce that mitochondrion is part of cell, from the asserted facts. Note that this representation is not formal; OWL representation of OBO ontologies will be addressed later in this chapter.\relax }}{74}{figure.caption.29}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.13}{\ignorespaces Description logics subsumption service example. (A) Taxonomy of concepts not classified. (B) From the axiom present in the knowledge base Father ⊑ Man ⊓ Parent (blue), the reasoning can deduce the taxonomy presented in (C). The concept Parent and Man subsumes Father, which appears deeper in the hierarchy, evidence of a more expressive meaning. The symbol ⊤ represents the top concept (Thing in OWL) and is always present above every other concept of the knowledge base.\relax }}{75}{figure.caption.30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.11}{\ignorespaces Description logics constructors: Existential restriction (A) Example of existential restriction expression with the implication. Note that all individuals of $ \exists $part-of.Cell are linked to a cell individual via a part-of role. Yet some cell instances exist without being linked (in blue – for instance red blood cell). (B) Definition of the concept Nucleus from the existential restriction construct: Nucleus $ \sqsubseteq $ $ \exists $ part-of.Cell, meaning that all instances of nucleus are necessarily linked to an instance of cell. There exist some instances of $ \exists $ part-of.Cell not being nucleus instance (orange). This type of construct is commonly encountered in biology.\relax }}{73}{figure.caption.28}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.12}{\ignorespaces Description logics constructors: Role composition. (A) Example of composed property, the "uncle" relationship. When two instances are linked using a "brother-of" property, then followed by a "parent-of" property, then a reasoner can create a property between the first and the last individual, as shown on figure between John and Paul. (B) Informal illustration of a transitive property using the Gene Ontology specification \citep  {gorels}. When two terms are connected by a part-of relation and directly followed by another part-of property, then a part-of relation can be added between the first and last term. For instance here one can deduce that mitochondrion is part of cell, from the asserted facts. Note that this representation is not formal; OWL representation of OBO ontologies will be addressed later in this chapter.\relax }}{74}{figure.caption.29}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.13}{\ignorespaces Description logics subsumption service example. (A) Taxonomy of concepts not classified. (B) From the axiom present in the knowledge base Father $ \sqsubseteq $ Man $ \sqcap $ Parent (blue), the reasoning can deduce the taxonomy presented in (C). The concept Parent and Man subsumes Father, which appears deeper in the hierarchy, evidence of a more expressive meaning. The symbol $ \top $ represents the top concept (Thing in OWL) and is always present above every other concept of the knowledge base.\relax }}{75}{figure.caption.30}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.14}{\ignorespaces Open Biomedical Ontologies format and representation. (A) The hierarchy above the term nucleus is presented. Black arrows entail an is a relation, blue ones a part-of relation. OBO ontologies are represented as directed acyclic graph. (B) Entry for the term nucleus, illustrating the format used to serialise OBO ontologies.\relax }}{78}{figure.caption.31}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.15}{\ignorespaces Example of Java program written using the Brain library. Each command is preceded by a comment explaining the functionality.\relax }}{85}{figure.caption.32}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.16}{\ignorespaces Jaccard coefficient implementation in the Brain library alongside examples. (A) Definition of the coefficient: The similarity between two entities is defined as the ratio of the categories in common divided by the total number of categories. (B) and (C): Examples of computation of the index over two pairs (letters and in orange). The taxonomy is in black, super-classes shown with the blue or green area. The index is higher between the pairs A and B (0.33) than between the pair A and C (0.14), representing the fact that A and B are closer in the taxonomy and have a more similar meaning. The coefficient will be used greatly later to compare the function of drugs.\relax }}{86}{figure.caption.33}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.17}{\ignorespaces Example of graph generated from the Brain library (content not pertinent): From an input concept, it is possible to export the whole ascendant taxonomy as scalable vector graphics (SVG), particularly useful to display information on web browsers.\relax }}{87}{figure.caption.34}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.18}{\ignorespaces Summary of the molecular black box theory. (A) To address drug discovery, organisms can be compared to black box machines. Description logics are a useful framework to unveil the specification of the black box machine. (B) The theory can be implemented (dashed arrow) for computers using the Web Ontology Language (OWL). Chapter 3 will present an example of implementation of the theory with the Functional Therapeutic Chemical Classification System (FTC), dedicated to handle the concept of mode of action and suited to repurpose drugs.\relax }}{88}{figure.caption.35}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.1}{\ignorespaces Examples of capture of information in biology. (A) A flask containing hundreds of individuals of the species drosophila melanogaster. The population is identified with a label on the container. (B) Schema of a canonical plant cell, similar to the one found in text-books. Parts of interest are annotated with terms, following a descriptive approach. Pictures from Wikipedia and courtesy of Sarah H Carl.\relax }}{52}{figure.caption.18}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Formalisation in biomedical sciences. (A) Diagram showing the evolutionary taxonomy of invertebrates. Drawn by Jean-Baptiste Lamarck’s in 1815. (B) Mechanistic illustration of the cardiovascular system. Arrows illustrate the flow of blood and the logical connection between the annotated parts. (C) MAPK/ERK signaling pathway. Schema of the cascade of molecular events leading to activation of transcription factors. The logic of the system is informally captured using arrows, colours and shapes. Images from Wikipedia.\relax }}{53}{figure.caption.19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.2}{\ignorespaces Formalisation in biomedical sciences. (A) Diagram showing the evolutionary taxonomy of invertebrates. Drawn by Jean-Baptiste Lamarck's in 1815. (B) Mechanistic illustration of the cardiovascular system. Arrows illustrate the flow of blood and the logical connection between the annotated parts. (C) MAPK/ERK signaling pathway. Schema of the cascade of molecular events leading to activation of transcription factors. The logic of the system is informally captured using arrows, colours and shapes. Images from Wikipedia.\relax }}{53}{figure.caption.19}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.3}{\ignorespaces Blackbox model. (A) Schematic representation of a blackbox. Given an input, an observable output is produced. The internal workings are supposedly not understood. (B) Cells or organism are blackboxes: They can carry various and observable functions from an input, yet the internal workings are not necessarily fully understood.\relax }}{54}{figure.caption.20}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.4}{\ignorespaces Caption.\relax }}{56}{figure.caption.21}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.5}{\ignorespaces Rube Goldberg machine: Over-engineered machine that performs a very simple task in a very complex fashion, usually including a chain reaction \citep  {rubewiki}. The picture shows the "Self-Operating Napkin“. When the spoon soup is raised, a cascade of events are triggered ending as the napkin coming toward the man’s face. The task performed is relatively trivial, yet many steps are needed to execute it. Organisms are assumed to be analog to Rube Goldberg machines because of evolution; the internal wiring is not necessarily straightforward and progressively evolved and changed \citep  {ravasz2002hierarchical}. Illustration from Wikipedia.\relax }}{59}{figure.caption.22}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.5}{\ignorespaces Rube Goldberg machine: Over-engineered machine that performs a very simple task in a very complex fashion, usually including a chain reaction \citep  {rubewiki}. The picture shows the "Self-Operating Napkin". When the spoon soup is raised, a cascade of events are triggered ending as the napkin coming toward the man's face. The task performed is relatively trivial, yet many steps are needed to execute it. Organisms are assumed to be analog to Rube Goldberg machines because of evolution; the internal wiring is not necessarily straightforward and progressively evolved and changed \citep  {ravasz2002hierarchical}. Illustration from Wikipedia.\relax }}{59}{figure.caption.22}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.6}{\ignorespaces Example of problem addressed by description logics. (A) The concept Human is more specific than the concept Mammal (all humans are mammals), which can be represented as embedded sets. (B) Same logic captured, representing the concepts as nodes and the relation as edge. The mathematical meaning of (A) (sets of instances) is more accurate than the meaning of (B), yet both representation can exist in practice, in particular in biology.\relax }}{62}{figure.caption.23}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.7}{\ignorespaces Example of problem addressed by description logics. (A) The concept Human is more specific than the concept Mammal (all humans are mammals), which can be represented as embedded sets. (B) Same logic captured, representing the concepts as nodes and the relation as edge. The mathematical meaning of (A) (sets of instances) is more accurate than the meaning of (B), yet both representation can exist in practice, in particular in biology.\relax }}{64}{figure.caption.24}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.8}{\ignorespaces Description logics core entities: (A) Concepts and Individuals: A concept or class is a set containing some individuals. On the example shown, Human is a concept, John and Mary are both distinct individuals. (B) Roles and Individuals: Role are linking two individuals. In the example, John and Mary are still individuals linked by the role “knows”, specifying their relationship.\relax }}{67}{figure.caption.25}}
-\@writefile{lof}{\contentsline {figure}{\numberline {2.9}{\ignorespaces Examples of description logics axioms, in blue with their graphical representation (concept assertions and inclusion axioms). Axioms specify the semantics linking the basic entities (individuals, concepts and roles). From a series of axioms or knowledge base, it is possible to deduce information. The question “What are the mammals present in the knowledge base?” would return as a result Snowy, but also John and Mary, even if they are not directly declared as such, from the semantics encoded in the axioms.\relax }}{70}{figure.caption.26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.8}{\ignorespaces Description logics core entities: (A) Concepts and Individuals: A concept or class is a set containing some individuals. On the example shown, Human is a concept, John and Mary are both distinct individuals. (B) Roles and Individuals: Role are linking two individuals. In the example, John and Mary are still individuals linked by the role "knows", specifying their relationship.\relax }}{67}{figure.caption.25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2.9}{\ignorespaces Examples of description logics axioms, in blue with their graphical representation (concept assertions and inclusion axioms). Axioms specify the semantics linking the basic entities (individuals, concepts and roles). From a series of axioms or knowledge base, it is possible to deduce information. The question "What are the mammals present in the knowledge base?" would return as a result Snowy, but also John and Mary, even if they are not directly declared as such, from the semantics encoded in the axioms.\relax }}{70}{figure.caption.26}}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{40}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{41}{table.1.2}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{89}{chapter*.31}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{100}{chapter*.36}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{11}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{49}{chapter.2}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{91}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{101}{appendix.A}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Assertional axioms (ABox)}\\}{68}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Concepts}\\}{67}{subsubsection.2.3.3.1}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Existential Restriction ($ \exists $)}\\}{71}{figure.caption.27}}
@@ -53,6 +58,7 @@
 \@writefile{toc}{\contentsline {section}{\numberline {2.2}Biomedical knowledge}{51}{section.2.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{61}{section.2.3}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.4}Implementation with life-science information}{77}{section.2.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {2.5}Summary}{86}{section.2.5}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept assertion\\}{68}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{69}{figure.caption.26}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{69}{subsubsection.2.3.3.2}}
@@ -77,9 +83,12 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{57}{subsection.2.2.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.3.1}Problems addressed by description logics}{61}{subsection.2.3.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{63}{subsection.2.3.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.3}DLs’ components and relation to life sciences}{65}{subsection.2.3.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3.3}DLs' components and relation to life sciences}{65}{subsection.2.3.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.3.4}Reasoning services}{74}{subsection.2.3.4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {2.3.5}The Web Ontology Language 2 (OWL2)}{76}{subsection.2.3.5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4.1}Integration with biomedical ontologies}{77}{subsection.2.4.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4.2}Integration with databases}{82}{subsection.2.4.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4.3}Brain library - implementing programmatic solutions}{84}{subsection.2.4.3}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{46}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{46}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{46}{subsubsection.1.4.2.3}}
@@ -94,6 +103,8 @@
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.3.1}Description logics core entities}{66}{subsubsection.2.3.3.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.3.2}Axioms}{68}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.3.3.3}Constructors}{70}{subsubsection.2.3.3.3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.1.1}Open Biomedical Ontologies (OBO)}{77}{subsubsection.2.4.1.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {2.4.1.2}Approximations and assumptions}{80}{subsubsection.2.4.1.2}}
 \@writefile{toc}{\thispagestyle {empty}}
 \AtEndDocument{\ifx\hyper@anchor\@undefined
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
@@ -111,6 +122,8 @@
 \citation{ashburn2004drug}
 \citation{ashburner2000gene}
 \citation{ashburner2000gene}
+\citation{ashburner2000gene}
+\citation{ashburner2000gene}
 \citation{baader2005pushing}
 \citation{baader2008pushing}
 \citation{barabasi2004network}
@@ -123,6 +136,7 @@
 \citation{bodenreider2004unified}
 \citation{brooksbank2014european}
 \citation{brooksbank2014european}
+\citation{brooksbank2014european}
 \citation{campillos2008drug}
 \citation{campillos2008drug}
 \citation{chiang2009systematic}
@@ -131,11 +145,14 @@
 \citation{cobham1965intrinsic}
 \citation{computationalprop}
 \citation{croset2013brain}
+\citation{croset2013brain}
 \citation{darwin2009origin}
 \citation{de2010binding}
 \citation{de2010binding}
 \citation{de2010binding}
 \citation{dimasi2001new}
+\citation{disjointw3c}
+\citation{dreger1998ambiguous}
 \citation{dudley2011computational}
 \citation{dudley2011computational}
 \citation{dudley2011exploiting}
@@ -151,14 +168,19 @@
 \citation{fliri2007analysis}
 \citation{franke2010genome}
 \citation{furberg2010genome}
+\citation{gaulton2012chembl}
 \citation{ghofrani2006sildenafil}
 \citation{gillespie2007stochastic}
+\citation{golbreich2006foundational}
+\citation{gonccalves2013owl}
 \citation{gorels}
 \citation{gorels}
 \citation{goto1996organizing}
 \citation{gottlieb2011predict}
 \citation{gottlieb2011predict}
 \citation{gruber2009encyclopedia}
+\citation{hanage2013fuzzy}
+\citation{hanage2013fuzzy}
 \citation{hartwell1999molecular}
 \citation{haupt2011old}
 \citation{haupt2011old}
@@ -166,10 +188,14 @@
 \citation{haupt2011old}
 \citation{hitzler2009owl}
 \citation{hoehndorf2007representing}
+\citation{hoehndorf2010relations}
+\citation{hoehndorf2011common}
 \citation{hoehndorf2011common}
 \citation{hoehndorf2011phenomenet}
 \citation{hopkins2008network}
 \citation{hopkins2008network}
+\citation{horridge2006manchester}
+\citation{horridge2011owl}
 \citation{hurle2013computational}
 \citation{hurle2013computational}
 \citation{hypertensionnhs}
@@ -177,7 +203,9 @@
 \citation{iorio2010discovery}
 \citation{johnson1990concepts}
 \citation{jordan1987effects}
+\citation{jupp2012logical}
 \citation{kathiresan2008six}
+\citation{kazakov2013incredible}
 \citation{keiser2009predicting}
 \citation{keiser2009predicting}
 \citation{keiser2009predicting}
@@ -185,7 +213,10 @@
 \citation{kim2008temporal}
 \citation{kinnings2009drug}
 \citation{kinnings2009drug}
+\citation{knublauch2005protege}
 \citation{krall1988characterization}
+\citation{krotzsch2012owl}
+\citation{krotzsch2012owl}
 \citation{krotzsch2012owl}
 \citation{krotzsch2012owl}
 \citation{krotzsch2012owl}
@@ -204,6 +235,8 @@
 \citation{li2009pathway}
 \citation{li2010pubchem}
 \citation{lipinski1997experimental}
+\citation{littlesemantics}
+\citation{lord2013semantic}
 \citation{lounkine2012large}
 \citation{machado2011modeling}
 \citation{masswiki}
@@ -213,6 +246,8 @@
 \citation{meng2004modeling}
 \citation{meng2004modeling}
 \citation{meng2004modeling}
+\citation{mungall2010integrating}
+\citation{mungall2011cross}
 \citation{napolitano2013drug}
 \citation{napolitano2013drug}
 \citation{neumann1966theory}
@@ -220,6 +255,7 @@
 \citation{noeske2006predicting}
 \citation{noeske2006predicting}
 \citation{nytimes}
+\citation{obofoundry}
 \citation{offlabelwiki}
 \citation{ong2007prevalence}
 \citation{ontologywiki}
@@ -241,11 +277,15 @@
 \citation{sanseau2012use}
 \citation{sanseau2012use}
 \citation{sanseau2012use}
+\citation{schulz2013formal}
+\citation{schulz2013formal}
+\citation{schulz2013formal}
 \citation{sciencewiki}
 \citation{sirota2011discovery}
 \citation{sirota2011discovery}
 \citation{stephens2009dark}
 \citation{stephens2009dark}
+\citation{stevens2007using}
 \citation{stevens2007using}
 \citation{suthram2010network}
 \citation{suthram2010network}
@@ -253,7 +293,11 @@
 \citation{swinney2011were}
 \citation{ter2005completeness}
 \citation{thermowiki}
+\citation{tirmizi2011mapping}
 \citation{turing1950computing}
+\citation{uniprot2013update}
+\citation{vempati2012formalization}
+\citation{villanueva2008yowl}
 \citation{von1770systema}
 \citation{wei2006gene}
 \citation{wei2006gene}

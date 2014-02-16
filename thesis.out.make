@@ -28,15 +28,21 @@
 \BOOKMARK [2][-]{subsection.2.2.1}{Contemporary formalism in biomedical sciences}{section.2.2}% 28
 \BOOKMARK [3][-]{subsubsection.2.2.1.1}{Formalism varies among natural sciences}{subsection.2.2.1}% 29
 \BOOKMARK [3][-]{subsubsection.2.2.1.2}{Organisms as complex machines}{subsection.2.2.1}% 30
-\BOOKMARK [3][-]{subsubsection.2.2.1.3}{Organisms as complex machines}{subsection.2.2.1}% 31
-\BOOKMARK [2][-]{subsection.2.2.2}{Requirements for biomedical knowledge formalisation}{section.2.2}% 32
-\BOOKMARK [3][-]{subsubsection.2.2.2.1}{Mathematical framework}{subsection.2.2.2}% 33
-\BOOKMARK [3][-]{subsubsection.2.2.2.2}{Definitions}{subsection.2.2.2}% 34
-\BOOKMARK [3][-]{subsubsection.2.2.2.3}{Hierarchies and abstraction}{subsection.2.2.2}% 35
-\BOOKMARK [3][-]{subsubsection.2.2.2.4}{Distributed and scalable}{subsection.2.2.2}% 36
-\BOOKMARK [3][-]{subsubsection.2.2.2.5}{Molecular dynamism}{subsection.2.2.2}% 37
-\BOOKMARK [1][-]{section.2.3}{Description logics for biomedical knowledge representation}{chapter.2}% 38
-\BOOKMARK [2][-]{subsection.2.3.1}{Problem addressed}{section.2.3}% 39
-\BOOKMARK [2][-]{subsection.2.3.2}{Expressivity and complexity}{section.2.3}% 40
-\BOOKMARK [0][-]{chapter*.23}{Bibliography}{}% 41
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 42
+\BOOKMARK [2][-]{subsection.2.2.2}{Requirements for biomedical knowledge formalisation}{section.2.2}% 31
+\BOOKMARK [3][-]{subsubsection.2.2.2.1}{Mathematical framework}{subsection.2.2.2}% 32
+\BOOKMARK [3][-]{subsubsection.2.2.2.2}{Definitions}{subsection.2.2.2}% 33
+\BOOKMARK [3][-]{subsubsection.2.2.2.3}{Hierarchies and abstraction}{subsection.2.2.2}% 34
+\BOOKMARK [3][-]{subsubsection.2.2.2.4}{Distributed and scalable}{subsection.2.2.2}% 35
+\BOOKMARK [3][-]{subsubsection.2.2.2.5}{Molecular dynamism}{subsection.2.2.2}% 36
+\BOOKMARK [1][-]{section.2.3}{Description logics for biomedical knowledge representation}{chapter.2}% 37
+\BOOKMARK [2][-]{subsection.2.3.1}{Problems addressed by description logics}{section.2.3}% 38
+\BOOKMARK [2][-]{subsection.2.3.2}{Expressivity and complexity}{section.2.3}% 39
+\BOOKMARK [2][-]{subsection.2.3.3}{DLs’ components and relation to life sciences}{section.2.3}% 40
+\BOOKMARK [3][-]{subsubsection.2.3.3.1}{Description logics core entities}{subsection.2.3.3}% 41
+\BOOKMARK [3][-]{subsubsection.2.3.3.2}{Axioms}{subsection.2.3.3}% 42
+\BOOKMARK [3][-]{subsubsection.2.3.3.3}{Constructors}{subsection.2.3.3}% 43
+\BOOKMARK [2][-]{subsection.2.3.4}{Reasoning services}{section.2.3}% 44
+\BOOKMARK [2][-]{subsection.2.3.5}{The Web Ontology Language 2 \(OWL2\)}{section.2.3}% 45
+\BOOKMARK [1][-]{section.2.4}{Implementation with life-science information}{chapter.2}% 46
+\BOOKMARK [0][-]{chapter*.31}{Bibliography}{}% 47
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 48

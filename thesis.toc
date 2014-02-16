@@ -28,16 +28,36 @@
 \contentsline {section}{\numberline {2.2}Biomedical knowledge}{51}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Contemporary formalism in biomedical sciences}{51}{subsection.2.2.1}
 \contentsline {subsubsection}{\numberline {2.2.1.1}Formalism varies among natural sciences}{51}{subsubsection.2.2.1.1}
-\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{53}{subsubsection.2.2.1.2}
-\contentsline {subsubsection}{\numberline {2.2.1.3}Organisms as complex machines}{55}{subsubsection.2.2.1.3}
-\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{56}{subsection.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{56}{subsubsection.2.2.2.1}
-\contentsline {subsubsection}{\numberline {2.2.2.2}Definitions}{57}{subsubsection.2.2.2.2}
-\contentsline {subsubsection}{\numberline {2.2.2.3}Hierarchies and abstraction}{57}{subsubsection.2.2.2.3}
-\contentsline {subsubsection}{\numberline {2.2.2.4}Distributed and scalable}{58}{subsubsection.2.2.2.4}
-\contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{59}{subsubsection.2.2.2.5}
-\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{59}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Problem addressed}{60}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{60}{subsection.2.3.2}
-\contentsline {chapter}{Bibliography}{71}{chapter*.23}
-\contentsline {chapter}{\numberline {A}Extra Information}{73}{appendix.A}
+\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{54}{subsubsection.2.2.1.2}
+\contentsline {subsection}{\numberline {2.2.2}Requirements for biomedical knowledge formalisation}{57}{subsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{57}{subsubsection.2.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2.2}Definitions}{58}{subsubsection.2.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.2.3}Hierarchies and abstraction}{58}{subsubsection.2.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.2.4}Distributed and scalable}{59}{subsubsection.2.2.2.4}
+\contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{60}{subsubsection.2.2.2.5}
+\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{61}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Problems addressed by description logics}{61}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{63}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}DLs’ components and relation to life sciences}{65}{subsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.3.1}Description logics core entities}{66}{subsubsection.2.3.3.1}
+\contentsline {paragraph}{\textbf {Named Individuals}\\}{66}{subsubsection.2.3.3.1}
+\contentsline {paragraph}{\textbf {Concepts}\\}{67}{subsubsection.2.3.3.1}
+\contentsline {paragraph}{\textbf {Roles}\\}{67}{figure.caption.25}
+\contentsline {subsubsection}{\numberline {2.3.3.2}Axioms}{68}{subsubsection.2.3.3.2}
+\contentsline {paragraph}{\textbf {Assertional axioms (ABox)}\\}{68}{subsubsection.2.3.3.2}
+\contentsline {subparagraph}{Concept assertion\\}{68}{subsubsection.2.3.3.2}
+\contentsline {subparagraph}{Role assertion\\}{68}{subsubsection.2.3.3.2}
+\contentsline {paragraph}{\textbf {Terminological axioms (TBox)}\\}{69}{subsubsection.2.3.3.2}
+\contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{69}{subsubsection.2.3.3.2}
+\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{69}{figure.caption.26}
+\contentsline {paragraph}{\textbf {Relational axioms (RBox)}\\}{69}{figure.caption.26}
+\contentsline {subparagraph}{Role inclusion ($ \sqsubseteq $)\\}{69}{figure.caption.26}
+\contentsline {subsubsection}{\numberline {2.3.3.3}Constructors}{70}{subsubsection.2.3.3.3}
+\contentsline {paragraph}{\textbf {Intersection ($ \sqcap $)}\\}{70}{figure.caption.27}
+\contentsline {paragraph}{\textbf {Existential Restriction ($ \exists $)}\\}{71}{figure.caption.27}
+\contentsline {paragraph}{\textbf {Role composition ($ \circ $)}\\}{73}{figure.caption.28}
+\contentsline {subsection}{\numberline {2.3.4}Reasoning services}{74}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}The Web Ontology Language 2 (OWL2)}{76}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Implementation with life-science information}{77}{section.2.4}
+\contentsline {chapter}{Bibliography}{89}{chapter*.31}
+\contentsline {chapter}{\numberline {A}Extra Information}{91}{appendix.A}

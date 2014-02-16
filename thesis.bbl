@@ -1,5 +1,12 @@
 \begin{thebibliography}{}
 
+\bibitem[Allen and Frisch, 1982]{allen1982s}
+Allen, J.~F. and Frisch, A.~M. (1982).
+\newblock What's in a semantic network?
+\newblock In {\em Proceedings of the 20th annual meeting on Association for
+  Computational Linguistics}, pages 19--27. Association for Computational
+  Linguistics.
+
 \bibitem[An and Jones, 2006]{an2006large}
 An, Y. Y. L.~J. and Jones, S.~J. (2006).
 \newblock A large-scale computational approach to drug repositioning.
@@ -11,6 +18,12 @@ Antezana, E., Kuiper, M., and Mironov, V. (2009).
   web technologies.
 \newblock {\em Briefings in bioinformatics}, 10(4):392--407.
 
+\bibitem[Ashburn and Thor, 2004]{ashburn2004drug}
+Ashburn, T.~T. and Thor, K.~B. (2004).
+\newblock Drug repositioning: identifying and developing new uses for existing
+  drugs.
+\newblock {\em Nature reviews Drug discovery}, 3(8):673--683.
+
 \bibitem[Ashburner et~al., 2000]{ashburner2000gene}
 Ashburner, M., Ball, C.~A., Blake, J.~A., Botstein, D., Butler, H., Cherry,
   J.~M., Davis, A.~P., Dolinski, K., Dwight, S.~S., Eppig, J.~T., et~al.
@@ -18,11 +31,30 @@ Ashburner, M., Ball, C.~A., Blake, J.~A., Botstein, D., Butler, H., Cherry,
 \newblock Gene ontology: tool for the unification of biology.
 \newblock {\em Nature genetics}, 25(1):25--29.
 
+\bibitem[Baader et~al., 2005]{baader2005pushing}
+Baader, F., Brandt, S., and Lutz, C. (2005).
+\newblock Pushing the el envelope.
+\newblock In {\em IJCAI}, volume~5, pages 364--369.
+
+\bibitem[Baader et~al., 2008]{baader2008pushing}
+Baader, F., Brandt, S., and Lutz, C. (2008).
+\newblock Pushing the el envelope further.
+
+\bibitem[Barabasi and Oltvai, 2004]{barabasi2004network}
+Barabasi, A.-L. and Oltvai, Z.~N. (2004).
+\newblock Network biology: understanding the cell's functional organization.
+\newblock {\em Nature Reviews Genetics}, 5(2):101--113.
+
 \bibitem[Barratt and Frail, 2012]{barratt2012drug}
 Barratt, M.~J. and Frail, D.~E. (2012).
 \newblock {\em Drug repositioning: Bringing new life to shelved assets and
   existing drugs}.
 \newblock Wiley. com.
+
+\bibitem[Berners-Lee et~al., 2001]{berners2001semantic}
+Berners-Lee, T., Hendler, J., Lassila, O., et~al. (2001).
+\newblock The semantic web.
+\newblock {\em Scientific american}, 284(5):28--37.
 
 \bibitem[Black et~al., 1994]{black1994raloxifene}
 Black, L.~J., Sato, M., Rowley, E., Magee, D., Bekele, A., Williams, D.,
@@ -53,6 +85,12 @@ Chiang, A.~P. and Butte, A.~J. (2009).
 \newblock Systematic evaluation of drug--disease relationships to identify
   leads for novel drug uses.
 \newblock {\em Clinical Pharmacology \& Therapeutics}, 86(5):507--510.
+
+\bibitem[Cobham, 1965]{cobham1965intrinsic}
+Cobham, A. (1965).
+\newblock The intrinsic computational difficulty of functions.
+\newblock In {\em Proceedings of the 1964 Congress for Logic, Methodology, and
+  the Philosophy of Science}, pages 24--30.
 
 \bibitem[Croset et~al., 2013]{croset2013brain}
 Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013).
@@ -107,7 +145,7 @@ Editorial (2013).
 \newblock {\em Nature}, 495(7440):141--142.
 
 \bibitem[FDA, 2007]{fdaraloxifen}
-FDA (Sptember 2007).
+FDA (September 2007).
 \newblock Raloxifene hydrochloride.
 \newblock
   \url{http://www.fda.gov/AboutFDA/CentersOffices/OfficeofMedicalProductsandTobacco/CDER/ucm129243.htm}.
@@ -149,6 +187,16 @@ Ghofrani, H.~A., Osterloh, I.~H., and Grimminger, F. (2006).
   hypertension and beyond.
 \newblock {\em Nature Reviews Drug Discovery}, 5(8):689--702.
 
+\bibitem[Gillespie, 2007]{gillespie2007stochastic}
+Gillespie, D.~T. (2007).
+\newblock Stochastic simulation of chemical kinetics.
+\newblock {\em Annu. Rev. Phys. Chem.}, 58:35--55.
+
+\bibitem[GO, 2014]{gorels}
+GO (January 2014).
+\newblock Go relations.
+\newblock \url{http://www.geneontology.org/GO.ontology.relations.shtml}.
+
 \bibitem[Goto et~al., 1996]{goto1996organizing}
 Goto, S., Bono, H., Ogata, H., Fujibuchi, W., Nishioka, T., Sato, K., Kanehisa,
   M., et~al. (1996).
@@ -163,6 +211,11 @@ Gottlieb, A., Stein, G.~Y., Ruppin, E., and Sharan, R. (2011).
   application to personalized medicine.
 \newblock {\em Molecular systems biology}, 7(1).
 
+\bibitem[Gruber et~al., 2009]{gruber2009encyclopedia}
+Gruber, T., Ontology, I. L.~L., and {\"O}zsu, M.~T. (2009).
+\newblock Encyclopedia of database systems.
+\newblock {\em Ontology}.
+
 \bibitem[Hartwell et~al., 1999]{hartwell1999molecular}
 Hartwell, L.~H., Hopfield, J.~J., Leibler, S., and Murray, A.~W. (1999).
 \newblock From molecular to modular cell biology.
@@ -174,14 +227,27 @@ Haupt, V.~J. and Schroeder, M. (2011).
   structural bioinformatics.
 \newblock {\em Briefings in bioinformatics}, 12(4):312--326.
 
+\bibitem[Hitzler et~al., 2009]{hitzler2009owl}
+Hitzler, P., Kr{\"o}tzsch, M., Parsia, B., Patel-Schneider, P.~F., and Rudolph,
+  S. (2009).
+\newblock Owl 2 web ontology language primer.
+\newblock {\em W3C recommendation}, 27(1):123.
+
+\bibitem[Hoehndorf et~al., 2011a]{hoehndorf2011common}
+Hoehndorf, R., Dumontier, M., Oellrich, A., Wimalaratne, S., Rebholz-Schuhmann,
+  D., Schofield, P., and Gkoutos, G.~V. (2011a).
+\newblock A common layer of interoperability for biomedical ontologies based on
+  owl el.
+\newblock {\em Bioinformatics}, 27(7):1001--1008.
+
 \bibitem[Hoehndorf et~al., 2007]{hoehndorf2007representing}
 Hoehndorf, R., Loebe, F., Kelso, J., and Herre, H. (2007).
 \newblock Representing default knowledge in biomedical ontologies: Application
   to the integration of anatomy and phenotype ontologies.
 \newblock {\em BMC bioinformatics}, 8(1):377.
 
-\bibitem[Hoehndorf et~al., 2011]{hoehndorf2011phenomenet}
-Hoehndorf, R., Schofield, P.~N., and Gkoutos, G.~V. (2011).
+\bibitem[Hoehndorf et~al., 2011b]{hoehndorf2011phenomenet}
+Hoehndorf, R., Schofield, P.~N., and Gkoutos, G.~V. (2011b).
 \newblock Phenomenet: a whole-phenome approach to disease gene discovery.
 \newblock {\em Nucleic acids research}, 39(18):e119--e119.
 
@@ -230,6 +296,13 @@ Keiser, M.~J., Setola, V., Irwin, J.~J., Laggner, C., Abbas, A.~I., Hufeisen,
 \newblock Predicting new molecular targets for known drugs.
 \newblock {\em Nature}, 462(7270):175--181.
 
+\bibitem[Kim et~al., 2008]{kim2008temporal}
+Kim, S.-K., Song, M.-Y., Kim, C., Yea, S.-J., Jang, H.~C., and Lee, K.-C.
+  (2008).
+\newblock Temporal ontology language for representing and reasoning
+  interval-based temporal knowledge.
+\newblock In {\em The Semantic Web}, pages 31--45. Springer.
+
 \bibitem[Kinnings et~al., 2009]{kinnings2009drug}
 Kinnings, S.~L., Liu, N., Buchmeier, N., Tonge, P.~J., Xie, L., and Bourne,
   P.~E. (2009).
@@ -244,6 +317,12 @@ Krall, J., Fittingoff, M., and Rajfer, J. (1988).
   5-trisphosphate-sensitive calcium-exchange activity of smooth muscle cells
   cultured from the human corpora cavernosa.
 \newblock {\em Biology of reproduction}, 39(4):913--922.
+
+\bibitem[Kr{\"o}tzsch, 2012]{krotzsch2012owl}
+Kr{\"o}tzsch, M. (2012).
+\newblock Owl 2 profiles: An introduction to lightweight ontology languages.
+\newblock In {\em Reasoning Web. Semantic Technologies for Advanced Query
+  Answering}, pages 112--183. Springer.
 
 \bibitem[Kruger et~al., 2012]{kruger2012mapping}
 Kruger, F.~A., Rostom, R., and Overington, J.~P. (2012).
@@ -341,6 +420,10 @@ Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
   integration.
 \newblock {\em Journal of Cheminformatics}, 5(1):30.
 
+\bibitem[Neumann and Burks, 1966]{neumann1966theory}
+Neumann, J.~v. and Burks, A.~W. (1966).
+\newblock Theory of self-reproducing automata.
+
 \bibitem[New-York-Times-Archives, 1998]{nytimes}
 New-York-Times-Archives (March 1998).
 \newblock U.s. approves sale of impotence pill; huge market seen.
@@ -369,6 +452,12 @@ Noeske, T., Sasse, B.~C., Stark, H., Parsons, C.~G., Weil, T., and Schneider,
 \newblock Predicting compound selectivity by self-organizing maps:
   Cross-activities of metabotropic glutamate receptor antagonists.
 \newblock {\em ChemMedChem}, 1(10):1066--1068.
+
+\bibitem[Ong et~al., 2007]{ong2007prevalence}
+Ong, K.~L., Cheung, B.~M., Man, Y.~B., Lau, C.~P., and Lam, K.~S. (2007).
+\newblock Prevalence, awareness, treatment, and control of hypertension among
+  united states adults 1999--2004.
+\newblock {\em Hypertension}, 49(1):69--75.
 
 \bibitem[Paolini et~al., 2006]{paolini2006global}
 Paolini, G.~V., Shapland, R.~H., van Hoorn, W.~P., Mason, J.~S., and Hopkins,
@@ -412,6 +501,13 @@ Stephens, T.~D. and Brynner, R. (2009).
   vital medicine}.
 \newblock Basic Books.
 
+\bibitem[Stevens et~al., 2007]{stevens2007using}
+Stevens, R., Ega{\~n}a~Aranguren, M., Wolstencroft, K., Sattler, U., Drummond,
+  N., Horridge, M., and Rector, A. (2007).
+\newblock Using owl to model biological knowledge.
+\newblock {\em International Journal of Human-Computer Studies},
+  65(7):583--594.
+
 \bibitem[Suthram et~al., 2010]{suthram2010network}
 Suthram, S., Dudley, J.~T., Chiang, A.~P., Chen, R., Hastie, T.~J., and Butte,
   A.~J. (2010).
@@ -424,12 +520,34 @@ Swinney, D.~C. and Anthony, J. (2011).
 \newblock How were new medicines discovered?
 \newblock {\em Nature reviews Drug discovery}, 10(7):507--519.
 
+\bibitem[ter Horst, 2005]{ter2005completeness}
+ter Horst, H.~J. (2005).
+\newblock Completeness, decidability and complexity of entailment for rdf
+  schema and a semantic extension involving the owl vocabulary.
+\newblock {\em Web Semantics: Science, Services and Agents on the World Wide
+  Web}, 3(2):79--115.
+
+\bibitem[Turing, 1950]{turing1950computing}
+Turing, A.~M. (1950).
+\newblock Computing machinery and intelligence.
+\newblock {\em Mind}, pages 433--460.
+
 \bibitem[von Linn{\'e} and Lange, 1770]{von1770systema}
 von Linn{\'e}, C. and Lange, J.~J. (1770).
 \newblock {\em Systema Naturae: Per Regna Tria Naturae, Secundum Classes,
   Ordines, Genera, Species, Cum Characteribus, Differentiis, Synonymis, Locis},
   volume~3.
 \newblock Curt.
+
+\bibitem[W3C, 2014a]{computationalprop}
+W3C (January 2014a).
+\newblock Computational properties of owl2 profiles.
+\newblock \url{http://www.w3.org/TR/owl2-profiles/#Computational_Properties}.
+
+\bibitem[W3C, 2014b]{owlw3c}
+W3C (January 2014b).
+\newblock Owl 2 web ontology language.
+\newblock \url{http://www.w3.org/TR/owl2-overview/}.
 
 \bibitem[Wei et~al., 2006]{wei2006gene}
 Wei, G., Twomey, D., Lamb, J., Schlis, K., Agarwal, J., Stam, R.~W., Opferman,
@@ -459,33 +577,38 @@ Wikipedia (January 2014b).
 \newblock Off-label use.
 \newblock \url{http://en.wikipedia.org/wiki/Off-label_use}.
 
-\bibitem[Wikipedia, 2014c]{ehrlichwiki}
+\bibitem[Wikipedia, 2014c]{ontologywiki}
 Wikipedia (January 2014c).
+\newblock Ontology.
+\newblock \url{http://en.wikipedia.org/wiki/Ontology}.
+
+\bibitem[Wikipedia, 2014d]{ehrlichwiki}
+Wikipedia (January 2014d).
 \newblock Paul ehrlich.
 \newblock \url{http://en.wikipedia.org/wiki/Paul_Ehrlich#Magic_bullet}.
 
-\bibitem[Wikipedia, 2014d]{phenotypewiki}
-Wikipedia (January 2014d).
+\bibitem[Wikipedia, 2014e]{phenotypewiki}
+Wikipedia (January 2014e).
 \newblock Phenotype.
 \newblock \url{http://en.wikipedia.org/wiki/Phenotype}.
 
-\bibitem[Wikipedia, 2014e]{prehistoricwiki}
-Wikipedia (January 2014e).
+\bibitem[Wikipedia, 2014f]{prehistoricwiki}
+Wikipedia (January 2014f).
 \newblock Prehistoric medicine.
 \newblock \url{http://en.wikipedia.org/wiki/Prehistoric_medicine}.
 
-\bibitem[Wikipedia, 2014f]{rubewiki}
-Wikipedia (January 2014f).
+\bibitem[Wikipedia, 2014g]{rubewiki}
+Wikipedia (January 2014g).
 \newblock Rube goldberg machine.
 \newblock \url{http://en.wikipedia.org/wiki/Rube_Goldberg_machine}.
 
-\bibitem[Wikipedia, 2014g]{sciencewiki}
-Wikipedia (January 2014g).
+\bibitem[Wikipedia, 2014h]{sciencewiki}
+Wikipedia (January 2014h).
 \newblock Science.
 \newblock \url{http://en.wikipedia.org/wiki/Science}.
 
-\bibitem[Wikipedia, 2014h]{thermowiki}
-Wikipedia (January 2014h).
+\bibitem[Wikipedia, 2014i]{thermowiki}
+Wikipedia (January 2014i).
 \newblock Thermodynamics.
 \newblock \url{http://en.wikipedia.org/wiki/Thermodynamics}.
 

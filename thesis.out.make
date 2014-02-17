@@ -60,5 +60,30 @@
 \BOOKMARK [2][-]{subsection.3.2.3}{Equivalent definitions}{section.3.2}% 60
 \BOOKMARK [3][-]{subsubsection.3.2.3.1}{Regulatory pattern}{subsection.3.2.3}% 61
 \BOOKMARK [3][-]{subsubsection.3.2.3.2}{Functional pattern}{subsection.3.2.3}% 62
-\BOOKMARK [0][-]{chapter*.42}{Bibliography}{}% 63
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 64
+\BOOKMARK [2][-]{subsection.3.2.4}{Data integration}{section.3.2}% 63
+\BOOKMARK [3][-]{subsubsection.3.2.4.1}{Drugbank}{subsection.3.2.4}% 64
+\BOOKMARK [3][-]{subsubsection.3.2.4.2}{Gene Ontology Annotations \(GOA\)}{subsection.3.2.4}% 65
+\BOOKMARK [2][-]{subsection.3.2.5}{Knowledge base classification}{section.3.2}% 66
+\BOOKMARK [2][-]{subsection.3.2.6}{Evaluation methodology}{section.3.2}% 67
+\BOOKMARK [3][-]{subsubsection.3.2.6.1}{Evaluation Points}{subsection.3.2.6}% 68
+\BOOKMARK [3][-]{subsubsection.3.2.6.2}{True Positives}{subsection.3.2.6}% 69
+\BOOKMARK [3][-]{subsubsection.3.2.6.3}{False Negatives}{subsection.3.2.6}% 70
+\BOOKMARK [3][-]{subsubsection.3.2.6.4}{False Positives}{subsection.3.2.6}% 71
+\BOOKMARK [3][-]{subsubsection.3.2.6.5}{Precision}{subsection.3.2.6}% 72
+\BOOKMARK [3][-]{subsubsection.3.2.6.6}{Recall}{subsection.3.2.6}% 73
+\BOOKMARK [2][-]{subsection.3.2.7}{Semantic similarity}{section.3.2}% 74
+\BOOKMARK [2][-]{subsection.3.2.8}{Mode of action similarity against indication}{section.3.2}% 75
+\BOOKMARK [2][-]{subsection.3.2.9}{Knowledge base specification}{section.3.2}% 76
+\BOOKMARK [3][-]{subsubsection.3.2.9.1}{Core FTC classes}{subsection.3.2.9}% 77
+\BOOKMARK [3][-]{subsubsection.3.2.9.2}{Core FTC properties}{subsection.3.2.9}% 78
+\BOOKMARK [1][-]{section.3.3}{The classification}{chapter.3}% 79
+\BOOKMARK [1][-]{section.3.4}{Evaluation}{chapter.3}% 80
+\BOOKMARK [1][-]{section.3.5}{Exploration}{chapter.3}% 81
+\BOOKMARK [2][-]{subsection.3.5.1}{Polypharmacology spectrum}{section.3.5}% 82
+\BOOKMARK [2][-]{subsection.3.5.2}{Drugs with similar functions have similar indications}{section.3.5}% 83
+\BOOKMARK [1][-]{section.3.6}{Discussion}{chapter.3}% 84
+\BOOKMARK [2][-]{subsection.3.6.1}{Biological assumptions}{section.3.6}% 85
+\BOOKMARK [2][-]{subsection.3.6.2}{Interpreting the evaluation}{section.3.6}% 86
+\BOOKMARK [1][-]{section.3.7}{Summary}{chapter.3}% 87
+\BOOKMARK [0][-]{chapter*.52}{Bibliography}{}% 88
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 89

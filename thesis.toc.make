@@ -74,6 +74,47 @@
 \contentsline {subsubsection}{\numberline {3.2.2.2}Mechanism of Action categories}{97}{subsubsection.3.2.2.2}
 \contentsline {subsection}{\numberline {3.2.3}Equivalent definitions}{97}{subsection.3.2.3}
 \contentsline {subsubsection}{\numberline {3.2.3.1}Regulatory pattern}{97}{subsubsection.3.2.3.1}
-\contentsline {subsubsection}{\numberline {3.2.3.2}Functional pattern}{98}{subsubsection.3.2.3.2}
-\contentsline {chapter}{Bibliography}{114}{chapter*.42}
-\contentsline {chapter}{\numberline {A}Extra Information}{115}{appendix.A}
+\contentsline {subsubsection}{\numberline {3.2.3.2}Functional pattern}{100}{subsubsection.3.2.3.2}
+\contentsline {subsection}{\numberline {3.2.4}Data integration}{101}{subsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.4.1}Drugbank}{101}{subsubsection.3.2.4.1}
+\contentsline {subsubsection}{\numberline {3.2.4.2}Gene Ontology Annotations (GOA)}{104}{subsubsection.3.2.4.2}
+\contentsline {subsection}{\numberline {3.2.5}Knowledge base classification}{104}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Evaluation methodology}{105}{subsection.3.2.6}
+\contentsline {subsubsection}{\numberline {3.2.6.1}Evaluation Points}{106}{subsubsection.3.2.6.1}
+\contentsline {subsubsection}{\numberline {3.2.6.2}True Positives}{107}{subsubsection.3.2.6.2}
+\contentsline {subsubsection}{\numberline {3.2.6.3}False Negatives}{107}{subsubsection.3.2.6.3}
+\contentsline {subsubsection}{\numberline {3.2.6.4}False Positives}{107}{subsubsection.3.2.6.4}
+\contentsline {subsubsection}{\numberline {3.2.6.5}Precision}{107}{subsubsection.3.2.6.5}
+\contentsline {subsubsection}{\numberline {3.2.6.6}Recall}{107}{subsubsection.3.2.6.6}
+\contentsline {subsection}{\numberline {3.2.7}Semantic similarity}{108}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Mode of action similarity against indication}{108}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Knowledge base specification}{109}{subsection.3.2.9}
+\contentsline {subsubsection}{\numberline {3.2.9.1}Core FTC classes}{109}{subsubsection.3.2.9.1}
+\contentsline {paragraph}{molecular function}{109}{subsubsection.3.2.9.1}
+\contentsline {paragraph}{biological process}{109}{subsubsection.3.2.9.1}
+\contentsline {paragraph}{Protein}{109}{subsubsection.3.2.9.1}
+\contentsline {paragraph}{Drug}{110}{subsubsection.3.2.9.1}
+\contentsline {paragraph}{therapeutic agent}{110}{subsubsection.3.2.9.1}
+\contentsline {paragraph}{DrugBank compound}{110}{subsubsection.3.2.9.1}
+\contentsline {subsubsection}{\numberline {3.2.9.2}Core FTC properties}{110}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{part-of}{110}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{has-part}{111}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{regulates}{111}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{negatively-regulates}{111}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{positively-regulates}{111}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{involved-in}{112}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{has-function}{112}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{perturbs}{112}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{negatively-perturbs}{113}{subsubsection.3.2.9.2}
+\contentsline {paragraph}{postively-perturbs}{113}{subsubsection.3.2.9.2}
+\contentsline {section}{\numberline {3.3}The classification}{113}{section.3.3}
+\contentsline {section}{\numberline {3.4}Evaluation}{116}{section.3.4}
+\contentsline {section}{\numberline {3.5}Exploration}{117}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}Polypharmacology spectrum}{117}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Drugs with similar functions have similar indications}{119}{subsection.3.5.2}
+\contentsline {section}{\numberline {3.6}Discussion}{124}{section.3.6}
+\contentsline {subsection}{\numberline {3.6.1}Biological assumptions}{125}{subsection.3.6.1}
+\contentsline {subsection}{\numberline {3.6.2}Interpreting the evaluation}{126}{subsection.3.6.2}
+\contentsline {section}{\numberline {3.7}Summary}{127}{section.3.7}
+\contentsline {chapter}{Bibliography}{142}{chapter*.52}
+\contentsline {chapter}{\numberline {A}Extra Information}{143}{appendix.A}

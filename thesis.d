@@ -173,4 +173,34 @@ thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-5.pdf)
 -include ./Figures/fig3-6.pdf.gpi.d
 thesis.d: $$(call graphics-source,./Figures/fig3-6.pdf)
 thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-6.pdf)
+-include ./Figures/fig3-7.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-7.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-7.pdf)
+-include ./Figures/fig3-8.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-8.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-8.pdf)
+-include ./Figures/fig3-9.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-9.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-9.pdf)
+-include ./Figures/fig3-10.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-10.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-10.pdf)
+-include ./Figures/fig3-11.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-11.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-11.pdf)
+-include ./Figures/fig3-12.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-12.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-12.pdf)
+-include ./Figures/fig3-13.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-13.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-13.pdf)
+-include ./Figures/fig3-14.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-14.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-14.pdf)
+-include ./Figures/fig3-15.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-15.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-15.pdf)
+-include ./Figures/fig3-16.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-16.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-16.pdf)
 thesis.bbl thesis.aux thesis.aux.make: ./thesis.bib

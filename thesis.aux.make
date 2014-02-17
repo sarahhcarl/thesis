@@ -33,23 +33,37 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {2.7}{\ignorespaces Example of problem addressed by description logics. (A) The concept Human is more specific than the concept Mammal (all humans are mammals), which can be represented as embedded sets. (B) Same logic captured, representing the concepts as nodes and the relation as edge. The mathematical meaning of (A) (sets of instances) is more accurate than the meaning of (B), yet both representation can exist in practice, in particular in biology.\relax }}{66}{figure.caption.24}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.8}{\ignorespaces Description logics core entities: (A) Concepts and Individuals: A concept or class is a set containing some individuals. On the example shown, Human is a concept, John and Mary are both distinct individuals. (B) Roles and Individuals: Role are linking two individuals. In the example, John and Mary are still individuals linked by the role "knows", specifying their relationship.\relax }}{69}{figure.caption.25}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.9}{\ignorespaces Examples of description logics axioms, in blue with their graphical representation (concept assertions and inclusion axioms). Axioms specify the semantics linking the basic entities (individuals, concepts and roles). From a series of axioms or knowledge base, it is possible to deduce information. The question "What are the mammals present in the knowledge base?" would return as a result Snowy, but also John and Mary, even if they are not directly declared as such, from the semantics encoded in the axioms.\relax }}{72}{figure.caption.26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.10}{\ignorespaces Parent categories to the FTC class \emph  {Pro-fibrinolysis agent} (FTC\_P0042730). The classification is a direct acyclic graph where categories are describing increasingly specific concepts. Arrows entail subclass relationships between the terms (\emph  {is a} relation).\relax }}{115}{figure.caption.45}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.11}{\ignorespaces Distribution of the direct (blue) and indirect (red) number of MoAs per drug. Means are indicated with a solid line. On average each compound has 13.5 MoAs when only direct classes are considered. The number rises to 61.2 when indirect MoAs are included. Indirect MoAs are the ancestor classes in the taxonomy as shown in Figure XXX. The distribution range is wider when indirect MoAs are considered (range=299; min=7; max=306) versus direct MoAs only (range=79; min=3; max=82). These results emphasises the fact that some drugs are well characterised in databases and could be used for a variety of specific biological tasks. Finally some compounds have been assigned to a small number of FTC categories; in such cases little is known or reported about their pharmacology and repurposing opportunities might be limited.\relax }}{118}{figure.caption.46}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.12}{\ignorespaces Pairwise comparison of MoAs similarities. Therapeutic indications are represented by ATC categories which are the colours on the side. For instance, the compound \emph  {reteplase} (DB00015) has the ATC code B01AD07, which appears as \emph  {B} (dark orange) on the plot. Only the first ATC level is considered. The similarity descriptor ranges from 0 (not similar - white) to 1 (identical - black). Some compounds belong to multiple ATC categories (\emph  {Multiple}) and some others do not have an ATC code (\emph  {NoCategory}). The average similarity of drugs present in the same therapeutic category is significantly higher on average when separately compared to all other indications.\relax }}{120}{figure.caption.47}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.13}{\ignorespaces Pairwise comparison of MoAs similarities. Therapeutic indications are represented by ATC categories which are the colours on the side. Two ATC level are considered on this graph, as opposite to picture 3-10, where only one level was considered. This increased resolution allows to identify more granular square patterns along the diagonal, where drugs from the same groups appear to have higher intensity values (no analyses performed).\relax }}{122}{figure.caption.48}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.14}{\ignorespaces Pairwise comparison of MoAs similarities. Therapeutic indications are represented by ATC categories which are the colours on the side. One ATC level is considered on this graph, just as picture \ref  {fig3-12}. The similarity values are further clustered hierarchical clustering based on the Manhattan distance. This processing of the data enables to see functional clusters of drugs, namely groups of drugs with a similar pharmacology (no analyses presented in this document).\relax }}{123}{figure.caption.49}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.15}{\ignorespaces Control pairwise comparison of MoAs similarities. Therapeutic indications are represented by ATC categories which are the colours on the side. One ATC level is considered on this graph, just as picture \ref  {fig3-12}. Drugs are randomly sorted (yet symmetrically). No visual pattern is observable in this case, as opposed to what is seen on figures \ref  {fig3-12}, \ref  {fig3-13} and \ref  {fig3-14}.\relax }}{124}{figure.caption.50}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.16}{\ignorespaces Pharmacological toolbox analogy. The FTC describes categories inside which drugs can be classified; the classification helps to select the right tool for the right task, similarly to a toolbox.\relax }}{128}{figure.caption.51}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.1}{\ignorespaces Conceptual relationship between a drug, its mode of action (MoA) and disease indication. Because a drug exhibits a certain MoA it is therefore indicated for a diseases, as showed by examples (A) and (B). If a new MoA was discovered for a drug (e.g. ximelagatran with antihistaminic MoA), the compound could be re-indicated accordingly (in this case for hay fever – illustrated by the dashed arrows). In order for such a deduction to be made, MoA categories first have to be represented, and secondly drugs have to be assigned to these categories.\relax }}{94}{figure.caption.36}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.2}{\ignorespaces Regulatory pattern. Equivalent definitions for the concept “Anti-blood coagulation agent”. The concept is asserted as equivalent to either of the boxed expressions. A reasoner can understand such definition and classify drugs accordingly.\relax }}{98}{figure.caption.37}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Example of regulatory pattern. Equivalent definitions for the concept “Pro-blood coagulation agent”. The concept is asserted as equivalent to either of the boxed expressions. A reasoner can understand such definition and classify drugs accordingly.\relax }}{99}{figure.caption.38}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Biological processes of therapeutic interest are perturbed via regulators of the given process; this strategy allows to modulate and tune the effect, rather than blocking it totally. A regulatory process can be seen as a valve controlling the amplitude or frequency of another process, as defined in the Gene Ontology. This characteristic is of interest for drug discovery, it means that the strength of the pharmacological effect is more likely adaptable with the dosage and drug’s concentration.\relax }}{100}{figure.caption.39}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces Example of regulation of the blood coagulation process, as defined in the Gene Ontology. Perturbing the coagulation via a regulator allows to more finely control the therapeutic outcome. See Figure \ref  {fig3-4} for theoretical illustration.\relax }}{101}{figure.caption.40}}
-\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Example of functional patterns; equivalent definitions for the concepts “pro and anti-molecular function agent”. These concepts is asserted as equivalent to either of the boxed expressions. A reasoner can understand such definition and classify drugs accordingly.\relax }}{102}{figure.caption.41}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.3}{\ignorespaces Example of regulatory pattern. Equivalent definitions for the concept “Pro-blood coagulation agent”. The concept is asserted as equivalent to either of the boxed expressions. A reasoner can understand such definition and classify drugs accordingly.\relax }}{98}{figure.caption.38}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.4}{\ignorespaces Biological processes of therapeutic interest are perturbed via regulators of the given process; this strategy allows to modulate and tune the effect, rather than blocking it totally. A regulatory process can be seen as a valve controlling the amplitude or frequency of another process, as defined in the Gene Ontology. This characteristic is of interest for drug discovery, it means that the strength of the pharmacological effect is more likely adaptable with the dosage and drug’s concentration.\relax }}{99}{figure.caption.39}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.5}{\ignorespaces Example of regulation of the blood coagulation process, as defined in the Gene Ontology. Perturbing the coagulation via a regulator allows to more finely control the therapeutic outcome. See Figure \ref  {fig3-4} for theoretical illustration.\relax }}{100}{figure.caption.40}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.6}{\ignorespaces Example of functional patterns; equivalent definitions for the concepts “pro and anti-molecular function agent”. These concepts is asserted as equivalent to either of the boxed expressions. A reasoner can understand such definition and classify drugs accordingly.\relax }}{101}{figure.caption.41}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces The structure of the Anatomical Therapeutic Chemical Classification System (ATC). The classification is composed of 5 levels. The first one describes the main anatomical group, the second one reflects the indication or therapeutic area of the drug. Level 3 handles the pharmacological action, level 4 describes the chemical structure, and finally level 5 contains drug’s names. Examples are provided on the right column (italics) for the drug furosemide.\relax }}{105}{figure.caption.42}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Example of evaluation point. An manual assertion is made between an ATC category (blue) and a FTC class (orange) when the two concepts are semantically equivalent. Then drugs belonging to each of these classes are compared, and the evaluation can be performed.\relax }}{106}{figure.caption.43}}
+\@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces The diagram gives an overview of the integrated resources and building process. (A) The name of FTC categories representing MoAs are directly derived from the GO terms representing the molecular functions and biological processes. (B) Each of the new FTC class has a logical equivalent definition assigned to it (axiom), representing the necessary and sufficient conditions for a drug to be classified in the corresponding MoA class. (C) The content of various databases is incorporated and linked using the FTC specific logical properties. (D) Finally a reasoner classifies the knowledge base and assigns drugs to MoA classes based on whether or not a definition can be satisfied. For example, the drug \emph  {ximelagatran} will be assigned as member of the category \emph  {Anti-blood coagulation agent} because of the logical links \emph  {ximelagatran negatively-perturbs prothrombin} and \emph  {prothrombin involved-in positive regulation of blood coagulation}. The taxonomic structure of the FTC appears also in the reasoning step, from the entailment of the equivalent definitions.\relax }}{114}{figure.caption.44}}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{42}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{43}{table.1.2}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{114}{chapter*.42}}
+\@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Mapping of DrugBank vocabulary to the FTC object properties.\relax }}{103}{table.3.1}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{142}{chapter*.52}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{13}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{51}{chapter.2}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}The Functional Therapeutic Chemical Classification System (Implementation)}{91}{chapter.3}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{115}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{143}{appendix.A}}
+\@writefile{toc}{\contentsline {paragraph}{DrugBank compound}{110}{subsubsection.3.2.9.1}}
+\@writefile{toc}{\contentsline {paragraph}{Drug}{110}{subsubsection.3.2.9.1}}
+\@writefile{toc}{\contentsline {paragraph}{Protein}{109}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Assertional axioms (ABox)}\\}{70}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Concepts}\\}{69}{subsubsection.2.3.3.1}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Existential Restriction ($ \exists $)}\\}{73}{figure.caption.27}}
@@ -59,6 +73,19 @@
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Role composition ($ \circ $)}\\}{75}{figure.caption.28}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Roles}\\}{69}{figure.caption.25}}
 \@writefile{toc}{\contentsline {paragraph}{\textbf  {Terminological axioms (TBox)}\\}{71}{subsubsection.2.3.3.2}}
+\@writefile{toc}{\contentsline {paragraph}{biological process}{109}{subsubsection.3.2.9.1}}
+\@writefile{toc}{\contentsline {paragraph}{has-function}{112}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{has-part}{111}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{involved-in}{112}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{molecular function}{109}{subsubsection.3.2.9.1}}
+\@writefile{toc}{\contentsline {paragraph}{negatively-perturbs}{113}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{negatively-regulates}{111}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{part-of}{110}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{perturbs}{112}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{positively-regulates}{111}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{postively-perturbs}{113}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{regulates}{111}{subsubsection.3.2.9.2}}
+\@writefile{toc}{\contentsline {paragraph}{therapeutic agent}{110}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Relevance of drug repositioning}{14}{section.1.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: Success stories}{19}{section.1.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Computational approaches towards drug repositioning}{23}{section.1.3}}
@@ -70,6 +97,11 @@
 \@writefile{toc}{\contentsline {section}{\numberline {2.5}Summary}{88}{section.2.5}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.1}Introduction}{92}{section.3.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.2}Method and definitions}{95}{section.3.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.3}The classification}{113}{section.3.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.4}Evaluation}{116}{section.3.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.5}Exploration}{117}{section.3.5}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.6}Discussion}{124}{section.3.6}}
+\@writefile{toc}{\contentsline {section}{\numberline {3.7}Summary}{127}{section.3.7}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept assertion\\}{70}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{71}{figure.caption.26}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{71}{subsubsection.2.3.3.2}}
@@ -103,6 +135,16 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2.1}Source code}{95}{subsection.3.2.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2.2}Categories creation}{96}{subsection.3.2.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.2.3}Equivalent definitions}{97}{subsection.3.2.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.4}Data integration}{101}{subsection.3.2.4}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.5}Knowledge base classification}{104}{subsection.3.2.5}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.6}Evaluation methodology}{105}{subsection.3.2.6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.7}Semantic similarity}{108}{subsection.3.2.7}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.8}Mode of action similarity against indication}{108}{subsection.3.2.8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2.9}Knowledge base specification}{109}{subsection.3.2.9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.1}Polypharmacology spectrum}{117}{subsection.3.5.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Drugs with similar functions have similar indications}{119}{subsection.3.5.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.1}Biological assumptions}{125}{subsection.3.6.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6.2}Interpreting the evaluation}{126}{subsection.3.6.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{48}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{48}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{48}{subsubsection.1.4.2.3}}
@@ -122,7 +164,17 @@
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.2.1}Mode of Action categories}{96}{subsubsection.3.2.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.2.2}Mechanism of Action categories}{97}{subsubsection.3.2.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.3.1}Regulatory pattern}{97}{subsubsection.3.2.3.1}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.3.2}Functional pattern}{98}{subsubsection.3.2.3.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.3.2}Functional pattern}{100}{subsubsection.3.2.3.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.4.1}Drugbank}{101}{subsubsection.3.2.4.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.4.2}Gene Ontology Annotations (GOA)}{104}{subsubsection.3.2.4.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.6.1}Evaluation Points}{106}{subsubsection.3.2.6.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.6.2}True Positives}{107}{subsubsection.3.2.6.2}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.6.3}False Negatives}{107}{subsubsection.3.2.6.3}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.6.4}False Positives}{107}{subsubsection.3.2.6.4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.6.5}Precision}{107}{subsubsection.3.2.6.5}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.6.6}Recall}{107}{subsubsection.3.2.6.6}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.9.1}Core FTC classes}{109}{subsubsection.3.2.9.1}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {3.2.9.2}Core FTC properties}{110}{subsubsection.3.2.9.2}}
 \@writefile{toc}{\thispagestyle {empty}}
 \AtEndDocument{\ifx\hyper@anchor\@undefined
 \HyperFirstAtBeginDocument{\ifx\hyper@anchor\@undefined
@@ -174,6 +226,8 @@
 \citation{de2010binding}
 \citation{de2010binding}
 \citation{dimasi2001new}
+\citation{dimmer2012uniprot}
+\citation{dimmer2012uniprot}
 \citation{disjointw3c}
 \citation{dreger1998ambiguous}
 \citation{dudley2011computational}
@@ -195,6 +249,7 @@
 \citation{ghofrani2006sildenafil}
 \citation{gillespie2007stochastic}
 \citation{golbreich2006foundational}
+\citation{gonccalves2013owl}
 \citation{gonccalves2013owl}
 \citation{gorels}
 \citation{gorels}
@@ -218,6 +273,8 @@
 \citation{hoehndorf2011common}
 \citation{hoehndorf2011common}
 \citation{hoehndorf2011phenomenet}
+\citation{hoehndorf2011phenomenet}
+\citation{hoehndorf2012identifying}
 \citation{hopkins2008network}
 \citation{hopkins2008network}
 \citation{horridge2006manchester}
@@ -228,8 +285,10 @@
 \citation{iorio2010discovery}
 \citation{iorio2010discovery}
 \citation{iorio2010discovery}
+\citation{jaccard1912distribution}
 \citation{johnson1990concepts}
 \citation{jordan1987effects}
+\citation{jupp2012logical}
 \citation{jupp2012logical}
 \citation{kathiresan2008six}
 \citation{kazakov2013incredible}
@@ -241,6 +300,7 @@
 \citation{kim2008temporal}
 \citation{kinnings2009drug}
 \citation{kinnings2009drug}
+\citation{knox2011drugbank}
 \citation{knublauch2005protege}
 \citation{krall1988characterization}
 \citation{krotzsch2012owl}
@@ -248,6 +308,7 @@
 \citation{krotzsch2012owl}
 \citation{krotzsch2012owl}
 \citation{krotzsch2012owl}
+\citation{kruger2012mapping}
 \citation{kruger2012mapping}
 \citation{kunkel2011mrna}
 \citation{kunkel2011mrna}
@@ -275,6 +336,7 @@
 \citation{meng2004modeling}
 \citation{meng2004modeling}
 \citation{meng2004modeling}
+\citation{motik2009owl}
 \citation{mungall2010integrating}
 \citation{mungall2011cross}
 \citation{napolitano2013drug}
@@ -300,6 +362,7 @@
 \citation{ravasz2002hierarchical}
 \citation{renaud2002erectile}
 \citation{renaud2002erectile}
+\citation{rogers1960computer}
 \citation{rubewiki}
 \citation{rubewiki}
 \citation{sampaio1991thalidomide}
@@ -322,10 +385,13 @@
 \citation{suthram2010network}
 \citation{swinney2011were}
 \citation{swinney2011were}
+\citation{teo2005thalidomide}
 \citation{ter2005completeness}
+\citation{therapontos2009thalidomide}
 \citation{thermowiki}
 \citation{tirmizi2011mapping}
 \citation{turing1950computing}
+\citation{uniprot2013update}
 \citation{uniprot2013update}
 \citation{vempati2012formalization}
 \citation{villanueva2008yowl}
@@ -334,6 +400,8 @@
 \citation{wei2006gene}
 \citation{wermuth2006selective}
 \citation{whirl2012pharmacogenomics}
+\citation{williams2012open}
+\citation{world2006anatomical}
 \citation{world2006anatomical}
 \citation{yang2011systematic}
 \citation{zahler2007inverse}
@@ -353,6 +421,7 @@
 \newlabel{catfunc}
 \newlabel{complexity}
 \newlabel{coredl}
+\newlabel{evaluation}
 \newlabel{exists}
 \newlabel{expression}
 \newlabel{fig1-10}
@@ -386,19 +455,32 @@
 \newlabel{fig2-7}
 \newlabel{fig2-8}
 \newlabel{fig2-9}
+\newlabel{fig3-10}
+\newlabel{fig3-11}
+\newlabel{fig3-12}
+\newlabel{fig3-13}
+\newlabel{fig3-14}
+\newlabel{fig3-15}
+\newlabel{fig3-16}
 \newlabel{fig3-1}
 \newlabel{fig3-2}
 \newlabel{fig3-3}
 \newlabel{fig3-4}
 \newlabel{fig3-5}
 \newlabel{fig3-6}
+\newlabel{fig3-7}
+\newlabel{fig3-8}
+\newlabel{fig3-9}
 \newlabel{intersection}
+\newlabel{mappings}
+\newlabel{method}
 \newlabel{reqdef}
 \newlabel{reqdyn}
 \newlabel{reqhie}
 \newlabel{reqmath}
 \newlabel{reqscale}
 \newlabel{sec:opp}
+\newlabel{specskb}
 \newlabel{table1}
 \newlabel{table2}
 \providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}

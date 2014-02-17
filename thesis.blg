@@ -5,45 +5,45 @@ The style file: apalike.bst
 Database file #1: thesis.bib
 Warning--empty journal in baader2008pushing
 Warning--empty journal in neumann1966theory
-You've used 128 entries,
+You've used 134 entries,
             1935 wiz_defined-function locations,
-            1135 strings with 27670 characters,
-and the built_in function-call counts, 55541 in all, are:
-= -- 5300
-> -- 2953
-< -- 70
-+ -- 1087
-- -- 1042
-* -- 5080
-:= -- 9854
-add.period$ -- 385
-call.type$ -- 128
-change.case$ -- 1139
-chr.to.int$ -- 115
-cite$ -- 130
-duplicate$ -- 1804
-empty$ -- 3444
-format.name$ -- 1213
-if$ -- 10524
-int.to.chr$ -- 14
+            1160 strings with 28775 characters,
+and the built_in function-call counts, 58373 in all, are:
+= -- 5573
+> -- 3106
+< -- 73
++ -- 1150
+- -- 1096
+* -- 5334
+:= -- 10341
+add.period$ -- 403
+call.type$ -- 134
+change.case$ -- 1194
+chr.to.int$ -- 120
+cite$ -- 136
+duplicate$ -- 1900
+empty$ -- 3613
+format.name$ -- 1276
+if$ -- 11069
+int.to.chr$ -- 15
 int.to.str$ -- 0
-missing$ -- 113
-newline$ -- 641
-num.names$ -- 384
-pop$ -- 924
+missing$ -- 119
+newline$ -- 671
+num.names$ -- 402
+pop$ -- 970
 preamble$ -- 1
-purify$ -- 1144
+purify$ -- 1199
 quote$ -- 0
-skip$ -- 1385
+skip$ -- 1465
 stack$ -- 0
-substring$ -- 3658
-swap$ -- 174
-text.length$ -- 12
+substring$ -- 3850
+swap$ -- 193
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 758
+type$ -- 794
 warning$ -- 2
-while$ -- 427
+while$ -- 448
 width$ -- 0
-write$ -- 1636
+write$ -- 1713
 (There were 2 warnings)

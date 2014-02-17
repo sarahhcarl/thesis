@@ -1,4 +1,5 @@
 \newlabel{approaches}
+\newlabel{catfunc}
 \newlabel{complexity}
 \newlabel{coredl}
 \newlabel{exists}
@@ -34,6 +35,12 @@
 \newlabel{fig2-7}
 \newlabel{fig2-8}
 \newlabel{fig2-9}
+\newlabel{fig3-1}
+\newlabel{fig3-2}
+\newlabel{fig3-3}
+\newlabel{fig3-4}
+\newlabel{fig3-5}
+\newlabel{fig3-6}
 \newlabel{intersection}
 \newlabel{reqdef}
 \newlabel{reqdyn}

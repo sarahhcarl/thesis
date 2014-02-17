@@ -98,10 +98,15 @@ Consortium, U. et~al. (2013).
   2013.
 \newblock {\em Nucleic acids research}, 41(D1):D43--D47.
 
-\bibitem[Croset et~al., 2013]{croset2013brain}
-Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013).
+\bibitem[Croset et~al., 2013a]{croset2013brain}
+Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013a).
 \newblock Brain: biomedical knowledge manipulation.
 \newblock {\em Bioinformatics}, 29(9):1238--1239.
+
+\bibitem[Croset et~al., 2013b]{croset2013functional}
+Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013b).
+\newblock The functional therapeutic chemical classification system.
+\newblock {\em Bioinformatics}, page btt628.
 
 \bibitem[Darwin and Bynum, 2009]{darwin2009origin}
 Darwin, C. and Bynum, W.~F. (2009).
@@ -256,6 +261,13 @@ Hanage, W.~P. (2013).
 Hartwell, L.~H., Hopfield, J.~J., Leibler, S., and Murray, A.~W. (1999).
 \newblock From molecular to modular cell biology.
 \newblock {\em Nature}, 402:C47--C52.
+
+\bibitem[Hastings et~al., 2013]{hastings2013chebi}
+Hastings, J., de~Matos, P., Dekker, A., Ennis, M., Harsha, B., Kale, N.,
+  Muthukrishnan, V., Owen, G., Turner, S., Williams, M., et~al. (2013).
+\newblock The chebi reference database and ontology for biologically relevant
+  chemistry: enhancements for 2013.
+\newblock {\em Nucleic acids research}, 41(D1):D456--D463.
 
 \bibitem[Haupt and Schroeder, 2011]{haupt2011old}
 Haupt, V.~J. and Schroeder, M. (2011).
@@ -476,6 +488,13 @@ Matthews, L., Gopinath, G., Gillespie, M., Caudy, M., Croft, D., de~Bono, B.,
 \newblock Reactome knowledgebase of human biological pathways and processes.
 \newblock {\em Nucleic acids research}, 37(suppl 1):D619--D622.
 
+\bibitem[Medina-Franco et~al., 2013]{medina2013shifting}
+Medina-Franco, J.~L., Giulianotti, M.~A., Welmaker, G.~S., and Houghten, R.~A.
+  (2013).
+\newblock Shifting from the single to the multitarget paradigm in drug
+  discovery.
+\newblock {\em Drug discovery today}, 18(9):495--501.
+
 \bibitem[Men et~al., 2010]{men20101}
 Men, A., Le, C., Charlab, R., Gobburu, J., and Lesko, L. (2010).
 \newblock 1: Sardana d, zhu c, zhang m, gudivada rc, yang l, jegga ag. drug
@@ -511,6 +530,13 @@ Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
 \newblock Drug repositioning: A machine-learning approach through data
   integration.
 \newblock {\em Journal of Cheminformatics}, 5(1):30.
+
+\bibitem[Nelson et~al., 2004]{nelson2004mesh}
+Nelson, S.~J., Schopen, M., Savage, A.~G., Schulman, J.-L., and Arluk, N.
+  (2004).
+\newblock The mesh translation maintenance system: structure, interface design,
+  and implementation.
+\newblock {\em Medinfo}, 11(Pt 1):67--69.
 
 \bibitem[Neumann and Burks, 1966]{neumann1966theory}
 Neumann, J.~v. and Burks, A.~W. (1966).
@@ -556,6 +582,12 @@ Ong, K.~L., Cheung, B.~M., Man, Y.~B., Lau, C.~P., and Lam, K.~S. (2007).
   united states adults 1999--2004.
 \newblock {\em Hypertension}, 49(1):69--75.
 
+\bibitem[Organization et~al., 2006]{world2006anatomical}
+Organization, W.~H. et~al. (2006).
+\newblock The anatomical therapeutic chemical classification system with
+  defined daily doses (atc/ddd).
+\newblock {\em Norway: WHO}.
+
 \bibitem[Paolini et~al., 2006]{paolini2006global}
 Paolini, G.~V., Shapland, R.~H., van Hoorn, W.~P., Mason, J.~S., and Hopkins,
   A.~L. (2006).
@@ -584,6 +616,11 @@ Sanseau, P., Agarwal, P., Barnes, M.~R., Pastinen, T., Richards, J.~B., Cardon,
   L.~R., and Mooser, V. (2012).
 \newblock Use of genome-wide association studies for drug repositioning.
 \newblock {\em Nature biotechnology}, 30(4):317--320.
+
+\bibitem[Sanseau and Koehler, 2011]{sanseau2011editorial}
+Sanseau, P. and Koehler, J. (2011).
+\newblock Editorial: Computational methods for drug repurposing.
+\newblock {\em Briefings in bioinformatics}, 12(4):301--302.
 
 \bibitem[Schulz and Jansen, 2013]{schulz2013formal}
 Schulz, S. and Jansen, L. (2013).

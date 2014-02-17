@@ -49,6 +49,7 @@ thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,03Abstract.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,04Acknowledgments.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,11Chapter1.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,12Chapter2.tex)
+thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,13Chapter3.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,21Appendix.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,22Index.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,cam-thesis.cls)
@@ -154,4 +155,22 @@ thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig2-17.pdf)
 -include ./Figures/fig2-18.pdf.gpi.d
 thesis.d: $$(call graphics-source,./Figures/fig2-18.pdf)
 thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig2-18.pdf)
+-include ./Figures/fig3-1.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-1.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-1.pdf)
+-include ./Figures/fig3-2.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-2.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-2.pdf)
+-include ./Figures/fig3-3.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-3.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-3.pdf)
+-include ./Figures/fig3-4.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-4.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-4.pdf)
+-include ./Figures/fig3-5.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-5.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-5.pdf)
+-include ./Figures/fig3-6.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig3-6.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-6.pdf)
 thesis.bbl thesis.aux thesis.aux.make: ./thesis.bib

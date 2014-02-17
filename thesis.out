@@ -50,5 +50,15 @@
 \BOOKMARK [2][-]{subsection.2.4.2}{Integration with databases}{section.2.4}% 50
 \BOOKMARK [2][-]{subsection.2.4.3}{Brain library - implementing programmatic solutions}{section.2.4}% 51
 \BOOKMARK [1][-]{section.2.5}{Summary}{chapter.2}% 52
-\BOOKMARK [0][-]{chapter*.36}{Bibliography}{}% 53
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 54
+\BOOKMARK [0][-]{chapter.3}{The Functional Therapeutic Chemical Classification System \(Implementation\)}{}% 53
+\BOOKMARK [1][-]{section.3.1}{Introduction}{chapter.3}% 54
+\BOOKMARK [1][-]{section.3.2}{Method and definitions}{chapter.3}% 55
+\BOOKMARK [2][-]{subsection.3.2.1}{Source code}{section.3.2}% 56
+\BOOKMARK [2][-]{subsection.3.2.2}{Categories creation}{section.3.2}% 57
+\BOOKMARK [3][-]{subsubsection.3.2.2.1}{Mode of Action categories}{subsection.3.2.2}% 58
+\BOOKMARK [3][-]{subsubsection.3.2.2.2}{Mechanism of Action categories}{subsection.3.2.2}% 59
+\BOOKMARK [2][-]{subsection.3.2.3}{Equivalent definitions}{section.3.2}% 60
+\BOOKMARK [3][-]{subsubsection.3.2.3.1}{Regulatory pattern}{subsection.3.2.3}% 61
+\BOOKMARK [3][-]{subsubsection.3.2.3.2}{Functional pattern}{subsection.3.2.3}% 62
+\BOOKMARK [0][-]{chapter*.42}{Bibliography}{}% 63
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 64

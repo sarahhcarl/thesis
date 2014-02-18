@@ -13,3 +13,7 @@ http://en.wikipedia.org/wiki/List_of_mathematical_symbols
 http://www.proofwiki.org/wiki/Symbols:Set_Operations_and_Relations
 http://www.artofproblemsolving.com/Wiki/index.php/LaTeX:Symbols
 
+
+refs to (ch3):
+specs
+interpreting

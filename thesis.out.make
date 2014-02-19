@@ -85,5 +85,12 @@
 \BOOKMARK [2][-]{subsection.3.6.1}{Biological assumptions}{section.3.6}% 85
 \BOOKMARK [2][-]{subsection.3.6.2}{Interpreting the evaluation}{section.3.6}% 86
 \BOOKMARK [1][-]{section.3.7}{Summary}{chapter.3}% 87
-\BOOKMARK [0][-]{chapter*.52}{Bibliography}{}% 88
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 89
+\BOOKMARK [0][-]{chapter.4}{Systematic drug repositioning analysis}{}% 88
+\BOOKMARK [1][-]{section.4.1}{Introduction}{chapter.4}% 89
+\BOOKMARK [1][-]{section.4.2}{Structure, function and indication of drugs}{chapter.4}% 90
+\BOOKMARK [2][-]{subsection.4.2.1}{Structural descriptor selection}{section.4.2}% 91
+\BOOKMARK [2][-]{subsection.4.2.2}{Dissimilar structures have dissimilar functions}{section.4.2}% 92
+\BOOKMARK [2][-]{subsection.4.2.3}{The more specific an indication is, the more similar the function and structure are}{section.4.2}% 93
+\BOOKMARK [2][-]{subsection.4.2.4}{The more specific an indication is, the more similar the function and structure are}{section.4.2}% 94
+\BOOKMARK [0][-]{chapter*.60}{Bibliography}{}% 95
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 96

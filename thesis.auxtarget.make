@@ -52,6 +52,15 @@
 \newlabel{fig3-7}
 \newlabel{fig3-8}
 \newlabel{fig3-9}
+\newlabel{fig4-1}
+\newlabel{fig4-2}
+\newlabel{fig4-3}
+\newlabel{fig4-4}
+\newlabel{fig4-5}
+\newlabel{fig4-6}
+\newlabel{fig4-7}
+\newlabel{fig4-8}
+\newlabel{fpmethods}
 \newlabel{intersection}
 \newlabel{mappings}
 \newlabel{method}
@@ -64,3 +73,4 @@
 \newlabel{specskb}
 \newlabel{table1}
 \newlabel{table2}
+\newlabel{tablespecind}

@@ -50,6 +50,7 @@ thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,04Acknowledgmen
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,11Chapter1.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,12Chapter2.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,13Chapter3.tex)
+thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,14Chapter4.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,21Appendix.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,22Index.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,cam-thesis.cls)
@@ -203,4 +204,28 @@ thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-15.pdf)
 -include ./Figures/fig3-16.pdf.gpi.d
 thesis.d: $$(call graphics-source,./Figures/fig3-16.pdf)
 thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig3-16.pdf)
+-include ./Figures/fig4-1.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-1.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-1.pdf)
+-include ./Figures/fig4-2.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-2.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-2.pdf)
+-include ./Figures/fig4-3.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-3.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-3.pdf)
+-include ./Figures/fig4-4.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-4.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-4.pdf)
+-include ./Figures/fig4-5.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-5.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-5.pdf)
+-include ./Figures/fig4-6.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-6.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-6.pdf)
+-include ./Figures/fig4-7.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-7.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-7.pdf)
+-include ./Figures/fig4-8.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-8.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-8.pdf)
 thesis.bbl thesis.aux thesis.aux.make: ./thesis.bib

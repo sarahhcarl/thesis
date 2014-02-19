@@ -116,5 +116,12 @@
 \contentsline {subsection}{\numberline {3.6.1}Biological assumptions}{125}{subsection.3.6.1}
 \contentsline {subsection}{\numberline {3.6.2}Interpreting the evaluation}{126}{subsection.3.6.2}
 \contentsline {section}{\numberline {3.7}Summary}{127}{section.3.7}
-\contentsline {chapter}{Bibliography}{142}{chapter*.52}
-\contentsline {chapter}{\numberline {A}Extra Information}{143}{appendix.A}
+\contentsline {chapter}{\numberline {4}Systematic drug repositioning analysis}{129}{chapter.4}
+\contentsline {section}{\numberline {4.1}Introduction}{130}{section.4.1}
+\contentsline {section}{\numberline {4.2}Structure, function and indication of drugs}{131}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Structural descriptor selection}{131}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Dissimilar structures have dissimilar functions}{135}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}The more specific an indication is, the more similar the function and structure are}{138}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}The more specific an indication is, the more similar the function and structure are}{146}{subsection.4.2.4}
+\contentsline {chapter}{Bibliography}{160}{chapter*.60}
+\contentsline {chapter}{\numberline {A}Extra Information}{161}{appendix.A}

@@ -2,6 +2,7 @@
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces Drug repositioning using disease relationships (diseasome). The similarity between two diseases (A) can be calculated by looking at the shared drugs used for the treatment of these diseases (B) or at the commonly shared pathways (C). When applied to all diseases, one can build a “diseasome” or disease map, useful to relate indications and find drug repositioning opportunities.\relax }}{38}{figure.caption.14}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.11}{\ignorespaces Drug repositioning using a combination of descriptors. A machine learning algorithm is trained over a series of features, such as chemical similarity, shared target proteins, etc… After evaluation of the model, some repositioning predictions can be generated from the statistical learning.\relax }}{39}{figure.caption.15}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.12}{\ignorespaces Evolution trend of the documents related to drug repositioning. Standardised frequency: Number of documents indexed on PubMed for a search divided by the total number of articles published the same year. The higher, the more popular a topic is. The frequency increases with the time for both searches, showing a growing interest in the domain.\relax }}{44}{figure.caption.16}}
@@ -49,6 +50,15 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {3.7}{\ignorespaces The structure of the Anatomical Therapeutic Chemical Classification System (ATC). The classification is composed of 5 levels. The first one describes the main anatomical group, the second one reflects the indication or therapeutic area of the drug. Level 3 handles the pharmacological action, level 4 describes the chemical structure, and finally level 5 contains drug’s names. Examples are provided on the right column (italics) for the drug furosemide.\relax }}{105}{figure.caption.42}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.8}{\ignorespaces Example of evaluation point. An manual assertion is made between an ATC category (blue) and a FTC class (orange) when the two concepts are semantically equivalent. Then drugs belonging to each of these classes are compared, and the evaluation can be performed.\relax }}{106}{figure.caption.43}}
 \@writefile{lof}{\contentsline {figure}{\numberline {3.9}{\ignorespaces The diagram gives an overview of the integrated resources and building process. (A) The name of FTC categories representing MoAs are directly derived from the GO terms representing the molecular functions and biological processes. (B) Each of the new FTC class has a logical equivalent definition assigned to it (axiom), representing the necessary and sufficient conditions for a drug to be classified in the corresponding MoA class. (C) The content of various databases is incorporated and linked using the FTC specific logical properties. (D) Finally a reasoner classifies the knowledge base and assigns drugs to MoA classes based on whether or not a definition can be satisfied. For example, the drug \emph  {ximelagatran} will be assigned as member of the category \emph  {Anti-blood coagulation agent} because of the logical links \emph  {ximelagatran negatively-perturbs prothrombin} and \emph  {prothrombin involved-in positive regulation of blood coagulation}. The taxonomic structure of the FTC appears also in the reasoning step, from the entailment of the equivalent definitions.\relax }}{114}{figure.caption.44}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.1}{\ignorespaces Kernel density distribution for various chemical fingerprinting (FP) methods. All the methods have been applied as implemented in the CDK (cf material and methods). Each approved drug was compared against all other approved drugs (pairwise comparison), in order to determine which methodology provides the most suitable distribution to study the dataset.\relax }}{133}{figure.caption.52}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.2}{\ignorespaces Functional against structural similarity values for approved drugs. Each drug is compared against all other drugs (pairwise comparison) using both the structural and functional descriptors and corresponding to one dot or data point on the graph. Two different arbitrary thresholds are applied, represented by the blue and orange lines on the graph. The blue line separates the fairly similar values (\textgreater 0.6) from the rest, and the orange ones split up the highly similar (\textgreater 0.85) from the rest of the dataset. The graph is divided and labelled into 4 sections, identified by letters on the figure. The numbers of data points present in each one of these areas are listed on the table below the plot. The kernel density distribution are plotted on the side of the axis (qualitative) in order to appreciate the distribution of the data.\relax }}{136}{figure.caption.53}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.3}{\ignorespaces Specificity of the indication of a drug as represented in the ATC. The ATC captures drug’s indication and is organised over 5 levels (only 4 shown here for clarity), 1 being the highest and most generic level. When descending the tree, the specificity of the indication or action increases. Pairs of drugs can be flagged as belonging to either the same or different ATC category, depending on the level considered (resolution). Three examples are given on the figure in this regards, for the drugs A, B and C. For instance, when only the level 1 is considered, all pairs of drugs are present in the same category (“Cardiovascular system”). When the level 2 is considered, the pair of drugs A and B still belong to the same category (“Diuretics”), but these two drugs are not sharing the indication of drug 3, “Cardiac therapy”. At a resolution of the level 3, each drug has a separate indication/action.\relax }}{139}{figure.caption.54}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.4}{\ignorespaces Distribution of the functional and structural similarity values for pairs of drugs present in the same ATC categories (same indication). The different panels reflect the increasing specificity of the indication of the drugs. X axes is the structural similarity and Y axes is the functional similarity (calculated as with previous graphs). (A) 1 ATC level resolution. (B) 2 ATC level resolution. (C) 3 ATC level resolution. (D) 4 ATC level resolution. Conceptual explanation of resolution and levels is available on figure \ref  {fig4-3}. When the specificity of the indication increases (resolution increasing), the average functional and structural similarity values increases too (black lines).\relax }}{140}{figure.caption.55}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.5}{\ignorespaces Distribution of the functional and structural similarity values for pairs of drugs present in the same ATC categories (same indication). The different panels reflect the increasing specificity of the indication of the drugs. X axes is the structural similarity and Y axes is the functional similarity (calculated as with previous graphs). (A) 1 ATC level resolution. (B) 2 ATC level resolution. (C) 3 ATC level resolution. (D) 4 ATC level resolution. Conceptual explanation of resolution and levels is available on Figure 4-3. When the specificity of the indication increases (resolution increasing), the average functional and structural similarity values increases too (black lines).\relax }}{141}{figure.caption.56}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.6}{\ignorespaces Kernel density distribution of the structural similarity values for drugs sharing an indication. All ATC categories have been considered. Each curve represent an ATC resolution level, as indicated on the legend. Conceptual explanation of resolution levels is available on Figure \ref  {fig4-3}. Solid vertical lines are the corresponding means. This graph shows that with an increasingly specific indication (increasing resolution) the average structural similarity values increase too.\relax }}{142}{figure.caption.57}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Kernel density distribution of the functional similarity values for drugs sharing an indication. All ATC categories have been considered. Each curve represent an ATC resolution level, as indicated on the legend. Conceptual explanation of resolution levels is available on Figure \ref  {fig4-3}. Solid vertical lines are the corresponding means. This graph shows that with an increasingly specific indication (increasing resolution) the average functional similarity values increase too.\relax }}{143}{figure.caption.58}}
+\@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Example of pair of drugs with low structural and functional similarity values, yet classified in the same ATC category and used for the same clinical indication (“platelet aggregation inhibitors”). (A) Chemical structure and list of FTC categories inside which the dipyridamole was classified. (B) Molecular structure and list of FTC categories inside which the epoprostenol molecule was classified. These two drugs do not share any of the FTC categories listed (functional similarity = 0.10) and their molecular structures are dissimilar (structural similarity = 0.14).\relax }}{145}{figure.caption.59}}
+\@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -56,11 +66,14 @@
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{42}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{43}{table.1.2}}
 \@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Mapping of DrugBank vocabulary to the FTC object properties.\relax }}{103}{table.3.1}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{142}{chapter*.52}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Correlation values between various fingerprinting methodologies. "Mean corr." stands for the mean value of the correlation coefficients. "Ext." stand for Extended fingerprinter, "Hybrid." for Hybridization. "Range" describes the interquartile range (Qu.3 - Qu.1)\relax }}{134}{table.4.1}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Evolution of the specificity of indication with the ATC levels. Increasingly similar indications have increasingly similar functional and structural values. The functional and structural similarity values are not evolving when increasingly different indications are considered.\relax }}{142}{table.4.2}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{160}{chapter*.60}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{13}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{51}{chapter.2}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}The Functional Therapeutic Chemical Classification System (Implementation)}{91}{chapter.3}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{143}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {4}Systematic drug repositioning analysis}{129}{chapter.4}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{161}{appendix.A}}
 \@writefile{toc}{\contentsline {paragraph}{DrugBank compound}{110}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Drug}{110}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Protein}{109}{subsubsection.3.2.9.1}}
@@ -102,6 +115,8 @@
 \@writefile{toc}{\contentsline {section}{\numberline {3.5}Exploration}{117}{section.3.5}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.6}Discussion}{124}{section.3.6}}
 \@writefile{toc}{\contentsline {section}{\numberline {3.7}Summary}{127}{section.3.7}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.1}Introduction}{130}{section.4.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {4.2}Structure, function and indication of drugs}{131}{section.4.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept assertion\\}{70}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{71}{figure.caption.26}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{71}{subsubsection.2.3.3.2}}
@@ -145,6 +160,10 @@
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.5.2}Drugs with similar functions have similar indications}{119}{subsection.3.5.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.6.1}Biological assumptions}{125}{subsection.3.6.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {3.6.2}Interpreting the evaluation}{126}{subsection.3.6.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.1}Structural descriptor selection}{131}{subsection.4.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.2}Dissimilar structures have dissimilar functions}{135}{subsection.4.2.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.3}The more specific an indication is, the more similar the function and structure are}{138}{subsection.4.2.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2.4}The more specific an indication is, the more similar the function and structure are}{146}{subsection.4.2.4}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{48}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{48}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{48}{subsubsection.1.4.2.3}}
@@ -203,6 +222,7 @@
 \citation{barratt2012drug}
 \citation{barratt2012drug}
 \citation{barratt2012drug}
+\citation{barratt2012drug}
 \citation{berners2001semantic}
 \citation{black1994raloxifene}
 \citation{bodenreider2004unified}
@@ -212,6 +232,7 @@
 \citation{campillos2008drug}
 \citation{campillos2008drug}
 \citation{campillos2008drug}
+\citation{chemsimwiki}
 \citation{chiang2009systematic}
 \citation{chiang2009systematic}
 \citation{cmap}
@@ -287,6 +308,8 @@
 \citation{iorio2010discovery}
 \citation{jaccard1912distribution}
 \citation{johnson1990concepts}
+\citation{johnson1990concepts}
+\citation{johnson1990concepts}
 \citation{jordan1987effects}
 \citation{jupp2012logical}
 \citation{jupp2012logical}
@@ -310,6 +333,7 @@
 \citation{krotzsch2012owl}
 \citation{kruger2012mapping}
 \citation{kruger2012mapping}
+\citation{kubinyi1998similarity}
 \citation{kunkel2011mrna}
 \citation{kunkel2011mrna}
 \citation{lamb2006connectivity}
@@ -328,6 +352,7 @@
 \citation{lord2013semantic}
 \citation{lounkine2012large}
 \citation{machado2011modeling}
+\citation{martin2002structurally}
 \citation{masswiki}
 \citation{matthews2009reactome}
 \citation{medina2013shifting}
@@ -342,6 +367,7 @@
 \citation{napolitano2013drug}
 \citation{napolitano2013drug}
 \citation{nelson2004mesh}
+\citation{nettles2006bridging}
 \citation{neumann1966theory}
 \citation{nielsen1999ultratrace}
 \citation{noeske2006predicting}
@@ -390,6 +416,7 @@
 \citation{therapontos2009thalidomide}
 \citation{thermowiki}
 \citation{tirmizi2011mapping}
+\citation{todeschini2009molecular}
 \citation{turing1950computing}
 \citation{uniprot2013update}
 \citation{uniprot2013update}

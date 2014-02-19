@@ -441,6 +441,11 @@ Kruger, F.~A., Rostom, R., and Overington, J.~P. (2012).
 \newblock Mapping small molecule binding data to structural domains.
 \newblock {\em BMC bioinformatics}, 13(Suppl 17):S11.
 
+\bibitem[Kubinyi, 1998]{kubinyi1998similarity}
+Kubinyi, H. (1998).
+\newblock Similarity and dissimilarity: a medicinal chemist's view.
+\newblock {\em Perspectives in Drug Discovery and Design}, 9:225--252.
+
 \bibitem[Kunkel et~al., 2011]{kunkel2011mrna}
 Kunkel, S.~D., Suneja, M., Ebert, S.~M., Bongers, K.~S., Fox, D.~K., Malmberg,
   S.~E., Alipour, F., Shields, R.~K., and Adams, C.~M. (2011).
@@ -507,6 +512,11 @@ Machado, D., Costa, R.~S., Rocha, M., Ferreira, E.~C., Tidor, B., and Rocha, I.
 \newblock Modeling formalisms in systems biology.
 \newblock {\em AMB Express}, 1(1):1--14.
 
+\bibitem[Martin et~al., 2002]{martin2002structurally}
+Martin, Y.~C., Kofron, J.~L., and Traphagen, L.~M. (2002).
+\newblock Do structurally similar molecules have similar biological activity?
+\newblock {\em Journal of medicinal chemistry}, 45(19):4350--4358.
+
 \bibitem[Matthews et~al., 2009]{matthews2009reactome}
 Matthews, L., Gopinath, G., Gillespie, M., Caudy, M., Croft, D., de~Bono, B.,
   Garapati, P., Hemish, J., Hermjakob, H., Jassal, B., et~al. (2009).
@@ -567,6 +577,13 @@ Nelson, S.~J., Schopen, M., Savage, A.~G., Schulman, J.-L., and Arluk, N.
 \newblock The mesh translation maintenance system: structure, interface design,
   and implementation.
 \newblock {\em Medinfo}, 11(Pt 1):67--69.
+
+\bibitem[Nettles et~al., 2006]{nettles2006bridging}
+Nettles, J.~H., Jenkins, J.~L., Bender, A., Deng, Z., Davies, J.~W., and Glick,
+  M. (2006).
+\newblock Bridging chemical and biological space:“target fishing” using 2d
+  and 3d molecular descriptors.
+\newblock {\em Journal of medicinal chemistry}, 49(23):6802--6810.
 
 \bibitem[Neumann and Burks, 1966]{neumann1966theory}
 Neumann, J.~v. and Burks, A.~W. (1966).
@@ -721,6 +738,11 @@ Tirmizi, S.~H., Aitken, S., Moreira, D.~A., Mungall, C., Sequeda, J., Shah,
 \newblock Mapping between the obo and owl ontology languages.
 \newblock {\em Journal of biomedical semantics}, 2(Suppl 1):S3.
 
+\bibitem[Todeschini and Consonni, 2009]{todeschini2009molecular}
+Todeschini, R. and Consonni, V. (2009).
+\newblock {\em Molecular descriptors for chemoinformatics}.
+\newblock John Wiley \& Sons.
+
 \bibitem[Turing, 1950]{turing1950computing}
 Turing, A.~M. (1950).
 \newblock Computing machinery and intelligence.
@@ -779,48 +801,53 @@ Whirl-Carrillo, M., McDonagh, E., Hebert, J., Gong, L., Sangkuhl, K., Thorn,
 \newblock Pharmacogenomics knowledge for personalized medicine.
 \newblock {\em Clinical Pharmacology \& Therapeutics}, 92(4):414--417.
 
-\bibitem[Wikipedia, 2014a]{masswiki}
+\bibitem[Wikipedia, 2014a]{chemsimwiki}
 Wikipedia (January 2014a).
+\newblock Chemical similarity.
+\newblock \url{http://en.wikipedia.org/wiki/Chemical_similarity}.
+
+\bibitem[Wikipedia, 2014b]{masswiki}
+Wikipedia (January 2014b).
 \newblock Conservation of mass.
 \newblock \url{http://en.wikipedia.org/wiki/Conservation_of_mass}.
 
-\bibitem[Wikipedia, 2014b]{offlabelwiki}
-Wikipedia (January 2014b).
+\bibitem[Wikipedia, 2014c]{offlabelwiki}
+Wikipedia (January 2014c).
 \newblock Off-label use.
 \newblock \url{http://en.wikipedia.org/wiki/Off-label_use}.
 
-\bibitem[Wikipedia, 2014c]{ontologywiki}
-Wikipedia (January 2014c).
+\bibitem[Wikipedia, 2014d]{ontologywiki}
+Wikipedia (January 2014d).
 \newblock Ontology.
 \newblock \url{http://en.wikipedia.org/wiki/Ontology}.
 
-\bibitem[Wikipedia, 2014d]{ehrlichwiki}
-Wikipedia (January 2014d).
+\bibitem[Wikipedia, 2014e]{ehrlichwiki}
+Wikipedia (January 2014e).
 \newblock Paul ehrlich.
 \newblock \url{http://en.wikipedia.org/wiki/Paul_Ehrlich#Magic_bullet}.
 
-\bibitem[Wikipedia, 2014e]{phenotypewiki}
-Wikipedia (January 2014e).
+\bibitem[Wikipedia, 2014f]{phenotypewiki}
+Wikipedia (January 2014f).
 \newblock Phenotype.
 \newblock \url{http://en.wikipedia.org/wiki/Phenotype}.
 
-\bibitem[Wikipedia, 2014f]{prehistoricwiki}
-Wikipedia (January 2014f).
+\bibitem[Wikipedia, 2014g]{prehistoricwiki}
+Wikipedia (January 2014g).
 \newblock Prehistoric medicine.
 \newblock \url{http://en.wikipedia.org/wiki/Prehistoric_medicine}.
 
-\bibitem[Wikipedia, 2014g]{rubewiki}
-Wikipedia (January 2014g).
+\bibitem[Wikipedia, 2014h]{rubewiki}
+Wikipedia (January 2014h).
 \newblock Rube goldberg machine.
 \newblock \url{http://en.wikipedia.org/wiki/Rube_Goldberg_machine}.
 
-\bibitem[Wikipedia, 2014h]{sciencewiki}
-Wikipedia (January 2014h).
+\bibitem[Wikipedia, 2014i]{sciencewiki}
+Wikipedia (January 2014i).
 \newblock Science.
 \newblock \url{http://en.wikipedia.org/wiki/Science}.
 
-\bibitem[Wikipedia, 2014i]{thermowiki}
-Wikipedia (January 2014i).
+\bibitem[Wikipedia, 2014j]{thermowiki}
+Wikipedia (January 2014j).
 \newblock Thermodynamics.
 \newblock \url{http://en.wikipedia.org/wiki/Thermodynamics}.
 

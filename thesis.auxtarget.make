@@ -52,6 +52,11 @@
 \newlabel{fig3-7}
 \newlabel{fig3-8}
 \newlabel{fig3-9}
+\newlabel{fig4-10}
+\newlabel{fig4-11}
+\newlabel{fig4-12}
+\newlabel{fig4-13}
+\newlabel{fig4-14}
 \newlabel{fig4-1}
 \newlabel{fig4-2}
 \newlabel{fig4-3}
@@ -60,7 +65,9 @@
 \newlabel{fig4-6}
 \newlabel{fig4-7}
 \newlabel{fig4-8}
+\newlabel{fig4-9}
 \newlabel{fpmethods}
+\newlabel{higlevelhypo}
 \newlabel{intersection}
 \newlabel{mappings}
 \newlabel{method}
@@ -73,4 +80,5 @@
 \newlabel{specskb}
 \newlabel{table1}
 \newlabel{table2}
+\newlabel{tablel02}
 \newlabel{tablespecind}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  19 FEB 2014 13:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  19 FEB 2014 19:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -403,7 +403,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 \cam@logo=\box35
-<CUni.pdf, id=377, 330.23375pt x 69.25874pt>
+<CUni.pdf, id=389, 330.23375pt x 69.25874pt>
 File: CUni.pdf Graphic file (type pdf)
 <use CUni.pdf>
 Package pdftex.def Info: CUni.pdf used on input line 18.
@@ -418,7 +418,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \cam@collegeshieldbox=\box37
-<CollegeShields/Darwin.pdf, id=378, 146.7081pt x 173.448pt>
+<CollegeShields/Darwin.pdf, id=390, 146.7081pt x 173.448pt>
 File: CollegeShields/Darwin.pdf Graphic file (type pdf)
 <use CollegeShields/Darwin.pdf>
 Package pdftex.def Info: CollegeShields/Darwin.pdf used on input line 18.
@@ -504,7 +504,7 @@ t line 34.
 Package natbib Warning: Citation `prehistoricwiki' on page 15 undefined on inpu
 t line 36.
 
-[15] <./Figures/fig1-1.pdf, id=570, 397.485pt x 252.945pt>
+[15] <./Figures/fig1-1.pdf, id=586, 397.485pt x 252.945pt>
 File: ./Figures/fig1-1.pdf Graphic file (type pdf)
 <use ./Figures/fig1-1.pdf>
 Package pdftex.def Info: ./Figures/fig1-1.pdf used on input line 40.
@@ -513,7 +513,7 @@ Package pdftex.def Info: ./Figures/fig1-1.pdf used on input line 40.
 Package natbib Warning: Citation `barratt2012drug' on page 16 undefined on inpu
 t line 45.
 
-<./Figures/fig1-2.pdf, id=572, 397.485pt x 252.945pt>
+<./Figures/fig1-2.pdf, id=588, 397.485pt x 252.945pt>
 File: ./Figures/fig1-2.pdf Graphic file (type pdf)
 <use ./Figures/fig1-2.pdf>
 Package pdftex.def Info: ./Figures/fig1-2.pdf used on input line 49.
@@ -576,7 +576,7 @@ on input line 80.
 
 Underfull \vbox (badness 7030) has occurred while \output is active []
 
-[19] <./Figures/fig1-3.pdf, id=618, 397.485pt x 252.945pt>
+[19] <./Figures/fig1-3.pdf, id=634, 397.485pt x 252.945pt>
 File: ./Figures/fig1-3.pdf Graphic file (type pdf)
 <use ./Figures/fig1-3.pdf>
 Package pdftex.def Info: ./Figures/fig1-3.pdf used on input line 84.
@@ -651,7 +651,7 @@ Package natbib Warning: Citation `dudley2011exploiting' on page 23 undefined on
 Package natbib Warning: Citation `hurle2013computational' on page 23 undefined 
 on input line 102.
 
-[23] <./Figures/fig1-4.pdf, id=658, 397.485pt x 252.945pt>
+[23] <./Figures/fig1-4.pdf, id=674, 397.485pt x 252.945pt>
 File: ./Figures/fig1-4.pdf Graphic file (type pdf)
 <use ./Figures/fig1-4.pdf>
 Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 108.
@@ -681,7 +681,7 @@ Package natbib Warning: Citation `keiser2009predicting' on page 25 undefined on
 Package natbib Warning: Citation `lounkine2012large' on page 25 undefined on in
 put line 119.
 
-<./Figures/fig1-5.pdf, id=672, 397.485pt x 180.675pt>
+<./Figures/fig1-5.pdf, id=688, 397.485pt x 180.675pt>
 File: ./Figures/fig1-5.pdf Graphic file (type pdf)
 <use ./Figures/fig1-5.pdf>
 Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 123.
@@ -703,7 +703,7 @@ input line 128.
 Package natbib Warning: Citation `lamb2006connectivity' on page 26 undefined on
  input line 133.
 
-[26 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=698, 397.485pt x 252.945p
+[26 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=714, 397.485pt x 252.945p
 t>
 File: ./Figures/fig1-6.pdf Graphic file (type pdf)
 <use ./Figures/fig1-6.pdf>
@@ -759,7 +759,7 @@ line 160.
 Package natbib Warning: Citation `de2010binding' on page 30 undefined on input 
 line 160.
 
-<./Figures/fig1-7.pdf, id=722, 397.485pt x 209.58301pt>
+<./Figures/fig1-7.pdf, id=738, 397.485pt x 209.58301pt>
 File: ./Figures/fig1-7.pdf Graphic file (type pdf)
 <use ./Figures/fig1-7.pdf>
 Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 164.
@@ -824,7 +824,7 @@ t line 179.
 Package natbib Warning: Citation `duran2012recycling' on page 32 undefined on i
 nput line 179.
 
-<./Figures/fig1-8.pdf, id=746, 397.485pt x 144.54pt>
+<./Figures/fig1-8.pdf, id=762, 397.485pt x 144.54pt>
 File: ./Figures/fig1-8.pdf Graphic file (type pdf)
 <use ./Figures/fig1-8.pdf>
 Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 185.
@@ -902,7 +902,7 @@ Overfull \hbox (3.41823pt too wide) in paragraph at lines 198--199
 ov/gwastudies/).
  []
 
-[34] <./Figures/fig1-9.pdf, id=769, 397.485pt x 252.945pt>
+[34] <./Figures/fig1-9.pdf, id=786, 397.485pt x 252.945pt>
 File: ./Figures/fig1-9.pdf Graphic file (type pdf)
 <use ./Figures/fig1-9.pdf>
 Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 202.
@@ -921,7 +921,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-[35] <./Figures/fig1-10.pdf, id=777, 397.485pt x 216.81pt>
+[35] <./Figures/fig1-10.pdf, id=793, 397.485pt x 216.81pt>
 File: ./Figures/fig1-10.pdf Graphic file (type pdf)
 <use ./Figures/fig1-10.pdf>
 Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 215.
@@ -973,7 +973,7 @@ Overfull \hbox (22.88115pt too wide) in paragraph at lines 225--225
 es| 
  []
 
-<./Figures/fig1-11.pdf, id=806, 397.485pt x 202.356pt>
+<./Figures/fig1-11.pdf, id=822, 397.485pt x 202.356pt>
 File: ./Figures/fig1-11.pdf Graphic file (type pdf)
 <use ./Figures/fig1-11.pdf>
 Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 231.
@@ -1013,7 +1013,7 @@ ne 246.
 Package natbib Warning: Citation `hopkins2008network' on page 41 undefined on i
 nput line 290.
 
-<./Figures/fig1-13.pdf, id=831, 397.485pt x 195.129pt>
+<./Figures/fig1-13.pdf, id=847, 397.485pt x 195.129pt>
 File: ./Figures/fig1-13.pdf Graphic file (type pdf)
 <use ./Figures/fig1-13.pdf>
 Package pdftex.def Info: ./Figures/fig1-13.pdf used on input line 295.
@@ -1453,7 +1453,7 @@ Missing character: There is no ù in font cmr12!
 [44
 
 
-] <./Figures/fig1-12.pdf, id=869, 397.485pt x 252.945pt>
+] <./Figures/fig1-12.pdf, id=885, 397.485pt x 252.945pt>
 File: ./Figures/fig1-12.pdf Graphic file (type pdf)
 <use ./Figures/fig1-12.pdf>
 Package pdftex.def Info: ./Figures/fig1-12.pdf used on input line 317.
@@ -1512,7 +1512,7 @@ on input line 20.
 Package natbib Warning: Citation `antezana2009biological' on page 51 undefined 
 on input line 26.
 
-<./Figures/fig2-1.pdf, id=914, 397.485pt x 180.675pt>
+<./Figures/fig2-1.pdf, id=930, 397.485pt x 180.675pt>
 File: ./Figures/fig2-1.pdf Graphic file (type pdf)
 <use ./Figures/fig2-1.pdf>
 Package pdftex.def Info: ./Figures/fig2-1.pdf used on input line 36.
@@ -1534,7 +1534,7 @@ Underfull \vbox (badness 3657) has occurred while \output is active []
 Package natbib Warning: Citation `lazebnik2002can' on page 53 undefined on inpu
 t line 47.
 
-<./Figures/fig2-2.pdf, id=937, 397.485pt x 289.08pt>
+<./Figures/fig2-2.pdf, id=953, 397.485pt x 289.08pt>
 File: ./Figures/fig2-2.pdf Graphic file (type pdf)
 <use ./Figures/fig2-2.pdf>
 Package pdftex.def Info: ./Figures/fig2-2.pdf used on input line 51.
@@ -1552,7 +1552,7 @@ on input line 56.
 Package natbib Warning: Citation `lazebnik2002can' on page 54 undefined on inpu
 t line 58.
 
-<./Figures/fig2-3.pdf, id=956, 397.485pt x 108.405pt>
+<./Figures/fig2-3.pdf, id=972, 397.485pt x 108.405pt>
 File: ./Figures/fig2-3.pdf Graphic file (type pdf)
 <use ./Figures/fig2-3.pdf>
 Package pdftex.def Info: ./Figures/fig2-3.pdf used on input line 62.
@@ -1562,7 +1562,7 @@ Package pdftex.def Info: ./Figures/fig2-3.pdf used on input line 62.
 Package natbib Warning: Citation `lazebnik2002can' on page 55 undefined on inpu
 t line 73.
 
-<./Figures/fig2-4.pdf, id=974, 397.485pt x 433.62pt>
+<./Figures/fig2-4.pdf, id=990, 397.485pt x 433.62pt>
 File: ./Figures/fig2-4.pdf Graphic file (type pdf)
 <use ./Figures/fig2-4.pdf>
 Package pdftex.def Info: ./Figures/fig2-4.pdf used on input line 81.
@@ -1595,7 +1595,7 @@ Package natbib Warning: Citation `fisher2007executable' on page 58 undefined on
 Package natbib Warning: Citation `von1770systema' on page 58 undefined on input
  line 111.
 
-[58] <./Figures/fig2-5.pdf, id=1005, 397.485pt x 180.675pt>
+[58] <./Figures/fig2-5.pdf, id=1022, 397.485pt x 180.675pt>
 File: ./Figures/fig2-5.pdf Graphic file (type pdf)
 <use ./Figures/fig2-5.pdf>
 Package pdftex.def Info: ./Figures/fig2-5.pdf used on input line 115.
@@ -1650,7 +1650,7 @@ e 134.
 Package natbib Warning: Citation `gruber2009encyclopedia' on page 61 undefined 
 on input line 138.
 
-[61] <./Figures/fig2-6.pdf, id=1028, 397.485pt x 144.54pt>
+[61] <./Figures/fig2-6.pdf, id=1044, 397.485pt x 144.54pt>
 File: ./Figures/fig2-6.pdf Graphic file (type pdf)
 <use ./Figures/fig2-6.pdf>
 Package pdftex.def Info: ./Figures/fig2-6.pdf used on input line 142.
@@ -1672,7 +1672,7 @@ Package natbib Warning: Citation `hitzler2009owl' on page 62 undefined on input
 Package natbib Warning: Citation `kim2008temporal' on page 63 undefined on inpu
 t line 151.
 
-<./Figures/fig2-7.pdf, id=1046, 397.485pt x 238.49101pt>
+<./Figures/fig2-7.pdf, id=1062, 397.485pt x 238.49101pt>
 File: ./Figures/fig2-7.pdf Graphic file (type pdf)
 <use ./Figures/fig2-7.pdf>
 Package pdftex.def Info: ./Figures/fig2-7.pdf used on input line 162.
@@ -1736,7 +1736,7 @@ ine 178.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65] [66] <./Figures/fig2-8.pdf, id=1077, 397.485pt x 180.675pt>
+[65] [66] <./Figures/fig2-8.pdf, id=1093, 397.485pt x 180.675pt>
 File: ./Figures/fig2-8.pdf Graphic file (type pdf)
 <use ./Figures/fig2-8.pdf>
 Package pdftex.def Info: ./Figures/fig2-8.pdf used on input line 196.
@@ -1744,7 +1744,7 @@ Package pdftex.def Info: ./Figures/fig2-8.pdf used on input line 196.
 
 Underfull \vbox (badness 6559) has occurred while \output is active []
 
-[67 <./Figures/fig2-8.pdf>] [68] <./Figures/fig2-9.pdf, id=1096, 397.485pt x 20
+[67 <./Figures/fig2-8.pdf>] [68] <./Figures/fig2-9.pdf, id=1112, 397.485pt x 20
 9.58301pt>
 File: ./Figures/fig2-9.pdf Graphic file (type pdf)
 <use ./Figures/fig2-9.pdf>
@@ -1753,13 +1753,13 @@ Package pdftex.def Info: ./Figures/fig2-9.pdf used on input line 229.
 
 Underfull \vbox (badness 1824) has occurred while \output is active []
 
-[69 <./Figures/fig2-9.pdf>] <./Figures/fig2-10.pdf, id=1118, 397.485pt x 209.58
+[69 <./Figures/fig2-9.pdf>] <./Figures/fig2-10.pdf, id=1134, 397.485pt x 209.58
 301pt>
 File: ./Figures/fig2-10.pdf Graphic file (type pdf)
 <use ./Figures/fig2-10.pdf>
 Package pdftex.def Info: ./Figures/fig2-10.pdf used on input line 250.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[70] [71 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf, id=1159, 397.485pt x 
+[70] [71 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf, id=1175, 397.485pt x 
 325.215pt>
 File: ./Figures/fig2-11.pdf Graphic file (type pdf)
 <use ./Figures/fig2-11.pdf>
@@ -1774,7 +1774,7 @@ Missing character: There is no ì in font cmr10!
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[72] [73 <./Figures/fig2-11.pdf>] <./Figures/fig2-12.pdf, id=1186, 397.485pt x 
+[72] [73 <./Figures/fig2-11.pdf>] <./Figures/fig2-12.pdf, id=1202, 397.485pt x 
 289.08pt>
 File: ./Figures/fig2-12.pdf Graphic file (type pdf)
 <use ./Figures/fig2-12.pdf>
@@ -1788,7 +1788,7 @@ Package natbib Warning: Citation `gorels' on page 74 undefined on input line 28
 Package natbib Warning: Citation `gorels' on page 74 undefined on input line 28
 2.
 
-[74 <./Figures/fig2-12.pdf>] <./Figures/fig2-13.pdf, id=1217, 397.485pt x 180.6
+[74 <./Figures/fig2-12.pdf>] <./Figures/fig2-13.pdf, id=1233, 397.485pt x 180.6
 75pt>
 File: ./Figures/fig2-13.pdf Graphic file (type pdf)
 <use ./Figures/fig2-13.pdf>
@@ -1820,7 +1820,7 @@ put line 316.
 Package natbib Warning: Citation `obofoundry' on page 77 undefined on input lin
 e 316.
 
-[77] <./Figures/fig2-14.pdf, id=1249, 397.485pt x 325.215pt>
+[77] <./Figures/fig2-14.pdf, id=1265, 397.485pt x 325.215pt>
 File: ./Figures/fig2-14.pdf Graphic file (type pdf)
 <use ./Figures/fig2-14.pdf>
 Package pdftex.def Info: ./Figures/fig2-14.pdf used on input line 320.
@@ -1938,7 +1938,7 @@ t line 356.
 Package natbib Warning: Citation `horridge2006manchester' on page 83 undefined 
 on input line 356.
 
-[83] <./Figures/fig2-15.pdf, id=1287, 397.485pt x 361.35pt>
+[83] <./Figures/fig2-15.pdf, id=1303, 397.485pt x 361.35pt>
 File: ./Figures/fig2-15.pdf Graphic file (type pdf)
 <use ./Figures/fig2-15.pdf>
 Package pdftex.def Info: ./Figures/fig2-15.pdf used on input line 360.
@@ -1959,12 +1959,12 @@ ut line 365.
 Package natbib Warning: Citation `lord2013semantic' on page 84 undefined on inp
 ut line 365.
 
-<./Figures/fig2-16.pdf, id=1288, 397.485pt x 317.98799pt>
+<./Figures/fig2-16.pdf, id=1304, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-16.pdf Graphic file (type pdf)
 <use ./Figures/fig2-16.pdf>
 Package pdftex.def Info: ./Figures/fig2-16.pdf used on input line 369.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
-<./Figures/fig2-17.pdf, id=1289, 397.485pt x 317.98799pt>
+<./Figures/fig2-17.pdf, id=1305, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-17.pdf Graphic file (type pdf)
 <use ./Figures/fig2-17.pdf>
 Package pdftex.def Info: ./Figures/fig2-17.pdf used on input line 376.
@@ -1975,7 +1975,7 @@ Underfull \vbox (badness 3375) has occurred while \output is active []
 [85 <./Figures/fig2-15.pdf>]
 Underfull \vbox (badness 6063) has occurred while \output is active []
 
-[86 <./Figures/fig2-16.pdf>] <./Figures/fig2-18.pdf, id=1345, 397.485pt x 216.8
+[86 <./Figures/fig2-16.pdf>] <./Figures/fig2-18.pdf, id=1361, 397.485pt x 216.8
 1pt>
 File: ./Figures/fig2-18.pdf Graphic file (type pdf)
 <use ./Figures/fig2-18.pdf>
@@ -2020,7 +2020,7 @@ nput line 23.
 Package natbib Warning: Citation `campillos2008drug' on page 90 undefined on in
 put line 23.
 
-[90] <./Figures/fig3-1.pdf, id=1378, 397.485pt x 252.945pt>
+[90] <./Figures/fig3-1.pdf, id=1394, 397.485pt x 252.945pt>
 File: ./Figures/fig3-1.pdf Graphic file (type pdf)
 <use ./Figures/fig3-1.pdf>
 Package pdftex.def Info: ./Figures/fig3-1.pdf used on input line 29.
@@ -2070,7 +2070,7 @@ Underfull \vbox (badness 3815) has occurred while \output is active []
 
 LaTeX Warning: Reference `specs' on page 95 undefined on input line 67.
 
-<./Figures/fig3-2.pdf, id=1409, 397.485pt x 252.945pt>
+<./Figures/fig3-2.pdf, id=1425, 397.485pt x 252.945pt>
 File: ./Figures/fig3-2.pdf Graphic file (type pdf)
 <use ./Figures/fig3-2.pdf>
 Package pdftex.def Info: ./Figures/fig3-2.pdf used on input line 74.
@@ -2087,7 +2087,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-<./Figures/fig3-3.pdf, id=1410, 397.485pt x 252.945pt>
+<./Figures/fig3-3.pdf, id=1426, 397.485pt x 252.945pt>
 File: ./Figures/fig3-3.pdf Graphic file (type pdf)
 <use ./Figures/fig3-3.pdf>
 Package pdftex.def Info: ./Figures/fig3-3.pdf used on input line 81.
@@ -2108,7 +2108,7 @@ Missing character: There is no ù in font cmr10!
 
 pdfTeX warning: pdflatex (file ./Figures/fig3-3.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
->] <./Figures/fig3-4.pdf, id=1436, 397.485pt x 252.945pt>
+>] <./Figures/fig3-4.pdf, id=1452, 397.485pt x 252.945pt>
 File: ./Figures/fig3-4.pdf Graphic file (type pdf)
 <use ./Figures/fig3-4.pdf>
 Package pdftex.def Info: ./Figures/fig3-4.pdf used on input line 90.
@@ -2119,7 +2119,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-<./Figures/fig3-5.pdf, id=1437, 397.485pt x 252.945pt>
+<./Figures/fig3-5.pdf, id=1453, 397.485pt x 252.945pt>
 File: ./Figures/fig3-5.pdf Graphic file (type pdf)
 <use ./Figures/fig3-5.pdf>
 Package pdftex.def Info: ./Figures/fig3-5.pdf used on input line 97.
@@ -2127,7 +2127,7 @@ Package pdftex.def Info: ./Figures/fig3-5.pdf used on input line 97.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[97 <./Figures/fig3-4.pdf>] <./Figures/fig3-6.pdf, id=1463, 397.485pt x 252.945
+[97 <./Figures/fig3-4.pdf>] <./Figures/fig3-6.pdf, id=1479, 397.485pt x 252.945
 pt>
 File: ./Figures/fig3-6.pdf Graphic file (type pdf)
 <use ./Figures/fig3-6.pdf>
@@ -2183,7 +2183,7 @@ Package natbib Warning: Citation `world2006anatomical' on page 102 undefined on
 
 Underfull \vbox (badness 3815) has occurred while \output is active []
 
-[102] <./Figures/fig3-7.pdf, id=1510, 397.485pt x 252.945pt>
+[102] <./Figures/fig3-7.pdf, id=1527, 397.485pt x 252.945pt>
 File: ./Figures/fig3-7.pdf Graphic file (type pdf)
 <use ./Figures/fig3-7.pdf>
 Package pdftex.def Info: ./Figures/fig3-7.pdf used on input line 174.
@@ -2194,7 +2194,7 @@ Missing character: There is no ô in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-[103 <./Figures/fig3-7.pdf>] <./Figures/fig3-8.pdf, id=1527, 397.485pt x 252.94
+[103 <./Figures/fig3-7.pdf>] <./Figures/fig3-8.pdf, id=1543, 397.485pt x 252.94
 5pt>
 File: ./Figures/fig3-8.pdf Graphic file (type pdf)
 <use ./Figures/fig3-8.pdf>
@@ -2216,7 +2216,7 @@ input line 209.
 Package natbib Warning: Citation `hoehndorf2011phenomenet' on page 105 undefine
 d on input line 209.
 
-[105] [106] [107] [108] [109] [110] <./Figures/fig3-9.pdf, id=1568, 397.485pt x
+[105] [106] [107] [108] [109] [110] <./Figures/fig3-9.pdf, id=1584, 397.485pt x
  252.945pt>
 File: ./Figures/fig3-9.pdf Graphic file (type pdf)
 <use ./Figures/fig3-9.pdf>
@@ -2233,7 +2233,7 @@ Overfull \hbox (6.70984pt too wide) in paragraph at lines 364--365
 www.ebi.ac.uk/chembl/ftc
  []
 
-[112 <./Figures/fig3-9.pdf>] <./Figures/fig3-10.pdf, id=1588, 397.485pt x 325.2
+[112 <./Figures/fig3-9.pdf>] <./Figures/fig3-10.pdf, id=1604, 397.485pt x 325.2
 15pt>
 File: ./Figures/fig3-10.pdf Graphic file (type pdf)
 <use ./Figures/fig3-10.pdf>
@@ -2267,7 +2267,7 @@ luation/FTC[]A0008900.
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-<./Figures/fig3-11.pdf, id=1605, 397.485pt x 325.215pt>
+<./Figures/fig3-11.pdf, id=1621, 397.485pt x 325.215pt>
 File: ./Figures/fig3-11.pdf Graphic file (type pdf)
 <use ./Figures/fig3-11.pdf>
 Package pdftex.def Info: ./Figures/fig3-11.pdf used on input line 389.
@@ -2293,12 +2293,12 @@ Overfull \hbox (5.66933pt too wide) in paragraph at lines 397--398
 ebi.ac.uk/chembl/ftc/agent/DB01041).
  []
 
-[117] <./Figures/fig3-12.pdf, id=1631, 397.485pt x 325.215pt>
+[117] <./Figures/fig3-12.pdf, id=1648, 397.485pt x 325.215pt>
 File: ./Figures/fig3-12.pdf Graphic file (type pdf)
 <use ./Figures/fig3-12.pdf>
 Package pdftex.def Info: ./Figures/fig3-12.pdf used on input line 405.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
-[118 <./Figures/fig3-12.pdf>] <./Figures/fig3-13.pdf, id=1649, 397.485pt x 325.
+[118 <./Figures/fig3-12.pdf>] <./Figures/fig3-13.pdf, id=1665, 397.485pt x 325.
 215pt>
 File: ./Figures/fig3-13.pdf Graphic file (type pdf)
 <use ./Figures/fig3-13.pdf>
@@ -2307,7 +2307,7 @@ Package pdftex.def Info: ./Figures/fig3-13.pdf used on input line 417.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[119] <./Figures/fig3-14.pdf, id=1656, 397.485pt x 325.215pt>
+[119] <./Figures/fig3-14.pdf, id=1672, 397.485pt x 325.215pt>
 File: ./Figures/fig3-14.pdf Graphic file (type pdf)
 <use ./Figures/fig3-14.pdf>
 Package pdftex.def Info: ./Figures/fig3-14.pdf used on input line 426.
@@ -2315,7 +2315,7 @@ Package pdftex.def Info: ./Figures/fig3-14.pdf used on input line 426.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[120 <./Figures/fig3-13.pdf>] <./Figures/fig3-15.pdf, id=1677, 397.485pt x 325.
+[120 <./Figures/fig3-13.pdf>] <./Figures/fig3-15.pdf, id=1693, 397.485pt x 325.
 215pt>
 File: ./Figures/fig3-15.pdf Graphic file (type pdf)
 <use ./Figures/fig3-15.pdf>
@@ -2342,7 +2342,7 @@ ut line 443.
 Package natbib Warning: Citation `kruger2012mapping' on page 123 undefined on i
 nput line 446.
 
-[123] [124] <./Figures/fig3-16.pdf, id=1731, 397.485pt x 260.17201pt>
+[123] [124] <./Figures/fig3-16.pdf, id=1747, 397.485pt x 260.17201pt>
 File: ./Figures/fig3-16.pdf Graphic file (type pdf)
 <use ./Figures/fig3-16.pdf>
 Package pdftex.def Info: ./Figures/fig3-16.pdf used on input line 462.
@@ -2432,27 +2432,376 @@ Overfull \hbox (8.33214pt too wide) in paragraph at lines 35--36
  only on two-dimensional
  []
 
-<./Figures/fig4-1.pdf, id=1760, 397.485pt x 317.98799pt>
+
+Package natbib Warning: Citation `steinbeck2003chemistry' on page 130 undefined
+ on input line 37.
+
+<./Figures/fig4-1.pdf, id=1776, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-1.pdf Graphic file (type pdf)
 <use ./Figures/fig4-1.pdf>
 Package pdftex.def Info: ./Figures/fig4-1.pdf used on input line 41.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
 
-Overfull \hbox (28.66608pt too wide) in paragraph at lines 50--58
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[130]
+Overfull \hbox (56.27693pt too wide) in paragraph at lines 50--58
  [] 
  []
 
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[131 <./Figures/fig4-1.pdf>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[132]
+
+Package natbib Warning: Citation `todeschini2009molecular' on page 133 undefine
+d on input line 69.
+
+<./Figures/fig4-2.pdf, id=1804, 397.485pt x 397.485pt>
+File: ./Figures/fig4-2.pdf Graphic file (type pdf)
+<use ./Figures/fig4-2.pdf>
+Package pdftex.def Info: ./Figures/fig4-2.pdf used on input line 73.
+(pdftex.def)             Requested size: 397.48402pt x 397.48402pt.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 74.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[133]
+
+Package natbib Warning: Citation `chemsimwiki' on page 134 undefined on input l
+ine 78.
+
+
+Underfull \vbox (badness 1783) has occurred while \output is active []
+
+[134 <./Figures/fig4-2.pdf>]
+
+Package natbib Warning: Citation `barratt2012drug' on page 135 undefined on inp
+ut line 80.
+
+[135] <./Figures/fig4-3.pdf, id=1836, 397.485pt x 317.98799pt>
+File: ./Figures/fig4-3.pdf Graphic file (type pdf)
+<use ./Figures/fig4-3.pdf>
+Package pdftex.def Info: ./Figures/fig4-3.pdf used on input line 95.
+(pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[136] <./Figures/fig4-4.pdf, id=1842, 397.485pt x 317.98799pt>
+File: ./Figures/fig4-4.pdf Graphic file (type pdf)
+<use ./Figures/fig4-4.pdf>
+Package pdftex.def Info: ./Figures/fig4-4.pdf used on input line 104.
+(pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[137 <./Figures/fig4-3.pdf>] <./Figures/fig4-5.pdf, id=1859, 397.485pt x 317.98
+799pt>
+File: ./Figures/fig4-5.pdf Graphic file (type pdf)
+<use ./Figures/fig4-5.pdf>
+Package pdftex.def Info: ./Figures/fig4-5.pdf used on input line 113.
+(pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
+[138 <./Figures/fig4-4.pdf>]
+Overfull \hbox (3.02217pt too wide) in paragraph at lines 122--129
+ [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[139 <./Figures/fig4-5.pdf>] <./Figures/fig4-6.pdf, id=1896, 397.485pt x 281.85
+298pt>
+File: ./Figures/fig4-6.pdf Graphic file (type pdf)
+<use ./Figures/fig4-6.pdf>
+Package pdftex.def Info: ./Figures/fig4-6.pdf used on input line 135.
+(pdftex.def)             Requested size: 397.48402pt x 281.8523pt.
+<./Figures/fig4-7.pdf, id=1900, 397.485pt x 281.85298pt>
+File: ./Figures/fig4-7.pdf Graphic file (type pdf)
+<use ./Figures/fig4-7.pdf>
+Package pdftex.def Info: ./Figures/fig4-7.pdf used on input line 144.
+(pdftex.def)             Requested size: 397.48402pt x 281.8523pt.
+[140 <./Figures/fig4-6.pdf>]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[141 <./Figures/fig4-7.pdf>] <./Figures/fig4-8.pdf, id=1934, 397.485pt x 325.21
+5pt>
+File: ./Figures/fig4-8.pdf Graphic file (type pdf)
+<use ./Figures/fig4-8.pdf>
+Package pdftex.def Info: ./Figures/fig4-8.pdf used on input line 153.
+(pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[142]
+
+Package natbib Warning: Citation `world2006anatomical' on page 143 undefined on
+ input line 163.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Package natbib Warning: Citation `campillos2008drug' on page 143 undefined on i
+nput line 163.
+
+
+Package natbib Warning: Citation `napolitano2013drug' on page 143 undefined on 
+input line 163.
+
+[143 <./Figures/fig4-8.pdf>] <./Figures/fig4-9.pdf, id=1957, 397.485pt x 296.30
+7pt>
+File: ./Figures/fig4-9.pdf Graphic file (type pdf)
+<use ./Figures/fig4-9.pdf>
+Package pdftex.def Info: ./Figures/fig4-9.pdf used on input line 169.
+(pdftex.def)             Requested size: 397.48402pt x 296.30627pt.
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[144]
+
+Package natbib Warning: Citation `shannon2003cytoscape' on page 145 undefined o
+n input line 180.
+
+
+Underfull \vbox (badness 5036) has occurred while \output is active []
+
+[145 <./Figures/fig4-9.pdf>]
+
+Package natbib Warning: Citation `offlabelwiki' on page 146 undefined on input 
+line 189.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ô in font cmr12!
+
+Package natbib Warning: Citation `stafford2008regulating' on page 146 undefined
+ on input line 189.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+[146] <./Figures/fig4-10.pdf, id=1986, 397.485pt x 325.215pt>
+File: ./Figures/fig4-10.pdf Graphic file (type pdf)
+<use ./Figures/fig4-10.pdf>
+Package pdftex.def Info: ./Figures/fig4-10.pdf used on input line 198.
+(pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[147] <./Figures/fig4-11.pdf, id=1992, 397.485pt x 245.718pt>
+File: ./Figures/fig4-11.pdf Graphic file (type pdf)
+<use ./Figures/fig4-11.pdf>
+Package pdftex.def Info: ./Figures/fig4-11.pdf used on input line 207.
+(pdftex.def)             Requested size: 397.48402pt x 245.71739pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[148 <./Figures/fig4-10.pdf>]
+
+Package natbib Warning: Citation `cras2007off' on page 149 undefined on input l
+ine 212.
+
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+
+Package natbib Warning: Citation `bonica1979need' on page 149 undefined on inpu
+t line 212.
+
+[149 <./Figures/fig4-11.pdf>] <./Figures/fig4-12.pdf, id=2011, 397.485pt x 325.
+215pt>
+File: ./Figures/fig4-12.pdf Graphic file (type pdf)
+<use ./Figures/fig4-12.pdf>
+Package pdftex.def Info: ./Figures/fig4-12.pdf used on input line 218.
+(pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
+
+LaTeX Warning: Reference `higlevelhypo' on page 150 undefined on input line 223
+.
+
 )
+Runaway argument?
+{|l|l|p{5cm|} \hline \multicolumn {2}{|c|}{\textbf {Therapeutic group\ETC.
+./thesis.tex:32: File ended while scanning use of \@array.
+<inserted text> 
+                \par 
+l.32 \input{14Chapter4}
+                       
+I suspect you have forgotten a `}', causing me
+to read past where you wanted me to stop.
+I'll try to recover; but if the error is serious,
+you'd better type `E' or `X' now and fix your file.
+
+./thesis.tex:33: Missing $ inserted.
+<inserted text> 
+                $
+l.33 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
 No file thesis.bbl.
-(./21Appendix.tex [130] [131 <./Figures/fig4-1.pdf>] [132
+(./21Appendix.tex
+./21Appendix.tex:2: Missing } inserted.
+<inserted text> 
+                }
+l.2 \chapter
+            {Extra Information}
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
 
-]
 Appendix A.
-) (./22Index.tex [133] [134
-
-] (./thesis.ind))
+) (./22Index.tex (./thesis.ind))
 
 Package natbib Warning: There were undefined citations.
+
+
+./thesis.tex:45: LaTeX Error: \begin{tabular} on input line 227 ended by \end{d
+ocument}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
@@ -2460,7 +2809,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: C2816B2267210068912C1C1A9E71CB10;7950.
+(rerunfilecheck)             Checksum: E037966FBFCED5557CCA5361049EAE61;8355.
 
 LaTeX Warning: There were undefined references.
 
@@ -2468,30 +2817,43 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
- ) 
+./thesis.tex:45: You can't use `\end' in internal vertical mode.
+\AP@enddocument ...\z@ \Call@AtVeryVeryEnd \@@end 
+                                                  
+l.45 \end{document}
+                   
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+./thesis.tex:45: LaTeX Error: \begin{tabular} on input line 227 ended by \end{d
+ocument}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 \end{document}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> thesis.tex
+              
+*** (job aborted, no legal \end found)
+
+ 
 Here is how much of TeX's memory you used:
- 9173 strings out of 495031
- 136110 string characters out of 6181531
- 245250 words of memory out of 5000000
- 11881 multiletter control sequences out of 15000+600000
- 14815 words of font info for 55 fonts, out of 8000000 for 9000
+ 9281 strings out of 495031
+ 138007 string characters out of 6181531
+ 252602 words of memory out of 5000000
+ 11948 multiletter control sequences out of 15000+600000
+ 15116 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,8n,39p,2939b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmti12.pfb>
-Output written on thesis.pdf (134 pages, 3365057 bytes).
-PDF statistics:
- 1897 PDF objects out of 2073 (max. 8388607)
- 1533 compressed objects within 16 object streams
- 283 named destinations out of 1000 (max. 500000)
- 995 words of extra memory for PDF output out of 10000 (max. 10000000)
-
+!  ==> Fatal error occurred, no output PDF file produced!

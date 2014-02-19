@@ -91,6 +91,10 @@
 \BOOKMARK [2][-]{subsection.4.2.1}{Structural descriptor selection}{section.4.2}% 91
 \BOOKMARK [2][-]{subsection.4.2.2}{Dissimilar structures have dissimilar functions}{section.4.2}% 92
 \BOOKMARK [2][-]{subsection.4.2.3}{The more specific an indication is, the more similar the function and structure are}{section.4.2}% 93
-\BOOKMARK [2][-]{subsection.4.2.4}{The more specific an indication is, the more similar the function and structure are}{section.4.2}% 94
-\BOOKMARK [0][-]{chapter*.60}{Bibliography}{}% 95
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 96
+\BOOKMARK [2][-]{subsection.4.2.4}{Isolation of drug repositioning hypotheses}{section.4.2}% 94
+\BOOKMARK [1][-]{section.4.3}{Open drug repositioning hypotheses}{chapter.4}% 95
+\BOOKMARK [2][-]{subsection.4.3.1}{Relationship between therapeutic areas}{section.4.3}% 96
+\BOOKMARK [2][-]{subsection.4.3.2}{Drug repositioning for hypertension and the cardiovascular system}{section.4.3}% 97
+\BOOKMARK [3][-]{subsubsection.4.3.2.1}{Antihypertensives}{subsection.4.3.2}% 98
+\BOOKMARK [0][-]{chapter*.68}{Bibliography}{}% 99
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 100

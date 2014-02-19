@@ -31,6 +31,18 @@ Ashburner, M., Ball, C.~A., Blake, J.~A., Botstein, D., Butler, H., Cherry,
 \newblock Gene ontology: tool for the unification of biology.
 \newblock {\em Nature genetics}, 25(1):25--29.
 
+\bibitem[ATC, 2014a]{atca03}
+ATC (January 2014a).
+\newblock A03.
+\newblock
+  \url{http://www.whocc.no/atc_ddd_index/?code=A03&showdescription=yes}.
+
+\bibitem[ATC, 2014b]{atcr05}
+ATC (January 2014b).
+\newblock R05.
+\newblock
+  \url{http://www.whocc.no/atc_ddd_index/?code=R05&showdescription=yes}.
+
 \bibitem[Baader et~al., 2005]{baader2005pushing}
 Baader, F., Brandt, S., and Lutz, C. (2005).
 \newblock Pushing the el envelope.
@@ -69,6 +81,11 @@ Bodenreider, O. (2004).
   terminology.
 \newblock {\em Nucleic acids research}, 32(suppl 1):D267--D270.
 
+\bibitem[Bonica et~al., 1979]{bonica1979need}
+Bonica, J. et~al. (1979).
+\newblock The need of a taxonomy.
+\newblock {\em Pain}, 6(3):247--248.
+
 \bibitem[Brooksbank et~al., 2014]{brooksbank2014european}
 Brooksbank, C., Bergman, M.~T., Apweiler, R., Birney, E., and Thornton, J.
   (2014).
@@ -97,6 +114,12 @@ Consortium, U. et~al. (2013).
 \newblock Update on activities at the universal protein resource (uniprot) in
   2013.
 \newblock {\em Nucleic acids research}, 41(D1):D43--D47.
+
+\bibitem[Cras et~al., 2007]{cras2007off}
+Cras, A., Conscience, M.-A., Rajzbaum, G., Lillo-Le~Lou{\"e}t, A., Lopez, N.,
+  Tersen, I., and Bezie, Y. (2007).
+\newblock Off-label prescribing in a french hospital.
+\newblock {\em Pharmacy world \& science}, 29(2):97--100.
 
 \bibitem[Croset et~al., 2013a]{croset2013brain}
 Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013a).
@@ -210,6 +233,12 @@ Gaulton, A., Bellis, L.~J., Bento, A.~P., Chambers, J., Davies, M., Hersey, A.,
   Light, Y., McGlinchey, S., Michalovich, D., Al-Lazikani, B., et~al. (2012).
 \newblock Chembl: a large-scale bioactivity database for drug discovery.
 \newblock {\em Nucleic acids research}, 40(D1):D1100--D1107.
+
+\bibitem[Gengo and Gabos, 1987]{gengo1987antihistamines}
+Gengo, F. and Gabos, C. (1987).
+\newblock Antihistamines, drowsiness, and psychomotor impairment: central
+  nervous system effect of cetirizine.
+\newblock {\em Annals of allergy}, 59(6 Pt 2):53--57.
 
 \bibitem[Ghofrani et~al., 2006]{ghofrani2006sildenafil}
 Ghofrani, H.~A., Osterloh, I.~H., and Grimminger, F. (2006).
@@ -339,6 +368,12 @@ Horridge, M., Drummond, N., Goodwin, J., Rector, A.~L., Stevens, R., and Wang,
 \newblock The manchester owl syntax.
 \newblock In {\em OWLed}, volume 216.
 
+\bibitem[Hunskaar and Hole, 1987]{hunskaar1987formalin}
+Hunskaar, S. and Hole, K. (1987).
+\newblock The formalin test in mice: dissociation between inflammatory and
+  non-inflammatory pain.
+\newblock {\em Pain}, 30(1):103--114.
+
 \bibitem[Hurle et~al., 2013]{hurle2013computational}
 Hurle, M., Yang, L., Xie, Q., Rajpal, D., Sanseau, P., and Agarwal, P. (2013).
 \newblock Computational drug repositioning: From data to therapeutics.
@@ -459,6 +494,11 @@ Lamb, J., Crawford, E.~D., Peck, D., Modell, J.~W., Blat, I.~C., Wrobel, M.~J.,
 \newblock The connectivity map: using gene-expression signatures to connect
   small molecules, genes, and disease.
 \newblock {\em science}, 313(5795):1929--1935.
+
+\bibitem[Law et~al., 2003]{law2003lowering}
+Law, M., Wald, N., Morris, J., et~al. (2003).
+\newblock Lowering blood pressure to prevent myocardial infarction and stroke:
+  a new preventive strategy.
 
 \bibitem[Lazebnik, 2002]{lazebnik2002can}
 Lazebnik, Y. (2002).
@@ -679,12 +719,32 @@ Schulz, S. and Jansen, L. (2013).
 \newblock Formal ontologies in biomedical knowledge representation.
 \newblock {\em Yearbook of medical informatics}, 8(1):132.
 
+\bibitem[Shannon et~al., 2003]{shannon2003cytoscape}
+Shannon, P., Markiel, A., Ozier, O., Baliga, N.~S., Wang, J.~T., Ramage, D.,
+  Amin, N., Schwikowski, B., and Ideker, T. (2003).
+\newblock Cytoscape: a software environment for integrated models of
+  biomolecular interaction networks.
+\newblock {\em Genome research}, 13(11):2498--2504.
+
 \bibitem[Sirota et~al., 2011]{sirota2011discovery}
 Sirota, M., Dudley, J.~T., Kim, J., Chiang, A.~P., Morgan, A.~A.,
   Sweet-Cordero, A., Sage, J., and Butte, A.~J. (2011).
 \newblock Discovery and preclinical validation of drug indications using
   compendia of public gene expression data.
 \newblock {\em Science translational medicine}, 3(96):96ra77.
+
+\bibitem[Stafford, 2008]{stafford2008regulating}
+Stafford, R.~S. (2008).
+\newblock Regulating off-label drug use—rethinking the role of the fda.
+\newblock {\em New England Journal of Medicine}, 358(14):1427--1429.
+
+\bibitem[Steinbeck et~al., 2003]{steinbeck2003chemistry}
+Steinbeck, C., Han, Y., Kuhn, S., Horlacher, O., Luttmann, E., and Willighagen,
+  E. (2003).
+\newblock The chemistry development kit (cdk): An open-source java library for
+  chemo-and bioinformatics.
+\newblock {\em Journal of chemical information and computer sciences},
+  43(2):493--500.
 
 \bibitem[Stephens and Brynner, 2009]{stephens2009dark}
 Stephens, T.~D. and Brynner, R. (2009).
@@ -705,6 +765,14 @@ Suthram, S., Dudley, J.~T., Chiang, A.~P., Chen, R., Hastie, T.~J., and Butte,
 \newblock Network-based elucidation of human disease similarities reveals
   common functional modules enriched for pluripotent drug targets.
 \newblock {\em PLoS computational biology}, 6(2):e1000662.
+
+\bibitem[Swedberg et~al., 2005]{swedberg2005task}
+Swedberg, K., Cleland, J., Dargie, H., Drexler, H., Follath, F., Komajda, M.,
+  Smiseth, O., and Tavazzi, L. (2005).
+\newblock The task force for the diagnosis and treatment of chronic heart
+  failure of the european society of cardiology: Guidelines for the diagnosis
+  and treatment of chronic heart failure: Reply.
+\newblock {\em European heart journal}, 26(22):2473--2474.
 
 \bibitem[Swinney and Anthony, 2011]{swinney2011were}
 Swinney, D.~C. and Anthony, J. (2011).

@@ -122,6 +122,10 @@
 \contentsline {subsection}{\numberline {4.2.1}Structural descriptor selection}{131}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Dissimilar structures have dissimilar functions}{135}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}The more specific an indication is, the more similar the function and structure are}{138}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}The more specific an indication is, the more similar the function and structure are}{146}{subsection.4.2.4}
-\contentsline {chapter}{Bibliography}{160}{chapter*.60}
-\contentsline {chapter}{\numberline {A}Extra Information}{161}{appendix.A}
+\contentsline {subsection}{\numberline {4.2.4}Isolation of drug repositioning hypotheses}{146}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Open drug repositioning hypotheses}{148}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Relationship between therapeutic areas}{149}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Drug repositioning for hypertension and the cardiovascular system}{155}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Antihypertensives}{157}{subsubsection.4.3.2.1}
+\contentsline {chapter}{Bibliography}{175}{chapter*.68}
+\contentsline {chapter}{\numberline {A}Extra Information}{177}{appendix.A}

@@ -34,7 +34,7 @@ The structure of two chemical compounds can be compared in a variety of ways, de
 
 In order to match these requirements, I decided to focus only on two-dimensional chemical structures, as numerous methods exist to compute them and because they are more accurate for predicting target affinity than three-dimensional descriptors \citep{nettles2006bridging}, and therefore more suited to study bioactivity. The interpretation of the results is also easier and directly related to the chemical groups present in the structure \citep{todeschini2009molecular}.
 
-Two-dimensional structures can be represented by fingerprinting methods (//ref see material and methods). Numerous implementations exist, varying in the chemical patterns encoded. I chose to try four of them over my dataset: hybridization, extended, MACCS and PubChem fingerprints (//ref see details in method). These methods were selected because they are readily available in the Chemistry Development Kit (//cite - CDK) and relatively different one from another, therefore providing independent yet comparable results. Figure \ref{fig4-1} illustrates this: The plot shows the density distribution of similarity values between pairs of drugs for the various fingerprinting methods considered (//ref method).
+Two-dimensional structures can be represented by fingerprinting methods (//ref see material and methods). Numerous implementations exist, varying in the chemical patterns encoded. I chose to try four of them over my dataset: hybridization, extended, MACCS and PubChem fingerprints (//ref see details in method). These methods were selected because they are readily available in the Chemistry Development Kit \citep{steinbeck2003chemistry} and relatively different one from another, therefore providing independent yet comparable results. Figure \ref{fig4-1} illustrates this: The plot shows the density distribution of similarity values between pairs of drugs for the various fingerprinting methods considered (//ref method).
 
 \begin{figure}[H]
     \centering
@@ -66,7 +66,7 @@ Based on these results, I decided to use the PubChem fingerprint to represent th
 \subsection{Dissimilar structures have dissimilar functions}
 The functional descriptor derives from the structure of the FTC and the semantic similarity. Given a pair of drugs, the closer they are present in the taxonomic tree, the more similar they are inferred to be (//ref section ch2 and material and method). From this selection of the functional and structural descriptors, it is possible to study the relationship between drugs.
 
-The similar property principle states that similar structures have similar biological activities. The rule was derived from QSAR analyses, where the goal is to try to fit a chemical structure inside a cavity, for instance the active site of an enzyme (//cite “Molecular Descriptors for Chemoinformatics”). In such a case, the rule is intuitively acceptable, yet numerous exceptions are known. The functional descriptor introduced can abstract away from this physical viewpoint and appreciate the similarity relationship in a systematic fashion. In this regard, Figure 4-2 illustrates the distribution of similarity values for all pairs of drugs. Note that the indication is not taken into consideration at this stage.
+The similar property principle states that similar structures have similar biological activities. The rule was derived from QSAR analyses, where the goal is to try to fit a chemical structure inside a cavity, for instance the active site of an enzyme \citep{todeschini2009molecular}. In such a case, the rule is intuitively acceptable, yet numerous exceptions are known. The functional descriptor introduced can abstract away from this physical viewpoint and appreciate the similarity relationship in a systematic fashion. In this regard, Figure 4-2 illustrates the distribution of similarity values for all pairs of drugs. Note that the indication is not taken into consideration at this stage.
 
 \begin{figure}[H]
     \centering
@@ -159,5 +159,175 @@ The figures presented in this section show an observation of primary importance 
 
 Note that the data analysis shown in the two previous sections only identified average patterns; particular data points were not taken into considerations. Some exceptions or outliers exists, which will be considered as starting points to formulate drug repositioning hypotheses.
 
-\subsection{The more specific an indication is, the more similar the function and structure are}
+\subsection{Isolation of drug repositioning hypotheses}
+As motivated before (//ref section ATC ch3), the ATC can be considered as a gold standard resource for representing the therapeutic area of a drug. The second level of this classification system in particular represents the clinical indication of a compound well \citep{world2006anatomical}; it is not too specific to capture the MoA and exact pharmacology, yet still biologically meaningful and not too abstract. Example of second level ATC categories are: “Anabolic agents for systemic use” (A14) and “Anti-hemorrhagics” (B02). I and others \citep{campillos2008drug} \citep{napolitano2013drug} have considered that drugs categorised under different second-level ATC codes can be considered as indicated for different diseases.
+
+Drugs used in the treatment of different conditions are expected to have dissimilar functions, as in principle such agents affect separate biological processes, themselves related to distinct diseases. The graph in Figure \ref{fig4-9} (A) recounts this statement: as expected most of the pairs have low structural and functional similarity values.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig4-9}
+    \caption{Isolation of drug repositioning hypotheses. (A) All the pairs of drugs classified in different ATC categories (level 2 resolution) are plotted (identical plot as Figure 4-5 panel B). The blue line is the threshold above which pairs are functionally similar but are indicated for different usage according to the ATC. (B) Zoom on the data set above the blue line. (C) Pairs of drugs with little recorded knowledge are discarded from the analysis (see material and method). This set of data represents the repositioning hypotheses and are featured in the web application.}
+    \label{fig4-9}
+\end{figure}
+
+However, some data points on this plot have relatively high functional similarity values (similarity superior to 0.6, identified by the blue line). These pairs of drugs are unexpected; such compounds appear to be strongly related on the functional level, yet in practice they are clinically used for radically different indications. Such data points have been interpreted as repositioning hypotheses.
+
+In this regard, the values shown above the blue line (0.6) in Figure \ref{fig4-9} (A) have been first isolated (see Figure \ref{fig4-9}-B). Some drugs with little knowledge have been discarded (low number of annotations - see material and method //section); the remaining set is displayed in panel (C). The pairs of molecules in the area Figure \ref{fig4-9} (C), defined as drug repositioning hypotheses, were isolated from the rest of the data points and further displayed through a web application (https://www.ebi.ac.uk/chembl/research/ftc-hypotheses/) in order to facilitate their exploration and validation.
+
+A total of 797 pairs of points or repositioning hypotheses were considered. The hypotheses are grouped by therapeutic areas in the web application. For example, the ATC category J01 - “Antibacterials for systemic use” contains 72 associations or potential drugs that are not indexed as antibacterial and yet could be used as such, based on their known role in the human body (link). The web application further provides an aggregation of the ATC categories related to the one currently investigated. For instance the hypotheses related to the category “Antibacterials for systemic use” are from drugs present in the ATC group L01 - “Antineoplastic agents” (54 hypotheses), S02 (“otologicals”, 16 hypotheses), V03 (“All other therapeutic products”, 9 associations), D06 (“Antibiotics and chemotherapeutics for dermatological use”, 9 hypotheses) and S03 (“Ophthalmological and otological preparations”, 8 hypotheses).
+
+Very often, the same drug is involved in multiple hypotheses. For instance, the antibiotic pefloxacin is functionally similar to 9 other drugs; this results in a network of interconnected drugs related to one therapeutic category. From the web application, it is possible to export the file containing hypotheses to further analyse the graph in Cytoscape \citep{shannon2003cytoscape}, a program commonly used to visualise networks and systems. These graphs will be extensively discussed in the rest of this chapter.
+
+From the relationship between the structure, function and indication of approved drugs, it is possible to isolate outliers not following the predicted behaviour. Such data points extracted from the analysis have been defined as drug repositioning opportunities and are available via a web interface. Next sections will focus on particular therapeutic groups and use-cases, in order to identify the relevance and the limits of the approach.
+
+\section{Open drug repositioning hypotheses}
+The ATC provides data regarding the anatomical group inside which a drug has been assigned (first level) as well as its main therapeutic area (level 2). I considered this information as a gold standard defining the indication of a drug. As a reflection of polypharmacology, some of the drugs are already present in multiple ATC categories, or have multiple indications. For instance, acetylsalicylic acid is classified as a stomatological preparation (A01), an antithrombotic agent (B01) and an analgesic (N02), according to the various roles it can play in the human body. The hypotheses generated render a similar result: drugs are predicted to be active in other ATC categories on top of the ones they have already been manually assigned to.
+
+The aim of this section is to characterise and interpret the hypotheses; indeed, before moving forward to perform laboratory experiments, it is necessary to have a clearer idea of the molecular reasons behind the predictions.
+
+First I will present an overview of the dataset and illustrate how drug repositioning relates to the non-regulated uses of drugs. This topic is known as off-label uses \citep{offlabelwiki} and concerns around 20\% of the drug’s prescriptions \citep{stafford2008regulating}. An off-label use is the indication of a drug for a non-regulated usage, either in terms of therapeutic group, dosage or patient group. This practice is legal in most countries, yet as it is non-regulated there is little information about it.
+
+Secondly, I will investigate drug repositioning hypotheses for cardiovascular hypertension and Alzheimer's disease. These use-cases are also an opportunity to compare the hypotheses generated using functional similarity (//ref previous section) against the “toolbox” approach, which considers drugs classified inside FTC categories directly as relevant for a biological process.
+
+\subsection{Relationship between therapeutic areas}
+In the context of this work, a repositioning hypothesis is defined as a pair of drugs that are functionally similar yet currently indicated for different clinical purposes. In practice, this relationship can serve to relate therapeutic groups: some hypotheses are present more often than others between two given groups, providing insights as to how close these clinical areas are. In this respect, Figure 4-10 shows the association between therapeutic areas, with a resolution of two ATC levels.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics{fig4-10}
+    \caption{Raw associations between therapeutic areas. All the repositioning hypotheses between two a therapeutic groups are merged to define the strength of association amongst these groups. The boldness of the line is directly proportional to the strength of association. For instance, there exists more repositioning hypotheses between the groups M01 and S01 (very bold line) than between the groups C10 and A07 (thinner line). Categories are sorted on alphabetical order and the color is assigned based on the first letter of the group (therapeutic area). All the group S is pink for instance (S01, S02 and S03).}
+    \label{fig4-10}
+\end{figure}
+
+It is rather challenging to derive any meaningful conclusion from the graph, yet the hairball reveals an interesting features of the dataset: a high inter-group connectivity, which appears stronger in some cases and weaker in others. For instance, D categories (dermatologicals) are less well connected than N series (nervous system), simply from visual observation. In order to simplify the problem faced and extract the essence of the dataset, I further decided to group categories considering solely their first ATC level and filtering out weak associations (//ref method). The result is shown in Figure \ref{fig4-11}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics{fig4-11}
+    \caption{Filtered and abstracted associations between therapeutic areas. The network is built from the data point shown on Figure 4-10. ATC categories have been grouped based on their first level: For instance all the hypotheses for the groups S01, S02 and S03 have been merged as S (or sensory organ in this figure). Moreover, only the links involving a minimum of 25 hypotheses (arbitrary) have been kept in order to filter out the weak associations. The network shows the areas subject to drug repositioning or for which there exists a “promiscuous” pharmacology, which can be captured by the degree of a node (number of connections with other nodes).}
+    \label{fig4-11}
+\end{figure}
+
+The resulting graph abstracts away details and shows clearer high level associations between groups. The most connected node is the nervous system (degree of 6). The high connectivity around this therapeutic area could be interpreted as the presence of numerous repositioning hypotheses; however, it is much more likely to be due to off-label usages. Neurology is a domain particularly famous for this \citep{cras2007off}. For instance, it is genuinely difficult to define and quantify concepts such as “pain” \citep{bonica1979need} or any mental illness, therefore clinicians do not always use the officially indicated drug, depending on their diagnostic, personal experience and history of the patients (personal discussion with clinical pharmacologists).
+
+Other therapeutic areas such as the ones related to sensory organs, dermatology and the musculoskeletal system are also well connected (degree of 4 and 5). The presence of the musculoskeletal category can be explained by the promiscuity of anti-inflammatory agents; usually such drugs are also active on the nervous system, explaining the strong relation between these two groups. This high level overview can be refined with the help of figure 4-12.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics{fig4-12}
+    \caption{Filtered associations between therapeutic areas. The network is built from the data point shown on Figure \ref{fig4-10}. Weak associations (less than 15 hypotheses) have been filtered out. The graph shows the high level association between therapeutic areas, for a two ATC level resolution. See text for interpretation of the edges.}
+    \label{fig4-12}
+\end{figure}
+
+These graphs focus on the ATC level 2 indications, as in Figure \ref{fig4-10}, but with weaker associations filtered out (//ref method). This more granular view of the data confirms the fussiness around neurological compounds; 6 out of 26 categories are from this therapeutic area and are well connected to the other nodes. Some associations are of special interest, as summarised in Table \ref{higlevelhypo} .
+
+\begin{table}[htbp]
+\begin{tabular}{|l|l|p{5cm}|}
+\hline
+\multicolumn{2}{|c|}{\textbf{Therapeutic groups association}} & \multicolumn{1}{c|}{\textbf{Interpretation}} \\ \hline
+Cough and cold & Analgesics & Analgesics are used in cough preparations \citep{atcr05} \\ \hline
+Anti-inflamatory & Antimycobacterials & No naive interpretation \\ \hline
+Analgesics & Ophtalmological & \multicolumn{ 1}{l|}{Related MoA, regulation of blood pressure} \\ \cline{ 1- 2}
+Ophtalmological & Nasal preparation & \multicolumn{ 1}{l|}{} \\ \cline{ 1- 2}
+Antihypertensive & Ophtalmological & \multicolumn{ 1}{l|}{} \\ \cline{ 1- 2}
+Beta blocking agent & Ophtalmological & \multicolumn{ 1}{l|}{} \\ \hline
+Antibacterial & Antineoplastic & Ortholog targets, replication of DNA \\ \hline
+Antihistamines & Psycholeptics & Drowsiness, specially with first and second generation \citep{gengo1987antihistamines} \\ \hline
+Gastrointestinal disorder & Psycholeptics & Currently used as treatment, preparations contain psycholeptics \citep{atca03} \\ \hline
+Analgesics & Anti-inflamatory & Side-effect, shared bioactivity \citep{hunskaar1987formalin} \\ \hline
+\end{tabular}
+\caption{High level association between therapeutic groups and shared pharmacology.}
+\label{higlevelhypo}
+\end{table}
+
+Analgesics (relief from pain) are strongly associated with cough and cold preparations. This pair is not so surprising; anti-flu medicines often mediate their effect as palliative pain killers, as confirmed in the ATC description of the category \citep{atcr05}. The strong connection between anti-inflammatory drugs and analgesics observed in the Figure 4-10 is confirmed; compounds from either of these classes are known to have overlapping pharmacology \citep{hunskaar1987formalin}. This relationship is further supported by the extra links to “topical products for joint and muscular pain”, showing the ambiguity of biological action and the relatedness of these indications.
+
+Another neurological category, psycholeptics (calming effect), is related to antihistamines and drugs for gastrointestinal diseases. The former association explains the drowsiness side-effect provoked by first and second antihistaminic agents. For gastrointestinal disorders, the link is explainable by the fact that psycholeptics are often administered as a palliative solution for such dysfunctions \citep{atca03}. An edge also connects stomatological preparations to analgesics, supporting this observation.
+
+The strong relation between anti-neoplastic agents and anti-bacterials can be explained by the orthology between the proteins targeted by these drugs, namely the DNA replication machinery. The replication apparatus of bacteria and humans are still fairly similar \citep{hurle2013computational}, therefore a drug inhibiting one can also inhibit the other.
+
+Ophthalmologicals are connected to cardiovascular drugs (beta blocking and antihypertensives agents) as well as to nasal preparations. This hub originates because of the shared fundamental MoA between all these categories: regulation of blood pressure and flow, in different systems. The functional similarity between these categories is high, as the pharmacological effect is mediated via the same biological process, yet the administration and delivery of the drug in the body leads to the specificity of the indication. This relationship will be analysed in more details in coming sections.
+
+Finally, some of the edges are difficult to interpret without looking at the underlying pairs of drugs. For instance, the association between anti-inflammatory and anti-mycobacterial agents is unusual and requires deeper investigation to be interpreted (not discussed in this document).
+
+This overview of the relationship between therapeutic groups reveals some expected associations, confirming the validity of the approach. Some known cases are represented in the graphs shown and are well documented in the scientific literature. Polypharmacology between groups appears non-homogenous, as some therapeutic areas are closer than others in terms of functional similarity and strength of association. The list of drug repositioning hypotheses contains some off-label pairs, which are drugs known and already used for an alternative indication yet not formally approved for it.
+
+From this generic presentation of the dataset and in order to better characterise the repositioning hypotheses, I decided to focus in more detail on agents active for treatment or prevention of cardiovascular hypertension. Finally I demonstrate how the categories of the FTC can be used as a starting point to address Alzheimer’s disease (toolbox approach).
+
+\subsection{Drug repositioning for hypertension and the cardiovascular system}
+The beginning of this chapter (//ref section) compared pairs of drugs considering the relative similarity of their functions and structures. The closeness between two roles was defined as the semantic similarity over the content of the FTC; such a metric helped to identify related compounds, forward repositioning hypotheses and look at the relationships between therapeutic groups (//ref previous section). This approach, referred to as “similarity-based”, is useful when a known therapeutic category already exists in the gold standard (ATC) which can be used as a starting point for further investigations.
+
+Complementarily, the FTC can also be directly used as a toolbox, in order to find drugs to fix or repair a molecular machinery; some FTC categories contain active molecules in theory capable of producing the described pharmacological effect. Therefore, knowing the desired MoA can help to identify what molecule to use for a particular condition. This methodology is named the “toolbox approach”. The difference between the two approaches are illustrated and summarised in Figure \ref{fig4-13}.
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig4-13}
+    \caption{Comparison of the similarity-based against toolbox approach for drug repositioning hypotheses investigation. (A) The concept formulated in natural language as in the head of a researcher or mentioned in a text is formalised and mapped to a term from a classification, either the ATC or the FTC in this case. (B) Similarity-based approach: the drugs functionally similar (semantic similarity over the FTC) to the ones listed in the ATC category are the drug repositioning hypotheses (displayed in the web application). (C) Toolbox approach: The drugs classified under the selected FTC category are capable of producing the MoA of interest. These compounds have been automatically assigned to the categories during the reasoning step (see Chapter 3). Note that often the ATC and FTC category have equivalent meanings, as emphasized by the bold black arrow between the categories.}
+    \label{fig4-13}
+\end{figure}
+
+This section demonstrates how the FTC and the previously generated drug repositioning hypotheses can be used in practice, using hypertension as an example.
+
+High blood pressure, or hypertension, is a medical condition leading to an increased risk of strokes, heart attacks and cardiovascular diseases \citep{law2003lowering}. In Europe alone, this condition is considered epidemic; hypertension affects between 30 to 45\% of the whole population \citep{swedberg2005task}, making it one of the leading causes of death. From a mechanistic perspective, hypertension can be straightforwardly regulated by lowering the blood pressure in the affected patient; this biological outcome can however be achieved in a variety of ways. For instance, the physical contraction of cardiac cells can be directly inhibited by blocking a receptor, the signalling pathway triggering the vasoconstriction can be perturbed, or the density of the blood itself can be reduced in order to make it more fluid \citep{swedberg2005task}. All these different mechanisms are of interest because they produce the same therapeutic outcome, with yet different safety profiles or patient groups.
+
+The FTC contains and defines such mechanisms, therefore the resource can assist in choosing the right drug to elicit the desired action (toolbox approach). The commonly considered mechanisms and MoAs for hypertension treatment are presented below, alongside their corresponding categories in the FTC and ATC, when existing. Moreover the repositioning hypotheses generated earlier in this chapter using the similarity-based approach will be discussed when relevant.
+
+The hypertension use-case exemplifies a detailed mechanistic analysis that can be performed over the FTC dataset, from the functional representation to drug repositioning hypotheses.
+
+\subsubsection{Antihypertensives}
+
 //TODO
+
+A feature of the FTC is its ability to abstract away from specific chemical interactions in order to solely focus on high level biological processes. In this respect, at least two FTC categories - or MoAs - are of interest to address hypertension: Pro-vasodilation agent (https://www.ebi.ac.uk/chembl/ftc/FTC\_P0042311) and Anti-vasoconstriction agent (https://www.ebi.ac.uk/chembl/ftc/FTC\_A0042310). The former type contains only one drug, whereas the latter features 49 compounds. All of these drugs are deemed to be active for the condition studied and some of them are already indicated as such (e.g, prazosin), whereas others are currently used for totally different purposes, such as clozapine, an antipsychotic agent. The FTC categories can be used to identify new compounds capable of producing the biological effect following this toolbox approach; no previous knowledge is necessary, except about the name of the mechanism studied in order to find active drugs (see Figure \ref{fig4-14}).
+
+\begin{figure}[ht]
+    \centering
+    \includegraphics{fig4-14}
+    \caption{Schematic representation of the dilatation/constriction process of blood vessels. (A) Cross section of blood vessel in normal state. (B) Vasodilatation process, the size of the blood vessel increases, reducing the overall blood pressure (less tension). (C) Vasoconstriction process, the diameter of the blood vessel diminishes, increasing the overall blood pressure. Preventing or treating hypertension can be achieved by either promoting the state (B) (Pro-vasodilatation agents) or by preventing state (C) (Anti-vasoconstriction agents).}
+    \label{fig4-14}
+\end{figure}
+
+The semantically equivalent ATC category is “antihypertensives” (C02) and contains single molecules and drug combinations. The drug repositioning hypotheses for this ATC class are listed and interpreted in Table \ref{tablel02} (https://www.ebi.ac.uk/chembl/research/ftc-hypotheses/code/L02).
+
+\begin{table}[htbp]
+\scriptsize
+\begin{tabular}{|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+\hline
+\multicolumn{ 2}{|p{2cm}|}{\textbf{Reference drug}} & \multicolumn{ 2}{p{2cm}|}{\textbf{Hypothesis}} &  \\ \hline
+\textbf{Identifier} & \textbf{ATC code} & \textbf{Identifier} & \textbf{ATC code} & \textbf{Interpretation} \\ \hline
+DB00457 (Prazosin) & \multicolumn{ 1}{p{2cm}|}{C02 (Antihypertensives)} & \multicolumn{ 1}{p{2cm}|}{DB01162 (Terazosin)} & \multicolumn{ 1}{p{2cm}|}{G04 (Urologicals)} & \multicolumn{ 1}{p{2cm}|}{Valid hypotheses, the drug is used as such already} \\ \cline{ 1- 1}
+DB00590 (Doxazosin) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \cline{ 1- 1}\cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{Centrally active hypotensive agents (group A)} & \multicolumn{ 1}{p{2cm}|}{} & DB00668 (Epinephrine) & A01 (Stomatological preparations) 
+B02 (Antihemorrhagics)
+C01 (Cardiac therapy)
+R01 (Nasal preparations)
+R03 (Drugs for obtructive airway diseases)
+S01 (Ophtalmologicals) & Promiscous drug involved in numerous process - effect varies with quantities, to verify prodrugs and how it influences \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00368 (Norepinephrine) & C01 (Cardiac therapy) & Related therapeutic group - central hormone \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00697 (Tizanidine) & M03 (Muscle relaxants) & Management of spasticity - same receptors but different locations - inhibition of motoreurons \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00320 (Dihydroergotamine) & N02 (Analgesics) & Migraine therapy - vasoconstrictor - hypothese likely wrong \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00413 (Pramipexole) & N04 (Anti-parkinson drugs) & For Parkinson's disease and restless syndrome. Used off-label for cluster headache. Effect on vaconstriction? \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00633 (Dexmedetomidine) & N05 (Psycholeptics) & Because of its pain killing action, it also decreases the blood pressure and heart rate - different location of receptor triggers different effect \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB01577 (Methamphetamine) & N06 (Psychoanaleptics) & Plausible - illegal molecule \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB04948 (Lofexidine) & N07 (Other nervous system drugs) & Adrenergic agonist - reported as short-acting antihypertensive, but mostly used to relieve opiate dependency - known usage \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00935 (Oxymetazoline) & \multicolumn{ 1}{p{2cm}|}{R01 (Nasal preparations)
+S01 (Opthalmologicals)} & \multicolumn{ 1}{p{2cm}|}{Vasoconstrictor to relieve nasal congestion. Also used for occular inflamation - wrong hypotheses} \\ \cline{ 3- 3}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB06711 (Naphazoline) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \cline{ 3- 3}\cline{ 5- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB06694 (Xylometazoline) & \multicolumn{ 1}{p{2cm}|}{} & nasal vasoconstrictor decongestant \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00397 (Phenylpropanolamine) & R01 (Nasal preparations) & Produces vasoconstriction - misclassification - thought yet a link with vasodilatation \\ \cline{ 3- 5}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00964 (Apraclonidine) & \multicolumn{ 1}{p{2cm}|}{S01 (Opthalmologicals)} & \multicolumn{ 1}{p{2cm}|}{Used in glaucoma therapy - seems legitimate, anti-hypertensive drug in the eye} \\ \cline{ 3- 3}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00484 (Brimonidine) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \cline{ 3- 3}
+\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00449 (Dipivefrin) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \hline
+\end{tabular}
+\label{tablel02}
+\caption{Drug repositioning hypotheses related to the hypertension (ATC C02).}
+\end{table}
+
+The presence of neurological drugs is explainable by their adrenergic side activity; such molecules bind receptors that are similar to the ones involved in blood pressure regulation, yet are located in different parts of the body and produce a different therapeutic effect (//cite). A similar pattern is observed with ophthalmological agents, administered for glaucoma, a disease closely related to eye hypertension (//cite). In this case too, vasodilators are prescribed, but the delivery and formulation of the molecule confers the specificity of the effect. This evidence supports the validity of the hypotheses; administering the drugs in the cardiovascular system rather than in the eye would probably reduce the overall blood pressure.
+
+A series of arguably good hypotheses are related to compounds used against nasal congestion. Their reported pharmacological effect, vasoconstriction of the nose’s arteries (//cite), is the opposite of the one wanted, namely. However, the biological activity of such compounds is strongly related to that of epinephrin, which is particularly sensitive to concentration (//cite I think in DB). Depending on the dosage and the body part concerned, the epinephrine molecule can produce radically different outcomes, from vasoconstriction to vasodilatation (//cite article from wikipedia in ref). On this basis, the repositioning hypotheses related to nasal preparations seem more plausible; still, the delivery methods would need to be adequately optimised.
+
+The information in the FTC helps to group drugs by MoAs as expected, without consideration for the anatomical part acted upon. In order to be repurposed, the delivery mechanisms of the drugs need to be adapted to transport the molecule to the right place in the body. The FTC provides abstract level MoAs, such as the ones presented in this section. It is also possible to use the resource to investigate more detailed mechanisms, as discussed in the coming parts.
+
+

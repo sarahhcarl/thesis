@@ -6,45 +6,46 @@ Database file #1: thesis.bib
 Warning--empty journal in baader2008pushing
 Warning--empty journal in law2003lowering
 Warning--empty journal in neumann1966theory
-You've used 159 entries,
+Warning--empty journal in tanimoto1958elementary
+You've used 182 entries,
             1935 wiz_defined-function locations,
-            1289 strings with 33608 characters,
-and the built_in function-call counts, 69731 in all, are:
-= -- 6662
-> -- 3720
-< -- 84
-+ -- 1384
-- -- 1314
-* -- 6409
-:= -- 12345
-add.period$ -- 477
-call.type$ -- 159
-change.case$ -- 1422
-chr.to.int$ -- 143
-cite$ -- 162
-duplicate$ -- 2237
-empty$ -- 4313
-format.name$ -- 1528
-if$ -- 13200
+            1420 strings with 38786 characters,
+and the built_in function-call counts, 79823 in all, are:
+= -- 7633
+> -- 4249
+< -- 95
++ -- 1578
+- -- 1502
+* -- 7360
+:= -- 14139
+add.period$ -- 545
+call.type$ -- 182
+change.case$ -- 1628
+chr.to.int$ -- 166
+cite$ -- 186
+duplicate$ -- 2545
+empty$ -- 4941
+format.name$ -- 1741
+if$ -- 15089
 int.to.chr$ -- 17
 int.to.str$ -- 0
-missing$ -- 142
-newline$ -- 795
-num.names$ -- 477
-pop$ -- 1147
+missing$ -- 162
+newline$ -- 909
+num.names$ -- 546
+pop$ -- 1300
 preamble$ -- 1
-purify$ -- 1428
+purify$ -- 1634
 quote$ -- 0
-skip$ -- 1723
+skip$ -- 1962
 stack$ -- 0
-substring$ -- 4702
-swap$ -- 214
+substring$ -- 5440
+swap$ -- 233
 text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 942
-warning$ -- 3
-while$ -- 537
+type$ -- 1080
+warning$ -- 4
+while$ -- 619
 width$ -- 0
-write$ -- 2031
-(There were 3 warnings)
+write$ -- 2324
+(There were 4 warnings)

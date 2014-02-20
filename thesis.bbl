@@ -52,6 +52,13 @@ Baader, F., Brandt, S., and Lutz, C. (2005).
 Baader, F., Brandt, S., and Lutz, C. (2008).
 \newblock Pushing the el envelope further.
 
+\bibitem[Babic, 1999]{babic1999cholinergic}
+Babic, T. (1999).
+\newblock The cholinergic hypothesis of alzheimer’s disease: a review of
+  progress.
+\newblock {\em Journal of Neurology, Neurosurgery \& Psychiatry},
+  67(4):558--558.
+
 \bibitem[Barabasi and Oltvai, 2004]{barabasi2004network}
 Barabasi, A.-L. and Oltvai, Z.~N. (2004).
 \newblock Network biology: understanding the cell's functional organization.
@@ -62,6 +69,13 @@ Barratt, M.~J. and Frail, D.~E. (2012).
 \newblock {\em Drug repositioning: Bringing new life to shelved assets and
   existing drugs}.
 \newblock Wiley. com.
+
+\bibitem[Bende et~al., 1996]{bende1996effect}
+Bende, M., Fukami, M., Arfors, K., Mark, J., Stierna, P., and Intaglietta, M.
+  (1996).
+\newblock Effect of oxymetazoline nose drops on acute sinusitis in the rabbit.
+\newblock {\em The Annals of otology, rhinology, and laryngology},
+  105(3):222--225.
 
 \bibitem[Berners-Lee et~al., 2001]{berners2001semantic}
 Berners-Lee, T., Hendler, J., Lassila, O., et~al. (2001).
@@ -131,6 +145,11 @@ Croset, S., Overington, J.~P., and Rebholz-Schuhmann, D. (2013b).
 \newblock The functional therapeutic chemical classification system.
 \newblock {\em Bioinformatics}, page btt628.
 
+\bibitem[Dalke-Scientific, 2014]{fpdalke}
+Dalke-Scientific (January 2014).
+\newblock Fingerprints.
+\newblock \url{http://www.dalkescientific.com/writings/NBN/fingerprints.html}.
+
 \bibitem[Darwin and Bynum, 2009]{darwin2009origin}
 Darwin, C. and Bynum, W.~F. (2009).
 \newblock {\em The origin of species by means of natural selection: or, the
@@ -143,6 +162,12 @@ De~Franchi, E., Schalon, C., Messa, M., Onofri, F., Benfenati, F., and Rognan,
 \newblock Binding of protein kinase inhibitors to synapsin i inferred from
   pair-wise binding site similarity measurements.
 \newblock {\em PLoS One}, 5(8):e12214.
+
+\bibitem[Delacourte and Defossez, 1986]{delacourte1986alzheimer}
+Delacourte, A. and Defossez, A. (1986).
+\newblock Alzheimer's disease: tau proteins, the promoting factors of
+  microtubule assembly, are major components of paired helical filaments.
+\newblock {\em Journal of the neurological sciences}, 76(2):173--186.
 
 \bibitem[DiMasi, 2001]{dimasi2001new}
 DiMasi, J.~A. (2001).
@@ -190,6 +215,19 @@ Eckert, H. and Bajorath, J. (2007).
 Editorial (2013).
 \newblock Form and function.
 \newblock {\em Nature}, 495(7440):141--142.
+
+\bibitem[ESC13, 2014]{esc13}
+ESC13 (January 2014).
+\newblock High dose statins prevent dementia.
+\newblock
+  \url{http://www.escardio.org/about/press/press-releases/esc13-amsterdam/Pages/statins-dementia-elderly.aspx}.
+
+\bibitem[Evans et~al., 2001]{evans2001epinephrine}
+Evans, J.~M., Leonelli, F.~M., Ziegler, M.~G., McIntosh, C.~M., Patwardhan,
+  A.~R., Ertl, A.~C., Kim, C.~S., and Knapp, C.~F. (2001).
+\newblock Epinephrine, vasodilation and hemoconcentration in syncopal, healthy
+  men and women.
+\newblock {\em Autonomic Neuroscience}, 93(1):79--90.
 
 \bibitem[FDA, 2007]{fdaraloxifen}
 FDA (September 2007).
@@ -288,10 +326,24 @@ Gruber, T., Ontology, I. L.~L., and {\"O}zsu, M.~T. (2009).
 \newblock Encyclopedia of database systems.
 \newblock {\em Ontology}.
 
+\bibitem[Grundke-Iqbal et~al., 1986]{grundke1986abnormal}
+Grundke-Iqbal, I., Iqbal, K., Tung, Y.-C., Quinlan, M., Wisniewski, H.~M., and
+  Binder, L.~I. (1986).
+\newblock Abnormal phosphorylation of the microtubule-associated protein tau
+  (tau) in alzheimer cytoskeletal pathology.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  83(13):4913--4917.
+
 \bibitem[Hanage, 2013]{hanage2013fuzzy}
 Hanage, W.~P. (2013).
 \newblock Fuzzy species revisited.
 \newblock {\em BMC biology}, 11(1):41.
+
+\bibitem[H{\"a}ne et~al., 1993]{hane1993pearson}
+H{\"a}ne, B.~G., J{\"a}ger, K., and Drexler, H.~G. (1993).
+\newblock The pearson product-moment correlation coefficient is better suited
+  for identification of dna fingerprint profiles than band matching algorithms.
+\newblock {\em Electrophoresis}, 14(1):967--972.
 
 \bibitem[Hartwell et~al., 1999]{hartwell1999molecular}
 Hartwell, L.~H., Hopfield, J.~J., Leibler, S., and Murray, A.~W. (1999).
@@ -368,6 +420,13 @@ Horridge, M., Drummond, N., Goodwin, J., Rector, A.~L., Stevens, R., and Wang,
 \newblock The manchester owl syntax.
 \newblock In {\em OWLed}, volume 216.
 
+\bibitem[Hoshino et~al., 2011]{hoshino2011regulation}
+Hoshino, K., Ishiguro, H., Teranishi, J.-i., Yoshida, S.-i., Umemura, S.,
+  Kubota, Y., and Uemura, H. (2011).
+\newblock Regulation of androgen receptor expression through angiotensin ii
+  type 1 receptor in prostate cancer cells.
+\newblock {\em The Prostate}, 71(9):964--975.
+
 \bibitem[Hunskaar and Hole, 1987]{hunskaar1987formalin}
 Hunskaar, S. and Hole, K. (1987).
 \newblock The formalin test in mice: dissociation between inflammatory and
@@ -378,6 +437,13 @@ Hunskaar, S. and Hole, K. (1987).
 Hurle, M., Yang, L., Xie, Q., Rajpal, D., Sanseau, P., and Agarwal, P. (2013).
 \newblock Computational drug repositioning: From data to therapeutics.
 \newblock {\em Clinical Pharmacology \& Therapeutics}.
+
+\bibitem[Ikeda et~al., 2009]{ikeda2009androgen}
+Ikeda, Y., Aihara, K.-i., Yoshida, S., Sato, T., Yagi, S., Iwase, T., Sumitomo,
+  Y., Ise, T., Ishikawa, K., Azuma, H., et~al. (2009).
+\newblock Androgen-androgen receptor system protects against angiotensin
+  ii-induced vascular remodeling.
+\newblock {\em Endocrinology}, 150(6):2857--2864.
 
 \bibitem[Iorio et~al., 2010]{iorio2010discovery}
 Iorio, F., Bosotti, R., Scacheri, E., Belcastro, V., Mithbaokar, P., Ferriero,
@@ -397,6 +463,12 @@ Jaccard, P. (1912).
 Johnson, M.~A. and Maggiora, G.~M. (1990).
 \newblock {\em Concepts and applications of molecular similarity}.
 \newblock Wiley New York.
+
+\bibitem[Jones et~al., 1992]{jones1992effects}
+Jones, G., Sahakian, B., Levy, R., Warburton, D.~M., and Gray, J. (1992).
+\newblock Effects of acute subcutaneous nicotine on attention, information
+  processing and short-term memory in alzheimer's disease.
+\newblock {\em Psychopharmacology}, 108(4):485--494.
 
 \bibitem[Jordan et~al., 1987]{jordan1987effects}
 Jordan, V.~C., Phelps, E., and Lindgren, J.~U. (1987).
@@ -429,6 +501,19 @@ Keiser, M.~J., Setola, V., Irwin, J.~J., Laggner, C., Abbas, A.~I., Hufeisen,
   (2009).
 \newblock Predicting new molecular targets for known drugs.
 \newblock {\em Nature}, 462(7270):175--181.
+
+\bibitem[Khalifa, 2003]{khalifa2003zuclopenthixol}
+Khalifa, A.~E. (2003).
+\newblock Zuclopenthixol facilitates memory retrieval in rats: possible
+  involvement of noradrenergic and serotonergic mechanisms.
+\newblock {\em Pharmacology Biochemistry and Behavior}, 75(4):755--762.
+
+\bibitem[Kilgore et~al., 2010]{kilgore2010inhibitors}
+Kilgore, M., Miller, C.~A., Fass, D.~M., Hennig, K.~M., Haggarty, S.~J.,
+  Sweatt, J.~D., and Rumbaugh, G. (2010).
+\newblock Inhibitors of class 1 histone deacetylases reverse contextual memory
+  deficits in a mouse model of alzheimer's disease.
+\newblock {\em Neuropsychopharmacology}, 35(4):870--880.
 
 \bibitem[Kim et~al., 2008]{kim2008temporal}
 Kim, S.-K., Song, M.-Y., Kim, C., Yea, S.-J., Jang, H.~C., and Lee, K.-C.
@@ -563,6 +648,15 @@ Matthews, L., Gopinath, G., Gillespie, M., Caudy, M., Croft, D., de~Bono, B.,
 \newblock Reactome knowledgebase of human biological pathways and processes.
 \newblock {\em Nucleic acids research}, 37(suppl 1):D619--D622.
 
+\bibitem[McKhann et~al., 2011]{mckhann2011diagnosis}
+McKhann, G.~M., Knopman, D.~S., Chertkow, H., Hyman, B.~T., Jack~Jr, C.~R.,
+  Kawas, C.~H., Klunk, W.~E., Koroshetz, W.~J., Manly, J.~J., Mayeux, R.,
+  et~al. (2011).
+\newblock The diagnosis of dementia due to alzheimer’s disease:
+  Recommendations from the national institute on aging-alzheimer’s
+  association workgroups on diagnostic guidelines for alzheimer's disease.
+\newblock {\em Alzheimer's \& Dementia}, 7(3):263--269.
+
 \bibitem[Medina-Franco et~al., 2013]{medina2013shifting}
 Medina-Franco, J.~L., Giulianotti, M.~A., Welmaker, G.~S., and Houghten, R.~A.
   (2013).
@@ -610,6 +704,11 @@ Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
 \newblock Drug repositioning: A machine-learning approach through data
   integration.
 \newblock {\em Journal of Cheminformatics}, 5(1):30.
+
+\bibitem[Nelson, 2010]{nelson2010drug}
+Nelson, M. (2010).
+\newblock Drug treatment of elevated blood pressure.
+\newblock {\em Australian Prescriber}, 33(4).
 
 \bibitem[Nelson et~al., 2004]{nelson2004mesh}
 Nelson, S.~J., Schopen, M., Savage, A.~G., Schulman, J.-L., and Arluk, N.
@@ -681,6 +780,17 @@ Paolini, G.~V., Shapland, R.~H., van Hoorn, W.~P., Mason, J.~S., and Hopkins,
 \newblock Global mapping of pharmacological space.
 \newblock {\em Nature biotechnology}, 24(7):805--815.
 
+\bibitem[PubChem, 2014]{pubchemfp}
+PubChem (January 2014).
+\newblock Pubchem substructure fingerprint.
+\newblock
+  \url{ftp://ftp.ncbi.nlm.nih.gov/pubchem/specifications/pubchem_fingerprints.txt}.
+
+\bibitem[Quigley, 1996]{quigley1996number}
+Quigley, H.~A. (1996).
+\newblock Number of people with glaucoma worldwide.
+\newblock {\em British Journal of Ophthalmology}, 80(5):389--393.
+
 \bibitem[Ravasz et~al., 2002]{ravasz2002hierarchical}
 Ravasz, E., Somera, A.~L., Mongru, D.~A., Oltvai, Z.~N., and Barab{\'a}si,
   A.-L. (2002).
@@ -713,6 +823,14 @@ Sanseau, P., Agarwal, P., Barnes, M.~R., Pastinen, T., Richards, J.~B., Cardon,
 Sanseau, P. and Koehler, J. (2011).
 \newblock Editorial: Computational methods for drug repurposing.
 \newblock {\em Briefings in bioinformatics}, 12(4):301--302.
+
+\bibitem[Scheuner et~al., 1996]{scheuner1996secreted}
+Scheuner, D., Eckman, C., Jensen, M., Song, X., Citron, M., Suzuki, N., Bird,
+  T., Hardy, J., Hutton, M., Kukull, W., et~al. (1996).
+\newblock Secreted amyloid $\beta$--protein similar to that in the senile
+  plaques of alzheimer's disease is increased in vivo by the presenilin 1 and 2
+  and app mutations linked to familial alzheimer's disease.
+\newblock {\em Nature medicine}, 2(8):864--870.
 
 \bibitem[Schulz and Jansen, 2013]{schulz2013formal}
 Schulz, S. and Jansen, L. (2013).
@@ -779,6 +897,10 @@ Swinney, D.~C. and Anthony, J. (2011).
 \newblock How were new medicines discovered?
 \newblock {\em Nature reviews Drug discovery}, 10(7):507--519.
 
+\bibitem[Tanimoto, 1958]{tanimoto1958elementary}
+Tanimoto, T.~T. (1958).
+\newblock elementary mathematical theory of classification and prediction.
+
 \bibitem[Teo et~al., 2005]{teo2005thalidomide}
 Teo, S.~K., Stirling, D.~I., and Zeldis, J.~B. (2005).
 \newblock Thalidomide as a novel therapeutic agent: new uses for an old
@@ -816,6 +938,13 @@ Turing, A.~M. (1950).
 \newblock Computing machinery and intelligence.
 \newblock {\em Mind}, pages 433--460.
 
+\bibitem[Van~Nueten et~al., 1978]{van1978effect}
+Van~Nueten, J., Van~Beek, J., and Janssen, P. (1978).
+\newblock Effect of flunarizine on calcium-induced responses of peripheral
+  vascular smooth muscle.
+\newblock {\em Archives internationales de pharmacodynamie et de therapie},
+  232(1):42--52.
+
 \bibitem[Vempati et~al., 2012]{vempati2012formalization}
 Vempati, U.~D., Przydzial, M.~J., Chung, C., Abeyruwan, S., Mir, A., Sakurai,
   K., Visser, U., Lemmon, V.~P., and Sch{\"u}rer, S.~C. (2012).
@@ -850,6 +979,12 @@ W3C (January 2014b).
 W3C (January 2014c).
 \newblock Owl 2 web ontology language.
 \newblock \url{http://www.w3.org/TR/owl2-overview/}.
+
+\bibitem[Wang et~al., 2000]{wang2000amyloid}
+Wang, H.-Y., Lee, D.~H., Davis, C.~B., and Shank, R.~P. (2000).
+\newblock Amyloid peptide a$\beta$1-42 binds selectively and with picomolar
+  affinity to $\alpha$7 nicotinic acetylcholine receptors.
+\newblock {\em Journal of neurochemistry}, 75(3):1155--1161.
 
 \bibitem[Wei et~al., 2006]{wei2006gene}
 Wei, G., Twomey, D., Lamb, J., Schlis, K., Agarwal, J., Stam, R.~W., Opferman,
@@ -926,10 +1061,20 @@ Williams, A.~J., Harland, L., Groth, P., Pettifer, S., Chichester, C.,
 \newblock Open phacts: semantic interoperability for drug discovery.
 \newblock {\em Drug discovery today}, 17(21):1188--1198.
 
+\bibitem[Wolozin, 2004]{wolozin2004cholesterol}
+Wolozin, B. (2004).
+\newblock Cholesterol, statins and dementia.
+\newblock {\em Current opinion in lipidology}, 15(6):667--672.
+
 \bibitem[Yang and Agarwal, 2011]{yang2011systematic}
 Yang, L. and Agarwal, P. (2011).
 \newblock Systematic drug repositioning based on clinical side-effects.
 \newblock {\em PloS one}, 6(12):e28025.
+
+\bibitem[Young, 2011]{young2011more}
+Young, A.~H. (2011).
+\newblock More good news about the magic ion: lithium may prevent dementia.
+\newblock {\em The British Journal of Psychiatry}, 198(5):336--337.
 
 \bibitem[Zahler et~al., 2007]{zahler2007inverse}
 Zahler, S., Tietze, S., Totzke, F., Kubbutat, M., Meijer, L., Vollmar, A.~M.,

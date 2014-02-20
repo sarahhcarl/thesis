@@ -96,5 +96,26 @@
 \BOOKMARK [2][-]{subsection.4.3.1}{Relationship between therapeutic areas}{section.4.3}% 96
 \BOOKMARK [2][-]{subsection.4.3.2}{Drug repositioning for hypertension and the cardiovascular system}{section.4.3}% 97
 \BOOKMARK [3][-]{subsubsection.4.3.2.1}{Antihypertensives}{subsection.4.3.2}% 98
-\BOOKMARK [0][-]{chapter*.68}{Bibliography}{}% 99
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 100
+\BOOKMARK [3][-]{subsubsection.4.3.2.2}{Calcium channel blockers}{subsection.4.3.2}% 99
+\BOOKMARK [3][-]{subsubsection.4.3.2.3}{Adrenergic receptor antagonists}{subsection.4.3.2}% 100
+\BOOKMARK [3][-]{subsubsection.4.3.2.4}{Alpha-2 agonists}{subsection.4.3.2}% 101
+\BOOKMARK [3][-]{subsubsection.4.3.2.5}{Diuretics}{subsection.4.3.2}% 102
+\BOOKMARK [3][-]{subsubsection.4.3.2.6}{Renin-angiotensin system}{subsection.4.3.2}% 103
+\BOOKMARK [3][-]{subsubsection.4.3.2.7}{Peripheral vasodilators}{subsection.4.3.2}% 104
+\BOOKMARK [2][-]{subsection.4.3.3}{Repositioning for Alzheimer’s disease}{section.4.3}% 105
+\BOOKMARK [1][-]{section.4.4}{Summary}{chapter.4}% 106
+\BOOKMARK [1][-]{section.4.5}{Methods}{chapter.4}% 107
+\BOOKMARK [2][-]{subsection.4.5.1}{Structural fingerprints calculation}{section.4.5}% 108
+\BOOKMARK [2][-]{subsection.4.5.2}{Structural similarity between drugs}{section.4.5}% 109
+\BOOKMARK [2][-]{subsection.4.5.3}{Agreement between fingerprinting methodologies}{section.4.5}% 110
+\BOOKMARK [2][-]{subsection.4.5.4}{Kernel density plots}{section.4.5}% 111
+\BOOKMARK [2][-]{subsection.4.5.5}{Web application related to drug repositioning hypotheses}{section.4.5}% 112
+\BOOKMARK [2][-]{subsection.4.5.6}{Filtering of drug repositioning hypotheses}{section.4.5}% 113
+\BOOKMARK [2][-]{subsection.4.5.7}{Filtering of relationships between therapeutic areas}{section.4.5}% 114
+\BOOKMARK [0][-]{chapter.5}{Outlook and future work}{}% 115
+\BOOKMARK [1][-]{section.5.1}{Work performed in the context of drug discovery}{chapter.5}% 116
+\BOOKMARK [1][-]{section.5.2}{Comparison against functional genomics}{chapter.5}% 117
+\BOOKMARK [1][-]{section.5.3}{Biomedical knowledge: towards a simpler representation}{chapter.5}% 118
+\BOOKMARK [1][-]{section.5.4}{Off-label uses and clinical drug repositioning}{chapter.5}% 119
+\BOOKMARK [0][-]{chapter*.82}{Bibliography}{}% 120
+\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 121

@@ -40,6 +40,7 @@ thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texl
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/subfig/subfig.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty)
+thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,/usr/share/texlive/texmf-dist/tex/latex/url/url.sty)
@@ -51,6 +52,7 @@ thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,11Chapter1.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,12Chapter2.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,13Chapter3.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,14Chapter4.tex)
+thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,15Chapter5.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,21Appendix.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,22Index.tex)
 thesis.aux thesis.aux.make thesis.d thesis.pdf: $(call path-norm,cam-thesis.cls)
@@ -246,4 +248,28 @@ thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-13.pdf)
 -include ./Figures/fig4-14.pdf.gpi.d
 thesis.d: $$(call graphics-source,./Figures/fig4-14.pdf)
 thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-14.pdf)
+-include ./Figures/fig4-15.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-15.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-15.pdf)
+-include ./Figures/fig4-16.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-16.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-16.pdf)
+-include ./Figures/fig4-17.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-17.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-17.pdf)
+-include ./Figures/fig4-18.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-18.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-18.pdf)
+-include ./Figures/fig4-19.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-19.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-19.pdf)
+-include ./Figures/fig4-21.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-21.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-21.pdf)
+-include ./Figures/fig4-22.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-22.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-22.pdf)
+-include ./Figures/fig4-23.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig4-23.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-23.pdf)
 thesis.bbl thesis.aux thesis.aux.make: ./thesis.bib

@@ -276,9 +276,6 @@ The FTC contains and defines such mechanisms, therefore the resource can assist 
 The hypertension use-case exemplifies a detailed mechanistic analysis that can be performed over the FTC dataset, from the functional representation to drug repositioning hypotheses.
 
 \subsubsection{Antihypertensives}
-
-//TODO
-
 A feature of the FTC is its ability to abstract away from specific chemical interactions in order to solely focus on high level biological processes. In this respect, at least two FTC categories - or MoAs - are of interest to address hypertension: Pro-vasodilation agent (https://www.ebi.ac.uk/chembl/ftc/FTC\_P0042311) and Anti-vasoconstriction agent (https://www.ebi.ac.uk/chembl/ftc/FTC\_A0042310). The former type contains only one drug, whereas the latter features 49 compounds. All of these drugs are deemed to be active for the condition studied and some of them are already indicated as such (e.g, prazosin), whereas others are currently used for totally different purposes, such as clozapine, an antipsychotic agent. The FTC categories can be used to identify new compounds capable of producing the biological effect following this toolbox approach; no previous knowledge is necessary, except about the name of the mechanism studied in order to find active drugs (see Figure \ref{fig4-14}).
 
 \begin{figure}[ht]
@@ -292,36 +289,36 @@ The semantically equivalent ATC category is “antihypertensives” (C02) and co
 
 \begin{table}[htbp]
 \scriptsize
-\begin{tabular}{|p{2cm}|p{2cm}|p{2cm}|p{2cm}|p{2cm}|}
+
+\begin{tabular}{|p{2cm}|p{2cm}|p{2cm}|p{3cm}|p{4cm}|}
 \hline
-\multicolumn{ 2}{|p{2cm}|}{\textbf{Reference drug}} & \multicolumn{ 2}{p{2cm}|}{\textbf{Hypothesis}} &  \\ \hline
-\textbf{Identifier} & \textbf{ATC code} & \textbf{Identifier} & \textbf{ATC code} & \textbf{Interpretation} \\ \hline
-DB00457 (Prazosin) & \multicolumn{ 1}{p{2cm}|}{C02 (Antihypertensives)} & \multicolumn{ 1}{p{2cm}|}{DB01162 (Terazosin)} & \multicolumn{ 1}{p{2cm}|}{G04 (Urologicals)} & \multicolumn{ 1}{p{2cm}|}{Valid hypotheses, the drug is used as such already} \\ \cline{ 1- 1}
-DB00590 (Doxazosin) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \cline{ 1- 1}\cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{Centrally active hypotensive agents (group A)} & \multicolumn{ 1}{p{2cm}|}{} & DB00668 (Epinephrine) & A01 (Stomatological preparations) 
+\textbf{Identifier reference drug} & \textbf{ATC code reference drug} & \textbf{Identifier hypothesis} & \textbf{ATC code hypothesis} & \textbf{Interpretation hypothesis} \\ \hline
+DB00457 (Prazosin) & C02 (Antihypertensives) & DB01162 (Terazosin) & G04 (Urologicals) & Valid hypotheses, the drug is used as such already \\ \hline
+DB00590 (Doxazosin) & " & " & " & " \\ \hline
+Centrally active hypotensive agents (group A) & " & DB00668 (Epinephrine) & A01 (Stomatological preparations) 
 B02 (Antihemorrhagics)
 C01 (Cardiac therapy)
 R01 (Nasal preparations)
 R03 (Drugs for obtructive airway diseases)
-S01 (Ophtalmologicals) & Promiscous drug involved in numerous process - effect varies with quantities, to verify prodrugs and how it influences \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00368 (Norepinephrine) & C01 (Cardiac therapy) & Related therapeutic group - central hormone \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00697 (Tizanidine) & M03 (Muscle relaxants) & Management of spasticity - same receptors but different locations - inhibition of motoreurons \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00320 (Dihydroergotamine) & N02 (Analgesics) & Migraine therapy - vasoconstrictor - hypothese likely wrong \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00413 (Pramipexole) & N04 (Anti-parkinson drugs) & For Parkinson's disease and restless syndrome. Used off-label for cluster headache. Effect on vaconstriction? \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00633 (Dexmedetomidine) & N05 (Psycholeptics) & Because of its pain killing action, it also decreases the blood pressure and heart rate - different location of receptor triggers different effect \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB01577 (Methamphetamine) & N06 (Psychoanaleptics) & Plausible - illegal molecule \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB04948 (Lofexidine) & N07 (Other nervous system drugs) & Adrenergic agonist - reported as short-acting antihypertensive, but mostly used to relieve opiate dependency - known usage \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00935 (Oxymetazoline) & \multicolumn{ 1}{p{2cm}|}{R01 (Nasal preparations)
-S01 (Opthalmologicals)} & \multicolumn{ 1}{p{2cm}|}{Vasoconstrictor to relieve nasal congestion. Also used for occular inflamation - wrong hypotheses} \\ \cline{ 3- 3}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB06711 (Naphazoline) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \cline{ 3- 3}\cline{ 5- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB06694 (Xylometazoline) & \multicolumn{ 1}{p{2cm}|}{} & nasal vasoconstrictor decongestant \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00397 (Phenylpropanolamine) & R01 (Nasal preparations) & Produces vasoconstriction - misclassification - thought yet a link with vasodilatation \\ \cline{ 3- 5}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00964 (Apraclonidine) & \multicolumn{ 1}{p{2cm}|}{S01 (Opthalmologicals)} & \multicolumn{ 1}{p{2cm}|}{Used in glaucoma therapy - seems legitimate, anti-hypertensive drug in the eye} \\ \cline{ 3- 3}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00484 (Brimonidine) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \cline{ 3- 3}
-\multicolumn{ 1}{|p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} & DB00449 (Dipivefrin) & \multicolumn{ 1}{p{2cm}|}{} & \multicolumn{ 1}{p{2cm}|}{} \\ \hline
+S01 (Ophtalmologicals) & Promiscous drug involved in numerous process - effect varies with quantities, to verify prodrugs and how it influences \\ \hline
+" & " & DB00368 (Norepinephrine) & C01 (Cardiac therapy) & Related therapeutic group - central hormone \\ \hline
+" & " & DB00697 (Tizanidine) & M03 (Muscle relaxants) & Management of spasticity - same receptors but different locations - inhibition of motoreurons \\ \hline
+" & " & DB00320 (Dihydroergotamine) & N02 (Analgesics) & Migraine therapy - vasoconstrictor - hypothese likely wrong \\ \hline
+" & " & DB00413 (Pramipexole) & N04 (Anti-parkinson drugs) & For Parkinson's disease and restless syndrome. Used off-label for cluster headache. Effect on vaconstriction? \\ \hline
+" & " & DB00633 (Dexmedetomidine) & N05 (Psycholeptics) & Because of its pain killing action, it also decreases the blood pressure and heart rate - different location of receptor triggers different effect \\ \hline
+" & " & DB01577 (Methamphetamine) & N06 (Psychoanaleptics) & Plausible - illegal molecule \\ \hline
+" & " & DB04948 (Lofexidine) & N07 (Other nervous system drugs) & Adrenergic agonist - reported as short-acting antihypertensive, but mostly used to relieve opiate dependency - known usage \\ \hline
+" & " & DB00935 (Oxymetazoline) & R01 (Nasal preparations)
+S01 (Opthalmologicals) & Vasoconstrictor to relieve nasal congestion. Also used for occular inflamation - wrong hypotheses \\ \hline
+" & " & DB06711 (Naphazoline) & " & " \\ \hline
+" & " & DB06694 (Xylometazoline) & " & nasal vasoconstrictor decongestant \\ \hline
+" & " & DB00397 (Phenylpropanolamine) & R01 (Nasal preparations) & Produces vasoconstriction - misclassification - thought yet a link with vasodilatation \\ \hline
+" & " & DB00964 (Apraclonidine) & S01 (Opthalmologicals) & Used in glaucoma therapy - seems legitimate, anti-hypertensive drug in the eye \\ \hline
+" & " & DB00484 (Brimonidine) & " & " \\ \hline
+" & " & DB00449 (Dipivefrin) & " & " \\ \hline
 \end{tabular}
 \label{tablel02}
-\caption{Drug repositioning hypotheses related to the hypertension (ATC C02).}
+\caption{Drug repositioning hypotheses related to hypertension (ATC code C02).}
 \end{table}
 
 The presence of neurological drugs is explainable by their adrenergic side activity; such molecules bind receptors that are similar to the ones involved in blood pressure regulation, yet are located in different parts of the body and produce a different therapeutic effect (//cite). A similar pattern is observed with ophthalmological agents, administered for glaucoma, a disease closely related to eye hypertension (//cite). In this case too, vasodilators are prescribed, but the delivery and formulation of the molecule confers the specificity of the effect. This evidence supports the validity of the hypotheses; administering the drugs in the cardiovascular system rather than in the eye would probably reduce the overall blood pressure.

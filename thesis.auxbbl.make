@@ -75,7 +75,7 @@
 \@writefile{lot}{\contentsline {table}{\numberline {4.1}{\ignorespaces Correlation values between various fingerprinting methodologies. "Mean corr." stands for the mean value of the correlation coefficients. "Ext." stand for Extended fingerprinter, "Hybrid." for Hybridization. "Range" describes the interquartile range (Qu.3 - Qu.1)\relax }}{134}{table.4.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {4.2}{\ignorespaces Evolution of the specificity of indication with the ATC levels. Increasingly similar indications have increasingly similar functional and structural values. The functional and structural similarity values are not evolving when increasingly different indications are considered.\relax }}{142}{table.4.2}}
 \@writefile{lot}{\contentsline {table}{\numberline {4.3}{\ignorespaces High level association between therapeutic groups and shared pharmacology.\relax }}{153}{table.caption.64}}
-\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces Drug repositioning hypotheses related to the hypertension (ATC C02).\relax }}{159}{table.caption.67}}
+\@writefile{lot}{\contentsline {table}{\numberline {4.4}{\ignorespaces Drug repositioning hypotheses related to hypertension (ATC code C02).\relax }}{159}{table.caption.67}}
 \@writefile{toc}{\contentsline {chapter}{Bibliography}{175}{chapter*.68}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{13}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{51}{chapter.2}}

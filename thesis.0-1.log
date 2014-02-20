@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  19 FEB 2014 21:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  20 FEB 2014 10:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1859,23 +1859,18 @@ Overfull \hbox (99.61465pt too wide) in paragraph at lines 288--289
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--294
-[]\OT1/cmr/bx/n/8 Reference
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+[]\OT1/cmr/bx/n/8 ATC code
  []
 
 
-Overfull \hbox (3.72551pt too wide) in paragraph at lines 295--295
-[]\OT1/cmr/bx/n/8 Interpretation| 
+Underfull \hbox (badness 10000) in paragraph at lines 295--295
+\OT1/cmr/bx/n/8 ref-er-ence
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 296--296
 []\OT1/cmr/m/n/8 C02 (An-ti-hy-
- []
-
-
-Underfull \hbox (badness 6204) in paragraph at lines 296--296
-[]\OT1/cmr/m/n/8 G04 (Uro-log-i-
  []
 
 
@@ -1895,87 +1890,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 298--298
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 298--303
-[]\OT1/cmr/m/n/8 A01 (Stom-
+[]\OT1/cmr/m/n/8 A01 (Stom-a-to-log-i-cal
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 a-to-log-i-cal
+\OT1/cmr/m/n/8 prepa-ra-tions) B02
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 prepa-ra-tions)
+\OT1/cmr/m/n/8 (An-ti-he-m-or-rhag-ics)
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 B02 (An-ti-he-
+\OT1/cmr/m/n/8 R01 (Nasal prepa-
+ []
+
+
+Underfull \hbox (badness 5288) in paragraph at lines 298--303
+\OT1/cmr/m/n/8 ra-tions) R03 (Drugs
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 m-or-rhag-ics)
+\OT1/cmr/m/n/8 for ob-truc-tive air-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 C01 (Car-diac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 ther-apy) R01
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 (Nasal prepa-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 ra-tions) R03
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 dis-eases) S01
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 298--303
-\OT1/cmr/m/n/8 (Oph-tal-mo-log-i-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-[]\OT1/cmr/m/n/8 Promiscous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-\OT1/cmr/m/n/8 drug in-volved
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-\OT1/cmr/m/n/8 in nu-mer-ous
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-\OT1/cmr/m/n/8 varies with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-\OT1/cmr/m/n/8 quan-ti-ties, to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 303--303
-\OT1/cmr/m/n/8 and how it
+\OT1/cmr/m/n/8 way dis-eases) S01
  []
 
 
@@ -1989,23 +1934,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 304--304
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
-[]\OT1/cmr/m/n/8 C01 (Car-diac
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 304--304
-[]\OT1/cmr/m/n/8 Related ther-
- []
-
-
-Underfull \hbox (badness 6364) in paragraph at lines 304--304
-\OT1/cmr/m/n/8 a-peu-tic group
- []
-
-
-Underfull \hbox (badness 2261) in paragraph at lines 304--304
-\OT1/cmr/m/n/8 - cen-tral hor-
+Underfull \hbox (badness 1502) in paragraph at lines 304--304
+[]\OT1/cmr/m/n/8 Related ther-a-peu-tic group -
  []
 
 
@@ -2015,32 +1945,12 @@ Underfull \hbox (badness 6428) in paragraph at lines 305--305
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 305--305
-[]\OT1/cmr/m/n/8 M03 (Mus-cle
+[]\OT1/cmr/m/n/8 M03 (Mus-cle re-lax-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
-[]\OT1/cmr/m/n/8 Management
- []
-
-
-Underfull \hbox (badness 1215) in paragraph at lines 305--305
-\OT1/cmr/m/n/8 of spas-tic-ity -
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
-\OT1/cmr/m/n/8 but dif-fer-ent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
-\OT1/cmr/m/n/8 lo-ca-tions -
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 305--305
-\OT1/cmr/m/n/8 in-hi-bi-tion of
+Underfull \hbox (badness 2790) in paragraph at lines 305--305
+[]\OT1/cmr/m/n/8 Management of spas-tic-ity -
  []
 
 
@@ -2054,23 +1964,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 306--306
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
-[]\OT1/cmr/m/n/8 N02 (Anal-
+Underfull \hbox (badness 1163) in paragraph at lines 306--306
+[]\OT1/cmr/m/n/8 Migraine ther-apy - vaso-con-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 306--306
-[]\OT1/cmr/m/n/8 Migraine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
-\OT1/cmr/m/n/8 con-stric-tor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--306
-\OT1/cmr/m/n/8 - hy-pothese
+\OT1/cmr/m/n/8 stric-tor - hy-pothese likely
  []
 
 
@@ -2080,52 +1980,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 307--307
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 307--307
-[]\OT1/cmr/m/n/8 N04 (Anti-
+[]\OT1/cmr/m/n/8 N04 (Anti-parkinson
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 parkinson
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-[]\OT1/cmr/m/n/8 For Parkin-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 son's dis-ease
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 and rest-less
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 syn-drome.
- []
-
-
-Underfull \hbox (badness 7981) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 Used off-label
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 for clus-ter
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 headache.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 307--307
-\OT1/cmr/m/n/8 Ef-fect on
+Underfull \hbox (badness 1688) in paragraph at lines 307--307
+[]\OT1/cmr/m/n/8 For Parkin-son's dis-ease and
  []
 
 
@@ -2136,26 +1996,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 308--308
 
 Underfull \hbox (badness 10000) in paragraph at lines 308--308
 \OT1/cmr/m/n/8 (Dexmedeto-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-[]\OT1/cmr/m/n/8 N05 (Psy-c-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-\OT1/cmr/m/n/8 pain killing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-\OT1/cmr/m/n/8 de-creases the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 308--308
-\OT1/cmr/m/n/8 - dif-fer-ent
  []
 
 
@@ -2170,7 +2010,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 309--309
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 309--309
-[]\OT1/cmr/m/n/8 N06 (Psy-
+[]\OT1/cmr/m/n/8 N06 (Psy-choanalep-
  []
 
 
@@ -2179,28 +2019,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--310
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-[]\OT1/cmr/m/n/8 N07 (Other
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\OT1/cmr/m/n/8 an-ti-hy-per-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\OT1/cmr/m/n/8 ten-sive, but
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\OT1/cmr/m/n/8 re-lieve opi-ate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 310--310
-\OT1/cmr/m/n/8 de-pen-dency -
+Underfull \hbox (badness 6510) in paragraph at lines 310--310
+[]\OT1/cmr/m/n/8 N07 (Other ner-vous
  []
 
 
@@ -2214,38 +2034,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 311--311
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
-[]\OT1/cmr/m/n/8 R01 (Nasal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
-\OT1/cmr/m/n/8 prepa-ra-tions)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
-\OT1/cmr/m/n/8 S01 (Opthal-
- []
-
-
-Overfull \hbox (0.57033pt too wide) in paragraph at lines 312--312
-[]\OT1/cmr/m/n/8 Vasoconstrictor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
-\OT1/cmr/m/n/8 con-ges-tion.
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 312--312
-\OT1/cmr/m/n/8 Also used for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--312
-\OT1/cmr/m/n/8 oc-cu-lar in-fla-
+Underfull \hbox (badness 4217) in paragraph at lines 311--312
+[]\OT1/cmr/m/n/8 R01 (Nasal prepa-ra-
  []
 
 
@@ -2259,8 +2049,8 @@ Underfull \hbox (badness 1286) in paragraph at lines 314--314
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 314--314
-[]\OT1/cmr/m/n/8 nasal vaso-con-
+Underfull \hbox (badness 3525) in paragraph at lines 314--314
+[]\OT1/cmr/m/n/8 nasal vaso-con-stric-tor de-con-
  []
 
 
@@ -2279,52 +2069,39 @@ Overfull \hbox (1.18561pt too wide) in paragraph at lines 315--315
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
-[]\OT1/cmr/m/n/8 R01 (Nasal
+Underfull \hbox (badness 4217) in paragraph at lines 315--315
+[]\OT1/cmr/m/n/8 R01 (Nasal prepa-ra-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
-\OT1/cmr/m/n/8 con-stric-tion -
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 315--315
-\OT1/cmr/m/n/8 mis-clas-si-fi-ca-
+Underfull \hbox (badness 7168) in paragraph at lines 315--315
+[]\OT1/cmr/m/n/8 Produces vaso-con-stric-tion -
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 316--316
-[]\OT1/cmr/m/n/8 S01 (Opthal-
+[]\OT1/cmr/m/n/8 S01 (Opthal-mo-log-i-
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 316--316
-[]\OT1/cmr/m/n/8 Used in glau-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 316--316
-\OT1/cmr/m/n/8 coma ther-apy
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 316--316
-\OT1/cmr/m/n/8 - seems le-git-
+Underfull \hbox (badness 6078) in paragraph at lines 316--316
+[]\OT1/cmr/m/n/8 Used in glau-coma ther-apy
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 316--316
-\OT1/cmr/m/n/8 i-mate, anti-
+\OT1/cmr/m/n/8 - seems le-git-i-mate, anti-
  []
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 316--316
-\OT1/cmr/m/n/8 hypertensive
+\OT1/cmr/m/n/8 hypertensive drug in the
  []
 
 
-LaTeX Warning: Float too large for page by 331.66145pt on input line 322.
+Overfull \hbox (17.32082pt too wide) in paragraph at lines 293--321
+[][]
+ []
 
 [157 <./Figures/fig4-14.pdf>]
 Missing character: There is no â in font cmr12!
@@ -2422,7 +2199,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
 Here is how much of TeX's memory you used:
  9831 strings out of 495031
  151307 string characters out of 6181531
- 271973 words of memory out of 5000000
+ 267973 words of memory out of 5000000
  12296 multiletter control sequences out of 15000+600000
  14984 words of font info for 56 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -2439,7 +2216,7 @@ c/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (178 pages, 4406987 bytes).
+Output written on thesis.pdf (178 pages, 4406910 bytes).
 PDF statistics:
  3095 PDF objects out of 3580 (max. 8388607)
  2612 compressed objects within 27 object streams

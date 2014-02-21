@@ -37,23 +37,23 @@
 \contentsline {subsubsection}{\numberline {2.2.2.5}Molecular dynamism}{64}{subsubsection.2.2.2.5}
 \contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{65}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Problems addressed by description logics}{65}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{67}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Expressivity and complexity}{68}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}DLs' components and relation to life sciences}{69}{subsection.2.3.3}
-\contentsline {subsubsection}{\numberline {2.3.3.1}Description logics core entities}{70}{subsubsection.2.3.3.1}
+\contentsline {subsubsection}{\numberline {2.3.3.1}Description logics entities}{70}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Named Individuals}\\}{70}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Concepts}\\}{71}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Roles}\\}{71}{figure.caption.25}
 \contentsline {subsubsection}{\numberline {2.3.3.2}Axioms}{72}{subsubsection.2.3.3.2}
 \contentsline {paragraph}{\textbf {Assertional axioms (ABox)}\\}{72}{subsubsection.2.3.3.2}
 \contentsline {subparagraph}{Concept assertion\\}{72}{subsubsection.2.3.3.2}
-\contentsline {subparagraph}{Role assertion\\}{72}{subsubsection.2.3.3.2}
+\contentsline {subparagraph}{Role assertion\\}{73}{subsubsection.2.3.3.2}
 \contentsline {paragraph}{\textbf {Terminological axioms (TBox)}\\}{73}{subsubsection.2.3.3.2}
 \contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{73}{subsubsection.2.3.3.2}
 \contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{73}{figure.caption.26}
 \contentsline {paragraph}{\textbf {Relational axioms (RBox)}\\}{73}{figure.caption.26}
-\contentsline {subparagraph}{Role inclusion ($ \sqsubseteq $)\\}{73}{figure.caption.26}
+\contentsline {subparagraph}{Role inclusion ($ \sqsubseteq $)\\}{74}{figure.caption.26}
 \contentsline {subsubsection}{\numberline {2.3.3.3}Constructors}{74}{subsubsection.2.3.3.3}
-\contentsline {paragraph}{\textbf {Intersection ($ \sqcap $)}\\}{74}{figure.caption.27}
+\contentsline {paragraph}{\textbf {Intersection ($ \sqcap $)}\\}{75}{figure.caption.27}
 \contentsline {paragraph}{\textbf {Existential Restriction ($ \exists $)}\\}{75}{figure.caption.27}
 \contentsline {paragraph}{\textbf {Role composition ($ \circ $)}\\}{77}{figure.caption.28}
 \contentsline {subsection}{\numberline {2.3.4}Reasoning services}{78}{subsection.2.3.4}
@@ -61,7 +61,7 @@
 \contentsline {section}{\numberline {2.4}Implementation with life-science information}{81}{section.2.4}
 \contentsline {subsection}{\numberline {2.4.1}Integration with biomedical ontologies}{81}{subsection.2.4.1}
 \contentsline {subsubsection}{\numberline {2.4.1.1}Open Biomedical Ontologies (OBO)}{81}{subsubsection.2.4.1.1}
-\contentsline {subsubsection}{\numberline {2.4.1.2}Approximations and assumptions}{84}{subsubsection.2.4.1.2}
+\contentsline {subsubsection}{\numberline {2.4.1.2}Approximations and assumptions}{83}{subsubsection.2.4.1.2}
 \contentsline {subsection}{\numberline {2.4.2}Integration with databases}{86}{subsection.2.4.2}
 \contentsline {subsection}{\numberline {2.4.3}Brain library - implementing programmatic solutions}{88}{subsection.2.4.3}
 \contentsline {section}{\numberline {2.5}Summary}{90}{section.2.5}

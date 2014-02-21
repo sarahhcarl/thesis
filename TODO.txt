@@ -20,7 +20,7 @@ refs to (ch3):
 specs
 interpreting
 
-web addresses --> {{}}
+web addresses --> \url
 
 informal concepts --> italics
 drug names --> italics

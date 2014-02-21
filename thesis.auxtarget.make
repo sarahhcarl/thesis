@@ -74,6 +74,7 @@
 \newlabel{fig4-7}
 \newlabel{fig4-8}
 \newlabel{fig4-9}
+\newlabel{fig5-1}
 \newlabel{fpmethods}
 \newlabel{higlevelhypo}
 \newlabel{intersection}

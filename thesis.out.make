@@ -113,9 +113,9 @@
 \BOOKMARK [2][-]{subsection.4.5.6}{Filtering of drug repositioning hypotheses}{section.4.5}% 113
 \BOOKMARK [2][-]{subsection.4.5.7}{Filtering of relationships between therapeutic areas}{section.4.5}% 114
 \BOOKMARK [0][-]{chapter.5}{Outlook and future work}{}% 115
-\BOOKMARK [1][-]{section.5.1}{Work performed in the context of drug discovery}{chapter.5}% 116
+\BOOKMARK [1][-]{section.5.1}{Work performed in the context of the drug discovery process}{chapter.5}% 116
 \BOOKMARK [1][-]{section.5.2}{Comparison against functional genomics}{chapter.5}% 117
 \BOOKMARK [1][-]{section.5.3}{Biomedical knowledge: towards a simpler representation}{chapter.5}% 118
 \BOOKMARK [1][-]{section.5.4}{Off-label uses and clinical drug repositioning}{chapter.5}% 119
-\BOOKMARK [0][-]{chapter*.82}{Bibliography}{}% 120
+\BOOKMARK [0][-]{chapter*.83}{Bibliography}{}% 120
 \BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 121

@@ -73,6 +73,7 @@
 \@writefile{lof}{\contentsline {figure}{\numberline {4.7}{\ignorespaces Kernel density distribution of the functional similarity values for drugs sharing an indication. All ATC categories have been considered. Each curve represent an ATC resolution level, as indicated on the legend. Conceptual explanation of resolution levels is available on Figure \ref  {fig4-3}. Solid vertical lines are the corresponding means. This graph shows that with an increasingly specific indication (increasing resolution) the average functional similarity values increase too.\relax }}{145}{figure.caption.58}}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.8}{\ignorespaces Example of pair of drugs with low structural and functional similarity values, yet classified in the same ATC category and used for the same clinical indication (“platelet aggregation inhibitors”). (A) Chemical structure and list of FTC categories inside which the dipyridamole was classified. (B) Molecular structure and list of FTC categories inside which the epoprostenol molecule was classified. These two drugs do not share any of the FTC categories listed (functional similarity = 0.10) and their molecular structures are dissimilar (structural similarity = 0.14).\relax }}{147}{figure.caption.59}}
 \@writefile{lof}{\contentsline {figure}{\numberline {4.9}{\ignorespaces Isolation of drug repositioning hypotheses. (A) All the pairs of drugs classified in different ATC categories (level 2 resolution) are plotted (identical plot as Figure 4-5 panel B). The blue line is the threshold above which pairs are functionally similar but are indicated for different usage according to the ATC. (B) Zoom on the data set above the blue line. (C) Pairs of drugs with little recorded knowledge are discarded from the analysis (see material and method). This set of data represents the repositioning hypotheses and are featured in the web application.\relax }}{149}{figure.caption.60}}
+\@writefile{lof}{\contentsline {figure}{\numberline {5.1}{\ignorespaces Timeline of the drug discovery process. My thesis work focused on the Discovery/Synthesis section of the graph.\relax }}{189}{figure.caption.82}}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
@@ -92,13 +93,13 @@
 \@writefile{lot}{\contentsline {table}{\numberline {4.7}{\ignorespaces Actions and number of drugs classified as “Pro-alpha2-adrenergic receptor activity agent” (FTC\_P0004938).\relax }}{168}{table.caption.74}}
 \@writefile{lot}{\contentsline {table}{\numberline {4.8}{\ignorespaces Drug repositioning hypotheses related to diuretics (ATC code C03). The symbol " refers to the value of the previous cell.\relax }}{169}{table.caption.75}}
 \@writefile{lot}{\contentsline {table}{\numberline {4.9}{\ignorespaces Drug repositioning hypotheses related to peripheral vasodilators (ATC code C04). The symbol " refers to the value of the previous cell.\relax }}{174}{table.caption.78}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{210}{chapter*.82}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{211}{chapter*.83}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{15}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{53}{chapter.2}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}The Functional Therapeutic Chemical Classification System (Implementation)}{93}{chapter.3}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {4}Systematic drug repositioning analysis}{131}{chapter.4}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {5}Outlook and future work}{187}{chapter.5}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{211}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{213}{appendix.A}}
 \@writefile{toc}{\contentsline {paragraph}{DrugBank compound}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Drug}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Protein}{111}{subsubsection.3.2.9.1}}
@@ -149,10 +150,10 @@
 \@writefile{toc}{\contentsline {section}{\numberline {4.3}Open drug repositioning hypotheses}{150}{section.4.3}}
 \@writefile{toc}{\contentsline {section}{\numberline {4.4}Summary}{179}{section.4.4}}
 \@writefile{toc}{\contentsline {section}{\numberline {4.5}Methods}{181}{section.4.5}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.1}Work performed in the context of drug discovery}{188}{section.5.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.1}Work performed in the context of the drug discovery process}{188}{section.5.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {5.2}Comparison against functional genomics}{189}{section.5.2}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{189}{section.5.3}}
-\@writefile{toc}{\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{191}{section.5.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{190}{section.5.3}}
+\@writefile{toc}{\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{192}{section.5.4}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept assertion\\}{72}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{73}{figure.caption.26}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{73}{subsubsection.2.3.3.2}}
@@ -299,6 +300,9 @@
 \citation{cmap}
 \citation{cobham1965intrinsic}
 \citation{computationalprop}
+\citation{cooper2002optical}
+\citation{cras2007off}
+\citation{cras2007off}
 \citation{cras2007off}
 \citation{croset2013brain}
 \citation{croset2013brain}
@@ -328,11 +332,13 @@
 \citation{evans2001epinephrine}
 \citation{fdaraloxifen}
 \citation{fisher2007executable}
+\citation{fishman2005pharmaceuticals}
 \citation{fliri2005analysis}
 \citation{fliri2007analysis}
 \citation{fpdalke}
 \citation{franke2010genome}
 \citation{furberg2010genome}
+\citation{garnett2012systematic}
 \citation{gaulton2012chembl}
 \citation{gengo1987antihistamines}
 \citation{ghofrani2006sildenafil}
@@ -358,6 +364,7 @@
 \citation{haupt2011old}
 \citation{haupt2011old}
 \citation{haupt2011old}
+\citation{have2013graph}
 \citation{hitzler2009owl}
 \citation{hoehndorf2007representing}
 \citation{hoehndorf2010relations}
@@ -381,6 +388,7 @@
 \citation{iorio2010discovery}
 \citation{iorio2010discovery}
 \citation{iorio2010discovery}
+\citation{iorio2010discovery}
 \citation{jaccard1912distribution}
 \citation{johnson1990concepts}
 \citation{johnson1990concepts}
@@ -389,6 +397,7 @@
 \citation{jordan1987effects}
 \citation{jupp2012logical}
 \citation{jupp2012logical}
+\citation{jupp2014ebi}
 \citation{kathiresan2008six}
 \citation{kazakov2013incredible}
 \citation{kazakov2013incredible}
@@ -402,6 +411,7 @@
 \citation{kim2008temporal}
 \citation{kinnings2009drug}
 \citation{kinnings2009drug}
+\citation{klyne2006resource}
 \citation{knox2011drugbank}
 \citation{knublauch2005protege}
 \citation{krall1988characterization}
@@ -446,6 +456,7 @@
 \citation{motik2009owl}
 \citation{mungall2010integrating}
 \citation{mungall2011cross}
+\citation{murata1989petri}
 \citation{napolitano2013drug}
 \citation{napolitano2013drug}
 \citation{napolitano2013drug}
@@ -465,11 +476,13 @@
 \citation{owlw3c}
 \citation{owlw3c}
 \citation{paolini2006global}
+\citation{pesquita2009semantic}
 \citation{phenotypewiki}
 \citation{prehistoricwiki}
 \citation{prehistoricwiki}
 \citation{pubchemfp}
 \citation{quigley1996number}
+\citation{ravasz2002hierarchical}
 \citation{ravasz2002hierarchical}
 \citation{ravasz2002hierarchical}
 \citation{ravasz2002hierarchical}
@@ -484,7 +497,9 @@
 \citation{sanseau2012use}
 \citation{sanseau2012use}
 \citation{sanseau2012use}
+\citation{schaefer2009pid}
 \citation{scheuner1996secreted}
+\citation{schubert1978structure}
 \citation{schulz2013formal}
 \citation{schulz2013formal}
 \citation{schulz2013formal}
@@ -496,6 +511,8 @@
 \citation{steinbeck2003chemistry}
 \citation{stephens2009dark}
 \citation{stephens2009dark}
+\citation{stephens2009dark}
+\citation{stevens2007using}
 \citation{stevens2007using}
 \citation{stevens2007using}
 \citation{suthram2010network}

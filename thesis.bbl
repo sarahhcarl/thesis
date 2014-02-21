@@ -129,6 +129,11 @@ Consortium, U. et~al. (2013).
   2013.
 \newblock {\em Nucleic acids research}, 41(D1):D43--D47.
 
+\bibitem[Cooper, 2002]{cooper2002optical}
+Cooper, M.~A. (2002).
+\newblock Optical biosensors in drug discovery.
+\newblock {\em Nature Reviews Drug Discovery}, 1(7):515--528.
+
 \bibitem[Cras et~al., 2007]{cras2007off}
 Cras, A., Conscience, M.-A., Rajzbaum, G., Lillo-Le~Lou{\"e}t, A., Lopez, N.,
   Tersen, I., and Bezie, Y. (2007).
@@ -240,6 +245,11 @@ Fisher, J. and Henzinger, T.~A. (2007).
 \newblock Executable cell biology.
 \newblock {\em Nature biotechnology}, 25(11):1239--1249.
 
+\bibitem[Fishman and Porter, 2005]{fishman2005pharmaceuticals}
+Fishman, M.~C. and Porter, J.~A. (2005).
+\newblock Pharmaceuticals: a new grammar for drug discovery.
+\newblock {\em Nature}, 437(7058):491--493.
+
 \bibitem[Fliri et~al., 2005]{fliri2005analysis}
 Fliri, A.~F., Loging, W.~T., Thadeio, P.~F., and Volkmann, R.~A. (2005).
 \newblock Analysis of drug-induced effect patterns to link structure and side
@@ -265,6 +275,14 @@ Furberg, H., Kim, Y., Dackor, J., Boerwinkle, E., Franceschini, N., Ardissino,
 \newblock Genome-wide meta-analyses identify multiple loci associated with
   smoking behavior.
 \newblock {\em Nature genetics}, 42(5):441--447.
+
+\bibitem[Garnett et~al., 2012]{garnett2012systematic}
+Garnett, M.~J., Edelman, E.~J., Heidorn, S.~J., Greenman, C.~D., Dastur, A.,
+  Lau, K.~W., Greninger, P., Thompson, I.~R., Luo, X., Soares, J., et~al.
+  (2012).
+\newblock Systematic identification of genomic markers of drug sensitivity in
+  cancer cells.
+\newblock {\em Nature}, 483(7391):570--575.
 
 \bibitem[Gaulton et~al., 2012]{gaulton2012chembl}
 Gaulton, A., Bellis, L.~J., Bento, A.~P., Chambers, J., Davies, M., Hersey, A.,
@@ -362,6 +380,11 @@ Haupt, V.~J. and Schroeder, M. (2011).
 \newblock Old friends in new guise: repositioning of known drugs with
   structural bioinformatics.
 \newblock {\em Briefings in bioinformatics}, 12(4):312--326.
+
+\bibitem[Have and Jensen, 2013]{have2013graph}
+Have, C.~T. and Jensen, L.~J. (2013).
+\newblock Are graph databases ready for bioinformatics?
+\newblock {\em Bioinformatics}, 29(24):3107.
 
 \bibitem[Hendler, 2014]{littlesemantics}
 Hendler, J. (January 2014).
@@ -476,6 +499,12 @@ Jordan, V.~C., Phelps, E., and Lindgren, J.~U. (1987).
   rats.
 \newblock {\em Breast cancer research and treatment}, 10(1):31--35.
 
+\bibitem[Jupp et~al., 2014]{jupp2014ebi}
+Jupp, S., Malone, J., Bolleman, J., Brandizi, M., Davies, M., Garcia, L.,
+  Gaulton, A., Gehant, S., Laibe, C., Redaschi, N., et~al. (2014).
+\newblock The ebi rdf platform: linked open data for the life sciences.
+\newblock {\em Bioinformatics}, page btt765.
+
 \bibitem[Jupp et~al., 2012]{jupp2012logical}
 Jupp, S., Stevens, R., and Hoehndorf, R. (2012).
 \newblock Logical gene ontology annotations (goal): exploring gene ontology
@@ -529,6 +558,10 @@ Kinnings, S.~L., Liu, N., Buchmeier, N., Tonge, P.~J., Xie, L., and Bourne,
   medicine comtan to treat multi-drug and extensively drug resistant
   tuberculosis.
 \newblock {\em PLoS computational biology}, 5(7):e1000423.
+
+\bibitem[Klyne and Carroll, 2006]{klyne2006resource}
+Klyne, G. and Carroll, J.~J. (2006).
+\newblock Resource description framework (rdf): Concepts and abstract syntax.
 
 \bibitem[Knox et~al., 2011]{knox2011drugbank}
 Knox, C., Law, V., Jewison, T., Liu, P., Ly, S., Frolkis, A., Pon, A., Banco,
@@ -698,6 +731,11 @@ Mungall, C.~J., Gkoutos, G.~V., Smith, C.~L., Haendel, M.~A., Lewis, S.~E., and
 \newblock Integrating phenotype ontologies across multiple species.
 \newblock {\em Genome biology}, 11(1):R2.
 
+\bibitem[Murata, 1989]{murata1989petri}
+Murata, T. (1989).
+\newblock Petri nets: Properties, analysis and applications.
+\newblock {\em Proceedings of the IEEE}, 77(4):541--580.
+
 \bibitem[Napolitano et~al., 2013]{napolitano2013drug}
 Napolitano, F., Zhao, Y., Moreira, V.~M., Tagliaferri, R., Kere, J., D'Amato,
   M., and Greco, D. (2013).
@@ -780,6 +818,11 @@ Paolini, G.~V., Shapland, R.~H., van Hoorn, W.~P., Mason, J.~S., and Hopkins,
 \newblock Global mapping of pharmacological space.
 \newblock {\em Nature biotechnology}, 24(7):805--815.
 
+\bibitem[Pesquita et~al., 2009]{pesquita2009semantic}
+Pesquita, C., Faria, D., Falcao, A.~O., Lord, P., and Couto, F.~M. (2009).
+\newblock Semantic similarity in biomedical ontologies.
+\newblock {\em PLoS computational biology}, 5(7):e1000443.
+
 \bibitem[PubChem, 2014]{pubchemfp}
 PubChem (January 2014).
 \newblock Pubchem substructure fingerprint.
@@ -824,6 +867,12 @@ Sanseau, P. and Koehler, J. (2011).
 \newblock Editorial: Computational methods for drug repurposing.
 \newblock {\em Briefings in bioinformatics}, 12(4):301--302.
 
+\bibitem[Schaefer et~al., 2009]{schaefer2009pid}
+Schaefer, C.~F., Anthony, K., Krupa, S., Buchoff, J., Day, M., Hannay, T., and
+  Buetow, K.~H. (2009).
+\newblock Pid: the pathway interaction database.
+\newblock {\em Nucleic acids research}, 37(suppl 1):D674--D679.
+
 \bibitem[Scheuner et~al., 1996]{scheuner1996secreted}
 Scheuner, D., Eckman, C., Jensen, M., Song, X., Citron, M., Suzuki, N., Bird,
   T., Hardy, J., Hutton, M., Kukull, W., et~al. (1996).
@@ -831,6 +880,13 @@ Scheuner, D., Eckman, C., Jensen, M., Song, X., Citron, M., Suzuki, N., Bird,
   plaques of alzheimer's disease is increased in vivo by the presenilin 1 and 2
   and app mutations linked to familial alzheimer's disease.
 \newblock {\em Nature medicine}, 2(8):864--870.
+
+\bibitem[Schubert and of~Alberta. Dept.~of Computing~Science,
+  1978]{schubert1978structure}
+Schubert, L.~K. and of~Alberta. Dept.~of Computing~Science, U. (1978).
+\newblock {\em The structure and organization of a semantic net for
+  comprehension and inference}.
+\newblock Department of Computing Science, University of Alberta.
 
 \bibitem[Schulz and Jansen, 2013]{schulz2013formal}
 Schulz, S. and Jansen, L. (2013).

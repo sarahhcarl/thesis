@@ -148,9 +148,9 @@
 \contentsline {subsection}{\numberline {4.5.6}Filtering of drug repositioning hypotheses}{183}{subsection.4.5.6}
 \contentsline {subsection}{\numberline {4.5.7}Filtering of relationships between therapeutic areas}{184}{subsection.4.5.7}
 \contentsline {chapter}{\numberline {5}Outlook and future work}{187}{chapter.5}
-\contentsline {section}{\numberline {5.1}Work performed in the context of drug discovery}{188}{section.5.1}
+\contentsline {section}{\numberline {5.1}Work performed in the context of the drug discovery process}{188}{section.5.1}
 \contentsline {section}{\numberline {5.2}Comparison against functional genomics}{189}{section.5.2}
-\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{189}{section.5.3}
-\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{191}{section.5.4}
-\contentsline {chapter}{Bibliography}{210}{chapter*.82}
-\contentsline {chapter}{\numberline {A}Extra Information}{211}{appendix.A}
+\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{190}{section.5.3}
+\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{192}{section.5.4}
+\contentsline {chapter}{Bibliography}{211}{chapter*.83}
+\contentsline {chapter}{\numberline {A}Extra Information}{213}{appendix.A}

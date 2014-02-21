@@ -410,9 +410,12 @@ INPUT ./Figures/fig4-23.pdf
 INPUT ./Figures/fig4-23.pdf
 INPUT 15Chapter5.tex
 INPUT 15Chapter5.tex
-INPUT thesis.bbl
-INPUT thesis.bbl
+INPUT ./Figures/fig5-1.pdf
+INPUT ./Figures/fig5-1.pdf
+INPUT ./Figures/fig5-1.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT thesis.bbl
+INPUT thesis.bbl
 INPUT 21Appendix.tex
 INPUT 21Appendix.tex
 INPUT 22Index.tex

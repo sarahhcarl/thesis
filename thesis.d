@@ -272,4 +272,7 @@ thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-22.pdf)
 -include ./Figures/fig4-23.pdf.gpi.d
 thesis.d: $$(call graphics-source,./Figures/fig4-23.pdf)
 thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig4-23.pdf)
+-include ./Figures/fig5-1.pdf.gpi.d
+thesis.d: $$(call graphics-source,./Figures/fig5-1.pdf)
+thesis.pdf thesis._graphics: $$(call graphics-target,./Figures/fig5-1.pdf)
 thesis.bbl thesis.aux thesis.aux.make: ./thesis.bib

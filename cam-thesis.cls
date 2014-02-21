@@ -451,7 +451,7 @@ This thesis:
   collaboration with others, except where specified in the text;
 \item is not substantially the same as any that I have submitted for a degree or
   diploma or other qualification at any other university; and
-\item does not exceed the prescribed limit of 60,000 words.
+\item does not exceed the prescribed limit of 60,000 words (approximately 39,853 words).
 \end{itemize}
 \begin{flushright}
 \@author{}\\

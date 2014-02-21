@@ -325,14 +325,6 @@ Gon{\c{c}}alves, R.~S., Bail, S., Jimenez-Ruiz, E., Matentzoglu, N., Parsia,
 \newblock Owl reasoner evaluation (ore) workshop 2013 results: Short report.
 \newblock In {\em 2nd OWL Reasoner Evaluation Workshop (ORE 2013)}, page~1.
 
-\bibitem[Goto et~al., 1996]{goto1996organizing}
-Goto, S., Bono, H., Ogata, H., Fujibuchi, W., Nishioka, T., Sato, K., Kanehisa,
-  M., et~al. (1996).
-\newblock Organizing and computing metabolic pathway data in terms of binary
-  relations.
-\newblock In {\em Pacific Symposium on Biocomputing. Pacific Symposium on
-  Biocomputing}, pages 175--186.
-
 \bibitem[Gottlieb et~al., 2011]{gottlieb2011predict}
 Gottlieb, A., Stein, G.~Y., Ruppin, E., and Sharan, R. (2011).
 \newblock Predict: a method for inferring novel drug indications with
@@ -599,6 +591,11 @@ Kubinyi, H. (1998).
 \newblock Similarity and dissimilarity: a medicinal chemist's view.
 \newblock {\em Perspectives in Drug Discovery and Design}, 9:225--252.
 
+\bibitem[Kuhn et~al., 2010]{kuhn2010side}
+Kuhn, M., Campillos, M., Letunic, I., Jensen, L.~J., and Bork, P. (2010).
+\newblock A side effect resource to capture phenotypic effects of drugs.
+\newblock {\em Molecular systems biology}, 6(1).
+
 \bibitem[Kunkel et~al., 2011]{kunkel2011mrna}
 Kunkel, S.~D., Suneja, M., Ebert, S.~M., Bongers, K.~S., Fox, D.~K., Malmberg,
   S.~E., Alipour, F., Shields, R.~K., and Adams, C.~M. (2011).
@@ -674,12 +671,6 @@ Machado, D., Costa, R.~S., Rocha, M., Ferreira, E.~C., Tidor, B., and Rocha, I.
 Martin, Y.~C., Kofron, J.~L., and Traphagen, L.~M. (2002).
 \newblock Do structurally similar molecules have similar biological activity?
 \newblock {\em Journal of medicinal chemistry}, 45(19):4350--4358.
-
-\bibitem[Matthews et~al., 2009]{matthews2009reactome}
-Matthews, L., Gopinath, G., Gillespie, M., Caudy, M., Croft, D., de~Bono, B.,
-  Garapati, P., Hemish, J., Hermjakob, H., Jassal, B., et~al. (2009).
-\newblock Reactome knowledgebase of human biological pathways and processes.
-\newblock {\em Nucleic acids research}, 37(suppl 1):D619--D622.
 
 \bibitem[McKhann et~al., 2011]{mckhann2011diagnosis}
 McKhann, G.~M., Knopman, D.~S., Chertkow, H., Hyman, B.~T., Jack~Jr, C.~R.,

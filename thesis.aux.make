@@ -4,19 +4,19 @@
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces Drug repositioning using disease relationships (diseasome). The similarity between two diseases (A) can be calculated by looking at the shared drugs used for the treatment of these diseases (B) or at the commonly shared pathways (C). When applied to all diseases, one can build a “diseasome” or disease map, useful to relate indications and find drug repositioning opportunities.\relax }}{40}{figure.caption.14}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.11}{\ignorespaces Drug repositioning using a combination of descriptors. A machine learning algorithm is trained over a series of features, such as chemical similarity, shared target proteins, etc… After evaluation of the model, some repositioning predictions can be generated from the statistical learning.\relax }}{41}{figure.caption.15}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.12}{\ignorespaces Evolution trend of the documents related to drug repositioning. Standardised frequency: Number of documents indexed on PubMed for a search divided by the total number of articles published the same year. The higher, the more popular a topic is. The frequency increases with the time for both searches, showing a growing interest in the domain.\relax }}{46}{figure.caption.16}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces Drug repositioning using disease relationships (diseasome). The similarity between two diseases (A) can be calculated by looking at the shared drugs used for the treatment of these diseases (B) or at the commonly shared pathways (C). When applied to all diseases, one can build a "diseasome" or disease map, useful to relate indications and find drug repositioning opportunities.\relax }}{40}{figure.caption.14}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.11}{\ignorespaces Drug repositioning using a combination of descriptors. A machine learning algorithm is trained over a series of features, such as chemical similarity, shared target proteins, etc. After evaluation of the model, some repositioning predictions can be generated from the statistical learning.\relax }}{41}{figure.caption.15}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.12}{\ignorespaces Evolution trend of the documents related to drug repositioning. Standardised frequency: number of documents indexed on PubMed for a search divided by the total number of articles published the same year. The higher, the more popular a topic is. The frequency increases with the time for both searches, showing a growing interest in the domain.\relax }}{46}{figure.caption.16}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.13}{\ignorespaces Schematic representation of the concept of mechanism and mode of action. (A) The mechanism of action can be defined as the physical activity of the ligand on a protein target. The mode of action characterises the pharmacology of the small molecule in the context of the organism. (B) Examples related to blood coagulation illustrating the usage of the mechanism and mode of action concepts.\relax }}{48}{figure.caption.17}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces Key-lock model. (A) Illustration of the analogy. (B) Schematic representation of the interaction between a ligand and a protein (receptor, enzyme, transporter, etc). One aim of drug discovery is to find alternative molecules (i.e. drugs) capable of either mimicking the action of the natural ligand or reversing it. In theory, the more specific the molecule is to the binding site, the more accurate the pharmacological response will be. (C) Computer generated representation of the interaction between a ligand and a protein. (Source http://en.wikipedia.org/wiki/File:Docking.jpg)\relax }}{18}{figure.caption.5}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces Drug discovery process and opportunities for drug repositioning (in blue; logical connection at the origin of the opportunity are dashed). (A) Traditional drug discovery workflow: From biological evidences showing the involvement of a protein in a process relevant to a particular disease of interest, a series of chemicals are screened for bioactivity. Potent and safe molecules will become drugs indicated for the disease. Paul Ehrlich postulated that chemicals should be as specific as possible against the target (organism or protein), in order to increase the control over the pharmacology. The concept of "magic bullet" describes such an ideal therapeutic compound. (B) Repositioning hypothesis: Often, a small molecule binds to other proteins (so called off-targets), themselves potentially involved in other pathologies. (C) Repositioning hypothesis: The main protein target can be involved in a series of alternative biological processes and relevant for another disease.\relax }}{19}{figure.caption.6}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.1}{\ignorespaces Key-lock model. (A) Illustration of the analogy. (B) Schematic representation of the interaction between a ligand and a protein (receptor, enzyme, transporter, etc). One aim of drug discovery is to find alternative molecules (i.e. drugs) capable of either mimicking the action of the natural ligand or reversing it. In theory, the more specific the molecule is to the binding site, the more accurate the pharmacological response will be. (C) Computer generated representation of the interaction between a ligand and a protein. (Source \url  {http://en.wikipedia.org/wiki/File:Docking.jpg})\relax }}{18}{figure.caption.5}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.2}{\ignorespaces Drug discovery process and opportunities for drug repositioning (in blue; logical connection at the origin of the opportunity are dashed). (A) Traditional drug discovery workflow: from biological evidences showing the involvement of a protein in a process relevant to a particular disease of interest, a series of chemicals are screened for bioactivity. Potent and safe molecules will become drugs indicated for the disease. Paul Ehrlich postulated that chemicals should be as specific as possible against the target (organism or protein), in order to increase the control over the pharmacology. The concept of "magic bullet" describes such an ideal therapeutic compound. (B) Repositioning hypothesis: often, a small molecule binds to other proteins (so called \emph  {off-targets}), themselves potentially involved in other pathologies. (C) Repositioning hypothesis: the main protein target can be involved in a series of alternative biological processes and relevant for another disease.\relax }}{19}{figure.caption.6}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.3}{\ignorespaces Examples of drug successfully repurposed. (A) Sildenafil molecular structure and picture of tablets used for administration. (B) Thalidomide molecular structure. The teratogenic effect of the drug is illustrated on the picture. (C) Molecular structure of the raloxifene. Illustration are from Wikipedia, chemical structures from the ChEMBL database.\relax }}{23}{figure.caption.7}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.4}{\ignorespaces Conceptual map of the relationship between the different biomedical concepts. Relation related to the drug and its action are in orange, diseases in grey and biological concepts are in blue. Computational drug repositioning methods are based on either one or a series of such concepts in order to forward new indications for a drug, ultimate goal (red edge).\relax }}{26}{figure.caption.8}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.5}{\ignorespaces Drug repositioning using the chemical structure. Compounds with similar structures have similar biological activities (similarity principle). Molecule (A) shares some similarity with molecule (B), indicated by the blue areas. This observation leads to the conclusion that molecule (A) could be active on the canonical target of molecule (B), and indicated accordingly. See \cite  {keiser2009predicting} for full details on example. Structures obtained from the ChemSpider database.\relax }}{28}{figure.caption.9}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.6}{\ignorespaces Drug repositioning using gene expression. (A) Example of result obtained from a gene expression experiment. Some of the probed genes are up-regulated (green), some of them down-regulated (red). (B) and (C) The gene expression data from the Connectivity Map provides a signature which can relate drugs on their functional aspect. For instance drug X and Y are considered similar because they share a significant amount of genes up and down related. (D) An analog reasoning can be made with the relation drug-disease: Disease signature can be treated by drugs with an anti-correlating signature.\relax }}{30}{figure.caption.10}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.7}{\ignorespaces Drug repositioning using protein structure and binding site. The 3D structure of proteins and their respective binding sites can be compared using a scoring function. On this basis, it is assumed that similar binding sites can bind the same ligand. For instance, knowing that protein X has a similar binding site to the one in protein Y, and that molecule Z binds to protein X, one can forward the hypothesis stating that molecule Z should bind to protein Y too. Illustration from the Protein Data Bank.\relax }}{33}{figure.caption.11}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.8}{\ignorespaces Drug repositioning using phenotype information. Knowledge about the phenotypic outcome triggered by a drug can be used in order to establish relative similarities. (A) The diagram illustrates a theoretical example using reported side-effects: The more side-effects are commonly shared by two drugs, the more similar these two drugs are. The similarity can be used to either derive potential off-targets or new indications.\relax }}{35}{figure.caption.12}}
-\@writefile{lof}{\contentsline {figure}{\numberline {1.9}{\ignorespaces Drug repositioning using genetic information. (A) Single-nucleotide polymorphism (SNP) are associated with a phenotypic trait, here LDL cholesterol. The gene where the SNP is found (HMGCR) encodes for a protein, targeted by statins (drug class). Statins are indicated as cholesterol lowering agents, which is confirmed by the trait associated with the SNP. (B) Sometimes the trait associated with the SNP diverges from the indication of the drug, as shown on the diagram (post-traumatic stress disorder against smoking cessation). In such cases, a repositioning hypothesis can be generated. Examples are detailed in the text. See \cite  {sanseau2012use} for more explanations.\relax }}{38}{figure.caption.13}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.6}{\ignorespaces Drug repositioning using gene expression. (A) Example of result obtained from a gene expression experiment. Some of the probed genes are up-regulated (green), some of them down-regulated (red). (B) and (C) The gene expression data from the Connectivity Map provides a signature which can relate drugs on their functional aspect. For instance drug X and Y are considered similar because they share a significant amount of genes up and down related. (D) An analog reasoning can be made with the relation drug-disease: disease signature can be treated by drugs with an anti-correlating signature.\relax }}{30}{figure.caption.10}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.7}{\ignorespaces Drug repositioning using protein structure and binding site. The 3D structure of proteins and their respective binding sites can be compared using a scoring function. On this basis, it is assumed that similar binding sites can bind the same ligand. For instance, knowing that protein X has a similar binding site to the one in protein Y, and that molecule Z binds to protein X, one can forward the hypothesis stating that molecule Z should bind to protein Y too. Illustrations from the Protein Data Bank.\relax }}{33}{figure.caption.11}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.8}{\ignorespaces Drug repositioning using phenotype information. Knowledge about the phenotypic outcome triggered by a drug can be used in order to establish relative similarities. (A) The diagram illustrates a theoretical example using reported side-effects: the more side-effects are commonly shared by two drugs, the more similar these two drugs are. The similarity can be used to either derive potential off-targets or new indications.\relax }}{35}{figure.caption.12}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1.9}{\ignorespaces Drug repositioning using genetic information. (A) Single-nucleotide polymorphism (SNP) are associated with a phenotypic trait, here LDL cholesterol. The gene where the SNP is found (HMGCR) encodes for a protein, targeted by statins (drug class). Statins are indicated as cholesterol lowering agents, which is confirmed by the trait associated with the SNP. (B) Sometimes the trait associated with the SNP diverges from the indication of the drug, as shown on the diagram (post-traumatic stress disorder against smoking cessation). In such cases, a repositioning hypothesis can be generated. Examples are detailed in the text. See \cite  {sanseau2012use} for more explanations.\relax }}{39}{figure.caption.13}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.10}{\ignorespaces Description logics constructors. (A) Constructors help to compose with concepts. The logic behind constructors is analogous to some of the semantic found in cuneiform scripts (3000 BC) (personal interpretation). (B) Concept intersection: The individuals member in the same time of the concept Man and Parent are asserted to be of type Father on the axiom presented.\relax }}{75}{figure.caption.27}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.11}{\ignorespaces Description logics constructors: Existential restriction (A) Example of existential restriction expression with the implication. Note that all individuals of $ \exists $part-of.Cell are linked to a cell individual via a part-of role. Yet some cell instances exist without being linked (in blue – for instance red blood cell). (B) Definition of the concept Nucleus from the existential restriction construct: Nucleus $ \sqsubseteq $ $ \exists $ part-of.Cell, meaning that all instances of nucleus are necessarily linked to an instance of cell. There exist some instances of $ \exists $ part-of.Cell not being nucleus instance (orange). This type of construct is commonly encountered in biology.\relax }}{77}{figure.caption.28}}
 \@writefile{lof}{\contentsline {figure}{\numberline {2.12}{\ignorespaces Description logics constructors: Role composition. (A) Example of composed property, the "uncle" relationship. When two instances are linked using a "brother-of" property, then followed by a "parent-of" property, then a reasoner can create a property between the first and the last individual, as shown on figure between John and Paul. (B) Informal illustration of a transitive property using the Gene Ontology specification \citep  {gorels}. When two terms are connected by a part-of relation and directly followed by another part-of property, then a part-of relation can be added between the first and last term. For instance here one can deduce that mitochondrion is part of cell, from the asserted facts. Note that this representation is not formal; OWL representation of OBO ontologies will be addressed later in this chapter.\relax }}{78}{figure.caption.29}}
@@ -93,13 +93,13 @@
 \@writefile{lot}{\contentsline {table}{\numberline {4.7}{\ignorespaces Actions and number of drugs classified as “Pro-alpha2-adrenergic receptor activity agent” (FTC\_P0004938).\relax }}{168}{table.caption.74}}
 \@writefile{lot}{\contentsline {table}{\numberline {4.8}{\ignorespaces Drug repositioning hypotheses related to diuretics (ATC code C03). The symbol " refers to the value of the previous cell.\relax }}{169}{table.caption.75}}
 \@writefile{lot}{\contentsline {table}{\numberline {4.9}{\ignorespaces Drug repositioning hypotheses related to peripheral vasodilators (ATC code C04). The symbol " refers to the value of the previous cell.\relax }}{174}{table.caption.78}}
-\@writefile{toc}{\contentsline {chapter}{Bibliography}{211}{chapter*.83}}
+\@writefile{toc}{\contentsline {chapter}{Bibliography}{210}{chapter*.83}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {1}Review of computational drug repositioning approaches}{15}{chapter.1}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{53}{chapter.2}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {3}The Functional Therapeutic Chemical Classification System (Implementation)}{93}{chapter.3}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {4}Systematic drug repositioning analysis}{131}{chapter.4}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {5}Outlook and future work}{187}{chapter.5}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{213}{appendix.A}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {A}Extra Information}{211}{appendix.A}}
 \@writefile{toc}{\contentsline {paragraph}{DrugBank compound}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Drug}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Protein}{111}{subsubsection.3.2.9.1}}
@@ -130,9 +130,9 @@
 \@writefile{toc}{\contentsline {paragraph}{regulates}{113}{subsubsection.3.2.9.2}}
 \@writefile{toc}{\contentsline {paragraph}{therapeutic agent}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.1}Relevance of drug repositioning}{16}{section.1.1}}
-\@writefile{toc}{\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: Success stories}{21}{section.1.2}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: success stories}{21}{section.1.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {1.3}Computational approaches towards drug repositioning}{25}{section.1.3}}
-\@writefile{toc}{\contentsline {section}{\numberline {1.4}Thesis: Biological process and molecular function for drug repositioning}{46}{section.1.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {1.4}Thesis: biological process and molecular function for drug repositioning}{46}{section.1.4}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.1}Introduction}{54}{section.2.1}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.2}Biomedical knowledge}{55}{section.2.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {2.3}Description logics for biomedical knowledge representation}{65}{section.2.3}}
@@ -161,15 +161,15 @@
 \@writefile{toc}{\contentsline {subparagraph}{Role inclusion ($ \sqsubseteq $)\\}{73}{figure.caption.26}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.1}Opportunities for finding new indications}{17}{subsection.1.1.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.1.2}Drug repositioning faces legal and scientific challenges}{20}{subsection.1.1.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.1}Sildenafil: Repositioning from clinical side-effects}{22}{subsection.1.2.1}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.2}Thalidomide: Repositioning a hazardous drug}{23}{subsection.1.2.2}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.3}Raloxifene: Expanding the application line}{24}{subsection.1.2.3}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.1}Sildenafil: repositioning from clinical side-effects}{22}{subsection.1.2.1}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.2}Thalidomide: repositioning a hazardous drug}{23}{subsection.1.2.2}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.2.3}Raloxifene: expanding the application line}{24}{subsection.1.2.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.1}Chemical structure-based approaches}{27}{subsection.1.3.1}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.2}Gene expression and functional genomics-based approaches}{29}{subsection.1.3.2}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.3}Protein structure and molecular docking-based approaches}{32}{subsection.1.3.3}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.4}Phenotype and side-effect-based approaches}{34}{subsection.1.3.4}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.5}Genetic variation-based approaches}{37}{subsection.1.3.5}}
-\@writefile{toc}{\contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{39}{subsection.1.3.6}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{38}{subsection.1.3.6}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.7}Machine learning and concepts combination approaches}{41}{subsection.1.3.7}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.3.8}Summary}{43}{subsection.1.3.8}}
 \@writefile{toc}{\contentsline {subsection}{\numberline {1.4.1}Rationale}{47}{subsection.1.4.1}}
@@ -214,7 +214,7 @@
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{50}{subsubsection.1.4.2.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{50}{subsubsection.1.4.2.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{50}{subsubsection.1.4.2.3}}
-\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook}{51}{subsubsection.1.4.2.4}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook and future work}{51}{subsubsection.1.4.2.4}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.1}Formalism varies among natural sciences}{55}{subsubsection.2.2.1.1}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.1.2}Organisms as complex machines}{58}{subsubsection.2.2.1.2}}
 \@writefile{toc}{\contentsline {subsubsection}{\numberline {2.2.2.1}Mathematical framework}{61}{subsubsection.2.2.2.1}}
@@ -293,7 +293,6 @@
 \citation{campillos2008drug}
 \citation{campillos2008drug}
 \citation{campillos2008drug}
-\citation{campillos2008drug}
 \citation{chemsimwiki}
 \citation{chiang2009systematic}
 \citation{chiang2009systematic}
@@ -308,6 +307,7 @@
 \citation{croset2013brain}
 \citation{croset2013brain}
 \citation{croset2013brain}
+\citation{croset2013functional}
 \citation{croset2013functional}
 \citation{darwin2009origin}
 \citation{de2010binding}
@@ -348,7 +348,6 @@
 \citation{gonccalves2013owl}
 \citation{gorels}
 \citation{gorels}
-\citation{goto1996organizing}
 \citation{gottlieb2011predict}
 \citation{gottlieb2011predict}
 \citation{gruber2009encyclopedia}
@@ -423,6 +422,7 @@
 \citation{kruger2012mapping}
 \citation{kruger2012mapping}
 \citation{kubinyi1998similarity}
+\citation{kuhn2010side}
 \citation{kunkel2011mrna}
 \citation{kunkel2011mrna}
 \citation{lamb2006connectivity}
@@ -444,7 +444,6 @@
 \citation{machado2011modeling}
 \citation{martin2002structurally}
 \citation{masswiki}
-\citation{matthews2009reactome}
 \citation{mckhann2011diagnosis}
 \citation{mckhann2011diagnosis}
 \citation{medina2013shifting}

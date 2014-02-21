@@ -3,26 +3,26 @@
 \contentsline {section}{\numberline {1.1}Relevance of drug repositioning}{16}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Opportunities for finding new indications}{17}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Drug repositioning faces legal and scientific challenges}{20}{subsection.1.1.2}
-\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: Success stories}{21}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Sildenafil: Repositioning from clinical side-effects}{22}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Thalidomide: Repositioning a hazardous drug}{23}{subsection.1.2.2}
-\contentsline {subsection}{\numberline {1.2.3}Raloxifene: Expanding the application line}{24}{subsection.1.2.3}
+\contentsline {section}{\numberline {1.2}Drug repositioning and indication discovery: success stories}{21}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Sildenafil: repositioning from clinical side-effects}{22}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Thalidomide: repositioning a hazardous drug}{23}{subsection.1.2.2}
+\contentsline {subsection}{\numberline {1.2.3}Raloxifene: expanding the application line}{24}{subsection.1.2.3}
 \contentsline {section}{\numberline {1.3}Computational approaches towards drug repositioning}{25}{section.1.3}
 \contentsline {subsection}{\numberline {1.3.1}Chemical structure-based approaches}{27}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Gene expression and functional genomics-based approaches}{29}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Protein structure and molecular docking-based approaches}{32}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Phenotype and side-effect-based approaches}{34}{subsection.1.3.4}
 \contentsline {subsection}{\numberline {1.3.5}Genetic variation-based approaches}{37}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{39}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{38}{subsection.1.3.6}
 \contentsline {subsection}{\numberline {1.3.7}Machine learning and concepts combination approaches}{41}{subsection.1.3.7}
 \contentsline {subsection}{\numberline {1.3.8}Summary}{43}{subsection.1.3.8}
-\contentsline {section}{\numberline {1.4}Thesis: Biological process and molecular function for drug repositioning}{46}{section.1.4}
+\contentsline {section}{\numberline {1.4}Thesis: biological process and molecular function for drug repositioning}{46}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Rationale}{47}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Towards the specification, implementation and analysis}{49}{subsection.1.4.2}
 \contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{50}{subsubsection.1.4.2.1}
 \contentsline {subsubsection}{\numberline {1.4.2.2}Chapter 3 - The Functional Therapeutic Chemical Classification System (Implementation)}{50}{subsubsection.1.4.2.2}
 \contentsline {subsubsection}{\numberline {1.4.2.3}Chapter 4 - Systematic drug repositioning analysis}{50}{subsubsection.1.4.2.3}
-\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook}{51}{subsubsection.1.4.2.4}
+\contentsline {subsubsection}{\numberline {1.4.2.4}Chapter 5 - Outlook and future work}{51}{subsubsection.1.4.2.4}
 \contentsline {chapter}{\numberline {2}Description logics and biomedical knowledge (Specification)}{53}{chapter.2}
 \contentsline {section}{\numberline {2.1}Introduction}{54}{section.2.1}
 \contentsline {section}{\numberline {2.2}Biomedical knowledge}{55}{section.2.2}
@@ -152,5 +152,5 @@
 \contentsline {section}{\numberline {5.2}Comparison against functional genomics}{189}{section.5.2}
 \contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{190}{section.5.3}
 \contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{192}{section.5.4}
-\contentsline {chapter}{Bibliography}{211}{chapter*.83}
-\contentsline {chapter}{\numberline {A}Extra Information}{213}{appendix.A}
+\contentsline {chapter}{Bibliography}{210}{chapter*.83}
+\contentsline {chapter}{\numberline {A}Extra Information}{211}{appendix.A}

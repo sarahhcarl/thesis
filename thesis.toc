@@ -120,37 +120,37 @@
 \contentsline {section}{\numberline {4.1}Introduction}{132}{section.4.1}
 \contentsline {section}{\numberline {4.2}Structure, function and indication of drugs}{133}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}Structural descriptor selection}{133}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Dissimilar structures have dissimilar functions}{137}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}Dissimilar structures have dissimilar functions}{136}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}The more specific an indication is, the more similar the function and structure are}{140}{subsection.4.2.3}
 \contentsline {subsection}{\numberline {4.2.4}Isolation of drug repositioning hypotheses}{148}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Open drug repositioning hypotheses}{150}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Relationship between therapeutic areas}{151}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Drug repositioning for hypertension and the cardiovascular system}{157}{subsection.4.3.2}
-\contentsline {subsubsection}{\numberline {4.3.2.1}Antihypertensives}{159}{subsubsection.4.3.2.1}
-\contentsline {subsubsection}{\numberline {4.3.2.2}Calcium channel blockers}{162}{subsubsection.4.3.2.2}
-\contentsline {subsubsection}{\numberline {4.3.2.3}Adrenergic receptor antagonists}{165}{subsubsection.4.3.2.3}
-\contentsline {subsubsection}{\numberline {4.3.2.4}Alpha-2 agonists}{167}{subsubsection.4.3.2.4}
-\contentsline {subsubsection}{\numberline {4.3.2.5}Diuretics}{168}{subsubsection.4.3.2.5}
-\contentsline {subsubsection}{\numberline {4.3.2.6}Renin-angiotensin system}{170}{subsubsection.4.3.2.6}
-\contentsline {paragraph}{\textbf {Angiotensin-converting enzyme (ACE) inhibitors}\\}{171}{figure.caption.77}
-\contentsline {paragraph}{\textbf {Angiotensin II receptor antagonists}\\}{172}{figure.caption.77}
-\contentsline {paragraph}{\textbf {Renin inhibitors}\\}{172}{figure.caption.77}
-\contentsline {paragraph}{\textbf {Aldosterone receptor antagonists}\\}{173}{figure.caption.77}
-\contentsline {subsubsection}{\numberline {4.3.2.7}Peripheral vasodilators}{173}{subsubsection.4.3.2.7}
-\contentsline {subsection}{\numberline {4.3.3}Repositioning for Alzheimer’s disease}{176}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Summary}{179}{section.4.4}
-\contentsline {section}{\numberline {4.5}Methods}{181}{section.4.5}
-\contentsline {subsection}{\numberline {4.5.1}Structural fingerprints calculation}{181}{subsection.4.5.1}
-\contentsline {subsection}{\numberline {4.5.2}Structural similarity between drugs}{182}{subsection.4.5.2}
-\contentsline {subsection}{\numberline {4.5.3}Agreement between fingerprinting methodologies}{182}{subsection.4.5.3}
-\contentsline {subsection}{\numberline {4.5.4}Kernel density plots}{182}{subsection.4.5.4}
-\contentsline {subsection}{\numberline {4.5.5}Web application related to drug repositioning hypotheses}{183}{subsection.4.5.5}
+\contentsline {subsection}{\numberline {4.3.2}Drug repositioning for hypertension and the cardiovascular system}{156}{subsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.2.1}Antihypertensives}{158}{subsubsection.4.3.2.1}
+\contentsline {subsubsection}{\numberline {4.3.2.2}Calcium channel blockers}{161}{subsubsection.4.3.2.2}
+\contentsline {subsubsection}{\numberline {4.3.2.3}Adrenergic receptor antagonists}{164}{subsubsection.4.3.2.3}
+\contentsline {subsubsection}{\numberline {4.3.2.4}Alpha-2 agonists}{166}{subsubsection.4.3.2.4}
+\contentsline {subsubsection}{\numberline {4.3.2.5}Diuretics}{167}{subsubsection.4.3.2.5}
+\contentsline {subsubsection}{\numberline {4.3.2.6}Renin-angiotensin system}{169}{subsubsection.4.3.2.6}
+\contentsline {paragraph}{\textbf {Angiotensin-converting enzyme (ACE) inhibitors}\\}{170}{figure.caption.77}
+\contentsline {paragraph}{\textbf {Angiotensin II receptor antagonists}\\}{171}{figure.caption.77}
+\contentsline {paragraph}{\textbf {Renin inhibitors}\\}{171}{figure.caption.77}
+\contentsline {paragraph}{\textbf {Aldosterone receptor antagonists}\\}{172}{figure.caption.77}
+\contentsline {subsubsection}{\numberline {4.3.2.7}Peripheral vasodilators}{172}{subsubsection.4.3.2.7}
+\contentsline {subsection}{\numberline {4.3.3}Repositioning for Alzheimer's disease}{175}{subsection.4.3.3}
+\contentsline {section}{\numberline {4.4}Summary}{178}{section.4.4}
+\contentsline {section}{\numberline {4.5}Methods}{180}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Structural fingerprints calculation}{180}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Structural similarity between drugs}{180}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Agreement between fingerprinting methodologies}{181}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Kernel density plots}{181}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Web application related to drug repositioning hypotheses}{182}{subsection.4.5.5}
 \contentsline {subsection}{\numberline {4.5.6}Filtering of drug repositioning hypotheses}{183}{subsection.4.5.6}
-\contentsline {subsection}{\numberline {4.5.7}Filtering of relationships between therapeutic areas}{184}{subsection.4.5.7}
-\contentsline {chapter}{\numberline {5}Outlook and future work}{187}{chapter.5}
-\contentsline {section}{\numberline {5.1}Work performed in the context of the drug discovery process}{188}{section.5.1}
-\contentsline {section}{\numberline {5.2}Comparison against functional genomics}{189}{section.5.2}
-\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{190}{section.5.3}
-\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{192}{section.5.4}
-\contentsline {chapter}{Bibliography}{210}{chapter*.83}
-\contentsline {chapter}{\numberline {A}Extra Information}{211}{appendix.A}
+\contentsline {subsection}{\numberline {4.5.7}Filtering of relationships between therapeutic areas}{183}{subsection.4.5.7}
+\contentsline {chapter}{\numberline {5}Outlook and future work}{185}{chapter.5}
+\contentsline {section}{\numberline {5.1}Work performed in the context of the drug discovery process}{186}{section.5.1}
+\contentsline {section}{\numberline {5.2}Comparison against functional genomics}{187}{section.5.2}
+\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{188}{section.5.3}
+\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{190}{section.5.4}
+\contentsline {chapter}{Bibliography}{208}{chapter*.83}
+\contentsline {chapter}{\numberline {A}Extra Information}{209}{appendix.A}

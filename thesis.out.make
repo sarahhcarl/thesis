@@ -102,7 +102,7 @@
 \BOOKMARK [3][-]{subsubsection.4.3.2.5}{Diuretics}{subsection.4.3.2}% 102
 \BOOKMARK [3][-]{subsubsection.4.3.2.6}{Renin-angiotensin system}{subsection.4.3.2}% 103
 \BOOKMARK [3][-]{subsubsection.4.3.2.7}{Peripheral vasodilators}{subsection.4.3.2}% 104
-\BOOKMARK [2][-]{subsection.4.3.3}{Repositioning for Alzheimer’s disease}{section.4.3}% 105
+\BOOKMARK [2][-]{subsection.4.3.3}{Repositioning for Alzheimer's disease}{section.4.3}% 105
 \BOOKMARK [1][-]{section.4.4}{Summary}{chapter.4}% 106
 \BOOKMARK [1][-]{section.4.5}{Methods}{chapter.4}% 107
 \BOOKMARK [2][-]{subsection.4.5.1}{Structural fingerprints calculation}{section.4.5}% 108

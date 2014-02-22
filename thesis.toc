@@ -153,4 +153,7 @@
 \contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{188}{section.5.3}
 \contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{190}{section.5.4}
 \contentsline {chapter}{Bibliography}{208}{chapter*.83}
-\contentsline {chapter}{\numberline {A}Extra Information}{209}{appendix.A}
+\contentsline {chapter}{\numberline {A}Glossary}{209}{appendix.A}
+\contentsline {chapter}{\numberline {B}Abbreviations}{211}{appendix.B}
+\contentsline {chapter}{\numberline {C}Peer-reviewed publications}{213}{appendix.C}
+\contentsline {chapter}{\numberline {D}Side-projects}{215}{appendix.D}

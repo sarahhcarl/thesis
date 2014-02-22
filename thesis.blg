@@ -10,32 +10,32 @@ Warning--empty journal in neumann1966theory
 Warning--empty journal in tanimoto1958elementary
 You've used 191 entries,
             1935 wiz_defined-function locations,
-            1462 strings with 40111 characters,
-and the built_in function-call counts, 83424 in all, are:
-= -- 7973
-> -- 4424
+            1462 strings with 40057 characters,
+and the built_in function-call counts, 83383 in all, are:
+= -- 7969
+> -- 4418
 < -- 101
-+ -- 1644
-- -- 1562
-* -- 7687
-:= -- 14779
++ -- 1642
+- -- 1560
+* -- 7681
+:= -- 14773
 add.period$ -- 571
 call.type$ -- 191
-change.case$ -- 1702
+change.case$ -- 1701
 chr.to.int$ -- 175
 cite$ -- 196
 duplicate$ -- 2669
 empty$ -- 5170
-format.name$ -- 1818
-if$ -- 15769
+format.name$ -- 1814
+if$ -- 15761
 int.to.chr$ -- 17
 int.to.str$ -- 0
 missing$ -- 172
 newline$ -- 953
 num.names$ -- 573
-pop$ -- 1357
+pop$ -- 1356
 preamble$ -- 1
-purify$ -- 1709
+purify$ -- 1708
 quote$ -- 0
 skip$ -- 2064
 stack$ -- 0

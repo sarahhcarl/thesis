@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  22 FEB 2014 12:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  22 FEB 2014 14:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -410,7 +410,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 \cam@logo=\box35
-<CUni.pdf, id=490, 330.23375pt x 69.25874pt>
+<CUni.pdf, id=502, 330.23375pt x 69.25874pt>
 File: CUni.pdf Graphic file (type pdf)
 <use CUni.pdf>
 Package pdftex.def Info: CUni.pdf used on input line 18.
@@ -425,7 +425,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \cam@collegeshieldbox=\box37
-<CollegeShields/Darwin.pdf, id=491, 146.7081pt x 173.448pt>
+<CollegeShields/Darwin.pdf, id=503, 146.7081pt x 173.448pt>
 File: CollegeShields/Darwin.pdf Graphic file (type pdf)
 <use CollegeShields/Darwin.pdf>
 Package pdftex.def Info: CollegeShields/Darwin.pdf used on input line 18.
@@ -457,11 +457,7 @@ Overfull \hbox (12.1585pt too wide) in paragraph at lines 22--22
 owl- 
  []
 
-[9] [10] [11]
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ™ in font cmr12!
-[12])
+[9] [10] [11] [12])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
@@ -471,18 +467,18 @@ Missing character: There is no ™ in font cmr12!
 Chapter 1.
 [15
 
-] [16] [17] <./Figures/fig1-1.pdf, id=751, 397.485pt x 252.945pt>
+] [16] [17] <./Figures/fig1-1.pdf, id=766, 397.485pt x 252.945pt>
 File: ./Figures/fig1-1.pdf Graphic file (type pdf)
 <use ./Figures/fig1-1.pdf>
 Package pdftex.def Info: ./Figures/fig1-1.pdf used on input line 40.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig1-2.pdf, id=757, 397.485pt x 252.945pt>
+<./Figures/fig1-2.pdf, id=772, 397.485pt x 252.945pt>
 File: ./Figures/fig1-2.pdf Graphic file (type pdf)
 <use ./Figures/fig1-2.pdf>
 Package pdftex.def Info: ./Figures/fig1-2.pdf used on input line 49.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 [18 <./Figures/fig1-1.pdf>] [19 <./Figures/fig1-2.pdf>] [20] [21] <./Figures/fi
-g1-3.pdf, id=839, 397.485pt x 252.945pt>
+g1-3.pdf, id=854, 397.485pt x 252.945pt>
 File: ./Figures/fig1-3.pdf Graphic file (type pdf)
 <use ./Figures/fig1-3.pdf>
 Package pdftex.def Info: ./Figures/fig1-3.pdf used on input line 83.
@@ -492,7 +488,7 @@ Overfull \hbox (19.20074pt too wide) in paragraph at lines 98--98
  |[]\OT1/cmr/bx/n/17.28 Computational ap-proaches to-wards drug repo-
  []
 
-[25] <./Figures/fig1-4.pdf, id=916, 397.485pt x 252.945pt>
+[25] <./Figures/fig1-4.pdf, id=931, 397.485pt x 252.945pt>
 File: ./Figures/fig1-4.pdf Graphic file (type pdf)
 <use ./Figures/fig1-4.pdf>
 Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 107.
@@ -500,19 +496,19 @@ Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 107.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[26 <./Figures/fig1-4.pdf>] [27] <./Figures/fig1-5.pdf, id=954, 397.485pt x 180
+[26 <./Figures/fig1-4.pdf>] [27] <./Figures/fig1-5.pdf, id=969, 397.485pt x 180
 .675pt>
 File: ./Figures/fig1-5.pdf Graphic file (type pdf)
 <use ./Figures/fig1-5.pdf>
 Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 121.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[28 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=982, 397.485pt x 252.945p
+[28 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=997, 397.485pt x 252.945p
 t>
 File: ./Figures/fig1-6.pdf Graphic file (type pdf)
 <use ./Figures/fig1-6.pdf>
 Package pdftex.def Info: ./Figures/fig1-6.pdf used on input line 135.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[29] [30 <./Figures/fig1-6.pdf>] [31] <./Figures/fig1-7.pdf, id=1037, 397.485pt
+[29] [30 <./Figures/fig1-6.pdf>] [31] <./Figures/fig1-7.pdf, id=1052, 397.485pt
  x 209.58301pt>
 File: ./Figures/fig1-7.pdf Graphic file (type pdf)
 <use ./Figures/fig1-7.pdf>
@@ -521,7 +517,7 @@ Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 160.
 [32]
 Underfull \vbox (badness 1783) has occurred while \output is active []
 
-[33 <./Figures/fig1-7.pdf>] [34] <./Figures/fig1-8.pdf, id=1095, 397.485pt x 14
+[33 <./Figures/fig1-7.pdf>] [34] <./Figures/fig1-8.pdf, id=1110, 397.485pt x 14
 4.54pt>
 File: ./Figures/fig1-8.pdf Graphic file (type pdf)
 <use ./Figures/fig1-8.pdf>
@@ -530,13 +526,13 @@ Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 180.
 
 Underfull \vbox (badness 4279) has occurred while \output is active []
 
-[35 <./Figures/fig1-8.pdf>] [36] [37] <./Figures/fig1-9.pdf, id=1163, 397.485pt
+[35 <./Figures/fig1-8.pdf>] [36] [37] <./Figures/fig1-9.pdf, id=1178, 397.485pt
  x 252.945pt>
 File: ./Figures/fig1-9.pdf Graphic file (type pdf)
 <use ./Figures/fig1-9.pdf>
 Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 197.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig1-10.pdf, id=1169, 397.485pt x 216.81pt>
+<./Figures/fig1-10.pdf, id=1184, 397.485pt x 216.81pt>
 File: ./Figures/fig1-10.pdf Graphic file (type pdf)
 <use ./Figures/fig1-10.pdf>
 Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 210.
@@ -553,7 +549,7 @@ Overfull \hbox (22.88115pt too wide) in paragraph at lines 220--220
 es| 
  []
 
-<./Figures/fig1-11.pdf, id=1213, 397.485pt x 202.356pt>
+<./Figures/fig1-11.pdf, id=1228, 397.485pt x 202.356pt>
 File: ./Figures/fig1-11.pdf Graphic file (type pdf)
 <use ./Figures/fig1-11.pdf>
 Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 226.
@@ -914,7 +910,7 @@ Overfull \hbox (60.16956pt too wide) in paragraph at lines 287--287
 
 
 
-] <./Figures/fig1-13.pdf, id=1309, 397.485pt x 195.129pt>
+] <./Figures/fig1-13.pdf, id=1324, 397.485pt x 195.129pt>
 File: ./Figures/fig1-13.pdf Graphic file (type pdf)
 <use ./Figures/fig1-13.pdf>
 Package pdftex.def Info: ./Figures/fig1-13.pdf used on input line 290.
@@ -927,7 +923,7 @@ Overfull \hbox (13.50677pt too wide) in paragraph at lines 296--296
 [46
 
 
- <./Figures/fig1-13.pdf>] <./Figures/fig1-12.pdf, id=1329, 397.485pt x 252.945p
+ <./Figures/fig1-13.pdf>] <./Figures/fig1-12.pdf, id=1345, 397.485pt x 252.945p
 t>
 File: ./Figures/fig1-12.pdf Graphic file (type pdf)
 <use ./Figures/fig1-12.pdf>
@@ -946,7 +942,7 @@ dge (Spec-
 
 ]
 Chapter 2.
-[53] [54] <./Figures/fig2-1.pdf, id=1401, 397.485pt x 180.675pt>
+[53] [54] <./Figures/fig2-1.pdf, id=1416, 397.485pt x 180.675pt>
 File: ./Figures/fig2-1.pdf Graphic file (type pdf)
 <use ./Figures/fig2-1.pdf>
 Package pdftex.def Info: ./Figures/fig2-1.pdf used on input line 36.
@@ -954,7 +950,7 @@ Package pdftex.def Info: ./Figures/fig2-1.pdf used on input line 36.
 [55]
 Underfull \vbox (badness 1540) has occurred while \output is active []
 
-[56 <./Figures/fig2-1.pdf>] <./Figures/fig2-2.pdf, id=1433, 397.485pt x 289.08p
+[56 <./Figures/fig2-1.pdf>] <./Figures/fig2-2.pdf, id=1448, 397.485pt x 289.08p
 t>
 File: ./Figures/fig2-2.pdf Graphic file (type pdf)
 <use ./Figures/fig2-2.pdf>
@@ -964,13 +960,13 @@ Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
 Missing character: There is no Â in font cmr10!
 Missing character: There is no   in font cmr10!
-[57 <./Figures/fig2-2.pdf>] <./Figures/fig2-3.pdf, id=1458, 397.485pt x 108.405
+[57 <./Figures/fig2-2.pdf>] <./Figures/fig2-3.pdf, id=1474, 397.485pt x 108.405
 pt>
 File: ./Figures/fig2-3.pdf Graphic file (type pdf)
 <use ./Figures/fig2-3.pdf>
 Package pdftex.def Info: ./Figures/fig2-3.pdf used on input line 62.
 (pdftex.def)             Requested size: 397.48402pt x 108.40472pt.
-[58 <./Figures/fig2-3.pdf>] <./Figures/fig2-4.pdf, id=1481, 397.485pt x 433.62p
+[58 <./Figures/fig2-3.pdf>] <./Figures/fig2-4.pdf, id=1496, 397.485pt x 433.62p
 t>
 File: ./Figures/fig2-4.pdf Graphic file (type pdf)
 <use ./Figures/fig2-4.pdf>
@@ -979,13 +975,13 @@ Package pdftex.def Info: ./Figures/fig2-4.pdf used on input line 81.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[59] [60 <./Figures/fig2-4.pdf>] [61] [62] <./Figures/fig2-5.pdf, id=1530, 397.
+[59] [60 <./Figures/fig2-4.pdf>] [61] [62] <./Figures/fig2-5.pdf, id=1545, 397.
 485pt x 180.675pt>
 File: ./Figures/fig2-5.pdf Graphic file (type pdf)
 <use ./Figures/fig2-5.pdf>
 Package pdftex.def Info: ./Figures/fig2-5.pdf used on input line 115.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[63 <./Figures/fig2-5.pdf>] [64] [65] <./Figures/fig2-6.pdf, id=1579, 397.485pt
+[63 <./Figures/fig2-5.pdf>] [64] [65] <./Figures/fig2-6.pdf, id=1595, 397.485pt
  x 144.54pt>
 File: ./Figures/fig2-6.pdf Graphic file (type pdf)
 <use ./Figures/fig2-6.pdf>
@@ -994,30 +990,30 @@ Package pdftex.def Info: ./Figures/fig2-6.pdf used on input line 142.
 [66 <./Figures/fig2-6.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[67] <./Figures/fig2-7.pdf, id=1615, 397.485pt x 238.49101pt>
+[67] <./Figures/fig2-7.pdf, id=1630, 397.485pt x 238.49101pt>
 File: ./Figures/fig2-7.pdf Graphic file (type pdf)
 <use ./Figures/fig2-7.pdf>
 Package pdftex.def Info: ./Figures/fig2-7.pdf used on input line 162.
 (pdftex.def)             Requested size: 397.48402pt x 238.49042pt.
-[68 <./Figures/fig2-7.pdf>] [69] [70] <./Figures/fig2-8.pdf, id=1679, 397.485pt
+[68 <./Figures/fig2-7.pdf>] [69] [70] <./Figures/fig2-8.pdf, id=1694, 397.485pt
  x 180.675pt>
 File: ./Figures/fig2-8.pdf Graphic file (type pdf)
 <use ./Figures/fig2-8.pdf>
 Package pdftex.def Info: ./Figures/fig2-8.pdf used on input line 197.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[71 <./Figures/fig2-8.pdf>] [72] <./Figures/fig2-9.pdf, id=1697, 397.485pt x 20
+[71 <./Figures/fig2-8.pdf>] [72] <./Figures/fig2-9.pdf, id=1712, 397.485pt x 20
 9.58301pt>
 File: ./Figures/fig2-9.pdf Graphic file (type pdf)
 <use ./Figures/fig2-9.pdf>
 Package pdftex.def Info: ./Figures/fig2-9.pdf used on input line 230.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[73] <./Figures/fig2-10.pdf, id=1703, 397.485pt x 209.58301pt>
+[73] <./Figures/fig2-10.pdf, id=1719, 397.485pt x 209.58301pt>
 File: ./Figures/fig2-10.pdf Graphic file (type pdf)
 <use ./Figures/fig2-10.pdf>
 Package pdftex.def Info: ./Figures/fig2-10.pdf used on input line 251.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
 [74 <./Figures/fig2-9.pdf>] [75 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf
-, id=1761, 397.485pt x 325.215pt>
+, id=1776, 397.485pt x 325.215pt>
 File: ./Figures/fig2-11.pdf Graphic file (type pdf)
 <use ./Figures/fig2-11.pdf>
 Package pdftex.def Info: ./Figures/fig2-11.pdf used on input line 270.
@@ -1025,13 +1021,13 @@ Package pdftex.def Info: ./Figures/fig2-11.pdf used on input line 270.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[76] [77 <./Figures/fig2-11.pdf>] <./Figures/fig2-12.pdf, id=1791, 397.485pt x 
+[76] [77 <./Figures/fig2-11.pdf>] <./Figures/fig2-12.pdf, id=1806, 397.485pt x 
 289.08pt>
 File: ./Figures/fig2-12.pdf Graphic file (type pdf)
 <use ./Figures/fig2-12.pdf>
 Package pdftex.def Info: ./Figures/fig2-12.pdf used on input line 282.
 (pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
-[78 <./Figures/fig2-12.pdf>] <./Figures/fig2-13.pdf, id=1827, 397.485pt x 180.6
+[78 <./Figures/fig2-12.pdf>] <./Figures/fig2-13.pdf, id=1842, 397.485pt x 180.6
 75pt>
 File: ./Figures/fig2-13.pdf Graphic file (type pdf)
 <use ./Figures/fig2-13.pdf>
@@ -1042,7 +1038,7 @@ Overfull \hbox (6.71275pt too wide) in paragraph at lines 309--309
  |[]\OT1/cmr/bx/n/17.28 Implementation with life-science in-for-ma-tion| 
  []
 
-[81] <./Figures/fig2-14.pdf, id=1873, 397.485pt x 325.215pt>
+[81] <./Figures/fig2-14.pdf, id=1888, 397.485pt x 325.215pt>
 File: ./Figures/fig2-14.pdf Graphic file (type pdf)
 <use ./Figures/fig2-14.pdf>
 Package pdftex.def Info: ./Figures/fig2-14.pdf used on input line 321.
@@ -1050,17 +1046,17 @@ Package pdftex.def Info: ./Figures/fig2-14.pdf used on input line 321.
 [82 <./Figures/fig2-14.pdf>] [83] [84] [85] [86]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[87] <./Figures/fig2-15.pdf, id=1985, 397.485pt x 361.35pt>
+[87] <./Figures/fig2-15.pdf, id=2000, 397.485pt x 361.35pt>
 File: ./Figures/fig2-15.pdf Graphic file (type pdf)
 <use ./Figures/fig2-15.pdf>
 Package pdftex.def Info: ./Figures/fig2-15.pdf used on input line 361.
 (pdftex.def)             Requested size: 397.48402pt x 361.34912pt.
-[88] <./Figures/fig2-16.pdf, id=2004, 397.485pt x 317.98799pt>
+[88] <./Figures/fig2-16.pdf, id=2019, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-16.pdf Graphic file (type pdf)
 <use ./Figures/fig2-16.pdf>
 Package pdftex.def Info: ./Figures/fig2-16.pdf used on input line 370.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
-<./Figures/fig2-17.pdf, id=2005, 397.485pt x 317.98799pt>
+<./Figures/fig2-17.pdf, id=2020, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-17.pdf Graphic file (type pdf)
 <use ./Figures/fig2-17.pdf>
 Package pdftex.def Info: ./Figures/fig2-17.pdf used on input line 377.
@@ -1074,7 +1070,7 @@ Underfull \vbox (badness 1910) has occurred while \output is active []
 [90 <./Figures/fig2-16.pdf>]
 Underfull \vbox (badness 6725) has occurred while \output is active []
 
-[91 <./Figures/fig2-17.pdf>] <./Figures/fig2-18.pdf, id=2068, 397.485pt x 216.8
+[91 <./Figures/fig2-17.pdf>] <./Figures/fig2-18.pdf, id=2083, 397.485pt x 216.8
 1pt>
 File: ./Figures/fig2-18.pdf Graphic file (type pdf)
 <use ./Figures/fig2-18.pdf>
@@ -1084,7 +1080,7 @@ Package pdftex.def Info: ./Figures/fig2-18.pdf used on input line 390.
 Chapter 3.
 [93
 
-] [94] <./Figures/fig3-1.pdf, id=2105, 397.485pt x 252.945pt>
+] [94] <./Figures/fig3-1.pdf, id=2121, 397.485pt x 252.945pt>
 File: ./Figures/fig3-1.pdf Graphic file (type pdf)
 <use ./Figures/fig3-1.pdf>
 Package pdftex.def Info: ./Figures/fig3-1.pdf used on input line 29.
@@ -1098,12 +1094,12 @@ Missing character: There is no “ in font cmr10!
 [95] [96 <./Figures/fig3-1.pdf>] [97]
 Underfull \vbox (badness 1168) has occurred while \output is active []
 
-[98] <./Figures/fig3-2.pdf, id=2158, 397.485pt x 252.945pt>
+[98] <./Figures/fig3-2.pdf, id=2173, 397.485pt x 252.945pt>
 File: ./Figures/fig3-2.pdf Graphic file (type pdf)
 <use ./Figures/fig3-2.pdf>
 Package pdftex.def Info: ./Figures/fig3-2.pdf used on input line 74.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig3-3.pdf, id=2159, 397.485pt x 252.945pt>
+<./Figures/fig3-3.pdf, id=2174, 397.485pt x 252.945pt>
 File: ./Figures/fig3-3.pdf Graphic file (type pdf)
 <use ./Figures/fig3-3.pdf>
 Package pdftex.def Info: ./Figures/fig3-3.pdf used on input line 81.
@@ -1112,12 +1108,12 @@ Package pdftex.def Info: ./Figures/fig3-3.pdf used on input line 81.
 
 pdfTeX warning: pdflatex (file ./Figures/fig3-3.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
->] <./Figures/fig3-4.pdf, id=2185, 397.485pt x 252.945pt>
+>] <./Figures/fig3-4.pdf, id=2200, 397.485pt x 252.945pt>
 File: ./Figures/fig3-4.pdf Graphic file (type pdf)
 <use ./Figures/fig3-4.pdf>
 Package pdftex.def Info: ./Figures/fig3-4.pdf used on input line 90.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig3-5.pdf, id=2186, 397.485pt x 252.945pt>
+<./Figures/fig3-5.pdf, id=2201, 397.485pt x 252.945pt>
 File: ./Figures/fig3-5.pdf Graphic file (type pdf)
 <use ./Figures/fig3-5.pdf>
 Package pdftex.def Info: ./Figures/fig3-5.pdf used on input line 97.
@@ -1125,7 +1121,7 @@ Package pdftex.def Info: ./Figures/fig3-5.pdf used on input line 97.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[101 <./Figures/fig3-4.pdf>] <./Figures/fig3-6.pdf, id=2212, 397.485pt x 252.94
+[101 <./Figures/fig3-4.pdf>] <./Figures/fig3-6.pdf, id=2227, 397.485pt x 252.94
 5pt>
 File: ./Figures/fig3-6.pdf Graphic file (type pdf)
 <use ./Figures/fig3-6.pdf>
@@ -1143,12 +1139,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [105]
 Underfull \vbox (badness 3815) has occurred while \output is active []
 
-[106] <./Figures/fig3-7.pdf, id=2279, 397.485pt x 252.945pt>
+[106] <./Figures/fig3-7.pdf, id=2294, 397.485pt x 252.945pt>
 File: ./Figures/fig3-7.pdf Graphic file (type pdf)
 <use ./Figures/fig3-7.pdf>
 Package pdftex.def Info: ./Figures/fig3-7.pdf used on input line 174.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[107 <./Figures/fig3-7.pdf>] <./Figures/fig3-8.pdf, id=2295, 397.485pt x 252.94
+[107 <./Figures/fig3-7.pdf>] <./Figures/fig3-8.pdf, id=2310, 397.485pt x 252.94
 5pt>
 File: ./Figures/fig3-8.pdf Graphic file (type pdf)
 <use ./Figures/fig3-8.pdf>
@@ -1163,12 +1159,12 @@ Overfull \hbox (31.03493pt too wide) in paragraph at lines 282--283
  relations . shtml # haspart$[] 
  []
 
-[113] [114] <./Figures/fig3-9.pdf, id=2372, 397.485pt x 252.945pt>
+[113] [114] <./Figures/fig3-9.pdf, id=2387, 397.485pt x 252.945pt>
 File: ./Figures/fig3-9.pdf Graphic file (type pdf)
 <use ./Figures/fig3-9.pdf>
 Package pdftex.def Info: ./Figures/fig3-9.pdf used on input line 357.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[115] [116 <./Figures/fig3-9.pdf>] <./Figures/fig3-10.pdf, id=2397, 397.485pt x
+[115] [116 <./Figures/fig3-9.pdf>] <./Figures/fig3-10.pdf, id=2412, 397.485pt x
  325.215pt>
 File: ./Figures/fig3-10.pdf Graphic file (type pdf)
 <use ./Figures/fig3-10.pdf>
@@ -1187,7 +1183,7 @@ File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 373.
-[117 <./Figures/fig3-10.pdf>] [118] <./Figures/fig3-11.pdf, id=2417, 397.485pt 
+[117 <./Figures/fig3-10.pdf>] [118] <./Figures/fig3-11.pdf, id=2432, 397.485pt 
 x 325.215pt>
 File: ./Figures/fig3-11.pdf Graphic file (type pdf)
 <use ./Figures/fig3-11.pdf>
@@ -1199,13 +1195,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [119]
 Underfull \vbox (badness 1902) has occurred while \output is active []
 
-[120 <./Figures/fig3-11.pdf>] [121] <./Figures/fig3-12.pdf, id=2452, 397.485pt 
+[120 <./Figures/fig3-11.pdf>] [121] <./Figures/fig3-12.pdf, id=2468, 397.485pt 
 x 325.215pt>
 File: ./Figures/fig3-12.pdf Graphic file (type pdf)
 <use ./Figures/fig3-12.pdf>
 Package pdftex.def Info: ./Figures/fig3-12.pdf used on input line 405.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
-[122 <./Figures/fig3-12.pdf>] <./Figures/fig3-13.pdf, id=2469, 397.485pt x 325.
+[122 <./Figures/fig3-12.pdf>] <./Figures/fig3-13.pdf, id=2484, 397.485pt x 325.
 215pt>
 File: ./Figures/fig3-13.pdf Graphic file (type pdf)
 <use ./Figures/fig3-13.pdf>
@@ -1214,7 +1210,7 @@ Package pdftex.def Info: ./Figures/fig3-13.pdf used on input line 417.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[123] <./Figures/fig3-14.pdf, id=2479, 397.485pt x 325.215pt>
+[123] <./Figures/fig3-14.pdf, id=2494, 397.485pt x 325.215pt>
 File: ./Figures/fig3-14.pdf Graphic file (type pdf)
 <use ./Figures/fig3-14.pdf>
 Package pdftex.def Info: ./Figures/fig3-14.pdf used on input line 426.
@@ -1222,7 +1218,7 @@ Package pdftex.def Info: ./Figures/fig3-14.pdf used on input line 426.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[124 <./Figures/fig3-13.pdf>] <./Figures/fig3-15.pdf, id=2501, 397.485pt x 325.
+[124 <./Figures/fig3-13.pdf>] <./Figures/fig3-15.pdf, id=2516, 397.485pt x 325.
 215pt>
 File: ./Figures/fig3-15.pdf Graphic file (type pdf)
 <use ./Figures/fig3-15.pdf>
@@ -1232,7 +1228,7 @@ Package pdftex.def Info: ./Figures/fig3-15.pdf used on input line 435.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [125 <./Figures/fig3-14.pdf>] [126 <./Figures/fig3-15.pdf>] [127] [128] <./Figu
-res/fig3-16.pdf, id=2566, 397.485pt x 260.17201pt>
+res/fig3-16.pdf, id=2581, 397.485pt x 260.17201pt>
 File: ./Figures/fig3-16.pdf Graphic file (type pdf)
 <use ./Figures/fig3-16.pdf>
 Package pdftex.def Info: ./Figures/fig3-16.pdf used on input line 464.
@@ -1262,7 +1258,7 @@ Overfull \hbox (11.47507pt too wide) in paragraph at lines 35--36
 in-ity than three-dimensional
  []
 
-<./Figures/fig4-1.pdf, id=2613, 397.485pt x 317.98799pt>
+<./Figures/fig4-1.pdf, id=2628, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-1.pdf Graphic file (type pdf)
 <use ./Figures/fig4-1.pdf>
 Package pdftex.def Info: ./Figures/fig4-1.pdf used on input line 41.
@@ -1278,7 +1274,7 @@ Overfull \hbox (61.07686pt too wide) in paragraph at lines 50--57
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[135 <./Figures/fig4-1.pdf>] [136] <./Figures/fig4-2.pdf, id=2648, 397.485pt x 
+[135 <./Figures/fig4-1.pdf>] [136] <./Figures/fig4-2.pdf, id=2663, 397.485pt x 
 397.485pt>
 File: ./Figures/fig4-2.pdf Graphic file (type pdf)
 <use ./Figures/fig4-2.pdf>
@@ -1292,7 +1288,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [137]
 Underfull \vbox (badness 1783) has occurred while \output is active []
 
-[138 <./Figures/fig4-2.pdf>] [139] <./Figures/fig4-3.pdf, id=2685, 397.485pt x 
+[138 <./Figures/fig4-2.pdf>] [139] <./Figures/fig4-3.pdf, id=2700, 397.485pt x 
 317.98799pt>
 File: ./Figures/fig4-3.pdf Graphic file (type pdf)
 <use ./Figures/fig4-3.pdf>
@@ -1301,7 +1297,7 @@ Package pdftex.def Info: ./Figures/fig4-3.pdf used on input line 94.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[140] <./Figures/fig4-4.pdf, id=2691, 397.485pt x 317.98799pt>
+[140] <./Figures/fig4-4.pdf, id=2706, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-4.pdf Graphic file (type pdf)
 <use ./Figures/fig4-4.pdf>
 Package pdftex.def Info: ./Figures/fig4-4.pdf used on input line 103.
@@ -1309,7 +1305,7 @@ Package pdftex.def Info: ./Figures/fig4-4.pdf used on input line 103.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[141 <./Figures/fig4-3.pdf>] <./Figures/fig4-5.pdf, id=2708, 397.485pt x 317.98
+[141 <./Figures/fig4-3.pdf>] <./Figures/fig4-5.pdf, id=2723, 397.485pt x 317.98
 799pt>
 File: ./Figures/fig4-5.pdf Graphic file (type pdf)
 <use ./Figures/fig4-5.pdf>
@@ -1323,19 +1319,19 @@ Overfull \hbox (8.8638pt too wide) in paragraph at lines 121--128
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[143 <./Figures/fig4-5.pdf>] <./Figures/fig4-6.pdf, id=2747, 397.485pt x 281.85
+[143 <./Figures/fig4-5.pdf>] <./Figures/fig4-6.pdf, id=2762, 397.485pt x 281.85
 298pt>
 File: ./Figures/fig4-6.pdf Graphic file (type pdf)
 <use ./Figures/fig4-6.pdf>
 Package pdftex.def Info: ./Figures/fig4-6.pdf used on input line 134.
 (pdftex.def)             Requested size: 397.48402pt x 281.8523pt.
-<./Figures/fig4-7.pdf, id=2752, 397.485pt x 281.85298pt>
+<./Figures/fig4-7.pdf, id=2767, 397.485pt x 281.85298pt>
 File: ./Figures/fig4-7.pdf Graphic file (type pdf)
 <use ./Figures/fig4-7.pdf>
 Package pdftex.def Info: ./Figures/fig4-7.pdf used on input line 143.
 (pdftex.def)             Requested size: 397.48402pt x 281.8523pt.
 [144 <./Figures/fig4-6.pdf>] [145 <./Figures/fig4-7.pdf>] <./Figures/fig4-8.pdf
-, id=2787, 397.485pt x 325.215pt>
+, id=2802, 397.485pt x 325.215pt>
 File: ./Figures/fig4-8.pdf Graphic file (type pdf)
 <use ./Figures/fig4-8.pdf>
 Package pdftex.def Info: ./Figures/fig4-8.pdf used on input line 152.
@@ -1343,7 +1339,7 @@ Package pdftex.def Info: ./Figures/fig4-8.pdf used on input line 152.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[146] [147 <./Figures/fig4-8.pdf>] <./Figures/fig4-9.pdf, id=2816, 397.485pt x 
+[146] [147 <./Figures/fig4-8.pdf>] <./Figures/fig4-9.pdf, id=2831, 397.485pt x 
 296.307pt>
 File: ./Figures/fig4-9.pdf Graphic file (type pdf)
 <use ./Figures/fig4-9.pdf>
@@ -1352,7 +1348,7 @@ Package pdftex.def Info: ./Figures/fig4-9.pdf used on input line 168.
 [148]
 Underfull \vbox (badness 5036) has occurred while \output is active []
 
-[149 <./Figures/fig4-9.pdf>] [150] <./Figures/fig4-10.pdf, id=2856, 397.485pt x
+[149 <./Figures/fig4-9.pdf>] [150] <./Figures/fig4-10.pdf, id=2872, 397.485pt x
  325.215pt>
 File: ./Figures/fig4-10.pdf Graphic file (type pdf)
 <use ./Figures/fig4-10.pdf>
@@ -1361,7 +1357,7 @@ Package pdftex.def Info: ./Figures/fig4-10.pdf used on input line 197.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[151] <./Figures/fig4-11.pdf, id=2863, 397.485pt x 245.718pt>
+[151] <./Figures/fig4-11.pdf, id=2879, 397.485pt x 245.718pt>
 File: ./Figures/fig4-11.pdf Graphic file (type pdf)
 <use ./Figures/fig4-11.pdf>
 Package pdftex.def Info: ./Figures/fig4-11.pdf used on input line 206.
@@ -1370,7 +1366,7 @@ Package pdftex.def Info: ./Figures/fig4-11.pdf used on input line 206.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [152 <./Figures/fig4-10.pdf>] [153 <./Figures/fig4-11.pdf>] <./Figures/fig4-12.
-pdf, id=2890, 397.485pt x 325.215pt>
+pdf, id=2905, 397.485pt x 325.215pt>
 File: ./Figures/fig4-12.pdf Graphic file (type pdf)
 <use ./Figures/fig4-12.pdf>
 Package pdftex.def Info: ./Figures/fig4-12.pdf used on input line 217.
@@ -1378,12 +1374,12 @@ Package pdftex.def Info: ./Figures/fig4-12.pdf used on input line 217.
 [154 <./Figures/fig4-12.pdf>]
 Underfull \vbox (badness 1502) has occurred while \output is active []
 
-[155] [156] <./Figures/fig4-13.pdf, id=2938, 397.485pt x 216.81pt>
+[155] [156] <./Figures/fig4-13.pdf, id=2953, 397.485pt x 216.81pt>
 File: ./Figures/fig4-13.pdf Graphic file (type pdf)
 <use ./Figures/fig4-13.pdf>
 Package pdftex.def Info: ./Figures/fig4-13.pdf used on input line 265.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
-[157 <./Figures/fig4-13.pdf>] <./Figures/fig4-14.pdf, id=2971, 397.485pt x 108.
+[157 <./Figures/fig4-13.pdf>] <./Figures/fig4-14.pdf, id=2986, 397.485pt x 108.
 405pt>
 File: ./Figures/fig4-14.pdf Graphic file (type pdf)
 <use ./Figures/fig4-14.pdf>
@@ -1639,19 +1635,13 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 292--319
 [][] 
  []
 
-[158] [159 <./Figures/fig4-14.pdf>] [160] <./Figures/fig4-15.pdf, id=3009, 397.
+[158] [159 <./Figures/fig4-14.pdf>] [160] <./Figures/fig4-15.pdf, id=3024, 397.
 485pt x 339.66899pt>
 File: ./Figures/fig4-15.pdf Graphic file (type pdf)
 <use ./Figures/fig4-15.pdf>
 Package pdftex.def Info: ./Figures/fig4-15.pdf used on input line 331.
 (pdftex.def)             Requested size: 397.48402pt x 339.66815pt.
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no “ in font cmr10!
-<./Figures/fig4-16.pdf, id=3015, 397.485pt x 252.945pt>
+<./Figures/fig4-16.pdf, id=3030, 397.485pt x 252.945pt>
 File: ./Figures/fig4-16.pdf Graphic file (type pdf)
 <use ./Figures/fig4-16.pdf>
 Package pdftex.def Info: ./Figures/fig4-16.pdf used on input line 341.
@@ -1721,7 +1711,7 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 352--364
 [][] 
  []
 
-<./Figures/fig4-17.pdf, id=3045, 397.485pt x 216.81pt>
+<./Figures/fig4-17.pdf, id=3060, 397.485pt x 216.81pt>
 File: ./Figures/fig4-17.pdf Graphic file (type pdf)
 <use ./Figures/fig4-17.pdf>
 Package pdftex.def Info: ./Figures/fig4-17.pdf used on input line 372.
@@ -1809,7 +1799,7 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 385--397
 [][] 
  []
 
-[164 <./Figures/fig4-17.pdf>] <./Figures/fig4-18.pdf, id=3068, 397.485pt x 361.
+[164 <./Figures/fig4-17.pdf>] <./Figures/fig4-18.pdf, id=3083, 397.485pt x 361.
 35pt>
 File: ./Figures/fig4-18.pdf Graphic file (type pdf)
 <use ./Figures/fig4-18.pdf>
@@ -1878,7 +1868,7 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 440--448
 [][] 
  []
 
-[167] <./Figures/fig4-19.pdf, id=3103, 397.485pt x 325.215pt>
+[167] <./Figures/fig4-19.pdf, id=3118, 397.485pt x 325.215pt>
 File: ./Figures/fig4-19.pdf Graphic file (type pdf)
 <use ./Figures/fig4-19.pdf>
 Package pdftex.def Info: ./Figures/fig4-19.pdf used on input line 456.
@@ -1886,7 +1876,7 @@ Package pdftex.def Info: ./Figures/fig4-19.pdf used on input line 456.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[168] <./Figures/fig4-21.pdf, id=3113, 397.485pt x 289.08pt>
+[168] <./Figures/fig4-21.pdf, id=3128, 397.485pt x 289.08pt>
 File: ./Figures/fig4-21.pdf Graphic file (type pdf)
 <use ./Figures/fig4-21.pdf>
 Package pdftex.def Info: ./Figures/fig4-21.pdf used on input line 466.
@@ -1983,7 +1973,7 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 497--508
 [][] 
  []
 
-[172] <./Figures/fig4-22.pdf, id=3160, 397.485pt x 361.35pt>
+[172] <./Figures/fig4-22.pdf, id=3175, 397.485pt x 361.35pt>
 File: ./Figures/fig4-22.pdf Graphic file (type pdf)
 <use ./Figures/fig4-22.pdf>
 Package pdftex.def Info: ./Figures/fig4-22.pdf used on input line 516.
@@ -2081,7 +2071,7 @@ embl / research / ftc-[]hypotheses$[]\OT1/cmr/m/n/12 . The project
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[181] <./Figures/fig4-23.pdf, id=3269, 397.485pt x 252.945pt>
+[181] <./Figures/fig4-23.pdf, id=3284, 397.485pt x 252.945pt>
 File: ./Figures/fig4-23.pdf Graphic file (type pdf)
 <use ./Figures/fig4-23.pdf>
 Package pdftex.def Info: ./Figures/fig4-23.pdf used on input line 637.
@@ -2096,7 +2086,7 @@ Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[185] <./Figures/fig5-1.pdf, id=3305, 397.485pt x 252.945pt>
+[185] <./Figures/fig5-1.pdf, id=3320, 397.485pt x 252.945pt>
 File: ./Figures/fig5-1.pdf Graphic file (type pdf)
 <use ./Figures/fig5-1.pdf>
 Package pdftex.def Info: ./Figures/fig5-1.pdf used on input line 11.
@@ -2108,9 +2098,6 @@ Missing character: There is no ™ in font cmr12!
 Missing character: There is no â in font cmr12!
 Missing character: There is no € in font cmr12!
 Missing character: There is no ™ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ¦ in font cmr12!
 [188]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2209,9 +2196,21 @@ Missing character: There is no € in font cmr12!
 Missing character: There is no ” in font cmr12!
 [205] [206] [207]) (./21Appendix.tex [208]
 Appendix A.
-) (./22Index.tex [209
+[209
 
-] [210
+] [210]
+Appendix B.
+[211
+
+] [212
+
+]
+Appendix C.
+[213] [214
+
+]
+Appendix D.
+) (./22Index.tex [215] [216
 
 ] (./thesis.ind))
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
@@ -2219,24 +2218,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 92A70E3437EF9D949AFDD2ACEB842B51;10512
-(rerunfilecheck)             After:  836BCB5B77EBF934A6ED5CF3B42EDFD0;10510.
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: F7C7951BCF4D28B9D06DF12F6AF116F1;10667.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 10155 strings out of 495031
- 157343 string characters out of 6181531
- 284567 words of memory out of 5000000
- 12505 multiletter control sequences out of 15000+600000
+ 10167 strings out of 495031
+ 157457 string characters out of 6181531
+ 284536 words of memory out of 5000000
+ 12508 multiletter control sequences out of 15000+600000
  15152 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,9n,41p,2957b,784s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2253,10 +2243,10 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (210 pages, 5268074 bytes).
+Output written on thesis.pdf (216 pages, 5273835 bytes).
 PDF statistics:
- 3695 PDF objects out of 4296 (max. 8388607)
- 3143 compressed objects within 32 object streams
- 610 named destinations out of 1000 (max. 500000)
- 1329 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3740 PDF objects out of 4296 (max. 8388607)
+ 3182 compressed objects within 32 object streams
+ 619 named destinations out of 1000 (max. 500000)
+ 1353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

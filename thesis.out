@@ -118,4 +118,7 @@
 \BOOKMARK [1][-]{section.5.3}{Biomedical knowledge: towards a simpler representation}{chapter.5}% 118
 \BOOKMARK [1][-]{section.5.4}{Off-label uses and clinical drug repositioning}{chapter.5}% 119
 \BOOKMARK [0][-]{chapter*.83}{Bibliography}{}% 120
-\BOOKMARK [0][-]{appendix.A}{Extra Information}{}% 121
+\BOOKMARK [0][-]{appendix.A}{Glossary}{}% 121
+\BOOKMARK [0][-]{appendix.B}{Abbreviations}{}% 122
+\BOOKMARK [0][-]{appendix.C}{Peer-reviewed publications}{}% 123
+\BOOKMARK [0][-]{appendix.D}{Side-projects}{}% 124

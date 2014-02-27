@@ -13,7 +13,7 @@
 \contentsline {subsection}{\numberline {1.3.3}Protein structure and molecular docking-based approaches}{32}{subsection.1.3.3}
 \contentsline {subsection}{\numberline {1.3.4}Phenotype and side-effect-based approaches}{34}{subsection.1.3.4}
 \contentsline {subsection}{\numberline {1.3.5}Genetic variation-based approaches}{37}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{38}{subsection.1.3.6}
+\contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{39}{subsection.1.3.6}
 \contentsline {subsection}{\numberline {1.3.7}Machine learning and concepts combination approaches}{41}{subsection.1.3.7}
 \contentsline {subsection}{\numberline {1.3.8}Summary}{43}{subsection.1.3.8}
 \contentsline {section}{\numberline {1.4}Thesis: biological process and molecular function for drug repositioning}{46}{section.1.4}

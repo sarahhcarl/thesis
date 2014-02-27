@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  22 FEB 2014 14:59
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  27 FEB 2014 18:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,8 +346,8 @@ Package: subfig 2005/06/28 ver: 1.3 subfig package
 \c@lotdepth=\count125
 \sf@top=\skip64
 \sf@bottom=\skip65
-)) (./02ThesisInfo.tex) (./03Abstract.tex) (./04Acknowledgments.tex) (./thesis.
-aux)
+)) (./02ThesisInfo.tex) (./03Abstract.tex) (./04Acknowledgments.tex)
+No file thesis.aux.
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -402,7 +402,6 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 16.
 LaTeX Info: Redefining \pageref on input line 16.
 LaTeX Info: Redefining \nameref on input line 16.
-(./thesis.out) (./thesis.out)
 \@outlinefile=\write4
 \openout4 = `thesis.out'.
 
@@ -410,7 +409,7 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: End \AtBeginDocument code.
 \cam@logo=\box35
-<CUni.pdf, id=502, 330.23375pt x 69.25874pt>
+<CUni.pdf, id=4, 330.23375pt x 69.25874pt>
 File: CUni.pdf Graphic file (type pdf)
 <use CUni.pdf>
 Package pdftex.def Info: CUni.pdf used on input line 18.
@@ -425,7 +424,7 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 18.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 \cam@collegeshieldbox=\box37
-<CollegeShields/Darwin.pdf, id=503, 146.7081pt x 173.448pt>
+<CollegeShields/Darwin.pdf, id=5, 146.7081pt x 173.448pt>
 File: CollegeShields/Darwin.pdf Graphic file (type pdf)
 <use CollegeShields/Darwin.pdf>
 Package pdftex.def Info: CollegeShields/Darwin.pdf used on input line 18.
@@ -451,466 +450,553 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 
 ] [7] [8
 
-] (./thesis.toc
-Overfull \hbox (12.1585pt too wide) in paragraph at lines 22--22
- [][] [][]\OT1/cmr/m/n/12 Chapter 2 - De-scrip-tion log-ics and biomed-i-cal kn
-owl- 
- []
-
-[9] [10] [11] [12])
+]
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
-[13] [14
+[9] [10
 
 ] (./11Chapter1.tex
 Chapter 1.
-[15
 
-] [16] [17] <./Figures/fig1-1.pdf, id=766, 397.485pt x 252.945pt>
+Package natbib Warning: Citation `prehistoricwiki' on page 11 undefined on inpu
+t line 17.
+
+[11
+
+]
+
+Package natbib Warning: Citation `dimasi2001new' on page 12 undefined on input 
+line 19.
+
+
+Package natbib Warning: Citation `barratt2012drug' on page 12 undefined on inpu
+t line 25.
+
+[12]
+
+Package natbib Warning: Citation `men20101' on page 13 undefined on input line 
+27.
+
+
+Package natbib Warning: Citation `ashburn2004drug' on page 13 undefined on inpu
+t line 27.
+
+
+Package natbib Warning: Citation `dudley2011exploiting' on page 13 undefined on
+ input line 27.
+
+
+Package natbib Warning: Citation `hurle2013computational' on page 13 undefined 
+on input line 27.
+
+
+Package natbib Warning: Citation `swinney2011were' on page 13 undefined on inpu
+t line 34.
+
+
+Package natbib Warning: Citation `prehistoricwiki' on page 13 undefined on inpu
+t line 36.
+
+
+LaTeX Warning: Reference `fig1-1' on page 13 undefined on input line 36.
+
+[13] <./Figures/fig1-1.pdf, id=95, 397.485pt x 252.945pt>
 File: ./Figures/fig1-1.pdf Graphic file (type pdf)
 <use ./Figures/fig1-1.pdf>
 Package pdftex.def Info: ./Figures/fig1-1.pdf used on input line 40.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig1-2.pdf, id=772, 397.485pt x 252.945pt>
+
+Package natbib Warning: Citation `barratt2012drug' on page 14 undefined on inpu
+t line 45.
+
+
+LaTeX Warning: Reference `fig1-2' on page 14 undefined on input line 45.
+
+<./Figures/fig1-2.pdf, id=98, 397.485pt x 252.945pt>
 File: ./Figures/fig1-2.pdf Graphic file (type pdf)
 <use ./Figures/fig1-2.pdf>
 Package pdftex.def Info: ./Figures/fig1-2.pdf used on input line 49.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[18 <./Figures/fig1-1.pdf>] [19 <./Figures/fig1-2.pdf>] [20] [21] <./Figures/fi
-g1-3.pdf, id=854, 397.485pt x 252.945pt>
+
+Package natbib Warning: Citation `ehrlichwiki' on page 14 undefined on input li
+ne 54.
+
+
+Package natbib Warning: Citation `paolini2006global' on page 14 undefined on in
+put line 54.
+
+
+Package natbib Warning: Citation `li2010pubchem' on page 14 undefined on input 
+line 54.
+
+[14 <./Figures/fig1-1.pdf>]
+
+LaTeX Warning: Reference `fig1-2' on page 15 undefined on input line 56.
+
+
+Package natbib Warning: Citation `hopkins2008network' on page 15 undefined on i
+nput line 56.
+
+
+Package natbib Warning: Citation `barabasi2004network' on page 15 undefined on 
+input line 56.
+
+[15 <./Figures/fig1-2.pdf>]
+
+Package natbib Warning: Citation `offlabelwiki' on page 16 undefined on input l
+ine 58.
+
+
+Package natbib Warning: Citation `ashburn2004drug' on page 16 undefined on inpu
+t line 65.
+
+
+Package natbib Warning: Citation `barratt2012drug' on page 16 undefined on inpu
+t line 65.
+
+[16]
+
+Package natbib Warning: Citation `anginanhs' on page 17 undefined on input line
+ 79.
+
+
+LaTeX Warning: Reference `fig1-3' on page 17 undefined on input line 79.
+
+
+Package natbib Warning: Citation `nytimes' on page 17 undefined on input line 7
+9.
+
+
+Package natbib Warning: Citation `renaud2002erectile' on page 17 undefined on i
+nput line 79.
+
+
+Package natbib Warning: Citation `renaud2002erectile' on page 17 undefined on i
+nput line 79.
+
+
+Package natbib Warning: Citation `ghofrani2006sildenafil' on page 17 undefined 
+on input line 79.
+
+
+Underfull \vbox (badness 7030) has occurred while \output is active []
+
+[17] <./Figures/fig1-3.pdf, id=146, 397.485pt x 252.945pt>
 File: ./Figures/fig1-3.pdf Graphic file (type pdf)
 <use ./Figures/fig1-3.pdf>
 Package pdftex.def Info: ./Figures/fig1-3.pdf used on input line 83.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[22] [23 <./Figures/fig1-3.pdf>] [24]
+
+Package natbib Warning: Citation `krall1988characterization' on page 18 undefin
+ed on input line 88.
+
+
+LaTeX Warning: Reference `fig1-3' on page 18 undefined on input line 92.
+
+
+Package natbib Warning: Citation `stephens2009dark' on page 18 undefined on inp
+ut line 92.
+
+
+LaTeX Warning: Reference `fig1-3' on page 18 undefined on input line 92.
+
+
+Package natbib Warning: Citation `stephens2009dark' on page 18 undefined on inp
+ut line 92.
+
+
+Package natbib Warning: Citation `barratt2012drug' on page 18 undefined on inpu
+t line 92.
+
+
+Package natbib Warning: Citation `ashburn2004drug' on page 18 undefined on inpu
+t line 92.
+
+
+Package natbib Warning: Citation `sampaio1991thalidomide' on page 18 undefined 
+on input line 92.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[18]
+Underfull \vbox (badness 6559) has occurred while \output is active []
+
+[19 <./Figures/fig1-3.pdf>]
+
+LaTeX Warning: Reference `fig1-3' on page 20 undefined on input line 96.
+
+
+Package natbib Warning: Citation `ashburn2004drug' on page 20 undefined on inpu
+t line 96.
+
+
+Package natbib Warning: Citation `jordan1987effects' on page 20 undefined on in
+put line 96.
+
+
+Package natbib Warning: Citation `black1994raloxifene' on page 20 undefined on 
+input line 96.
+
+
+Package natbib Warning: Citation `fdaraloxifen' on page 20 undefined on input l
+ine 96.
+
+[20]
 Overfull \hbox (19.20074pt too wide) in paragraph at lines 98--98
  |[]\OT1/cmr/bx/n/17.28 Computational ap-proaches to-wards drug repo-
  []
 
-[25] <./Figures/fig1-4.pdf, id=931, 397.485pt x 252.945pt>
+
+Package natbib Warning: Citation `ashburn2004drug' on page 21 undefined on inpu
+t line 101.
+
+
+Package natbib Warning: Citation `dudley2011exploiting' on page 21 undefined on
+ input line 101.
+
+
+Package natbib Warning: Citation `hurle2013computational' on page 21 undefined 
+on input line 101.
+
+
+LaTeX Warning: Reference `fig1-4' on page 21 undefined on input line 103.
+
+[21] <./Figures/fig1-4.pdf, id=185, 397.485pt x 252.945pt>
 File: ./Figures/fig1-4.pdf Graphic file (type pdf)
 <use ./Figures/fig1-4.pdf>
 Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 107.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `lipinski1997experimental' on page 22 undefine
+d on input line 113.
 
-[26 <./Figures/fig1-4.pdf>] [27] <./Figures/fig1-5.pdf, id=969, 397.485pt x 180
-.675pt>
+
+Package natbib Warning: Citation `johnson1990concepts' on page 22 undefined on 
+input line 113.
+
+
+Package natbib Warning: Citation `eckert2007molecular' on page 22 undefined on 
+input line 113.
+
+[22 <./Figures/fig1-4.pdf>]
+
+Package natbib Warning: Citation `noeske2006predicting' on page 23 undefined on
+ input line 115.
+
+
+Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
+ input line 117.
+
+
+Package natbib Warning: Citation `lounkine2012large' on page 23 undefined on in
+put line 117.
+
+
+LaTeX Warning: Reference `fig1-5' on page 23 undefined on input line 117.
+
+<./Figures/fig1-5.pdf, id=200, 397.485pt x 180.675pt>
 File: ./Figures/fig1-5.pdf Graphic file (type pdf)
 <use ./Figures/fig1-5.pdf>
 Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 121.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[28 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=997, 397.485pt x 252.945p
+
+Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
+ input line 122.
+
+
+Package natbib Warning: Citation `keiser2009predicting' on page 23 undefined on
+ input line 122.
+
+
+LaTeX Warning: Reference `fig1-5' on page 23 undefined on input line 126.
+
+
+Package natbib Warning: Citation `eckert2007molecular' on page 23 undefined on 
+input line 126.
+
+[23]
+
+LaTeX Warning: Reference `fig1-6' on page 24 undefined on input line 131.
+
+
+Package natbib Warning: Citation `lamb2006connectivity' on page 24 undefined on
+ input line 131.
+
+
+LaTeX Warning: Reference `fig1-6' on page 24 undefined on input line 131.
+
+[24 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=222, 397.485pt x 252.945p
 t>
 File: ./Figures/fig1-6.pdf Graphic file (type pdf)
 <use ./Figures/fig1-6.pdf>
 Package pdftex.def Info: ./Figures/fig1-6.pdf used on input line 135.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[29] [30 <./Figures/fig1-6.pdf>] [31] <./Figures/fig1-7.pdf, id=1052, 397.485pt
- x 209.58301pt>
+
+Package natbib Warning: Citation `iorio2010discovery' on page 25 undefined on i
+nput line 142.
+
+[25 <./Figures/fig1-6.pdf>]
+
+Package natbib Warning: Citation `sirota2011discovery' on page 26 undefined on 
+input line 144.
+
+
+Package natbib Warning: Citation `dudley2011computational' on page 26 undefined
+ on input line 144.
+
+
+Package natbib Warning: Citation `wei2006gene' on page 26 undefined on input li
+ne 146.
+
+
+Package natbib Warning: Citation `kunkel2011mrna' on page 26 undefined on input
+ line 146.
+
+[26]
+
+Package natbib Warning: Citation `cmap' on page 27 undefined on input line 150.
+
+
+
+Package natbib Warning: Citation `lamb2006connectivity' on page 27 undefined on
+ input line 150.
+
+
+Package natbib Warning: Citation `haupt2011old' on page 27 undefined on input l
+ine 154.
+
+
+LaTeX Warning: Reference `sec:opp' on page 27 undefined on input line 154.
+
+[27]
+
+Package natbib Warning: Citation `haupt2011old' on page 28 undefined on input l
+ine 156.
+
+
+LaTeX Warning: Reference `fig1-7' on page 28 undefined on input line 156.
+
+
+Package natbib Warning: Citation `de2010binding' on page 28 undefined on input 
+line 156.
+
+
+Package natbib Warning: Citation `de2010binding' on page 28 undefined on input 
+line 156.
+
+<./Figures/fig1-7.pdf, id=247, 397.485pt x 209.58301pt>
 File: ./Figures/fig1-7.pdf Graphic file (type pdf)
 <use ./Figures/fig1-7.pdf>
 Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 160.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[32]
-Underfull \vbox (badness 1783) has occurred while \output is active []
 
-[33 <./Figures/fig1-7.pdf>] [34] <./Figures/fig1-8.pdf, id=1110, 397.485pt x 14
-4.54pt>
+Package natbib Warning: Citation `zahler2007inverse' on page 28 undefined on in
+put line 165.
+
+[28 <./Figures/fig1-7.pdf>]
+
+Package natbib Warning: Citation `kinnings2009drug' on page 29 undefined on inp
+ut line 167.
+
+
+Package natbib Warning: Citation `wermuth2006selective' on page 29 undefined on
+ input line 167.
+
+
+Package natbib Warning: Citation `haupt2011old' on page 29 undefined on input l
+ine 169.
+
+
+Package natbib Warning: Citation `kruger2012mapping' on page 29 undefined on in
+put line 169.
+
+[29]
+
+Package natbib Warning: Citation `phenotypewiki' on page 30 undefined on input 
+line 174.
+
+
+Package natbib Warning: Citation `darwin2009origin' on page 30 undefined on inp
+ut line 174.
+
+
+Package natbib Warning: Citation `mendel1866versuche' on page 30 undefined on i
+nput line 174.
+
+
+LaTeX Warning: Reference `sec:opp' on page 30 undefined on input line 174.
+
+
+Package natbib Warning: Citation `swinney2011were' on page 30 undefined on inpu
+t line 174.
+
+
+Package natbib Warning: Citation `duran2012recycling' on page 30 undefined on i
+nput line 174.
+
+
+LaTeX Warning: Reference `fig1-8' on page 30 undefined on input line 176.
+
+<./Figures/fig1-8.pdf, id=268, 397.485pt x 144.54pt>
 File: ./Figures/fig1-8.pdf Graphic file (type pdf)
 <use ./Figures/fig1-8.pdf>
 Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 180.
 (pdftex.def)             Requested size: 397.48402pt x 144.53963pt.
 
-Underfull \vbox (badness 4279) has occurred while \output is active []
+Package natbib Warning: Citation `fliri2005analysis' on page 30 undefined on in
+put line 185.
 
-[35 <./Figures/fig1-8.pdf>] [36] [37] <./Figures/fig1-9.pdf, id=1178, 397.485pt
- x 252.945pt>
+
+Package natbib Warning: Citation `fliri2007analysis' on page 30 undefined on in
+put line 185.
+
+
+Package natbib Warning: Citation `campillos2008drug' on page 30 undefined on in
+put line 185.
+
+
+Package natbib Warning: Citation `bodenreider2004unified' on page 30 undefined 
+on input line 185.
+
+[30]
+
+Package natbib Warning: Citation `yang2011systematic' on page 31 undefined on i
+nput line 187.
+
+
+Package natbib Warning: Citation `kuhn2010side' on page 31 undefined on input l
+ine 187.
+
+
+Package natbib Warning: Citation `whirl2012pharmacogenomics' on page 31 undefin
+ed on input line 187.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[31 <./Figures/fig1-8.pdf>]
+
+Package natbib Warning: Citation `duran2012recycling' on page 32 undefined on i
+nput line 189.
+
+
+Package natbib Warning: Citation `hoehndorf2007representing' on page 32 undefin
+ed on input line 189.
+
+
+Package natbib Warning: Citation `hoehndorf2011phenomenet' on page 32 undefined
+ on input line 189.
+
+
+Package natbib Warning: Citation `sanseau2012use' on page 32 undefined on input
+ line 193.
+
+
+LaTeX Warning: Reference `fig1-9' on page 32 undefined on input line 193.
+
+
+Package natbib Warning: Citation `kathiresan2008six' on page 32 undefined on in
+put line 193.
+
+
+Package natbib Warning: Citation `franke2010genome' on page 32 undefined on inp
+ut line 193.
+
+
+Package natbib Warning: Citation `furberg2010genome' on page 32 undefined on in
+put line 193.
+
+[32] <./Figures/fig1-9.pdf, id=294, 397.485pt x 252.945pt>
 File: ./Figures/fig1-9.pdf Graphic file (type pdf)
 <use ./Figures/fig1-9.pdf>
 Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 197.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig1-10.pdf, id=1184, 397.485pt x 216.81pt>
+
+Package natbib Warning: Citation `sanseau2012use' on page 33 undefined on input
+ line 198.
+
+
+Package natbib Warning: Citation `sanseau2012use' on page 33 undefined on input
+ line 198.
+
+
+LaTeX Warning: Reference `fig1-10' on page 33 undefined on input line 206.
+
+[33] <./Figures/fig1-10.pdf, id=302, 397.485pt x 216.81pt>
 File: ./Figures/fig1-10.pdf Graphic file (type pdf)
 <use ./Figures/fig1-10.pdf>
 Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 210.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
-[38]
+
+Package natbib Warning: Citation `chiang2009systematic' on page 34 undefined on
+ input line 215.
+
+
+Package natbib Warning: Citation `li2009pathway' on page 34 undefined on input 
+line 216.
+
+
+Package natbib Warning: Citation `suthram2010network' on page 34 undefined on i
+nput line 217.
+
+
+Underfull \vbox (badness 1178) has occurred while \output is active []
+
+[34 <./Figures/fig1-9.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[39 <./Figures/fig1-9.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[40 <./Figures/fig1-10.pdf>]
+[35 <./Figures/fig1-10.pdf>]
 Overfull \hbox (22.88115pt too wide) in paragraph at lines 220--220
  |[]\OT1/cmr/bx/n/14.4 Machine learn-ing and con-cepts com-bi-na-tion ap-proach
 es| 
  []
 
-<./Figures/fig1-11.pdf, id=1228, 397.485pt x 202.356pt>
+
+LaTeX Warning: Reference `fig1-4' on page 36 undefined on input line 222.
+
+
+LaTeX Warning: Reference `fig1-11' on page 36 undefined on input line 222.
+
+<./Figures/fig1-11.pdf, id=329, 397.485pt x 202.356pt>
 File: ./Figures/fig1-11.pdf Graphic file (type pdf)
 <use ./Figures/fig1-11.pdf>
 Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 226.
 (pdftex.def)             Requested size: 397.48402pt x 202.3555pt.
-[41 <./Figures/fig1-11.pdf>] [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/bx/n/8 Biomedical
- []
 
+Package natbib Warning: Citation `gottlieb2011predict' on page 36 undefined on 
+input line 231.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/bx/n/8 Technical ad-van-
- []
 
+Package natbib Warning: Citation `lamb2006connectivity' on page 36 undefined on
+ input line 231.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Chemical
- []
+[36]
 
+Package natbib Warning: Citation `napolitano2013drug' on page 37 undefined on i
+nput line 233.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
- []
+[37 <./Figures/fig1-11.pdf>]
 
+Package natbib Warning: Citation `an2006large' on page 38 undefined on input li
+ne 241.
 
-Underfull \hbox (badness 4084) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 straigt-for-ward in-ter-pre-ta-tion,
- []
 
+LaTeX Warning: Reference `table1' on page 38 undefined on input line 244.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 struc-tures with un-known
- []
 
+LaTeX Warning: Reference `table2' on page 38 undefined on input line 244.
 
-Underfull \hbox (badness 4595) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 able to en-code and
- []
+[38]
 
+LaTeX Warning: Reference `fig1-13' on page 39 undefined on input line 285.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 search for chem-i-cal
- []
 
+Package natbib Warning: Citation `hopkins2008network' on page 39 undefined on i
+nput line 285.
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 struc-tures (fin-ger-
- []
-
-
-Underfull \hbox (badness 7221) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Prediction can have
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 weak bind-ing, not
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 nesse-cary phar-ma-co-
- []
-
-
-Underfull \hbox (badness 5954) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 changes made to a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 molec-u-lar struc-ture
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 can change a lot
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 the bi-o-log-i-cal out-
- []
-
-
-Underfull \hbox (badness 1590) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 i-fi-ca-tions by the cell
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 (pro-drugs), there-fore
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 orig-i-nal struc-ture is
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Gene ex-pres-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 expressed (sig-na-ture)
- []
-
-
-Underfull \hbox (badness 2680) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 is pos-si-ble to de-fine
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 states (CMap) and
- []
-
-
-Underfull \hbox (badness 1939) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 anal-yse their rel-a-tive
- []
-
-
-Underfull \hbox (badness 4819) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 the bi-o-log-i-cal func-tion, no
- []
-
-
-Underfull \hbox (badness 2635) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 pre-vi-ous knowl-edge re-quired
- []
-
-
-Underfull \hbox (badness 3884) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 ac-terise some states,
- []
-
-
-Underfull \hbox (badness 3386) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 as-pect can be over-
- []
-
-
-Underfull \hbox (badness 4647) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 leng-ing, CMap data
- []
-
-
-Underfull \hbox (badness 7081) in paragraph at lines 287--287
-[]|[]\OT1/cmr/m/n/8 Iorio et al.[] ([]2010[]),
- []
-
-
-Underfull \hbox (badness 2617) in paragraph at lines 287--287
-[]\OT1/cmr/m/n/8 Sirota et al.[] ([]2011[]),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]\OT1/cmr/m/n/8 Wei et al.[] ([]2006[]),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Computational mod-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
- []
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 straigt-for-ward in-ter-pre-ta-tion,
- []
-
-
-Underfull \hbox (badness 2253) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 can be used with chem-i-cal
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 struc-tures with un-known
- []
-
-
-Underfull \hbox (badness 3428) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Predicting a bind-ing
- []
-
-
-Underfull \hbox (badness 1117) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 high num-ber of false
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Structural databases
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 are not com-plete,
- []
-
-
-Underfull \hbox (badness 3930) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 not all pro-teins are
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|[]\OT1/cmr/m/n/8 Ashburner et al.[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 ([]2000[]), []Haupt and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 Schroeder[] ([]2011[]),
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]\OT1/cmr/m/n/8 De Franchi et al.[]
- []
-
-
-Underfull \hbox (badness 1442) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 ([]2010[]), []Zahler et al.[]
- []
-
-
-Overfull \hbox (60.16956pt too wide) in paragraph at lines 287--287
- [][] 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[44
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/bx/n/8 Biomedical
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/bx/n/8 Technical ad-van-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 in-for-ma-tion al-ready
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 ev-ery-day, de-creas-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Does not pro-vide
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|[]\OT1/cmr/m/n/8 Chiang and Butte[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 learning al-go-rithm
- []
-
-
-Underfull \hbox (badness 1642) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 from a se-ries of de-
- []
-
-
-Underfull \hbox (badness 1635) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 men-sions, pro-vid-ing a more
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Numerous machine-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 learning pro-gram
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 and method-olo-gies
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Biological in-ter-pre-
- []
-
-
-Underfull \hbox (badness 3049) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 ta-tion di-fi-cult (black
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]\OT1/cmr/m/n/8 Napoli-tano et al.[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Formal rep-re-sen-ta-
- []
-
-
-Underfull \hbox (badness 3849) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Systemic char-ac-ter-i-sa-tion of
- []
-
-
-Underfull \hbox (badness 2653) in paragraph at lines 287--287
-[]|\OT1/cmr/m/n/8 Predictions can have
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 weak bind-ing, not
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
-\OT1/cmr/m/n/8 nesse-cary phar-ma-co-
- []
-
-
-Overfull \hbox (60.16956pt too wide) in paragraph at lines 287--287
- [][] 
- []
-
-[45
-
-
-
-
-] <./Figures/fig1-13.pdf, id=1324, 397.485pt x 195.129pt>
+<./Figures/fig1-13.pdf, id=354, 397.485pt x 195.129pt>
 File: ./Figures/fig1-13.pdf Graphic file (type pdf)
 <use ./Figures/fig1-13.pdf>
 Package pdftex.def Info: ./Figures/fig1-13.pdf used on input line 290.
@@ -920,38 +1006,485 @@ Overfull \hbox (13.50677pt too wide) in paragraph at lines 296--296
  |[]\OT1/cmr/bx/n/17.28 Thesis: bi-o-log-i-cal pro-cess and molec-u-lar func-
  []
 
-[46
+
+LaTeX Warning: Reference `approaches' on page 39 undefined on input line 298.
 
 
- <./Figures/fig1-13.pdf>] <./Figures/fig1-12.pdf, id=1345, 397.485pt x 252.945p
-t>
+LaTeX Warning: Reference `expression' on page 39 undefined on input line 298.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[39 <./Figures/fig1-13.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/bx/n/8 Biomedical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/bx/n/8 Technical ad-van-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Chemical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 struc-tures with un-known
+ []
+
+
+Underfull \hbox (badness 2435) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Fast al-go-rithm avail-
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 able to en-code and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 search for chem-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 struc-tures (fin-ger-
+ []
+
+
+Underfull \hbox (badness 7221) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Prediction can have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 weak bind-ing, not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 nec-es-sary phar-ma-co-
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 changes made to a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 molec-u-lar struc-ture
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 can change a lot
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 the bi-o-log-i-cal out-
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 i-fi-ca-tions by the cell
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 (pro-drugs), there-fore
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 orig-i-nal struc-ture is
+ []
+
+
+Package natbib Warning: Citation `noeske2006predicting' on page 40 undefined on
+ input line 299.
+
+
+Package natbib Warning: Citation `keiser2009predicting' on page 40 undefined on
+ input line 299.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Gene ex-pres-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 expressed (sig-na-ture)
+ []
+
+
+Underfull \hbox (badness 2680) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 is pos-si-ble to de-fine
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 states (CMap) and
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 anal-yse their rel-a-tive
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 the bi-o-log-i-cal func-tion, no
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 pre-vi-ous knowl-edge re-quired
+ []
+
+
+Underfull \hbox (badness 3884) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 ac-terise some states,
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 as-pect can be over-
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 leng-ing, CMap data
+ []
+
+
+Package natbib Warning: Citation `iorio2010discovery' on page 40 undefined on i
+nput line 299.
+
+
+Package natbib Warning: Citation `sirota2011discovery' on page 40 undefined on 
+input line 299.
+
+
+Package natbib Warning: Citation `dudley2011computational' on page 40 undefined
+ on input line 299.
+
+
+Package natbib Warning: Citation `wei2006gene' on page 40 undefined on input li
+ne 299.
+
+
+Package natbib Warning: Citation `kunkel2011mrna' on page 40 undefined on input
+ line 299.
+
+
+Package natbib Warning: Citation `lamb2006connectivity' on page 40 undefined on
+ input line 299.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Computational mod-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 can be used with chem-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 struc-tures with un-known
+ []
+
+
+Underfull \hbox (badness 3428) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Predicting a bind-ing
+ []
+
+
+Underfull \hbox (badness 1117) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 high num-ber of false
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Structural databases
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 are not com-plete,
+ []
+
+
+Underfull \hbox (badness 3930) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 not all pro-teins are
+ []
+
+
+Package natbib Warning: Citation `ashburner2000gene' on page 40 undefined on in
+put line 299.
+
+
+Package natbib Warning: Citation `haupt2011old' on page 40 undefined on input l
+ine 299.
+
+
+Package natbib Warning: Citation `de2010binding' on page 40 undefined on input 
+line 299.
+
+
+Package natbib Warning: Citation `zahler2007inverse' on page 40 undefined on in
+put line 299.
+
+
+Package natbib Warning: Citation `kinnings2009drug' on page 40 undefined on inp
+ut line 299.
+
+
+Overfull \hbox (60.16956pt too wide) in paragraph at lines 299--299
+ [][] 
+ []
+
+[40
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/bx/n/8 Biomedical
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/bx/n/8 Technical ad-van-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 in-for-ma-tion al-ready
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 ev-ery-day, de-creas-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Does not pro-vide
+ []
+
+
+Package natbib Warning: Citation `sanseau2012use' on page 41 undefined on input
+ line 299.
+
+
+Package natbib Warning: Citation `chiang2009systematic' on page 41 undefined on
+ input line 299.
+
+
+Package natbib Warning: Citation `li2009pathway' on page 41 undefined on input 
+line 299.
+
+
+Package natbib Warning: Citation `suthram2010network' on page 41 undefined on i
+nput line 299.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 learning al-go-rithm
+ []
+
+
+Underfull \hbox (badness 1642) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 from a se-ries of de-
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 men-sions, pro-vid-ing a more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Numerous machine-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 learning pro-gram
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 and method-olo-gies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Biological in-ter-pre-ta-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 tion dif-fi-cult (black
+ []
+
+
+Package natbib Warning: Citation `gottlieb2011predict' on page 41 undefined on 
+input line 299.
+
+
+Package natbib Warning: Citation `napolitano2013drug' on page 41 undefined on i
+nput line 299.
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Formal rep-re-sen-ta-tion
+ []
+
+
+Underfull \hbox (badness 3849) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Systemic char-ac-ter-i-sa-tion of
+ []
+
+
+Underfull \hbox (badness 2653) in paragraph at lines 299--299
+[]|\OT1/cmr/m/n/8 Predictions can have
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 weak bind-ing, not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--299
+\OT1/cmr/m/n/8 nec-es-sary phar-ma-co-
+ []
+
+
+Package natbib Warning: Citation `croset2013functional' on page 41 undefined on
+ input line 299.
+
+
+Overfull \hbox (60.16956pt too wide) in paragraph at lines 299--299
+ [][] 
+ []
+
+[41
+
+
+
+
+]
+
+LaTeX Warning: Reference `sec:opp' on page 42 undefined on input line 306.
+
+
+LaTeX Warning: Reference `fig1-12' on page 42 undefined on input line 308.
+
+[42
+
+
+] <./Figures/fig1-12.pdf, id=389, 397.485pt x 252.945pt>
 File: ./Figures/fig1-12.pdf Graphic file (type pdf)
 <use ./Figures/fig1-12.pdf>
 Package pdftex.def Info: ./Figures/fig1-12.pdf used on input line 312.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[47]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[48 <./Figures/fig1-12.pdf>] [49]
+Package natbib Warning: Citation `hypertensionnhs' on page 43 undefined on inpu
+t line 317.
+
+
+Package natbib Warning: Citation `ong2007prevalence' on page 43 undefined on in
+put line 317.
+
+[43 <./Figures/fig1-12.pdf>]
+
+Package natbib Warning: Citation `ashburner2000gene' on page 44 undefined on in
+put line 319.
+
+
+LaTeX Warning: Reference `fig1-12' on page 44 undefined on input line 322.
+
+[44]
+
+LaTeX Warning: Reference `fig1-12' on page 45 undefined on input line 324.
+
+
 Overfull \hbox (5.73087pt too wide) in paragraph at lines 328--328
  |[]\OT1/cmr/bx/n/12 Chapter 2 - De-scrip-tion log-ics and biomed-i-cal knowl-e
 dge (Spec-
  []
 
-[50]) (./12Chapter2.tex [51] [52
+[45]) (./12Chapter2.tex [46]
+Chapter 2.
+[47
 
 ]
-Chapter 2.
-[53] [54] <./Figures/fig2-1.pdf, id=1416, 397.485pt x 180.675pt>
+
+Package natbib Warning: Citation `croset2013brain' on page 48 undefined on inpu
+t line 14.
+
+
+Package natbib Warning: Citation `sciencewiki' on page 48 undefined on input li
+ne 20.
+
+
+Package natbib Warning: Citation `brooksbank2014european' on page 48 undefined 
+on input line 20.
+
+[48]
+
+Package natbib Warning: Citation `antezana2009biological' on page 49 undefined 
+on input line 26.
+
+<./Figures/fig2-1.pdf, id=439, 397.485pt x 180.675pt>
 File: ./Figures/fig2-1.pdf Graphic file (type pdf)
 <use ./Figures/fig2-1.pdf>
 Package pdftex.def Info: ./Figures/fig2-1.pdf used on input line 36.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[55]
-Underfull \vbox (badness 1540) has occurred while \output is active []
+[49]
 
-[56 <./Figures/fig2-1.pdf>] <./Figures/fig2-2.pdf, id=1448, 397.485pt x 289.08p
-t>
+Package natbib Warning: Citation `le2006biomodels' on page 50 undefined on inpu
+t line 45.
+
+
+Package natbib Warning: Citation `nielsen1999ultratrace' on page 50 undefined o
+n input line 45.
+
+
+Underfull \vbox (badness 3657) has occurred while \output is active []
+
+[50 <./Figures/fig2-1.pdf>]
+
+Package natbib Warning: Citation `lazebnik2002can' on page 51 undefined on inpu
+t line 47.
+
+
+LaTeX Warning: Reference `fig2-1' on page 51 undefined on input line 47.
+
+
+LaTeX Warning: Reference `fig2-2' on page 51 undefined on input line 47.
+
+<./Figures/fig2-2.pdf, id=464, 397.485pt x 289.08pt>
 File: ./Figures/fig2-2.pdf Graphic file (type pdf)
 <use ./Figures/fig2-2.pdf>
 Package pdftex.def Info: ./Figures/fig2-2.pdf used on input line 51.
@@ -960,14 +1493,45 @@ Missing character: There is no ¬ in font cmr10!
 Missing character: There is no † in font cmr10!
 Missing character: There is no ¬ in font cmr10!
 Missing character: There is no † in font cmr10!
-[57 <./Figures/fig2-2.pdf>] <./Figures/fig2-3.pdf, id=1474, 397.485pt x 108.405
-pt>
+
+Package natbib Warning: Citation `brooksbank2014european' on page 51 undefined 
+on input line 56.
+
+[51 <./Figures/fig2-2.pdf>]
+
+Package natbib Warning: Citation `lazebnik2002can' on page 52 undefined on inpu
+t line 58.
+
+
+LaTeX Warning: Reference `fig2-3' on page 52 undefined on input line 58.
+
+<./Figures/fig2-3.pdf, id=482, 397.485pt x 108.405pt>
 File: ./Figures/fig2-3.pdf Graphic file (type pdf)
 <use ./Figures/fig2-3.pdf>
 Package pdftex.def Info: ./Figures/fig2-3.pdf used on input line 62.
 (pdftex.def)             Requested size: 397.48402pt x 108.40472pt.
-[58 <./Figures/fig2-3.pdf>] <./Figures/fig2-4.pdf, id=1496, 397.485pt x 433.62p
-t>
+[52 <./Figures/fig2-3.pdf>]
+
+Package natbib Warning: Citation `lazebnik2002can' on page 53 undefined on inpu
+t line 73.
+
+
+Package natbib Warning: Citation `lazebnik2002can' on page 53 undefined on inpu
+t line 75.
+
+
+LaTeX Warning: Reference `fig2-4' on page 53 undefined on input line 77.
+
+
+LaTeX Warning: Reference `fig2-4' on page 53 undefined on input line 77.
+
+
+LaTeX Warning: Reference `fig2-4' on page 53 undefined on input line 77.
+
+
+LaTeX Warning: Reference `fig2-4' on page 53 undefined on input line 77.
+
+<./Figures/fig2-4.pdf, id=497, 397.485pt x 433.62pt>
 File: ./Figures/fig2-4.pdf Graphic file (type pdf)
 <use ./Figures/fig2-4.pdf>
 Package pdftex.def Info: ./Figures/fig2-4.pdf used on input line 81.
@@ -975,112 +1539,484 @@ Package pdftex.def Info: ./Figures/fig2-4.pdf used on input line 81.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[59] [60 <./Figures/fig2-4.pdf>] [61] [62] <./Figures/fig2-5.pdf, id=1545, 397.
-485pt x 180.675pt>
+[53] [54 <./Figures/fig2-4.pdf>] [55]
+
+Package natbib Warning: Citation `Form_and_function_2013' on page 56 undefined 
+on input line 104.
+
+
+LaTeX Warning: Reference `fig2-5' on page 56 undefined on input line 109.
+
+
+Package natbib Warning: Citation `hartwell1999molecular' on page 56 undefined o
+n input line 109.
+
+
+Package natbib Warning: Citation `ravasz2002hierarchical' on page 56 undefined 
+on input line 109.
+
+
+Package natbib Warning: Citation `machado2011modeling' on page 56 undefined on 
+input line 109.
+
+
+Package natbib Warning: Citation `fisher2007executable' on page 56 undefined on
+ input line 109.
+
+[56]
+
+Package natbib Warning: Citation `von1770systema' on page 57 undefined on input
+ line 111.
+
+<./Figures/fig2-5.pdf, id=530, 397.485pt x 180.675pt>
 File: ./Figures/fig2-5.pdf Graphic file (type pdf)
 <use ./Figures/fig2-5.pdf>
 Package pdftex.def Info: ./Figures/fig2-5.pdf used on input line 115.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[63 <./Figures/fig2-5.pdf>] [64] [65] <./Figures/fig2-6.pdf, id=1595, 397.485pt
- x 144.54pt>
+
+Package natbib Warning: Citation `rubewiki' on page 57 undefined on input line 
+116.
+
+
+Package natbib Warning: Citation `ravasz2002hierarchical' on page 57 undefined 
+on input line 116.
+
+
+Package natbib Warning: Citation `rubewiki' on page 57 undefined on input line 
+116.
+
+
+Package natbib Warning: Citation `ravasz2002hierarchical' on page 57 undefined 
+on input line 116.
+
+[57 <./Figures/fig2-5.pdf>]
+
+Package natbib Warning: Citation `meng2004modeling' on page 58 undefined on inp
+ut line 128.
+
+
+Package natbib Warning: Citation `masswiki' on page 58 undefined on input line 
+128.
+
+
+Package natbib Warning: Citation `thermowiki' on page 58 undefined on input lin
+e 128.
+
+
+Package natbib Warning: Citation `meng2004modeling' on page 58 undefined on inp
+ut line 128.
+
+[58]
+
+Package natbib Warning: Citation `allen1982s' on page 59 undefined on input lin
+e 134.
+
+
+Package natbib Warning: Citation `gruber2009encyclopedia' on page 59 undefined 
+on input line 138.
+
+
+LaTeX Warning: Reference `fig2-6' on page 59 undefined on input line 138.
+
+
+LaTeX Warning: Reference `reqmath' on page 59 undefined on input line 138.
+
+
+LaTeX Warning: Reference `reqdef' on page 59 undefined on input line 138.
+
+
+LaTeX Warning: Reference `reqhie' on page 59 undefined on input line 138.
+
+[59] <./Figures/fig2-6.pdf, id=552, 397.485pt x 144.54pt>
 File: ./Figures/fig2-6.pdf Graphic file (type pdf)
 <use ./Figures/fig2-6.pdf>
 Package pdftex.def Info: ./Figures/fig2-6.pdf used on input line 142.
 (pdftex.def)             Requested size: 397.48402pt x 144.53963pt.
-[66 <./Figures/fig2-6.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[67] <./Figures/fig2-7.pdf, id=1630, 397.485pt x 238.49101pt>
+Package natbib Warning: Citation `stevens2007using' on page 60 undefined on inp
+ut line 147.
+
+
+Package natbib Warning: Citation `krotzsch2012owl' on page 60 undefined on inpu
+t line 147.
+
+
+Package natbib Warning: Citation `hitzler2009owl' on page 60 undefined on input
+ line 147.
+
+
+LaTeX Warning: Reference `fig2-6' on page 60 undefined on input line 147.
+
+
+LaTeX Warning: Reference `reqscale' on page 60 undefined on input line 149.
+
+[60 <./Figures/fig2-6.pdf>]
+
+Package natbib Warning: Citation `kim2008temporal' on page 61 undefined on inpu
+t line 151.
+
+
+LaTeX Warning: Reference `reqdyn' on page 61 undefined on input line 151.
+
+
+LaTeX Warning: Reference `fig2-7' on page 61 undefined on input line 158.
+
+<./Figures/fig2-7.pdf, id=566, 397.485pt x 238.49101pt>
 File: ./Figures/fig2-7.pdf Graphic file (type pdf)
 <use ./Figures/fig2-7.pdf>
 Package pdftex.def Info: ./Figures/fig2-7.pdf used on input line 162.
 (pdftex.def)             Requested size: 397.48402pt x 238.49042pt.
-[68 <./Figures/fig2-7.pdf>] [69] [70] <./Figures/fig2-8.pdf, id=1694, 397.485pt
- x 180.675pt>
+
+LaTeX Warning: Reference `fig2-7' on page 61 undefined on input line 167.
+
+
+LaTeX Warning: Reference `fig2-7' on page 61 undefined on input line 167.
+
+
+Package natbib Warning: Citation `krotzsch2012owl' on page 61 undefined on inpu
+t line 167.
+
+
+Package natbib Warning: Citation `turing1950computing' on page 61 undefined on 
+input line 167.
+
+
+Package natbib Warning: Citation `neumann1966theory' on page 61 undefined on in
+put line 167.
+
+
+Package natbib Warning: Citation `computationalprop' on page 61 undefined on in
+put line 167.
+
+
+Package natbib Warning: Citation `ter2005completeness' on page 61 undefined on 
+input line 167.
+
+
+Package natbib Warning: Citation `baader2005pushing' on page 61 undefined on in
+put line 167.
+
+
+Package natbib Warning: Citation `baader2008pushing' on page 61 undefined on in
+put line 167.
+
+
+Package natbib Warning: Citation `hoehndorf2011common' on page 61 undefined on 
+input line 167.
+
+
+Package natbib Warning: Citation `cobham1965intrinsic' on page 61 undefined on 
+input line 167.
+
+[61] [62 <./Figures/fig2-7.pdf>]
+
+Package natbib Warning: Citation `meng2004modeling' on page 63 undefined on inp
+ut line 169.
+
+
+Package natbib Warning: Citation `gillespie2007stochastic' on page 63 undefined
+ on input line 169.
+
+
+LaTeX Warning: Reference `complexity' on page 63 undefined on input line 173.
+
+
+Package natbib Warning: Citation `owlw3c' on page 63 undefined on input line 17
+3.
+
+[63]
+
+Package natbib Warning: Citation `ontologywiki' on page 64 undefined on input l
+ine 179.
+
+[64] <./Figures/fig2-8.pdf, id=599, 397.485pt x 180.675pt>
 File: ./Figures/fig2-8.pdf Graphic file (type pdf)
 <use ./Figures/fig2-8.pdf>
 Package pdftex.def Info: ./Figures/fig2-8.pdf used on input line 197.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[71 <./Figures/fig2-8.pdf>] [72] <./Figures/fig2-9.pdf, id=1712, 397.485pt x 20
-9.58301pt>
+[65 <./Figures/fig2-8.pdf>] [66] <./Figures/fig2-9.pdf, id=618, 397.485pt x 209
+.58301pt>
 File: ./Figures/fig2-9.pdf Graphic file (type pdf)
 <use ./Figures/fig2-9.pdf>
 Package pdftex.def Info: ./Figures/fig2-9.pdf used on input line 230.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[73] <./Figures/fig2-10.pdf, id=1719, 397.485pt x 209.58301pt>
+
+Underfull \vbox (badness 1824) has occurred while \output is active []
+
+[67 <./Figures/fig2-9.pdf>] <./Figures/fig2-10.pdf, id=641, 397.485pt x 209.583
+01pt>
 File: ./Figures/fig2-10.pdf Graphic file (type pdf)
 <use ./Figures/fig2-10.pdf>
 Package pdftex.def Info: ./Figures/fig2-10.pdf used on input line 251.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[74 <./Figures/fig2-9.pdf>] [75 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf
-, id=1776, 397.485pt x 325.215pt>
+[68] [69 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf, id=682, 397.485pt x 3
+25.215pt>
 File: ./Figures/fig2-11.pdf Graphic file (type pdf)
 <use ./Figures/fig2-11.pdf>
 Package pdftex.def Info: ./Figures/fig2-11.pdf used on input line 270.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
+Package natbib Warning: Citation `ashburner2000gene' on page 70 undefined on in
+put line 271.
+
+
+Package natbib Warning: Citation `ashburner2000gene' on page 70 undefined on in
+put line 271.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[76] [77 <./Figures/fig2-11.pdf>] <./Figures/fig2-12.pdf, id=1806, 397.485pt x 
-289.08pt>
+[70] [71 <./Figures/fig2-11.pdf>] <./Figures/fig2-12.pdf, id=709, 397.485pt x 2
+89.08pt>
 File: ./Figures/fig2-12.pdf Graphic file (type pdf)
 <use ./Figures/fig2-12.pdf>
 Package pdftex.def Info: ./Figures/fig2-12.pdf used on input line 282.
 (pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
-[78 <./Figures/fig2-12.pdf>] <./Figures/fig2-13.pdf, id=1842, 397.485pt x 180.6
-75pt>
+
+Package natbib Warning: Citation `gorels' on page 72 undefined on input line 28
+3.
+
+
+Package natbib Warning: Citation `gorels' on page 72 undefined on input line 28
+3.
+
+[72 <./Figures/fig2-12.pdf>]
+
+LaTeX Warning: Reference `intersection' on page 73 undefined on input line 291.
+
+
+<./Figures/fig2-13.pdf, id=740, 397.485pt x 180.675pt>
 File: ./Figures/fig2-13.pdf Graphic file (type pdf)
 <use ./Figures/fig2-13.pdf>
 Package pdftex.def Info: ./Figures/fig2-13.pdf used on input line 295.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[79 <./Figures/fig2-13.pdf>] [80]
+
+LaTeX Warning: Reference `exists' on page 73 undefined on input line 300.
+
+[73 <./Figures/fig2-13.pdf>]
+
+Package natbib Warning: Citation `krotzsch2012owl' on page 74 undefined on inpu
+t line 302.
+
+
+Package natbib Warning: Citation `owlw3c' on page 74 undefined on input line 30
+5.
+
+
+Package natbib Warning: Citation `berners2001semantic' on page 74 undefined on 
+input line 305.
+
+[74]
 Overfull \hbox (6.71275pt too wide) in paragraph at lines 309--309
  |[]\OT1/cmr/bx/n/17.28 Implementation with life-science in-for-ma-tion| 
  []
 
-[81] <./Figures/fig2-14.pdf, id=1888, 397.485pt x 325.215pt>
+
+Package natbib Warning: Citation `ashburner2000gene' on page 75 undefined on in
+put line 317.
+
+
+Package natbib Warning: Citation `obofoundry' on page 75 undefined on input lin
+e 317.
+
+
+LaTeX Warning: Reference `fig2-14' on page 75 undefined on input line 317.
+
+[75] <./Figures/fig2-14.pdf, id=776, 397.485pt x 325.215pt>
 File: ./Figures/fig2-14.pdf Graphic file (type pdf)
 <use ./Figures/fig2-14.pdf>
 Package pdftex.def Info: ./Figures/fig2-14.pdf used on input line 321.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
-[82 <./Figures/fig2-14.pdf>] [83] [84] [85] [86]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[87] <./Figures/fig2-15.pdf, id=2000, 397.485pt x 361.35pt>
+Package natbib Warning: Citation `tirmizi2011mapping' on page 76 undefined on i
+nput line 326.
+
+
+Package natbib Warning: Citation `hoehndorf2010relations' on page 76 undefined 
+on input line 326.
+
+[76 <./Figures/fig2-14.pdf>]
+
+Package natbib Warning: Citation `krotzsch2012owl' on page 77 undefined on inpu
+t line 328.
+
+
+Package natbib Warning: Citation `schulz2013formal' on page 77 undefined on inp
+ut line 332.
+
+[77]
+
+Package natbib Warning: Citation `schulz2013formal' on page 78 undefined on inp
+ut line 334.
+
+
+Package natbib Warning: Citation `schulz2013formal' on page 78 undefined on inp
+ut line 334.
+
+
+Package natbib Warning: Citation `krotzsch2012owl' on page 78 undefined on inpu
+t line 334.
+
+
+Package natbib Warning: Citation `hanage2013fuzzy' on page 78 undefined on inpu
+t line 334.
+
+
+Package natbib Warning: Citation `hanage2013fuzzy' on page 78 undefined on inpu
+t line 334.
+
+
+Package natbib Warning: Citation `disjointw3c' on page 78 undefined on input li
+ne 334.
+
+
+Package natbib Warning: Citation `dreger1998ambiguous' on page 78 undefined on 
+input line 334.
+
+[78]
+
+Package natbib Warning: Citation `hoehndorf2011common' on page 79 undefined on 
+input line 340.
+
+
+Package natbib Warning: Citation `vempati2012formalization' on page 79 undefine
+d on input line 340.
+
+
+Package natbib Warning: Citation `golbreich2006foundational' on page 79 undefin
+ed on input line 340.
+
+
+Package natbib Warning: Citation `mungall2010integrating' on page 79 undefined 
+on input line 340.
+
+
+Package natbib Warning: Citation `mungall2011cross' on page 79 undefined on inp
+ut line 340.
+
+
+Package natbib Warning: Citation `villanueva2008yowl' on page 79 undefined on i
+nput line 340.
+
+
+Package natbib Warning: Citation `ashburner2000gene' on page 79 undefined on in
+put line 343.
+
+[79]
+
+Package natbib Warning: Citation `littlesemantics' on page 80 undefined on inpu
+t line 344.
+
+
+Package natbib Warning: Citation `brooksbank2014european' on page 80 undefined 
+on input line 349.
+
+
+Package natbib Warning: Citation `gaulton2012chembl' on page 80 undefined on in
+put line 349.
+
+
+Package natbib Warning: Citation `uniprot2013update' on page 80 undefined on in
+put line 349.
+
+
+Package natbib Warning: Citation `jupp2012logical' on page 80 undefined on inpu
+t line 351.
+
+[80]
+
+LaTeX Warning: Reference `coredl' on page 81 undefined on input line 353.
+
+
+Package natbib Warning: Citation `knublauch2005protege' on page 81 undefined on
+ input line 357.
+
+
+Package natbib Warning: Citation `horridge2011owl' on page 81 undefined on inpu
+t line 357.
+
+
+Package natbib Warning: Citation `croset2013brain' on page 81 undefined on inpu
+t line 357.
+
+
+Package natbib Warning: Citation `horridge2006manchester' on page 81 undefined 
+on input line 357.
+
+[81] <./Figures/fig2-15.pdf, id=816, 397.485pt x 361.35pt>
 File: ./Figures/fig2-15.pdf Graphic file (type pdf)
 <use ./Figures/fig2-15.pdf>
 Package pdftex.def Info: ./Figures/fig2-15.pdf used on input line 361.
 (pdftex.def)             Requested size: 397.48402pt x 361.34912pt.
-[88] <./Figures/fig2-16.pdf, id=2019, 397.485pt x 317.98799pt>
+
+Package natbib Warning: Citation `kazakov2013incredible' on page 82 undefined o
+n input line 366.
+
+
+Package natbib Warning: Citation `gonccalves2013owl' on page 82 undefined on in
+put line 366.
+
+
+Package natbib Warning: Citation `stevens2007using' on page 82 undefined on inp
+ut line 366.
+
+
+Package natbib Warning: Citation `lord2013semantic' on page 82 undefined on inp
+ut line 366.
+
+<./Figures/fig2-16.pdf, id=817, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-16.pdf Graphic file (type pdf)
 <use ./Figures/fig2-16.pdf>
 Package pdftex.def Info: ./Figures/fig2-16.pdf used on input line 370.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
-<./Figures/fig2-17.pdf, id=2020, 397.485pt x 317.98799pt>
+[82] <./Figures/fig2-17.pdf, id=822, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-17.pdf Graphic file (type pdf)
 <use ./Figures/fig2-17.pdf>
 Package pdftex.def Info: ./Figures/fig2-17.pdf used on input line 377.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
+[83 <./Figures/fig2-15.pdf>]
+Underfull \vbox (badness 6063) has occurred while \output is active []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[89 <./Figures/fig2-15.pdf>]
-Underfull \vbox (badness 1910) has occurred while \output is active []
-
-[90 <./Figures/fig2-16.pdf>]
-Underfull \vbox (badness 6725) has occurred while \output is active []
-
-[91 <./Figures/fig2-17.pdf>] <./Figures/fig2-18.pdf, id=2083, 397.485pt x 216.8
-1pt>
+[84 <./Figures/fig2-16.pdf>] <./Figures/fig2-18.pdf, id=875, 397.485pt x 216.81
+pt>
 File: ./Figures/fig2-18.pdf Graphic file (type pdf)
 <use ./Figures/fig2-18.pdf>
 Package pdftex.def Info: ./Figures/fig2-18.pdf used on input line 390.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
-) (./13Chapter3.tex [92 <./Figures/fig2-18.pdf>]
+) (./13Chapter3.tex [85 <./Figures/fig2-17.pdf>] [86 <./Figures/fig2-18.pdf>]
 Chapter 3.
-[93
+[87
 
-] [94] <./Figures/fig3-1.pdf, id=2121, 397.485pt x 252.945pt>
+]
+
+Package natbib Warning: Citation `croset2013functional' on page 88 undefined on
+ input line 14.
+
+
+Package natbib Warning: Citation `sanseau2011editorial' on page 88 undefined on
+ input line 21.
+
+
+Package natbib Warning: Citation `medina2013shifting' on page 88 undefined on i
+nput line 21.
+
+
+Package natbib Warning: Citation `haupt2011old' on page 88 undefined on input l
+ine 23.
+
+
+Package natbib Warning: Citation `iorio2010discovery' on page 88 undefined on i
+nput line 23.
+
+
+Package natbib Warning: Citation `campillos2008drug' on page 88 undefined on in
+put line 23.
+
+[88]
+
+LaTeX Warning: Reference `fig3-1' on page 89 undefined on input line 25.
+
+<./Figures/fig3-1.pdf, id=910, 397.485pt x 252.945pt>
 File: ./Figures/fig3-1.pdf Graphic file (type pdf)
 <use ./Figures/fig3-1.pdf>
 Package pdftex.def Info: ./Figures/fig3-1.pdf used on input line 29.
@@ -1091,38 +2027,92 @@ Missing character: There is no ì in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ì in font cmr10!
-[95] [96 <./Figures/fig3-1.pdf>] [97]
-Underfull \vbox (badness 1168) has occurred while \output is active []
 
-[98] <./Figures/fig3-2.pdf, id=2173, 397.485pt x 252.945pt>
+Package natbib Warning: Citation `gruber2009encyclopedia' on page 89 undefined 
+on input line 34.
+
+
+Package natbib Warning: Citation `nelson2004mesh' on page 89 undefined on input
+ line 36.
+
+
+Package natbib Warning: Citation `hastings2013chebi' on page 89 undefined on in
+put line 36.
+
+
+Package natbib Warning: Citation `world2006anatomical' on page 89 undefined on 
+input line 36.
+
+[89] [90 <./Figures/fig3-1.pdf>]
+
+Package natbib Warning: Citation `croset2013brain' on page 91 undefined on inpu
+t line 52.
+
+
+Package natbib Warning: Citation `kazakov2013incredible' on page 91 undefined o
+n input line 52.
+
+[91]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[92]
+
+LaTeX Warning: Reference `catfunc' on page 93 undefined on input line 70.
+
+
+LaTeX Warning: Reference `fig3-2' on page 93 undefined on input line 70.
+
+
+LaTeX Warning: Reference `fig3-3' on page 93 undefined on input line 70.
+
+<./Figures/fig3-2.pdf, id=947, 397.485pt x 252.945pt>
 File: ./Figures/fig3-2.pdf Graphic file (type pdf)
 <use ./Figures/fig3-2.pdf>
 Package pdftex.def Info: ./Figures/fig3-2.pdf used on input line 74.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig3-3.pdf, id=2174, 397.485pt x 252.945pt>
+<./Figures/fig3-3.pdf, id=948, 397.485pt x 252.945pt>
 File: ./Figures/fig3-3.pdf Graphic file (type pdf)
 <use ./Figures/fig3-3.pdf>
 Package pdftex.def Info: ./Figures/fig3-3.pdf used on input line 81.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[99] [100 <./Figures/fig3-2.pdf> <./Figures/fig3-3.pdf
+[93] [94 <./Figures/fig3-2.pdf> <./Figures/fig3-3.pdf
 
 pdfTeX warning: pdflatex (file ./Figures/fig3-3.pdf): PDF inclusion: multiple p
 dfs with page group included in a single page
->] <./Figures/fig3-4.pdf, id=2200, 397.485pt x 252.945pt>
+>]
+
+LaTeX Warning: Reference `fig3-4' on page 95 undefined on input line 86.
+
+
+LaTeX Warning: Reference `fig3-5' on page 95 undefined on input line 86.
+
+<./Figures/fig3-4.pdf, id=975, 397.485pt x 252.945pt>
 File: ./Figures/fig3-4.pdf Graphic file (type pdf)
 <use ./Figures/fig3-4.pdf>
 Package pdftex.def Info: ./Figures/fig3-4.pdf used on input line 90.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-<./Figures/fig3-5.pdf, id=2201, 397.485pt x 252.945pt>
+<./Figures/fig3-5.pdf, id=976, 397.485pt x 252.945pt>
 File: ./Figures/fig3-5.pdf Graphic file (type pdf)
 <use ./Figures/fig3-5.pdf>
 Package pdftex.def Info: ./Figures/fig3-5.pdf used on input line 97.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
+LaTeX Warning: Reference `fig3-4' on page 95 undefined on input line 98.
+
+
+LaTeX Warning: Reference `fig3-4' on page 95 undefined on input line 98.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[101 <./Figures/fig3-4.pdf>] <./Figures/fig3-6.pdf, id=2227, 397.485pt x 252.94
-5pt>
+[95 <./Figures/fig3-4.pdf>]
+
+LaTeX Warning: Reference `catfunc' on page 96 undefined on input line 103.
+
+
+LaTeX Warning: Reference `fig3-6' on page 96 undefined on input line 103.
+
+<./Figures/fig3-6.pdf, id=997, 397.485pt x 252.945pt>
 File: ./Figures/fig3-6.pdf Graphic file (type pdf)
 <use ./Figures/fig3-6.pdf>
 Package pdftex.def Info: ./Figures/fig3-6.pdf used on input line 107.
@@ -1130,42 +2120,116 @@ Package pdftex.def Info: ./Figures/fig3-6.pdf used on input line 107.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[102 <./Figures/fig3-5.pdf>] [103 <./Figures/fig3-6.pdf>]
+[96 <./Figures/fig3-5.pdf>]
+
+Package natbib Warning: Citation `knox2011drugbank' on page 97 undefined on inp
+ut line 116.
+
+
+Package natbib Warning: Citation `uniprot2013update' on page 97 undefined on in
+put line 116.
+
+
+Package natbib Warning: Citation `dimmer2012uniprot' on page 97 undefined on in
+put line 116.
+
+
+LaTeX Warning: Reference `mappings' on page 97 undefined on input line 116.
+
+[97 <./Figures/fig3-6.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[104]
+[98]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[105]
+[99]
+
+Package natbib Warning: Citation `dimmer2012uniprot' on page 100 undefined on i
+nput line 162.
+
+
+Package natbib Warning: Citation `motik2009owl' on page 100 undefined on input 
+line 165.
+
+
+Package natbib Warning: Citation `world2006anatomical' on page 100 undefined on
+ input line 170.
+
+
+Package natbib Warning: Citation `world2006anatomical' on page 100 undefined on
+ input line 170.
+
+
+LaTeX Warning: Reference `fig3-7' on page 100 undefined on input line 170.
+
+
 Underfull \vbox (badness 3815) has occurred while \output is active []
 
-[106] <./Figures/fig3-7.pdf, id=2294, 397.485pt x 252.945pt>
+[100] <./Figures/fig3-7.pdf, id=1051, 397.485pt x 252.945pt>
 File: ./Figures/fig3-7.pdf Graphic file (type pdf)
 <use ./Figures/fig3-7.pdf>
 Package pdftex.def Info: ./Figures/fig3-7.pdf used on input line 174.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[107 <./Figures/fig3-7.pdf>] <./Figures/fig3-8.pdf, id=2310, 397.485pt x 252.94
-5pt>
+[101 <./Figures/fig3-7.pdf>]
+
+LaTeX Warning: Reference `fig3-8' on page 102 undefined on input line 182.
+
+<./Figures/fig3-8.pdf, id=1065, 397.485pt x 252.945pt>
 File: ./Figures/fig3-8.pdf Graphic file (type pdf)
 <use ./Figures/fig3-8.pdf>
 Package pdftex.def Info: ./Figures/fig3-8.pdf used on input line 186.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
-Underfull \vbox (badness 2096) has occurred while \output is active []
+Underfull \vbox (badness 5787) has occurred while \output is active []
 
-[108 <./Figures/fig3-8.pdf>] [109] [110] [111] [112]
+[102 <./Figures/fig3-8.pdf>]
+
+Package natbib Warning: Citation `jaccard1912distribution' on page 103 undefine
+d on input line 209.
+
+
+Package natbib Warning: Citation `rogers1960computer' on page 103 undefined on 
+input line 209.
+
+
+Package natbib Warning: Citation `hoehndorf2011phenomenet' on page 103 undefine
+d on input line 209.
+
+[103]
+
+LaTeX Warning: Reference `fig3-12' on page 104 undefined on input line 214.
+
+
+Underfull \vbox (badness 2401) has occurred while \output is active []
+
+[104] [105] [106]
 Overfull \hbox (31.03493pt too wide) in paragraph at lines 282--283
 []$\OT1/cmtt/m/n/12 http : / / www . geneontology . org / GO . ontology-[]ext .
  relations . shtml # haspart$[] 
  []
 
-[113] [114] <./Figures/fig3-9.pdf, id=2387, 397.485pt x 252.945pt>
+[107] [108]
+
+LaTeX Warning: Reference `method' on page 109 undefined on input line 353.
+
+
+LaTeX Warning: Reference `fig3-9' on page 109 undefined on input line 353.
+
+<./Figures/fig3-9.pdf, id=1141, 397.485pt x 252.945pt>
 File: ./Figures/fig3-9.pdf Graphic file (type pdf)
 <use ./Figures/fig3-9.pdf>
 Package pdftex.def Info: ./Figures/fig3-9.pdf used on input line 357.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[115] [116 <./Figures/fig3-9.pdf>] <./Figures/fig3-10.pdf, id=2412, 397.485pt x
- 325.215pt>
+[109]
+
+Package natbib Warning: Citation `gonccalves2013owl' on page 110 undefined on i
+nput line 362.
+
+
+LaTeX Warning: Reference `fig3-10' on page 110 undefined on input line 364.
+
+[110 <./Figures/fig3-9.pdf>] <./Figures/fig3-10.pdf, id=1163, 397.485pt x 325.2
+15pt>
 File: ./Figures/fig3-10.pdf Graphic file (type pdf)
 <use ./Figures/fig3-10.pdf>
 Package pdftex.def Info: ./Figures/fig3-10.pdf used on input line 368.
@@ -1183,52 +2247,155 @@ File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 373.
-[117 <./Figures/fig3-10.pdf>] [118] <./Figures/fig3-11.pdf, id=2432, 397.485pt 
-x 325.215pt>
+[111 <./Figures/fig3-10.pdf>]
+
+LaTeX Warning: Reference `evaluation' on page 112 undefined on input line 376.
+
+[112]
+
+LaTeX Warning: Reference `fig3-11' on page 113 undefined on input line 385.
+
+<./Figures/fig3-11.pdf, id=1183, 397.485pt x 325.215pt>
 File: ./Figures/fig3-11.pdf Graphic file (type pdf)
 <use ./Figures/fig3-11.pdf>
 Package pdftex.def Info: ./Figures/fig3-11.pdf used on input line 389.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
+LaTeX Warning: Reference `fig3-10' on page 113 undefined on input line 391.
+
+
+LaTeX Warning: Reference `fig3-10' on page 113 undefined on input line 391.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[119]
+[113]
 Underfull \vbox (badness 1902) has occurred while \output is active []
 
-[120 <./Figures/fig3-11.pdf>] [121] <./Figures/fig3-12.pdf, id=2468, 397.485pt 
-x 325.215pt>
+[114 <./Figures/fig3-11.pdf>]
+
+Package natbib Warning: Citation `therapontos2009thalidomide' on page 115 undef
+ined on input line 397.
+
+
+Package natbib Warning: Citation `teo2005thalidomide' on page 115 undefined on 
+input line 397.
+
+
+LaTeX Warning: Reference `fig3-12' on page 115 undefined on input line 401.
+
+[115] <./Figures/fig3-12.pdf, id=1213, 397.485pt x 325.215pt>
 File: ./Figures/fig3-12.pdf Graphic file (type pdf)
 <use ./Figures/fig3-12.pdf>
 Package pdftex.def Info: ./Figures/fig3-12.pdf used on input line 405.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
-[122 <./Figures/fig3-12.pdf>] <./Figures/fig3-13.pdf, id=2484, 397.485pt x 325.
-215pt>
+[116 <./Figures/fig3-12.pdf>]
+
+LaTeX Warning: Reference `fig3-13' on page 117 undefined on input line 413.
+
+<./Figures/fig3-13.pdf, id=1229, 397.485pt x 325.215pt>
 File: ./Figures/fig3-13.pdf Graphic file (type pdf)
 <use ./Figures/fig3-13.pdf>
 Package pdftex.def Info: ./Figures/fig3-13.pdf used on input line 417.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
+LaTeX Warning: Reference `fig3-12' on page 117 undefined on input line 418.
+
+
+LaTeX Warning: Reference `fig3-12' on page 117 undefined on input line 418.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[123] <./Figures/fig3-14.pdf, id=2494, 397.485pt x 325.215pt>
+[117]
+
+LaTeX Warning: Reference `fig3-14' on page 118 undefined on input line 422.
+
+
+LaTeX Warning: Reference `fig3-12' on page 118 undefined on input line 422.
+
+<./Figures/fig3-14.pdf, id=1235, 397.485pt x 325.215pt>
 File: ./Figures/fig3-14.pdf Graphic file (type pdf)
 <use ./Figures/fig3-14.pdf>
 Package pdftex.def Info: ./Figures/fig3-14.pdf used on input line 426.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
+LaTeX Warning: Reference `fig3-12' on page 118 undefined on input line 427.
+
+
+LaTeX Warning: Reference `fig3-12' on page 118 undefined on input line 427.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[124 <./Figures/fig3-13.pdf>] <./Figures/fig3-15.pdf, id=2516, 397.485pt x 325.
-215pt>
+[118 <./Figures/fig3-13.pdf>]
+
+LaTeX Warning: Reference `fig3-15' on page 119 undefined on input line 431.
+
+
+LaTeX Warning: Reference `fig3-15' on page 119 undefined on input line 431.
+
+<./Figures/fig3-15.pdf, id=1253, 397.485pt x 325.215pt>
 File: ./Figures/fig3-15.pdf Graphic file (type pdf)
 <use ./Figures/fig3-15.pdf>
 Package pdftex.def Info: ./Figures/fig3-15.pdf used on input line 435.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
+LaTeX Warning: Reference `fig3-12' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-12' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-13' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-14' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-12' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-12' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-13' on page 119 undefined on input line 436.
+
+
+LaTeX Warning: Reference `fig3-14' on page 119 undefined on input line 436.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[125 <./Figures/fig3-14.pdf>] [126 <./Figures/fig3-15.pdf>] [127] [128] <./Figu
-res/fig3-16.pdf, id=2581, 397.485pt x 260.17201pt>
+[119 <./Figures/fig3-14.pdf>]
+
+Package natbib Warning: Citation `williams2012open' on page 120 undefined on in
+put line 443.
+
+
+Package natbib Warning: Citation `hoehndorf2012identifying' on page 120 undefin
+ed on input line 443.
+
+
+Package natbib Warning: Citation `jupp2012logical' on page 120 undefined on inp
+ut line 443.
+
+
+LaTeX Warning: Reference `specskb' on page 120 undefined on input line 443.
+
+[120 <./Figures/fig3-15.pdf>]
+
+Package natbib Warning: Citation `kruger2012mapping' on page 121 undefined on i
+nput line 446.
+
+
+LaTeX Warning: Reference `catfunc' on page 121 undefined on input line 448.
+
+[121] [122]
+
+LaTeX Warning: Reference `fig3-16' on page 123 undefined on input line 460.
+
+<./Figures/fig3-16.pdf, id=1301, 397.485pt x 260.17201pt>
 File: ./Figures/fig3-16.pdf Graphic file (type pdf)
 <use ./Figures/fig3-16.pdf>
 Package pdftex.def Info: ./Figures/fig3-16.pdf used on input line 464.
@@ -1236,9 +2403,9 @@ Package pdftex.def Info: ./Figures/fig3-16.pdf used on input line 464.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[129]) (./14Chapter4.tex [130 <./Figures/fig3-16.pdf>]
+[123]) (./14Chapter4.tex [124 <./Figures/fig3-16.pdf>]
 Chapter 4.
-[131
+[125
 
 ]
 Overfull \hbox (2.96729pt too wide) in paragraph at lines 10--11
@@ -1246,7 +2413,33 @@ Overfull \hbox (2.96729pt too wide) in paragraph at lines 10--11
 -dence in the biomed-
  []
 
-[132] [133]
+[126]
+
+Package natbib Warning: Citation `martin2002structurally' on page 127 undefined
+ on input line 30.
+
+
+Package natbib Warning: Citation `kubinyi1998similarity' on page 127 undefined 
+on input line 30.
+
+
+Package natbib Warning: Citation `johnson1990concepts' on page 127 undefined on
+ input line 30.
+
+
+Package natbib Warning: Citation `johnson1990concepts' on page 127 undefined on
+ input line 33.
+
+[127]
+
+Package natbib Warning: Citation `nettles2006bridging' on page 128 undefined on
+ input line 35.
+
+
+Package natbib Warning: Citation `todeschini2009molecular' on page 128 undefine
+d on input line 35.
+
+
 Overfull \hbox (8.33214pt too wide) in paragraph at lines 35--36
 []\OT1/cmr/m/n/12 In or-der to match these re-quire-ments, I de-cided to fo-cus
  only on two-dimensional
@@ -1258,7 +2451,14 @@ Overfull \hbox (11.47507pt too wide) in paragraph at lines 35--36
 in-ity than three-dimensional
  []
 
-<./Figures/fig4-1.pdf, id=2628, 397.485pt x 317.98799pt>
+
+Package natbib Warning: Citation `steinbeck2003chemistry' on page 128 undefined
+ on input line 37.
+
+
+LaTeX Warning: Reference `fig4-1' on page 128 undefined on input line 37.
+
+<./Figures/fig4-1.pdf, id=1335, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-1.pdf Graphic file (type pdf)
 <use ./Figures/fig4-1.pdf>
 Package pdftex.def Info: ./Figures/fig4-1.pdf used on input line 41.
@@ -1266,7 +2466,11 @@ Package pdftex.def Info: ./Figures/fig4-1.pdf used on input line 41.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[134]
+[128]
+
+LaTeX Warning: Reference `fpmethods' on page 129 undefined on input line 46.
+
+
 Overfull \hbox (61.07686pt too wide) in paragraph at lines 50--57
  [] 
  []
@@ -1274,8 +2478,28 @@ Overfull \hbox (61.07686pt too wide) in paragraph at lines 50--57
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[135 <./Figures/fig4-1.pdf>] [136] <./Figures/fig4-2.pdf, id=2663, 397.485pt x 
-397.485pt>
+[129 <./Figures/fig4-1.pdf>]
+
+LaTeX Warning: Reference `fpmethods' on page 130 undefined on input line 61.
+
+
+LaTeX Warning: Reference `fpmethods' on page 130 undefined on input line 61.
+
+
+LaTeX Warning: Reference `fpmethods' on page 130 undefined on input line 61.
+
+
+LaTeX Warning: Reference `fpmethods' on page 130 undefined on input line 61.
+
+[130]
+
+Package natbib Warning: Citation `todeschini2009molecular' on page 131 undefine
+d on input line 68.
+
+
+LaTeX Warning: Reference `fig4-2' on page 131 undefined on input line 68.
+
+<./Figures/fig4-2.pdf, id=1360, 397.485pt x 397.485pt>
 File: ./Figures/fig4-2.pdf Graphic file (type pdf)
 <use ./Figures/fig4-2.pdf>
 Package pdftex.def Info: ./Figures/fig4-2.pdf used on input line 72.
@@ -1285,11 +2509,33 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[137]
+[131]
+
+LaTeX Warning: Reference `fig4-2' on page 132 undefined on input line 77.
+
+
+Package natbib Warning: Citation `chemsimwiki' on page 132 undefined on input l
+ine 77.
+
+
+LaTeX Warning: Reference `fig4-2' on page 132 undefined on input line 77.
+
+
 Underfull \vbox (badness 1783) has occurred while \output is active []
 
-[138 <./Figures/fig4-2.pdf>] [139] <./Figures/fig4-3.pdf, id=2700, 397.485pt x 
-317.98799pt>
+[132 <./Figures/fig4-2.pdf>]
+
+LaTeX Warning: Reference `fig4-2' on page 133 undefined on input line 79.
+
+
+Package natbib Warning: Citation `barratt2012drug' on page 133 undefined on inp
+ut line 79.
+
+[133]
+
+LaTeX Warning: Reference `fig4-3' on page 134 undefined on input line 90.
+
+<./Figures/fig4-3.pdf, id=1388, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-3.pdf Graphic file (type pdf)
 <use ./Figures/fig4-3.pdf>
 Package pdftex.def Info: ./Figures/fig4-3.pdf used on input line 94.
@@ -1297,21 +2543,37 @@ Package pdftex.def Info: ./Figures/fig4-3.pdf used on input line 94.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[140] <./Figures/fig4-4.pdf, id=2706, 397.485pt x 317.98799pt>
+[134] <./Figures/fig4-4.pdf, id=1394, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-4.pdf Graphic file (type pdf)
 <use ./Figures/fig4-4.pdf>
 Package pdftex.def Info: ./Figures/fig4-4.pdf used on input line 103.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
 
+LaTeX Warning: Reference `fig4-3' on page 135 undefined on input line 104.
+
+
+LaTeX Warning: Reference `fig4-3' on page 135 undefined on input line 104.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[141 <./Figures/fig4-3.pdf>] <./Figures/fig4-5.pdf, id=2723, 397.485pt x 317.98
-799pt>
+[135 <./Figures/fig4-3.pdf>]
+
+LaTeX Warning: Reference `fig4-5' on page 136 undefined on input line 108.
+
+
+LaTeX Warning: Reference `tablespecind' on page 136 undefined on input line 108
+.
+
+<./Figures/fig4-5.pdf, id=1408, 397.485pt x 317.98799pt>
 File: ./Figures/fig4-5.pdf Graphic file (type pdf)
 <use ./Figures/fig4-5.pdf>
 Package pdftex.def Info: ./Figures/fig4-5.pdf used on input line 112.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
-[142 <./Figures/fig4-4.pdf>]
+
+LaTeX Warning: Reference `fig4-6' on page 136 undefined on input line 117.
+
+[136 <./Figures/fig4-4.pdf>]
 Overfull \hbox (8.8638pt too wide) in paragraph at lines 121--128
  [] 
  []
@@ -1319,19 +2581,53 @@ Overfull \hbox (8.8638pt too wide) in paragraph at lines 121--128
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[143 <./Figures/fig4-5.pdf>] <./Figures/fig4-6.pdf, id=2762, 397.485pt x 281.85
+[137 <./Figures/fig4-5.pdf>] <./Figures/fig4-6.pdf, id=1443, 397.485pt x 281.85
 298pt>
 File: ./Figures/fig4-6.pdf Graphic file (type pdf)
 <use ./Figures/fig4-6.pdf>
 Package pdftex.def Info: ./Figures/fig4-6.pdf used on input line 134.
 (pdftex.def)             Requested size: 397.48402pt x 281.8523pt.
-<./Figures/fig4-7.pdf, id=2767, 397.485pt x 281.85298pt>
+
+LaTeX Warning: Reference `fig4-3' on page 138 undefined on input line 135.
+
+
+LaTeX Warning: Reference `fig4-3' on page 138 undefined on input line 135.
+
+
+LaTeX Warning: Reference `tablespecind' on page 138 undefined on input line 139
+.
+
+
+LaTeX Warning: Reference `fig4-7' on page 138 undefined on input line 139.
+
+<./Figures/fig4-7.pdf, id=1444, 397.485pt x 281.85298pt>
 File: ./Figures/fig4-7.pdf Graphic file (type pdf)
 <use ./Figures/fig4-7.pdf>
 Package pdftex.def Info: ./Figures/fig4-7.pdf used on input line 143.
 (pdftex.def)             Requested size: 397.48402pt x 281.8523pt.
-[144 <./Figures/fig4-6.pdf>] [145 <./Figures/fig4-7.pdf>] <./Figures/fig4-8.pdf
-, id=2802, 397.485pt x 325.215pt>
+
+LaTeX Warning: Reference `fig4-3' on page 138 undefined on input line 144.
+
+
+LaTeX Warning: Reference `tablespecind' on page 138 undefined on input line 144
+.
+
+
+LaTeX Warning: Reference `fig4-3' on page 138 undefined on input line 144.
+
+
+LaTeX Warning: Reference `tablespecind' on page 138 undefined on input line 144
+.
+
+[138 <./Figures/fig4-6.pdf>]
+
+LaTeX Warning: Reference `fig4-2' on page 139 undefined on input line 148.
+
+
+LaTeX Warning: Reference `fig4-4' on page 139 undefined on input line 148.
+
+[139 <./Figures/fig4-7.pdf>] <./Figures/fig4-8.pdf, id=1475, 397.485pt x 325.21
+5pt>
 File: ./Figures/fig4-8.pdf Graphic file (type pdf)
 <use ./Figures/fig4-8.pdf>
 Package pdftex.def Info: ./Figures/fig4-8.pdf used on input line 152.
@@ -1339,52 +2635,174 @@ Package pdftex.def Info: ./Figures/fig4-8.pdf used on input line 152.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[146] [147 <./Figures/fig4-8.pdf>] <./Figures/fig4-9.pdf, id=2831, 397.485pt x 
-296.307pt>
+[140]
+
+Package natbib Warning: Citation `world2006anatomical' on page 141 undefined on
+ input line 162.
+
+
+Package natbib Warning: Citation `campillos2008drug' on page 141 undefined on i
+nput line 162.
+
+
+Package natbib Warning: Citation `napolitano2013drug' on page 141 undefined on 
+input line 162.
+
+[141 <./Figures/fig4-8.pdf>]
+
+LaTeX Warning: Reference `fig4-9' on page 142 undefined on input line 164.
+
+<./Figures/fig4-9.pdf, id=1498, 397.485pt x 296.307pt>
 File: ./Figures/fig4-9.pdf Graphic file (type pdf)
 <use ./Figures/fig4-9.pdf>
 Package pdftex.def Info: ./Figures/fig4-9.pdf used on input line 168.
 (pdftex.def)             Requested size: 397.48402pt x 296.30627pt.
-[148]
+
+LaTeX Warning: Reference `fig4-9' on page 142 undefined on input line 175.
+
+
+LaTeX Warning: Reference `fig4-9' on page 142 undefined on input line 175.
+
+
+LaTeX Warning: Reference `fig4-9' on page 142 undefined on input line 175.
+
+[142]
+
+Package natbib Warning: Citation `shannon2003cytoscape' on page 143 undefined o
+n input line 179.
+
+
 Underfull \vbox (badness 5036) has occurred while \output is active []
 
-[149 <./Figures/fig4-9.pdf>] [150] <./Figures/fig4-10.pdf, id=2872, 397.485pt x
- 325.215pt>
+[143 <./Figures/fig4-9.pdf>]
+
+Package natbib Warning: Citation `offlabelwiki' on page 144 undefined on input 
+line 188.
+
+
+Package natbib Warning: Citation `stafford2008regulating' on page 144 undefined
+ on input line 188.
+
+[144] <./Figures/fig4-10.pdf, id=1530, 397.485pt x 325.215pt>
 File: ./Figures/fig4-10.pdf Graphic file (type pdf)
 <use ./Figures/fig4-10.pdf>
 Package pdftex.def Info: ./Figures/fig4-10.pdf used on input line 197.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+LaTeX Warning: Reference `fig4-11' on page 145 undefined on input line 202.
 
-[151] <./Figures/fig4-11.pdf, id=2879, 397.485pt x 245.718pt>
+
+Underfull \vbox (badness 1924) has occurred while \output is active []
+
+[145 <./Figures/fig4-10.pdf>] <./Figures/fig4-11.pdf, id=1541, 397.485pt x 245.
+718pt>
 File: ./Figures/fig4-11.pdf Graphic file (type pdf)
 <use ./Figures/fig4-11.pdf>
 Package pdftex.def Info: ./Figures/fig4-11.pdf used on input line 206.
 (pdftex.def)             Requested size: 397.48402pt x 245.71739pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package natbib Warning: Citation `cras2007off' on page 146 undefined on input l
+ine 211.
 
-[152 <./Figures/fig4-10.pdf>] [153 <./Figures/fig4-11.pdf>] <./Figures/fig4-12.
-pdf, id=2905, 397.485pt x 325.215pt>
+
+Package natbib Warning: Citation `bonica1979need' on page 146 undefined on inpu
+t line 211.
+
+[146 <./Figures/fig4-11.pdf>]
+
+LaTeX Warning: Reference `fig4-12' on page 147 undefined on input line 213.
+
+<./Figures/fig4-12.pdf, id=1551, 397.485pt x 325.215pt>
 File: ./Figures/fig4-12.pdf Graphic file (type pdf)
 <use ./Figures/fig4-12.pdf>
 Package pdftex.def Info: ./Figures/fig4-12.pdf used on input line 217.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
-[154 <./Figures/fig4-12.pdf>]
-Underfull \vbox (badness 1502) has occurred while \output is active []
 
-[155] [156] <./Figures/fig4-13.pdf, id=2953, 397.485pt x 216.81pt>
+LaTeX Warning: Reference `fig4-10' on page 147 undefined on input line 218.
+
+
+LaTeX Warning: Reference `fig4-10' on page 147 undefined on input line 218.
+
+
+LaTeX Warning: Reference `fig4-10' on page 147 undefined on input line 222.
+
+
+LaTeX Warning: Reference `higlevelhypo' on page 147 undefined on input line 222
+.
+
+[147 <./Figures/fig4-12.pdf>]
+
+Package natbib Warning: Citation `atcr05' on page 148 undefined on input line 2
+29.
+
+
+Package natbib Warning: Citation `gengo1987antihistamines' on page 148 undefine
+d on input line 236.
+
+
+Package natbib Warning: Citation `atca03' on page 148 undefined on input line 2
+37.
+
+
+Package natbib Warning: Citation `hunskaar1987formalin' on page 148 undefined o
+n input line 238.
+
+
+LaTeX Warning: Reference `fig4-10' on page 148 undefined on input line 240.
+
+
+LaTeX Warning: Reference `fig4-10' on page 148 undefined on input line 240.
+
+
+Package natbib Warning: Citation `atcr05' on page 148 undefined on input line 2
+44.
+
+
+Package natbib Warning: Citation `hunskaar1987formalin' on page 148 undefined o
+n input line 244.
+
+
+Package natbib Warning: Citation `atca03' on page 148 undefined on input line 2
+46.
+
+
+Package natbib Warning: Citation `hurle2013computational' on page 148 undefined
+ on input line 248.
+
+[148] [149]
+
+LaTeX Warning: Reference `fig4-13' on page 150 undefined on input line 261.
+
+<./Figures/fig4-13.pdf, id=1572, 397.485pt x 216.81pt>
 File: ./Figures/fig4-13.pdf Graphic file (type pdf)
 <use ./Figures/fig4-13.pdf>
 Package pdftex.def Info: ./Figures/fig4-13.pdf used on input line 265.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
-[157 <./Figures/fig4-13.pdf>] <./Figures/fig4-14.pdf, id=2986, 397.485pt x 108.
-405pt>
+
+Package natbib Warning: Citation `law2003lowering' on page 150 undefined on inp
+ut line 272.
+
+
+Package natbib Warning: Citation `swedberg2005task' on page 150 undefined on in
+put line 272.
+
+
+Package natbib Warning: Citation `swedberg2005task' on page 150 undefined on in
+put line 272.
+
+[150 <./Figures/fig4-13.pdf>]
+
+LaTeX Warning: Reference `fig4-14' on page 151 undefined on input line 279.
+
+[151] <./Figures/fig4-14.pdf, id=1603, 397.485pt x 108.405pt>
 File: ./Figures/fig4-14.pdf Graphic file (type pdf)
 <use ./Figures/fig4-14.pdf>
 Package pdftex.def Info: ./Figures/fig4-14.pdf used on input line 283.
 (pdftex.def)             Requested size: 397.48402pt x 108.40472pt.
+
+LaTeX Warning: Reference `tab:tablel02' on page 152 undefined on input line 288
+.
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 294--294
 []|\OT1/cmr/bx/n/8 ATC code
@@ -1635,18 +3053,58 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 292--319
 [][] 
  []
 
-[158] [159 <./Figures/fig4-14.pdf>] [160] <./Figures/fig4-15.pdf, id=3024, 397.
-485pt x 339.66899pt>
+
+Package natbib Warning: Citation `quigley1996number' on page 152 undefined on i
+nput line 323.
+
+
+Package natbib Warning: Citation `bende1996effect' on page 152 undefined on inp
+ut line 325.
+
+
+Package natbib Warning: Citation `evans2001epinephrine' on page 152 undefined o
+n input line 325.
+
+[152 <./Figures/fig4-14.pdf>] [153] <./Figures/fig4-15.pdf, id=1624, 397.485pt 
+x 339.66899pt>
 File: ./Figures/fig4-15.pdf Graphic file (type pdf)
 <use ./Figures/fig4-15.pdf>
 Package pdftex.def Info: ./Figures/fig4-15.pdf used on input line 331.
 (pdftex.def)             Requested size: 397.48402pt x 339.66815pt.
-<./Figures/fig4-16.pdf, id=3030, 397.485pt x 252.945pt>
+
+LaTeX Warning: Reference `tab:tablel02' on page 154 undefined on input line 332
+.
+
+
+LaTeX Warning: Reference `tab:tablel02' on page 154 undefined on input line 332
+.
+
+
+Package natbib Warning: Citation `swedberg2005task' on page 154 undefined on in
+put line 337.
+
+
+LaTeX Warning: Reference `fig4-16' on page 154 undefined on input line 337.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[154 <./Figures/fig4-15.pdf>] <./Figures/fig4-16.pdf, id=1641, 397.485pt x 252.
+945pt>
 File: ./Figures/fig4-16.pdf Graphic file (type pdf)
 <use ./Figures/fig4-16.pdf>
 Package pdftex.def Info: ./Figures/fig4-16.pdf used on input line 341.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[161 <./Figures/fig4-15.pdf>] [162 <./Figures/fig4-16.pdf>]
+
+Package natbib Warning: Citation `van1978effect' on page 155 undefined on input
+ line 346.
+
+[155 <./Figures/fig4-16.pdf>]
+
+LaTeX Warning: Reference `tab:tablec08' on page 156 undefined on input line 348
+.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 354--354
 []|\OT1/cmr/bx/n/8 ATC code
  []
@@ -1711,15 +3169,31 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 352--364
 [][] 
  []
 
-<./Figures/fig4-17.pdf, id=3065, 397.485pt x 216.81pt>
+<./Figures/fig4-17.pdf, id=1656, 397.485pt x 216.81pt>
 File: ./Figures/fig4-17.pdf Graphic file (type pdf)
 <use ./Figures/fig4-17.pdf>
 Package pdftex.def Info: ./Figures/fig4-17.pdf used on input line 372.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
 
+LaTeX Warning: Reference `tab:tablec08' on page 156 undefined on input line 373
+.
+
+
+LaTeX Warning: Reference `tab:tablec08' on page 156 undefined on input line 373
+.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[163]
+[156]
+
+LaTeX Warning: Reference `tab:tablec07' on page 157 undefined on input line 381
+.
+
+
+LaTeX Warning: Reference `fig4-18' on page 157 undefined on input line 381.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 387--387
 []|\OT1/cmr/bx/n/8 ATC code
  []
@@ -1799,21 +3273,53 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 385--397
 [][] 
  []
 
-[164 <./Figures/fig4-17.pdf>] <./Figures/fig4-18.pdf, id=3088, 397.485pt x 462.
+
+LaTeX Warning: Reference `tab:tablec07' on page 157 undefined on input line 401
+.
+
+[157 <./Figures/fig4-17.pdf>] <./Figures/fig4-18.pdf, id=1674, 397.485pt x 462.
 52798pt>
 File: ./Figures/fig4-18.pdf Graphic file (type pdf)
 <use ./Figures/fig4-18.pdf>
 Package pdftex.def Info: ./Figures/fig4-18.pdf used on input line 405.
 (pdftex.def)             Requested size: 397.48402pt x 462.52684pt.
 
+LaTeX Warning: Reference `tab:tablec07' on page 158 undefined on input line 406
+.
+
+
+LaTeX Warning: Reference `tab:tablec07' on page 158 undefined on input line 406
+.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[165] [166 <./Figures/fig4-18.pdf>]
+[158]
+
+Package natbib Warning: Citation `swedberg2005task' on page 159 undefined on in
+put line 411.
+
+
+Package natbib Warning: Citation `nelson2010drug' on page 159 undefined on inpu
+t line 412.
+
+
+LaTeX Warning: Reference `table:tablealpha' on page 159 undefined on input line
+ 412.
+
+[159 <./Figures/fig4-18.pdf>]
 Underfull \hbox (badness 3271) in paragraph at lines 421--421
 []|\OT1/cmr/m/n/10.95 Nasal De-con-ges-tants (vaso-
  []
 
-[167]
+
+LaTeX Warning: Reference `table:tablec03' on page 160 undefined on input line 4
+36.
+
+
+LaTeX Warning: Reference `fig4-19' on page 160 undefined on input line 436.
+
+[160]
 Underfull \hbox (badness 10000) in paragraph at lines 442--442
 []|\OT1/cmr/bx/n/8 ATC code
  []
@@ -1868,15 +3374,39 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 440--448
 [][] 
  []
 
-<./Figures/fig4-19.pdf, id=3127, 397.485pt x 180.675pt>
+
+Package natbib Warning: Citation `ikeda2009androgen' on page 161 undefined on i
+nput line 452.
+
+
+Package natbib Warning: Citation `hoshino2011regulation' on page 161 undefined 
+on input line 452.
+
+
+LaTeX Warning: Reference `table:tablec03' on page 161 undefined on input line 4
+52.
+
+<./Figures/fig4-19.pdf, id=1702, 397.485pt x 180.675pt>
 File: ./Figures/fig4-19.pdf Graphic file (type pdf)
 <use ./Figures/fig4-19.pdf>
 Package pdftex.def Info: ./Figures/fig4-19.pdf used on input line 456.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
 
+LaTeX Warning: Reference `table:tablec03' on page 161 undefined on input line 4
+57.
+
+
+LaTeX Warning: Reference `table:tablec03' on page 161 undefined on input line 4
+57.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[168] <./Figures/fig4-21.pdf, id=3140, 397.485pt x 289.08pt>
+[161]
+
+LaTeX Warning: Reference `fig4-21' on page 162 undefined on input line 462.
+
+<./Figures/fig4-21.pdf, id=1708, 397.485pt x 289.08pt>
 File: ./Figures/fig4-21.pdf Graphic file (type pdf)
 <use ./Figures/fig4-21.pdf>
 Package pdftex.def Info: ./Figures/fig4-21.pdf used on input line 466.
@@ -1884,14 +3414,35 @@ Package pdftex.def Info: ./Figures/fig4-21.pdf used on input line 466.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[169 <./Figures/fig4-19.pdf>] [170 <./Figures/fig4-21.pdf>]
+[162 <./Figures/fig4-19.pdf>]
+
+LaTeX Warning: Reference `fig4-21' on page 163 undefined on input line 472.
+
+[163 <./Figures/fig4-21.pdf>]
+
+LaTeX Warning: Reference `fig4-21' on page 164 undefined on input line 476.
+
+
+LaTeX Warning: Reference `fig4-21' on page 164 undefined on input line 481.
+
+
+LaTeX Warning: Reference `fig4-21' on page 164 undefined on input line 486.
+
+
 Underfull \vbox (badness 2027) has occurred while \output is active []
 
-[171]
+[164]
 Overfull \hbox (26.4145pt too wide) in paragraph at lines 488--489
 \OT1/cmr/m/it/12 pro-cess agent \OT1/cmr/m/n/12 (FTC[]A0032341) and \OT1/cmr/m/
 it/12 Anti-aldosterone se-cre-tion agent \OT1/cmr/m/n/12 (FTC[]A0035932),
  []
+
+
+LaTeX Warning: Reference `table:tablec04' on page 165 undefined on input line 4
+93.
+
+
+LaTeX Warning: Reference `fig4-22' on page 165 undefined on input line 493.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 499--499
@@ -1983,15 +3534,55 @@ Overfull \hbox (19.72078pt too wide) in paragraph at lines 497--508
 [][] 
  []
 
-[172] <./Figures/fig4-22.pdf, id=3186, 397.485pt x 361.35pt>
+
+Package natbib Warning: Citation `khalifa2003zuclopenthixol' on page 165 undefi
+ned on input line 512.
+
+
+Package natbib Warning: Citation `khalifa2003zuclopenthixol' on page 165 undefi
+ned on input line 512.
+
+[165] <./Figures/fig4-22.pdf, id=1744, 397.485pt x 361.35pt>
 File: ./Figures/fig4-22.pdf Graphic file (type pdf)
 <use ./Figures/fig4-22.pdf>
 Package pdftex.def Info: ./Figures/fig4-22.pdf used on input line 516.
 (pdftex.def)             Requested size: 397.48402pt x 361.34912pt.
 
+LaTeX Warning: Reference `table:tablec04' on page 166 undefined on input line 5
+17.
+
+
+LaTeX Warning: Reference `table:tablec04' on page 166 undefined on input line 5
+17.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[173] [174 <./Figures/fig4-22.pdf>] [175]
+[166] [167 <./Figures/fig4-22.pdf>]
+
+Package natbib Warning: Citation `mckhann2011diagnosis' on page 168 undefined o
+n input line 532.
+
+
+Package natbib Warning: Citation `mckhann2011diagnosis' on page 168 undefined o
+n input line 532.
+
+
+Package natbib Warning: Citation `scheuner1996secreted' on page 168 undefined o
+n input line 532.
+
+
+Package natbib Warning: Citation `delacourte1986alzheimer' on page 168 undefine
+d on input line 532.
+
+[168]
+
+LaTeX Warning: Reference `table:alz' on page 169 undefined on input line 534.
+
+
+LaTeX Warning: Reference `table:alz' on page 169 undefined on input line 534.
+
+
 Overfull \hbox (7.79071pt too wide) in paragraph at lines 534--535
 \OT1/cmr/m/it/12 biosynthetic-process agent \OT1/cmr/m/n/12 (FTC[]A0042983), \O
 T1/cmr/m/it/12 Anti-Tau pro-tein kinase-activity agent
@@ -2057,14 +3648,58 @@ Overfull \hbox (5.4944pt too wide) in paragraph at lines 539--583
 [][] 
  []
 
-[176] [177] [178]
+
+Package natbib Warning: Citation `babic1999cholinergic' on page 169 undefined o
+n input line 587.
+
+
+Package natbib Warning: Citation `wang2000amyloid' on page 169 undefined on inp
+ut line 589.
+
+
+Package natbib Warning: Citation `wang2000amyloid' on page 169 undefined on inp
+ut line 589.
+
+
+Package natbib Warning: Citation `jones1992effects' on page 169 undefined on in
+put line 591.
+
+
+Package natbib Warning: Citation `grundke1986abnormal' on page 169 undefined on
+ input line 595.
+
+
+Package natbib Warning: Citation `kilgore2010inhibitors' on page 169 undefined 
+on input line 595.
+
+
+Package natbib Warning: Citation `young2011more' on page 169 undefined on input
+ line 595.
+
+[169] [170]
+
+Package natbib Warning: Citation `wolozin2004cholesterol' on page 171 undefined
+ on input line 597.
+
+
+Package natbib Warning: Citation `esc13' on page 171 undefined on input line 59
+7.
+
+[171]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[179]
-Overfull \hbox (2.21703pt too wide) in paragraph at lines 617--618
-[]\OT1/cmr/m/n/12 MACCS fin-ger-print: gen-er-ates 166 bit MACCS keys ([]Dalke-
-Scientific[], []2014[]).
- []
+[172]
+
+Package natbib Warning: Citation `fpdalke' on page 173 undefined on input line 
+617.
+
+
+Package natbib Warning: Citation `pubchemfp' on page 173 undefined on input lin
+e 618.
+
+
+Package natbib Warning: Citation `tanimoto1958elementary' on page 173 undefined
+ on input line 622.
 
 Missing character: There is no ‚ in font cmti12!
 Missing character: There is no à in font cmti12!
@@ -2072,7 +3707,19 @@ Missing character: There is no í in font cmti12!
 Missing character: There is no ‚ in font cmti12!
 Missing character: There is no à in font cmti12!
 Missing character: There is no í in font cmti12!
-[180]
+
+Package natbib Warning: Citation `hane1993pearson' on page 173 undefined on inp
+ut line 625.
+
+[173]
+
+Package natbib Warning: Citation `croset2013brain' on page 174 undefined on inp
+ut line 633.
+
+
+LaTeX Warning: Reference `fig4-23' on page 174 undefined on input line 633.
+
+
 Overfull \hbox (8.14758pt too wide) in paragraph at lines 633--634
 \OT1/cmr/m/n/12 un-der []$\OT1/cmtt/m/n/12 https : / / www . ebi . ac . uk / ch
 embl / research / ftc-[]hypotheses$[]\OT1/cmr/m/n/12 . The project
@@ -2081,165 +3728,173 @@ embl / research / ftc-[]hypotheses$[]\OT1/cmr/m/n/12 . The project
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[181] <./Figures/fig4-23.pdf, id=3300, 397.485pt x 252.945pt>
+[174] <./Figures/fig4-23.pdf, id=1810, 397.485pt x 252.945pt>
 File: ./Figures/fig4-23.pdf Graphic file (type pdf)
 <use ./Figures/fig4-23.pdf>
 Package pdftex.def Info: ./Figures/fig4-23.pdf used on input line 637.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
 
+LaTeX Warning: Reference `fig4-5' on page 175 undefined on input line 645.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[182 <./Figures/fig4-23.pdf>]) (./15Chapter5.tex [183] [184
+[175 <./Figures/fig4-23.pdf>]
 
-]
+LaTeX Warning: Reference `fig4-11' on page 176 undefined on input line 648.
+
+
+LaTeX Warning: Reference `fig4-12' on page 176 undefined on input line 650.
+
+
+LaTeX Warning: Reference `fig4-10' on page 176 undefined on input line 650.
+
+) (./15Chapter5.tex [176]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[185] <./Figures/fig5-1.pdf, id=3336, 397.485pt x 252.945pt>
+[177
+
+]
+
+Package natbib Warning: Citation `fishman2005pharmaceuticals' on page 178 undef
+ined on input line 7.
+
+
+Package natbib Warning: Citation `cooper2002optical' on page 178 undefined on i
+nput line 7.
+
+
+LaTeX Warning: Reference `fig5-1' on page 178 undefined on input line 7.
+
+
+LaTeX Warning: Reference `fig5-1' on page 178 undefined on input line 7.
+
+<./Figures/fig5-1.pdf, id=1836, 397.485pt x 252.945pt>
 File: ./Figures/fig5-1.pdf Graphic file (type pdf)
 <use ./Figures/fig5-1.pdf>
 Package pdftex.def Info: ./Figures/fig5-1.pdf used on input line 11.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[186] [187 <./Figures/fig5-1.pdf>]
+
+Package natbib Warning: Citation `garnett2012systematic' on page 178 undefined 
+on input line 16.
+
+[178] [179 <./Figures/fig5-1.pdf>]
+
+Package natbib Warning: Citation `iorio2010discovery' on page 180 undefined on 
+input line 23.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
+
+Package natbib Warning: Citation `pesquita2009semantic' on page 180 undefined o
+n input line 26.
+
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ô in font cmr12!
-[188]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[189]) (./thesis.bbl [190]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[191
-
-]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[192]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no î in font cmr12!
-[193]
-Underfull \hbox (badness 2326) in paragraph at lines 225--229
-[]\OT1/cmr/m/n/12 ESC13 (Jan-uary 2014).  High dose statins pre-vent de-men-tia
-.  []$\OT1/cmtt/m/n/12 http :
- []
+Package natbib Warning: Citation `klyne2006resource' on page 180 undefined on i
+nput line 26.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--229
-\OT1/cmtt/m/n/12 / / www . escardio . org / about / press / press-[]releases / 
-esc13-[]amsterdam /
- []
+Package natbib Warning: Citation `jupp2014ebi' on page 180 undefined on input l
+ine 26.
+
+[180]
+
+Package natbib Warning: Citation `ravasz2002hierarchical' on page 181 undefined
+ on input line 30.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 238--242
-\OT1/cmtt/m/n/12 AboutFDA / CentersOffices / OfficeofMedicalProductsandTobacco 
-/ CDER /
- []
-
-[194]
-Underfull \hbox (badness 1297) in paragraph at lines 311--314
-[]\OT1/cmr/m/n/12 GO (Jan-uary 2014).  Go re-la-tions.  []$\OT1/cmtt/m/n/12 htt
-p : / / www . geneontology . org / GO .
- []
-
-[195] [196]
-Underfull \hbox (badness 1308) in paragraph at lines 399--404
-[]\OT1/cmr/m/n/12 Hoehndorf, R., Du-mon-tier, M., Oell-rich, A., Wimalaratne, S
-., Rebholz-
- []
-
-[197] [198]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ò in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[199] [200]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ô in font cmr12!
-[201]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-[202]
-Underfull \hbox (badness 3668) in paragraph at lines 761--765
-[]\OT1/cmr/m/n/12 New-York-Times-Archives (March 1998).  U.s. ap-proves sale of
- im-po-
- []
+Package natbib Warning: Citation `schubert1978structure' on page 181 undefined 
+on input line 30.
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 761--765
-\OT1/cmr/m/n/12 tence pill; huge mar-ket seen.  []$\OT1/cmtt/m/n/12 http : / / 
-www . nytimes . com / 1998 / 03 / 28 /
- []
+Package natbib Warning: Citation `murata1989petri' on page 181 undefined on inp
+ut line 30.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--765
-\OT1/cmtt/m/n/12 us / us-[]approves-[]sale-[]of-[]impotence-[]pill-[]huge-[]mar
-ket-[]seen . html ?
- []
+Package natbib Warning: Citation `schaefer2009pid' on page 181 undefined on inp
+ut line 30.
 
-[203] [204]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no î in font cmr12!
-[205] [206] [207]) (./21Appendix.tex [208]
+
+Package natbib Warning: Citation `stevens2007using' on page 181 undefined on in
+put line 30.
+
+
+Package natbib Warning: Citation `have2013graph' on page 181 undefined on input
+ line 30.
+
+
+Package natbib Warning: Citation `cras2007off' on page 181 undefined on input l
+ine 35.
+
+
+Package natbib Warning: Citation `stephens2009dark' on page 181 undefined on in
+put line 35.
+
+
+Package natbib Warning: Citation `cras2007off' on page 181 undefined on input l
+ine 35.
+
+[181])
+No file thesis.bbl.
+(./21Appendix.tex [182]
 Appendix A.
-[209
+[183
 
-] [210]
+] [184]
 Appendix B.
-[211
+[185
 
-] [212
+] [186
 
 ]
 Appendix C.
-[213] [214
+[187] [188
 
 ]
 Appendix D.
-) (./22Index.tex [215] [216
+) (./22Index.tex [189] [190
 
-] (./thesis.ind))
+]
+No file thesis.ind.
+)
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 (./thesis.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: F7C7951BCF4D28B9D06DF12F6AF116F1;10667.
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  A9F4B2FDC0E5C14BAD717A507CB1897C;10667.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 10167 strings out of 495031
- 157457 string characters out of 6181531
- 284536 words of memory out of 5000000
- 12508 multiletter control sequences out of 15000+600000
+ 9420 strings out of 495031
+ 139898 string characters out of 6181531
+ 238162 words of memory out of 5000000
+ 11991 multiletter control sequences out of 15000+600000
  15152 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 38i,9n,41p,2957b,784s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,9n,39p,2957b,547s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
@@ -2253,10 +3908,10 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (216 pages, 5318250 bytes).
+Output written on thesis.pdf (190 pages, 5213336 bytes).
 PDF statistics:
- 3756 PDF objects out of 4296 (max. 8388607)
- 3194 compressed objects within 32 object streams
- 619 named destinations out of 1000 (max. 500000)
- 1353 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2047 PDF objects out of 2073 (max. 8388607)
+ 1557 compressed objects within 16 object streams
+ 401 named destinations out of 1000 (max. 500000)
+ 361 words of extra memory for PDF output out of 10000 (max. 10000000)
 

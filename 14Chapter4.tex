@@ -34,7 +34,7 @@ The structure of two chemical compounds can be compared in a variety of ways, de
 
 In order to match these requirements, I decided to focus only on two-dimensional chemical structures, as numerous methods exist to compute them and because they are arguably more accurate for predicting target affinity than three-dimensional descriptors \citep{nettles2006bridging}, and therefore more suited to study bioactivity. The interpretation of the results is also easier and directly related to the chemical groups present in the structure \citep{todeschini2009molecular}.
 
-Two-dimensional structures can be represented by fingerprinting methods (see section 4.5.1). Numerous implementations exist, varying in the chemical patterns encoded. I chose to try four of them over my dataset: hybridization, extended, MACCS and PubChem fingerprints (see msection 4.5.1). These methods were selected because they are readily available in the Chemistry Development Kit \citep{steinbeck2003chemistry} and relatively different one from another, therefore providing independent yet comparable results. Figure \ref{fig4-1} illustrates this: the plot shows the density distribution of similarity values between pairs of drugs for the various fingerprinting methods considered (see section 4.5.2 and 4.5.3).
+Two-dimensional structures can be represented by fingerprinting methods (see section 4.5.1). Numerous implementations exist, varying in the chemical patterns encoded. I chose to try four of them over my dataset: hybridization, extended, MACCS and PubChem fingerprints (see section 4.5.1). These methods were selected because they are readily available in the Chemistry Development Kit \citep{steinbeck2003chemistry} and relatively different one from another, therefore providing independent yet comparable results. Figure \ref{fig4-1} illustrates this: the plot shows the density distribution of similarity values between pairs of drugs for the various fingerprinting methods considered (see section 4.5.2 and 4.5.3).
 
 \begin{figure}[H]
     \centering
@@ -74,7 +74,7 @@ The similar property principle states that similar structures have similar biolo
     \label{fig4-2}
 \end{figure}
 
-The scatterplot is further divided into areas, broadly separating groups of drugs based on their relative similarity. I chose to consider two different thresholds, in order to separate the similar compounds from the dissimilar ones, represented by the blue and orange lines in Figure \ref{fig4-2}. The first threshold (blue) is set at an arbitrary similarity value of 0.6. This number appears able to separate the relatively similar from dissimilar compounds, and is derived from observations made in Figure 4-9 (discussed later). The second threshold (orange line) was set at the arbitrary value of 0.85; it separates strongly similar compounds from the rest. This value is generally accepted as a cut-off (\cite{chemsimwiki} and personal discussions). The two thresholds reveal the same trend of data distribution (table s in Figure \ref{fig4-2}) in their different areas.
+The scatter plot is further divided into areas, broadly separating groups of drugs based on their relative similarity. I chose to consider two different thresholds, in order to separate the similar compounds from the dissimilar ones, represented by the blue and orange lines in Figure \ref{fig4-2}. The first threshold (blue) is set at an arbitrary similarity value of 0.6. This number appears able to separate the relatively similar from dissimilar compounds, and is derived from observations made in Figure 4-9 (discussed later). The second threshold (orange line) was set at the arbitrary value of 0.85; it separates strongly similar compounds from the rest. This value is generally accepted as a cut-off (\cite{chemsimwiki} and personal discussions). The two thresholds reveal the same trend of data distribution (table s in Figure \ref{fig4-2}) in their different areas.
 
 From the distribution of values on the graph, it is clear that the large majority of molecules have dissimilar structures and dissimilar functions. This corresponds to area C on the Figure \ref{fig4-2}, containing either 93\% or up to 99\% of the data points, depending on the threshold considered. This result can be explained as follows: approved drugs cover a wide range of different bioactivities (dissimilar functions), affecting numerous distinct processes involved in diseases. Their pharmacology is mediated via an interaction with different protein targets, therefore different chemical structures are needed. Moreover, for patent concerns, dissimilar structures are usually sought in order to maximise intellectual protection \citep{barratt2012drug}. This explanation is consistent with the low number of drugs with similar functions and similar structures (area B on the graph), pairs in agreement with the similar property principle.
 
@@ -159,7 +159,7 @@ The figures presented in this section show an observation of primary importance 
 Note that the data analysis shown in the two previous sections only identified average patterns; particular data points were not taken into considerations. Some exceptions or outliers exists, which will be considered as starting points to formulate drug repositioning hypotheses.
 
 \subsection{Isolation of drug repositioning hypotheses}
-As motivated before (section 3.2.6), the ATC can be considered as a gold standard resource for representing the therapeutic area of a drug. The second level of this classification system in particular represents the clinical indication of a compound well \citep{world2006anatomical}; it is not too specific to capture the MoA and exact pharmacology, yet still biologically meaningful and not too abstract. Example of second level ATC categories are: \emph{Anabolic agents for systemic use} (A14) and \emph{Anti-hemorrhagics} (B02). I and others \citep{campillos2008drug} \citep{napolitano2013drug} have considered that drugs categorised under different second-level ATC codes can be considered as indicated for different diseases.
+As motivated before (section 3.2.6), the ATC can be considered as a gold standard resource for representing the therapeutic area of a drug. The second level of this classification system in particular represents the clinical indication of a compound well \citep{world2006anatomical}; it is not too specific to capture the MoA and exact pharmacology, yet still biologically meaningful and not too abstract. Example of second level ATC categories are: \emph{Anabolic agents for systemic use} (A14) and \emph{Anti-haemorrhagics} (B02). I and others \citep{campillos2008drug} \citep{napolitano2013drug} have considered that drugs categorised under different second-level ATC codes can be considered as indicated for different diseases.
 
 Drugs used in the treatment of different conditions are expected to have dissimilar functions, as in principle such agents affect separate biological processes, themselves related to distinct diseases. The graph in Figure \ref{fig4-9}-A recounts this statement: as expected most of the pairs have low structural and functional similarity values.
 
@@ -195,11 +195,11 @@ In the context of this work, a repositioning hypothesis is defined as \emph{a pa
 \begin{figure}[H]
     \centering
     \includegraphics{fig4-10}
-    \caption{Raw associations between therapeutic areas. All the repositioning hypotheses between two a therapeutic groups are merged to define the strength of association amongst these groups. The boldness of the line is directly proportional to the strength of association. For instance, there exists more repositioning hypotheses between the groups M01 and S01 (very bold line) than between the groups C10 and A07 (thinner line). Categories are sorted on alphabetical order and the color is assigned based on the first letter of the group (therapeutic area). All the group S is pink for instance (S01, S02 and S03).}
+    \caption{Raw associations between therapeutic areas. All the repositioning hypotheses between two a therapeutic groups are merged to define the strength of association amongst these groups. The boldness of the line is directly proportional to the strength of association. For instance, there exists more repositioning hypotheses between the groups M01 and S01 (very bold line) than between the groups C10 and A07 (thinner line). Categories are sorted on alphabetical order and the colour is assigned based on the first letter of the group (therapeutic area). All the group S is pink for instance (S01, S02 and S03).}
     \label{fig4-10}
 \end{figure}
 
-It is rather challenging to derive any meaningful conclusion from the graph, yet the hairball reveals an interesting features of the dataset: a high inter-group connectivity, which appears stronger in some cases and weaker in others. For instance, D categories (dermatologicals) are less well connected than N series (nervous system), simply from visual observation. In order to simplify the problem faced and extract the essence of the dataset, I further decided to group categories considering solely their first ATC level and filtering out weak associations (ch methods section 4.5.7). The result is shown in Figure \ref{fig4-11}.
+It is rather challenging to derive any meaningful conclusion from the graph, yet the hairball reveals an interesting features of the dataset: a high inter-group connectivity, which appears stronger in some cases and weaker in others. For instance, D categories (dermatologicals) are less well connected than N series (nervous system), simply from visual observation. In order to simplify the problem faced and extract the essence of the dataset, I further decided to group categories considering solely their first ATC level and filtering out weak associations (cf methods section 4.5.7). The result is shown in Figure \ref{fig4-11}.
 
 \begin{figure}[H]
     \centering
@@ -227,7 +227,7 @@ These graphs focus on the ATC level 2 indications, as in Figure \ref{fig4-10}, b
 \hline
 \multicolumn{2}{|c|}{\textbf{Therapeutic groups association}} & \multicolumn{1}{c|}{\textbf{Interpretation}} \\ \hline
 Cough and cold & Analgesics & Analgesics are used in cough preparations \citep{atcr05} \\ \hline
-Anti-inflamatory & Antimycobacterials & No naive interpretation \\ \hline
+Anti-inflammatory & Antimycobacterials & No naive interpretation \\ \hline
 Analgesics & Ophtalmological & \multicolumn{ 1}{l|}{Related MoA, regulation of blood pressure} \\ \cline{ 1- 2}
 Ophtalmological & Nasal preparation & \multicolumn{ 1}{l|}{} \\ \cline{ 1- 2}
 Antihypertensive & Ophtalmological & \multicolumn{ 1}{l|}{} \\ \cline{ 1- 2}
@@ -235,7 +235,7 @@ Beta blocking agent & Ophtalmological & \multicolumn{ 1}{l|}{} \\ \hline
 Antibacterial & Antineoplastic & Ortholog targets, replication of DNA \\ \hline
 Antihistamines & Psycholeptics & Drowsiness, specially with first and second generation \citep{gengo1987antihistamines} \\ \hline
 Gastrointestinal disorder & Psycholeptics & Currently used as treatment, preparations contain psycholeptics \citep{atca03} \\ \hline
-Analgesics & Anti-inflamatory & Side-effect, shared bioactivity \citep{hunskaar1987formalin} \\ \hline
+Analgesics & Anti-inflammatory & Side-effect, shared bioactivity \citep{hunskaar1987formalin} \\ \hline
 \end{tabular}
 \caption{High level association between therapeutic groups and shared pharmacology. See Figure \ref{fig4-10} for source network.}
 \label{higlevelhypo}
@@ -251,14 +251,14 @@ Ophthalmologicals are connected to cardiovascular drugs (beta blocking and antih
 
 Finally, some of the edges are difficult to interpret without looking at the underlying pairs of drugs. For instance, the association between anti-inflammatory and anti-mycobacterial agents is unusual and requires deeper investigation to be interpreted (not discussed in this document).
 
-This overview of the relationship between therapeutic groups reveals some expected associations, confirming the validity of the approach. Some known cases are represented in the graphs shown and are documented in the scientific literature. Polypharmacology between groups appears non-homogenous, as some therapeutic areas are closer than others in terms of functional similarity and strength of association. The list of drug repositioning hypotheses contains some off-label pairs, which are drugs known and already used for an alternative indication yet not formally approved for it.
+This overview of the relationship between therapeutic groups reveals some expected associations, confirming the validity of the approach. Some known cases are represented in the graphs shown and are documented in the scientific literature. Polypharmacology between groups appears non-homogeneous, as some therapeutic areas are closer than others in terms of functional similarity and strength of association. The list of drug repositioning hypotheses contains some off-label pairs, which are drugs known and already used for an alternative indication yet not formally approved for it.
 
 From this generic presentation of the dataset and in order to better characterise the repositioning hypotheses, I decided to focus in more detail on agents active for treatment or prevention of cardiovascular hypertension. Finally I demonstrate how the categories of the FTC can be used as a starting point to address Alzheimer's disease (toolbox approach).
 
 \subsection{Drug repositioning for hypertension and the cardiovascular system}
 The beginning of this chapter (section 4.2.3) compared pairs of drugs considering the relative similarity of their functions and structures. The closeness between two roles was defined as the semantic similarity over the content of the FTC; such a metric helped to identify related compounds, forward repositioning hypotheses and look at the relationships between therapeutic groups. This approach, referred to as \emph{similarity-based}, is useful when a known therapeutic category already exists in the gold standard (ATC) which can be used as a starting point for further investigations.
 
-Complementarily, the FTC can also be directly used as a toolbox, in order to find drugs to fix or repair a molecular machinery; some FTC categories contain active molecules in theory capable of producing the described pharmacological effect. Therefore, knowing the desired MoA can help to identify what molecule to use for a particular condition. This methodology is named the \emph{toolbox approach}. The difference between the two approaches are illustrated and summarised in Figure \ref{fig4-13}.
+Complementarity, the FTC can also be directly used as a toolbox, in order to find drugs to fix or repair a molecular machinery; some FTC categories contain active molecules in theory capable of producing the described pharmacological effect. Therefore, knowing the desired MoA can help to identify what molecule to use for a particular condition. This methodology is named the \emph{toolbox approach}. The difference between the two approaches are illustrated and summarised in Figure \ref{fig4-13}.
 
 \begin{figure}[ht]
     \centering
@@ -292,18 +292,18 @@ The semantically equivalent ATC category is \emph{Antihypertensives} (C02) and c
 \begin{tabular}{|p{2cm}|p{2cm}|p{2cm}|p{3cm}|p{4cm}|}
 \hline
 \textbf{Identifier reference drug} & \textbf{ATC code reference drug} & \textbf{Identifier hypothesis} & \textbf{ATC code hypothesis} & \textbf{Hypothesis interpretation} \\ \hline
-DB00457 (Prazosin) & C02 (Antihypertensives) & DB01162 (Terazosin) & G04 (Urologicals) & Valid hypotheses, the drug is used as such already \\ \hline
-DB00590 (Doxazosin) & " & " & " & " \\ \hline
+DB00457 (Prazosin) & C02 (Antihypertensives) & DB01162 (terazosin) & G04 (Urologicals) & Valid hypotheses, the drug is used as such already \\ \hline
+DB00590 (doxazosin) & " & " & " & " \\ \hline
 Centrally active hypotensive agents (group A) & " & DB00668 (Epinephrine) & A01 (Stomatological preparations) 
 B02 (Antihemorrhagics)
 C01 (Cardiac therapy)
 R01 (Nasal preparations)
-R03 (Drugs for obtructive airway diseases)
-S01 (Ophtalmologicals) & Drug involved in numerous process, effect varies with quantities, to verify prodrugs and how it influences \\ \hline
+R03 (Drugs for obstructive airway diseases)
+S01 (Ophthalmologic) & Drug involved in numerous process, effect varies with quantities, to verify pro-drugs and how it influences \\ \hline
 " & " & DB00368 (Norepinephrine) & C01 (Cardiac therapy) & Related therapeutic group, central hormone \\ \hline
-" & " & DB00697 (Tizanidine) & M03 (Muscle relaxants) & Management of spasticity, same receptors but different locations, inhibition of motoreurons \\ \hline
-" & " & DB00320 (Dihydroergotamine) & N02 (Analgesics) & Migraine therapy, vasoconstrictor \\ \hline
-" & " & DB00413 (Pramipexole) & N04 (Anti-parkinson drugs) & For Parkinson's disease and restless syndrome. Used off-label for cluster headache. Effect on vaconstriction? \\ \hline
+" & " & DB00697 (tizanidine) & M03 (Muscle relaxants) & Management of spasticity, same receptors but different locations, inhibition of motoreurons \\ \hline
+" & " & DB00320 (dihydroergotamine) & N02 (Analgesics) & Migraine therapy, vasoconstrictor \\ \hline
+" & " & DB00413 (pramipexole) & N04 (Anti-parkinson drugs) & For Parkinson's disease and restless syndrome. Used off-label for cluster headache. Effect on vaconstriction? \\ \hline
 " & " & DB00633 (Dexmedetomidine) & N05 (Psycholeptics) & Because of its pain killing action, it also decreases the blood pressure and heart rate, different location of receptor triggers different effect \\ \hline
 " & " & DB01577 (Methamphetamine) & N06 (Psychoanaleptics) & Plausible, illegal molecule \\ \hline
 " & " & DB04948 (Lofexidine) & N07 (Other nervous system drugs) & Adrenergic agonist, reported as short-acting antihypertensive, but mostly used to relieve opiate dependency, usage already reported \\ \hline

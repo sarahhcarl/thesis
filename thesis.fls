@@ -224,13 +224,13 @@ INPUT ./Figures/fig1-10.pdf
 INPUT ./Figures/fig1-11.pdf
 INPUT ./Figures/fig1-11.pdf
 INPUT ./Figures/fig1-11.pdf
-INPUT ./Figures/fig1-13.pdf
-INPUT ./Figures/fig1-13.pdf
-INPUT ./Figures/fig1-13.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
+INPUT ./Figures/fig1-13.pdf
+INPUT ./Figures/fig1-13.pdf
+INPUT ./Figures/fig1-13.pdf
 INPUT ./Figures/fig1-12.pdf
 INPUT ./Figures/fig1-12.pdf
 INPUT ./Figures/fig1-12.pdf
@@ -415,6 +415,8 @@ INPUT 15Chapter5.tex
 INPUT ./Figures/fig5-1.pdf
 INPUT ./Figures/fig5-1.pdf
 INPUT ./Figures/fig5-1.pdf
+INPUT thesis.bbl
+INPUT thesis.bbl
 INPUT 21Appendix.tex
 INPUT 21Appendix.tex
 INPUT 22Index.tex

@@ -108,7 +108,7 @@
 \@writefile{toc}{\contentsline {chapter}{\numberline {A}Glossary}{209}{appendix.A}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {B}Abbreviations}{211}{appendix.B}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {C}Peer-reviewed publications}{213}{appendix.C}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {D}Side-projects}{215}{appendix.D}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {D}Side-projects}{217}{appendix.D}}
 \@writefile{toc}{\contentsline {paragraph}{DrugBank compound}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Drug}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Protein}{111}{subsubsection.3.2.9.1}}

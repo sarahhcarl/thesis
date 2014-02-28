@@ -156,4 +156,4 @@
 \contentsline {chapter}{\numberline {A}Glossary}{209}{appendix.A}
 \contentsline {chapter}{\numberline {B}Abbreviations}{211}{appendix.B}
 \contentsline {chapter}{\numberline {C}Peer-reviewed publications}{213}{appendix.C}
-\contentsline {chapter}{\numberline {D}Side-projects}{215}{appendix.D}
+\contentsline {chapter}{\numberline {D}Side-projects}{217}{appendix.D}

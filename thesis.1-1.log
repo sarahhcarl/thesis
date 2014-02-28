@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  28 FEB 2014 10:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  28 FEB 2014 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3320,11 +3320,62 @@ Appendix B.
 
 ]
 Appendix C.
-[191] [192
+
+Overfull \hbox (3.90572pt too wide) in paragraph at lines 45--46
+\OT1/cmr/m/n/12 Amanda Clare, $[]$, Christoph Grab-mueller, Senay Kafkas, Maria
+
+ []
+
+
+Overfull \hbox (42.17734pt too wide) in paragraph at lines 46--47
+\OT1/cmr/m/n/12 Document: []$\OT1/cmtt/m/n/12 http : / / kr-[]med . org / icbof
+ois2012 / proceedings / ICBOFOIS2012ECS /
+ []
+
+[191]
+Overfull \hbox (11.30232pt too wide) in paragraph at lines 48--49
+\OT1/cmr/m/n/12 Document: []$\OT1/cmtt/m/n/12 http : / / www . onto-[]med . de 
+/ obml / ws2012 / obml2012report . pdf #
+ []
+
+Missing character: There is no â in font cmbx12!
+Missing character: There is no € in font cmbx12!
+Missing character: There is no “ in font cmbx12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+
+Overfull \hbox (4.82378pt too wide) in paragraph at lines 51--52
+[]$\OT1/cmr/m/n/12 , Christoph Grabm-ller, Sil-ves-tras Kavali-auskas,
+ []
+
+
+Overfull \hbox (84.90236pt too wide) in paragraph at lines 51--52
+\OT1/cmr/m/n/12 Document: []$\OT1/cmtt/m/n/12 http : / / www . sciencedirect . 
+com / science / article / pii / S1359644613003917$[] 
+ []
+
+
+Overfull \hbox (16.97733pt too wide) in paragraph at lines 52--53
+\OT1/cmr/m/n/12 Document: []$\OT1/cmtt/m/n/12 http : / / bioinformatics . oxfor
+djournals . org / content / early /
+ []
+
+[192]
+Overfull \hbox (1.66269pt too wide) in paragraph at lines 53--54
+[]$\OT1/cmr/m/n/12 , Janna Hast-ings, Is-abel Segura-Bedmar, Samuel Croset,
+ []
+
+
+Overfull \hbox (6.12732pt too wide) in paragraph at lines 53--54
+\OT1/cmr/m/n/12 Document: []$\OT1/cmtt/m/n/12 http : / / ceur-[]ws . org / Vol-
+[]1114 / Session3 _ Herrero-[]Zazo . pdf$[] 
+ []
+
+[193] [194
 
 ]
 Appendix D.
-) (./22Index.tex [193] [194
+) (./22Index.tex [195] [196
 
 ] (./thesis.ind))
 
@@ -3343,8 +3394,8 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 9559 strings out of 495031
- 142273 string characters out of 6181531
+ 9561 strings out of 495031
+ 142289 string characters out of 6181531
  278185 words of memory out of 5000000
  12116 multiletter control sequences out of 15000+600000
  15152 words of font info for 57 fonts, out of 8000000 for 9000
@@ -3363,10 +3414,10 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (194 pages, 5237436 bytes).
+Output written on thesis.pdf (196 pages, 5244835 bytes).
 PDF statistics:
- 2745 PDF objects out of 2984 (max. 8388607)
- 2225 compressed objects within 23 object streams
- 405 named destinations out of 1000 (max. 500000)
+ 2774 PDF objects out of 2984 (max. 8388607)
+ 2252 compressed objects within 23 object streams
+ 407 named destinations out of 1000 (max. 500000)
  1353 words of extra memory for PDF output out of 10000 (max. 10000000)
 

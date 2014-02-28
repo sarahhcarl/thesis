@@ -7,6 +7,7 @@
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\addvspace {10\p@ }}
+\@writefile{lof}{\addvspace {10\p@ }}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.10}{\ignorespaces Drug repositioning using disease relationships (diseasome). The similarity between two diseases (A) can be calculated by looking at the shared drugs used for the treatment of these diseases (B) or at the commonly shared pathways (C). When applied to all diseases, one can build a "diseasome" or disease map, useful to relate indications and find drug repositioning opportunities.\relax }}{40}{figure.caption.14}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.11}{\ignorespaces Drug repositioning using a combination of descriptors. A machine learning algorithm is trained over a series of features, such as chemical similarity, shared target proteins, etc. After evaluation of the model, some repositioning predictions can be generated from the statistical learning.\relax }}{41}{figure.caption.15}}
 \@writefile{lof}{\contentsline {figure}{\numberline {1.12}{\ignorespaces Evolution trend of the documents related to drug repositioning. Standardised frequency: number of documents indexed on PubMed for a search divided by the total number of articles published the same year. The higher, the more popular a topic is. The frequency increases with the time for both searches, showing a growing interest in the domain.\relax }}{46}{figure.caption.16}}
@@ -86,6 +87,7 @@
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\addvspace {10\p@ }}
+\@writefile{lot}{\addvspace {10\p@ }}
 \@writefile{lot}{\contentsline {table}{\numberline {1.1}{\ignorespaces Summary of drug repositioning approaches.\relax }}{44}{table.1.1}}
 \@writefile{lot}{\contentsline {table}{\numberline {1.2}{\ignorespaces Summary of drug repositioning approaches (continued).\relax }}{45}{table.1.2}}
 \@writefile{lot}{\contentsline {table}{\numberline {3.1}{\ignorespaces Mapping of DrugBank vocabulary to the FTC object properties.\relax }}{105}{table.3.1}}
@@ -108,7 +110,8 @@
 \@writefile{toc}{\contentsline {chapter}{\numberline {A}Glossary}{209}{appendix.A}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {B}Abbreviations}{211}{appendix.B}}
 \@writefile{toc}{\contentsline {chapter}{\numberline {C}Peer-reviewed publications}{213}{appendix.C}}
-\@writefile{toc}{\contentsline {chapter}{\numberline {D}Side-projects}{217}{appendix.D}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {D}Side projects}{217}{appendix.D}}
+\@writefile{toc}{\contentsline {chapter}{\numberline {E}Teaching and editorial work}{219}{appendix.E}}
 \@writefile{toc}{\contentsline {paragraph}{DrugBank compound}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Drug}{112}{subsubsection.3.2.9.1}}
 \@writefile{toc}{\contentsline {paragraph}{Protein}{111}{subsubsection.3.2.9.1}}
@@ -163,6 +166,8 @@
 \@writefile{toc}{\contentsline {section}{\numberline {5.2}Comparison against functional genomics}{187}{section.5.2}}
 \@writefile{toc}{\contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{188}{section.5.3}}
 \@writefile{toc}{\contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{190}{section.5.4}}
+\@writefile{toc}{\contentsline {section}{\numberline {E.1}Teaching experiences}{219}{section.E.1}}
+\@writefile{toc}{\contentsline {section}{\numberline {E.2}Editorial work}{220}{section.E.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept assertion\\}{72}{subsubsection.2.3.3.2}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{73}{figure.caption.26}}
 \@writefile{toc}{\contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{73}{subsubsection.2.3.3.2}}

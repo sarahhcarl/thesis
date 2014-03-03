@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  28 FEB 2014 16:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.1.28)  3 MAR 2014 11:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -491,297 +491,298 @@ Overfull \hbox (19.20074pt too wide) in paragraph at lines 98--98
 [25] <./Figures/fig1-4.pdf, id=945, 397.485pt x 252.945pt>
 File: ./Figures/fig1-4.pdf Graphic file (type pdf)
 <use ./Figures/fig1-4.pdf>
-Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 107.
+Package pdftex.def Info: ./Figures/fig1-4.pdf used on input line 114.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
+[26]
+Underfull \vbox (badness 3343) has occurred while \output is active []
 
-Underfull \vbox (badness 1484) has occurred while \output is active []
-
-[26 <./Figures/fig1-4.pdf>] [27] <./Figures/fig1-5.pdf, id=984, 397.485pt x 180
-.675pt>
+[27 <./Figures/fig1-4.pdf>] <./Figures/fig1-5.pdf, id=982, 397.485pt x 180.675p
+t>
 File: ./Figures/fig1-5.pdf Graphic file (type pdf)
 <use ./Figures/fig1-5.pdf>
-Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 121.
+Package pdftex.def Info: ./Figures/fig1-5.pdf used on input line 128.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[28 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=1012, 397.485pt x 252.945
+[28 <./Figures/fig1-5.pdf>] <./Figures/fig1-6.pdf, id=1011, 397.485pt x 252.945
 pt>
 File: ./Figures/fig1-6.pdf Graphic file (type pdf)
 <use ./Figures/fig1-6.pdf>
-Package pdftex.def Info: ./Figures/fig1-6.pdf used on input line 135.
+Package pdftex.def Info: ./Figures/fig1-6.pdf used on input line 142.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[29] [30 <./Figures/fig1-6.pdf>] [31] <./Figures/fig1-7.pdf, id=1067, 397.485pt
- x 209.58301pt>
+[29] [30 <./Figures/fig1-6.pdf>] [31] [32] <./Figures/fig1-7.pdf, id=1073, 397.
+485pt x 209.58301pt>
 File: ./Figures/fig1-7.pdf Graphic file (type pdf)
 <use ./Figures/fig1-7.pdf>
-Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 160.
+Package pdftex.def Info: ./Figures/fig1-7.pdf used on input line 167.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[32]
-Underfull \vbox (badness 1783) has occurred while \output is active []
-
-[33 <./Figures/fig1-7.pdf>] [34] <./Figures/fig1-8.pdf, id=1125, 397.485pt x 14
+[33 <./Figures/fig1-7.pdf>] [34] <./Figures/fig1-8.pdf, id=1122, 397.485pt x 14
 4.54pt>
 File: ./Figures/fig1-8.pdf Graphic file (type pdf)
 <use ./Figures/fig1-8.pdf>
-Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 180.
+Package pdftex.def Info: ./Figures/fig1-8.pdf used on input line 187.
 (pdftex.def)             Requested size: 397.48402pt x 144.53963pt.
-[35 <./Figures/fig1-8.pdf>] [36] [37] <./Figures/fig1-9.pdf, id=1193, 397.485pt
- x 252.945pt>
+[35]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[36 <./Figures/fig1-8.pdf>] [37] <./Figures/fig1-9.pdf, id=1192, 397.485pt x 25
+2.945pt>
 File: ./Figures/fig1-9.pdf Graphic file (type pdf)
 <use ./Figures/fig1-9.pdf>
-Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 197.
+Package pdftex.def Info: ./Figures/fig1-9.pdf used on input line 204.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[38 <./Figures/fig1-9.pdf>] <./Figures/fig1-10.pdf, id=1213, 397.485pt x 216.81
-pt>
+<./Figures/fig1-10.pdf, id=1198, 397.485pt x 216.81pt>
 File: ./Figures/fig1-10.pdf Graphic file (type pdf)
 <use ./Figures/fig1-10.pdf>
-Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 210.
+Package pdftex.def Info: ./Figures/fig1-10.pdf used on input line 217.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
-[39]
-Overfull \hbox (22.88115pt too wide) in paragraph at lines 220--220
+[38]
+Underfull \vbox (badness 2932) has occurred while \output is active []
+
+[39 <./Figures/fig1-9.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[40 <./Figures/fig1-10.pdf>]
+Overfull \hbox (22.88115pt too wide) in paragraph at lines 227--227
  |[]\OT1/cmr/bx/n/14.4 Machine learn-ing and con-cepts com-bi-na-tion ap-proach
 es| 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[40 <./Figures/fig1-10.pdf>] <./Figures/fig1-11.pdf, id=1243, 397.485pt x 202.3
-56pt>
+<./Figures/fig1-11.pdf, id=1242, 397.485pt x 202.356pt>
 File: ./Figures/fig1-11.pdf Graphic file (type pdf)
 <use ./Figures/fig1-11.pdf>
-Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 226.
+Package pdftex.def Info: ./Figures/fig1-11.pdf used on input line 233.
 (pdftex.def)             Requested size: 397.48402pt x 202.3555pt.
 [41 <./Figures/fig1-11.pdf>] [42] [43]
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/bx/n/8 Biomedical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/bx/n/8 Technical ad-van-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Chemical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 struc-tures with un-known
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 287--287
+Underfull \hbox (badness 2435) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Fast al-go-rithm avail-
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 287--287
+Underfull \hbox (badness 4595) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 able to en-code and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 search for chem-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 struc-tures (fin-ger-
  []
 
 
-Underfull \hbox (badness 7221) in paragraph at lines 287--287
+Underfull \hbox (badness 7221) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Prediction can have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 weak bind-ing, not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 nec-es-sary phar-ma-co-
  []
 
 
-Underfull \hbox (badness 5954) in paragraph at lines 287--287
+Underfull \hbox (badness 5954) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 changes made to a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 molec-u-lar struc-ture
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 can change a lot
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 the bi-o-log-i-cal out-
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 287--287
+Underfull \hbox (badness 1590) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 i-fi-ca-tions by the cell
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 287--287
+Underfull \hbox (badness 2582) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 (pro-drugs), there-fore
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 orig-i-nal struc-ture is
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Gene ex-pres-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 expressed (sig-na-ture)
  []
 
 
-Underfull \hbox (badness 2680) in paragraph at lines 287--287
+Underfull \hbox (badness 2680) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 is pos-si-ble to de-fine
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 states (CMap) and
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 287--287
+Underfull \hbox (badness 1939) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 anal-yse their rel-a-tive
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 287--287
+Underfull \hbox (badness 4819) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 the bi-o-log-i-cal func-tion, no
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 287--287
+Underfull \hbox (badness 2635) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 pre-vi-ous knowl-edge re-quired
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 287--287
+Underfull \hbox (badness 3884) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 ac-terise some states,
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 287--287
+Underfull \hbox (badness 3386) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 as-pect can be over-
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 287--287
+Underfull \hbox (badness 4647) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 leng-ing, CMap data
  []
 
 
-Underfull \hbox (badness 7081) in paragraph at lines 287--287
+Underfull \hbox (badness 7081) in paragraph at lines 292--292
 []|[]\OT1/cmr/m/n/8 Iorio et al.[] ([]2010[]),
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 287--287
+Underfull \hbox (badness 2617) in paragraph at lines 292--292
 []\OT1/cmr/m/n/8 Sirota et al.[] ([]2011[]),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []\OT1/cmr/m/n/8 Wei et al.[] ([]2006[]),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Computational mod-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Off-target iden-ti-fi-ca-tion,
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 287--287
+Underfull \hbox (badness 2253) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 can be used with chem-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 struc-tures with un-known
  []
 
 
-Underfull \hbox (badness 3428) in paragraph at lines 287--287
+Underfull \hbox (badness 3428) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Predicting a bind-ing
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 287--287
+Underfull \hbox (badness 1117) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 high num-ber of false
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Structural databases
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 are not com-plete,
  []
 
 
-Underfull \hbox (badness 3930) in paragraph at lines 287--287
+Underfull \hbox (badness 3930) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 not all pro-teins are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|[]\OT1/cmr/m/n/8 Ashburner et al.[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 ([]2000[]), []Haupt and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 Schroeder[] ([]2011[]),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []\OT1/cmr/m/n/8 De Franchi et al.[]
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 287--287
+Underfull \hbox (badness 1442) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 ([]2010[]), []Zahler et al.[]
  []
 
 
-Overfull \hbox (60.16956pt too wide) in paragraph at lines 287--287
+Overfull \hbox (60.16956pt too wide) in paragraph at lines 292--292
  [][] 
  []
 
@@ -792,107 +793,107 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/bx/n/8 Biomedical
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/bx/n/8 Technical ad-van-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 in-for-ma-tion al-ready
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 ev-ery-day, de-creas-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Does not pro-vide
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|[]\OT1/cmr/m/n/8 Chiang and Butte[]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 learning al-go-rithm
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 287--287
+Underfull \hbox (badness 1642) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 from a se-ries of de-
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 287--287
+Underfull \hbox (badness 1635) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 men-sions, pro-vid-ing a more
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Numerous machine-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 learning pro-gram
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 and method-olo-gies
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Biological in-ter-pre-ta-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 tion dif-fi-cult (black
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 []\OT1/cmr/m/n/8 Napoli-tano et al.[]
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 287--287
+Underfull \hbox (badness 1803) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Formal rep-re-sen-ta-tion
  []
 
 
-Underfull \hbox (badness 3849) in paragraph at lines 287--287
+Underfull \hbox (badness 3849) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Systemic char-ac-ter-i-sa-tion of
  []
 
 
-Underfull \hbox (badness 2653) in paragraph at lines 287--287
+Underfull \hbox (badness 2653) in paragraph at lines 292--292
 []|\OT1/cmr/m/n/8 Predictions can have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 weak bind-ing, not
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--287
+Underfull \hbox (badness 10000) in paragraph at lines 292--292
 \OT1/cmr/m/n/8 nec-es-sary phar-ma-co-
  []
 
 
-Overfull \hbox (60.16956pt too wide) in paragraph at lines 287--287
+Overfull \hbox (60.16956pt too wide) in paragraph at lines 292--292
  [][] 
  []
 
@@ -901,35 +902,35 @@ Overfull \hbox (60.16956pt too wide) in paragraph at lines 287--287
 
 
 
-] <./Figures/fig1-13.pdf, id=1340, 397.485pt x 195.129pt>
+] <./Figures/fig1-13.pdf, id=1338, 397.485pt x 195.129pt>
 File: ./Figures/fig1-13.pdf Graphic file (type pdf)
 <use ./Figures/fig1-13.pdf>
-Package pdftex.def Info: ./Figures/fig1-13.pdf used on input line 290.
+Package pdftex.def Info: ./Figures/fig1-13.pdf used on input line 299.
 (pdftex.def)             Requested size: 397.48402pt x 195.12851pt.
 
-Overfull \hbox (13.50677pt too wide) in paragraph at lines 296--296
+Overfull \hbox (13.50677pt too wide) in paragraph at lines 305--305
  |[]\OT1/cmr/bx/n/17.28 Thesis: bi-o-log-i-cal pro-cess and molec-u-lar func-
  []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [46
 
 
- <./Figures/fig1-13.pdf>] <./Figures/fig1-12.pdf, id=1360, 397.485pt x 252.945p
-t>
+ <./Figures/fig1-13.pdf>] [47] <./Figures/fig1-12.pdf, id=1364, 397.485pt x 252
+.945pt>
 File: ./Figures/fig1-12.pdf Graphic file (type pdf)
 <use ./Figures/fig1-12.pdf>
-Package pdftex.def Info: ./Figures/fig1-12.pdf used on input line 312.
+Package pdftex.def Info: ./Figures/fig1-12.pdf used on input line 321.
 (pdftex.def)             Requested size: 397.48402pt x 252.94438pt.
-[47]
-Underfull \vbox (badness 3343) has occurred while \output is active []
-
-[48 <./Figures/fig1-12.pdf>]
-Overfull \hbox (5.73087pt too wide) in paragraph at lines 328--328
+[48 <./Figures/fig1-12.pdf>] [49]
+Overfull \hbox (5.73087pt too wide) in paragraph at lines 337--337
  |[]\OT1/cmr/bx/n/12 Chapter 2 - De-scrip-tion log-ics and biomed-i-cal knowl-e
 dge (Spec-
  []
 
-[49]) [50] (./12Chapter2.tex [51] [52
+[50]) (./12Chapter2.tex [51] [52
 
 ]
 Chapter 2.
@@ -976,38 +977,42 @@ Package pdftex.def Info: ./Figures/fig2-5.pdf used on input line 115.
  x 144.54pt>
 File: ./Figures/fig2-6.pdf Graphic file (type pdf)
 <use ./Figures/fig2-6.pdf>
-Package pdftex.def Info: ./Figures/fig2-6.pdf used on input line 142.
+Package pdftex.def Info: ./Figures/fig2-6.pdf used on input line 146.
 (pdftex.def)             Requested size: 397.48402pt x 144.53963pt.
-[66 <./Figures/fig2-6.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[67] <./Figures/fig2-7.pdf, id=1645, 397.485pt x 238.49101pt>
+[66 <./Figures/fig2-6.pdf>] [67] <./Figures/fig2-7.pdf, id=1645, 397.485pt x 23
+8.49101pt>
 File: ./Figures/fig2-7.pdf Graphic file (type pdf)
 <use ./Figures/fig2-7.pdf>
-Package pdftex.def Info: ./Figures/fig2-7.pdf used on input line 162.
+Package pdftex.def Info: ./Figures/fig2-7.pdf used on input line 166.
 (pdftex.def)             Requested size: 397.48402pt x 238.49042pt.
-[68 <./Figures/fig2-7.pdf>] [69] [70] <./Figures/fig2-8.pdf, id=1709, 397.485pt
- x 180.675pt>
+[68 <./Figures/fig2-7.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[69] [70] <./Figures/fig2-8.pdf, id=1709, 397.485pt x 180.675pt>
 File: ./Figures/fig2-8.pdf Graphic file (type pdf)
 <use ./Figures/fig2-8.pdf>
-Package pdftex.def Info: ./Figures/fig2-8.pdf used on input line 197.
+Package pdftex.def Info: ./Figures/fig2-8.pdf used on input line 201.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
-[71 <./Figures/fig2-8.pdf>] [72] <./Figures/fig2-9.pdf, id=1728, 397.485pt x 20
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[71] [72 <./Figures/fig2-8.pdf>] <./Figures/fig2-9.pdf, id=1728, 397.485pt x 20
 9.58301pt>
 File: ./Figures/fig2-9.pdf Graphic file (type pdf)
 <use ./Figures/fig2-9.pdf>
-Package pdftex.def Info: ./Figures/fig2-9.pdf used on input line 230.
+Package pdftex.def Info: ./Figures/fig2-9.pdf used on input line 234.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[73] <./Figures/fig2-10.pdf, id=1734, 397.485pt x 209.58301pt>
+[73] [74 <./Figures/fig2-9.pdf>] <./Figures/fig2-10.pdf, id=1755, 397.485pt x 2
+09.58301pt>
 File: ./Figures/fig2-10.pdf Graphic file (type pdf)
 <use ./Figures/fig2-10.pdf>
-Package pdftex.def Info: ./Figures/fig2-10.pdf used on input line 251.
+Package pdftex.def Info: ./Figures/fig2-10.pdf used on input line 255.
 (pdftex.def)             Requested size: 397.48402pt x 209.58249pt.
-[74 <./Figures/fig2-9.pdf>] [75 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf
-, id=1791, 397.485pt x 325.215pt>
+[75 <./Figures/fig2-10.pdf>] <./Figures/fig2-11.pdf, id=1791, 397.485pt x 325.2
+15pt>
 File: ./Figures/fig2-11.pdf Graphic file (type pdf)
 <use ./Figures/fig2-11.pdf>
-Package pdftex.def Info: ./Figures/fig2-11.pdf used on input line 270.
+Package pdftex.def Info: ./Figures/fig2-11.pdf used on input line 274.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1016,41 +1021,46 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 289.08pt>
 File: ./Figures/fig2-12.pdf Graphic file (type pdf)
 <use ./Figures/fig2-12.pdf>
-Package pdftex.def Info: ./Figures/fig2-12.pdf used on input line 282.
+Package pdftex.def Info: ./Figures/fig2-12.pdf used on input line 286.
 (pdftex.def)             Requested size: 397.48402pt x 289.07928pt.
 [78 <./Figures/fig2-12.pdf>] <./Figures/fig2-13.pdf, id=1858, 397.485pt x 180.6
 75pt>
 File: ./Figures/fig2-13.pdf Graphic file (type pdf)
 <use ./Figures/fig2-13.pdf>
-Package pdftex.def Info: ./Figures/fig2-13.pdf used on input line 295.
+Package pdftex.def Info: ./Figures/fig2-13.pdf used on input line 299.
 (pdftex.def)             Requested size: 397.48402pt x 180.67455pt.
 [79 <./Figures/fig2-13.pdf>] [80]
-Overfull \hbox (6.71275pt too wide) in paragraph at lines 309--309
+Overfull \hbox (6.71275pt too wide) in paragraph at lines 313--313
  |[]\OT1/cmr/bx/n/17.28 Implementation with life-science in-for-ma-tion| 
  []
 
 [81] <./Figures/fig2-14.pdf, id=1903, 397.485pt x 325.215pt>
 File: ./Figures/fig2-14.pdf Graphic file (type pdf)
 <use ./Figures/fig2-14.pdf>
-Package pdftex.def Info: ./Figures/fig2-14.pdf used on input line 321.
+Package pdftex.def Info: ./Figures/fig2-14.pdf used on input line 325.
 (pdftex.def)             Requested size: 397.48402pt x 325.2142pt.
 [82 <./Figures/fig2-14.pdf>] [83] [84] [85] [86]
+
+Package natbib Warning: Citation `zdobnov2001interproscan' on page 87 undefined
+ on input line 357.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [87] <./Figures/fig2-15.pdf, id=2015, 397.485pt x 361.35pt>
 File: ./Figures/fig2-15.pdf Graphic file (type pdf)
 <use ./Figures/fig2-15.pdf>
-Package pdftex.def Info: ./Figures/fig2-15.pdf used on input line 361.
+Package pdftex.def Info: ./Figures/fig2-15.pdf used on input line 365.
 (pdftex.def)             Requested size: 397.48402pt x 361.34912pt.
 [88] <./Figures/fig2-16.pdf, id=2034, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-16.pdf Graphic file (type pdf)
 <use ./Figures/fig2-16.pdf>
-Package pdftex.def Info: ./Figures/fig2-16.pdf used on input line 370.
+Package pdftex.def Info: ./Figures/fig2-16.pdf used on input line 374.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
 <./Figures/fig2-17.pdf, id=2035, 397.485pt x 317.98799pt>
 File: ./Figures/fig2-17.pdf Graphic file (type pdf)
 <use ./Figures/fig2-17.pdf>
-Package pdftex.def Info: ./Figures/fig2-17.pdf used on input line 377.
+Package pdftex.def Info: ./Figures/fig2-17.pdf used on input line 381.
 (pdftex.def)             Requested size: 397.48402pt x 317.9872pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1065,7 +1075,7 @@ Underfull \vbox (badness 6725) has occurred while \output is active []
 1pt>
 File: ./Figures/fig2-18.pdf Graphic file (type pdf)
 <use ./Figures/fig2-18.pdf>
-Package pdftex.def Info: ./Figures/fig2-18.pdf used on input line 390.
+Package pdftex.def Info: ./Figures/fig2-18.pdf used on input line 394.
 (pdftex.def)             Requested size: 397.48402pt x 216.80946pt.
 ) (./13Chapter3.tex [92 <./Figures/fig2-18.pdf>]
 Chapter 3.
@@ -2291,6 +2301,9 @@ OT1/cmtt/m/n/12 http : / / database . oxfordjournals .
  []
 
 [219]) (./22Index.tex [220] (./thesis.ind))
+
+Package natbib Warning: There were undefined citations.
+
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 (./thesis.aux)
@@ -2301,10 +2314,10 @@ Package rerunfilecheck Info: File `thesis.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 10177 strings out of 495031
- 157559 string characters out of 6181531
+ 10178 strings out of 495031
+ 157584 string characters out of 6181531
  284674 words of memory out of 5000000
- 12511 multiletter control sequences out of 15000+600000
+ 12512 multiletter control sequences out of 15000+600000
  15152 words of font info for 57 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  38i,9n,41p,2957b,784s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2321,7 +2334,7 @@ ts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
 cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
 .pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on thesis.pdf (220 pages, 5329424 bytes).
+Output written on thesis.pdf (220 pages, 5330485 bytes).
 PDF statistics:
  3824 PDF objects out of 4296 (max. 8388607)
  3256 compressed objects within 33 object streams

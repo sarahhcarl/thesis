@@ -1129,4 +1129,10 @@ Zahler, S., Tietze, S., Totzke, F., Kubbutat, M., Meijer, L., Vollmar, A.~M.,
   targets.
 \newblock {\em Chemistry \& biology}, 14(11):1207--1214.
 
+\bibitem[Zdobnov and Apweiler, 2001]{zdobnov2001interproscan}
+Zdobnov, E.~M. and Apweiler, R. (2001).
+\newblock Interproscan--an integration platform for the signature-recognition
+  methods in interpro.
+\newblock {\em Bioinformatics}, 17(9):847--848.
+
 \end{thebibliography}

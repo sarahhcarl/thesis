@@ -4,7 +4,7 @@
 \begin{itemize}
   \item Drug repositioning is the discovery of new indications for approved or failed drugs.
   \item Repositioning opportunities exist because drugs perturb multiple biological entities (on and off-targets) themselves involved in multiple biological processes. As the drug discovery pipelines are focused on one disease of interest, a therapeutic application for a drug to other areas can be missed.
-  \item A variety of predictive computational approaches have been developed to identify drug repositioning opportunities, each based around a biological concept of interest.
+  \item A variety of predictive computational approaches have been developed to identify drug repositioning opportunities, each based around a biological concept of interest, or abstraction process over the data.
   \item For my thesis, I decided to investigate drug repositioning using the concept of \emph{mode of action}. This notion is of interest as it can represent the various biological functions a drug can play in an organism and help to identify new therapeutic applications.
 \end{itemize}
 
@@ -98,9 +98,16 @@ The last case discussed is less striking and unexpected than the two previous on
 \section{Computational approaches towards drug repositioning}
 \label{approaches}
 
-The theory and the clinical cases presented the reality of drug repositioning. I briefly commented on the fundamental reasons enabling new usages and stressed the importance of serendipity in this process. Now the fantasy of many scientists working in the drug discovery domain is to be able to formally predict such repositioning scenarios and unveiling new pharmacology in an automated fashion. In order to reach this distant goal or at least get closer to it, several computational approaches have been developed throughout the years. This section summarises the previous work done on the topic and motivates the novel way I explored, based on a formal representation of the \emph{mode of action}. I chose to classify the different computational approaches based on the biomedical concepts used as the centre of the methodology. Some recent reviews \citep{ashburn2004drug} \citep{dudley2011exploiting} \citep{hurle2013computational} of the field can also provide complementary information to the interested reader, as well as a different perspective and logical structure of the topic.
+The theory and the clinical cases presented the reality of drug repositioning. I briefly commented on the fundamental reasons enabling new usages and stressed the importance of serendipity in this process. Now the fantasy of many scientists working in the drug discovery domain is to be able to formally predict such repositioning scenarios and unveiling new pharmacology in an automated fashion.
 
-Abstracted to the extreme, the goal of a repositioning initiative is to establish a link between a drug and a disease. This edge represents the indication or a prescription possibility for the molecule. In order to computationally forward new indication hypotheses, it is possible to use the biomedical concepts depicted on Figure \ref{fig1-4} as proxy. Usually, a similarity value is derived from the property studied (e.g. chemical structure or gene expression level), which serves as a descriptor to rank the information and predict the new indication, materialised by a new link between a drug and a disease or a molecular target. Approaches can be roughly divided into groups, named after the central property of the analysis. Some alternative methods rely on a combination of concepts and are presented at the end of this section.
+In order to reach this distant goal or at least get closer to it, several computational approaches have been developed throughout the years. This section summarises the previous work done on the topic and motivates the novel way I explored, based on a formal representation of the \emph{mode of action}. I chose to classify the different computational approaches based on the biomedical concepts used as the centre of the methodology. Some recent reviews \citep{ashburn2004drug} \citep{dudley2011exploiting} \citep{hurle2013computational} of the field can also provide complementary information to the interested reader, as well as a different perspective and logical structure of the topic.
+
+Abstracted to the extreme, the goal of a repositioning initiative is to establish a link between a drug and a disease. This edge represents the indication or a prescription possibility for the molecule. In order to computationally forward new indication hypotheses, it is possible to use the biomedical concepts depicted on Figure \ref{fig1-4} as proxy.
+
+These various biomedical concepts represent different abstraction levels over a biological system, more or less close the biochemical reality and on the top of which it is possible to derive a value for computation or comparison.
+Usually, a similarity metric is derived from the property studied (e.g. chemical structure or gene expression level), which serves as a descriptor to rank the information and predict the new indication, materialised by a new link between a drug and a disease or a molecular target. Approaches can be roughly divided into groups, named after the central property of the analysis. Some alternative methods rely on a combination of concepts and are presented at the end of this section.
+
+The abstraction process and its relation to biomedical knowledge will be further discuss in Chapter 2 and with the black box machine model (section 2.2.1.2).
 
 \begin{figure}[ht]
     \centering
@@ -283,7 +290,9 @@ Immaturity also means creativity in this case, illustrated by the numerous metho
 }
 
 To conclude, computational drug repositioning appears as a topic of growing interest in the scientific community, as inferred from Figure \ref{fig1-13}. A series of methods have been developed in the last 5 years, summarised and discussed in this chapter. Drug repositioning is a subset of a larger problem type: indication discovery and network biology \citep{hopkins2008network}. In can be summarised as taking advantage of our increasing knowledge about systemic behaviour to computationally design smart drugs.
-The conclusions drawn from this state-of-the-art review oriented my work and motivated me to explore drug repositioning from the perspective of biological processes and molecular functions.
+Various abstraction level can be considered, as shown by the series of biomedical concepts used as starting points (see Figure \ref{fig1-4}).
+
+The conclusions drawn from this state-of-the-art review oriented my work and motivated me to explore drug repositioning from the perspective of biological processes and molecular functions. More precisely, I aimed at logically model the regulatory events to derive a functional classification of drugs.
 
 \begin{figure}[ht]
     \centering

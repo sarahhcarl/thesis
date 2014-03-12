@@ -41,7 +41,7 @@
 \contentsline {subsection}{\numberline {2.3.3}DLs' components and relation to life sciences}{70}{subsection.2.3.3}
 \contentsline {subsubsection}{\numberline {2.3.3.1}Description logics entities}{70}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Named Individuals}\\}{70}{subsubsection.2.3.3.1}
-\contentsline {paragraph}{\textbf {Concepts}\\}{71}{subsubsection.2.3.3.1}
+\contentsline {paragraph}{\textbf {Classes or concepts}\\}{71}{subsubsection.2.3.3.1}
 \contentsline {paragraph}{\textbf {Roles}\\}{71}{figure.caption.25}
 \contentsline {subsubsection}{\numberline {2.3.3.2}Axioms}{72}{subsubsection.2.3.3.2}
 \contentsline {paragraph}{\textbf {Assertional axioms (ABox)}\\}{72}{subsubsection.2.3.3.2}
@@ -49,7 +49,7 @@
 \contentsline {subparagraph}{Role assertion\\}{73}{subsubsection.2.3.3.2}
 \contentsline {paragraph}{\textbf {Terminological axioms (TBox)}\\}{73}{subsubsection.2.3.3.2}
 \contentsline {subparagraph}{Concept inclusion ($ \sqsubseteq $)\\}{73}{subsubsection.2.3.3.2}
-\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{73}{figure.caption.26}
+\contentsline {subparagraph}{Concept equivalence ($ \equiv $)\\}{74}{figure.caption.26}
 \contentsline {paragraph}{\textbf {Relational axioms (RBox)}\\}{74}{figure.caption.26}
 \contentsline {subparagraph}{Role inclusion ($ \sqsubseteq $)\\}{74}{figure.caption.26}
 \contentsline {subsubsection}{\numberline {2.3.3.3}Constructors}{75}{subsubsection.2.3.3.3}
@@ -152,11 +152,11 @@
 \contentsline {section}{\numberline {5.2}Comparison against functional genomics}{187}{section.5.2}
 \contentsline {section}{\numberline {5.3}Biomedical knowledge: towards a simpler representation}{188}{section.5.3}
 \contentsline {section}{\numberline {5.4}Off-label uses and clinical drug repositioning}{190}{section.5.4}
-\contentsline {chapter}{Bibliography}{208}{chapter*.83}
-\contentsline {chapter}{\numberline {A}Glossary}{209}{appendix.A}
-\contentsline {chapter}{\numberline {B}Abbreviations}{211}{appendix.B}
-\contentsline {chapter}{\numberline {C}Peer-reviewed publications}{213}{appendix.C}
-\contentsline {chapter}{\numberline {D}Side projects}{217}{appendix.D}
-\contentsline {chapter}{\numberline {E}Teaching and editorial work}{219}{appendix.E}
-\contentsline {section}{\numberline {E.1}Teaching experiences}{219}{section.E.1}
-\contentsline {section}{\numberline {E.2}Editorial work}{220}{section.E.2}
+\contentsline {chapter}{Bibliography}{209}{chapter*.83}
+\contentsline {chapter}{\numberline {A}Glossary}{211}{appendix.A}
+\contentsline {chapter}{\numberline {B}Abbreviations}{213}{appendix.B}
+\contentsline {chapter}{\numberline {C}Peer-reviewed publications}{215}{appendix.C}
+\contentsline {chapter}{\numberline {D}Side projects}{219}{appendix.D}
+\contentsline {chapter}{\numberline {E}Teaching and editorial work}{221}{appendix.E}
+\contentsline {section}{\numberline {E.1}Teaching experience}{221}{section.E.1}
+\contentsline {section}{\numberline {E.2}Editorial work}{222}{section.E.2}

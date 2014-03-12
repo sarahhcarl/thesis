@@ -123,5 +123,5 @@
 \BOOKMARK [0][-]{appendix.C}{Peer-reviewed publications}{}% 123
 \BOOKMARK [0][-]{appendix.D}{Side projects}{}% 124
 \BOOKMARK [0][-]{appendix.E}{Teaching and editorial work}{}% 125
-\BOOKMARK [1][-]{section.E.1}{Teaching experiences}{appendix.E}% 126
+\BOOKMARK [1][-]{section.E.1}{Teaching experience}{appendix.E}% 126
 \BOOKMARK [1][-]{section.E.2}{Editorial work}{appendix.E}% 127

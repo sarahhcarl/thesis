@@ -16,7 +16,7 @@
 \contentsline {subsection}{\numberline {1.3.6}Disease network-based approaches}{38}{subsection.1.3.6}
 \contentsline {subsection}{\numberline {1.3.7}Machine learning and concepts combination approaches}{41}{subsection.1.3.7}
 \contentsline {subsection}{\numberline {1.3.8}Summary}{43}{subsection.1.3.8}
-\contentsline {section}{\numberline {1.4}Thesis: biological process and molecular function for drug repositioning}{47}{section.1.4}
+\contentsline {section}{\numberline {1.4}Thesis: biological process and molecular function for drug repositioning}{46}{section.1.4}
 \contentsline {subsection}{\numberline {1.4.1}Rationale}{47}{subsection.1.4.1}
 \contentsline {subsection}{\numberline {1.4.2}Towards the specification, implementation and analysis}{49}{subsection.1.4.2}
 \contentsline {subsubsection}{\numberline {1.4.2.1}Chapter 2 - Description logics and biomedical knowledge (Specification)}{50}{subsubsection.1.4.2.1}

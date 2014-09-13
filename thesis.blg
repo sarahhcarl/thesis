@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: plainnat.bst
+Database file #1: thesis.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--empty year in downes_sox18_????
+Warning--empty year in downes_sox18_????
+Warning--empty year in smits_transcription_????
+Warning--empty year in smits_transcription_????
+Warning--empty year in vavouri_widespread_????
+Warning--empty year in vavouri_widespread_????
+You've used 116 entries,
+            2773 wiz_defined-function locations,
+            1453 strings with 65359 characters,
+and the built_in function-call counts, 136952 in all, are:
+= -- 10509
+> -- 16967
+< -- 31
++ -- 5667
+- -- 5547
+* -- 14966
+:= -- 23190
+add.period$ -- 609
+call.type$ -- 116
+change.case$ -- 2197
+chr.to.int$ -- 112
+cite$ -- 238
+duplicate$ -- 2417
+empty$ -- 4713
+format.name$ -- 5699
+if$ -- 26270
+int.to.chr$ -- 5
+int.to.str$ -- 1
+missing$ -- 116
+newline$ -- 848
+num.names$ -- 464
+pop$ -- 3935
+preamble$ -- 1
+purify$ -- 2081
+quote$ -- 0
+skip$ -- 3196
+stack$ -- 0
+substring$ -- 2982
+swap$ -- 206
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1276
+warning$ -- 6
+while$ -- 553
+width$ -- 0
+write$ -- 2032
+(There were 6 warnings)

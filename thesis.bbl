@@ -1,0 +1,1622 @@
+\begin{thebibliography}{116}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Akiyama et~al.(2002)Akiyama, Chaboissier, Martin, Schedl, and
+  de~Crombrugghe]{akiyama_transcription_2002}
+Haruhiko Akiyama, Marie-Christine Chaboissier, James~F. Martin, Andreas Schedl,
+  and Benoit de~Crombrugghe.
+\newblock The transcription factor sox9 has essential roles in successive steps
+  of the chondrocyte differentiation pathway and is required for expression of
+  sox5 and sox6.
+\newblock \emph{Genes \& development}, 16\penalty0 (21):\penalty0 2813--2828,
+  2002.
+\newblock URL \url{http://genesdev.cshlp.org/content/16/21/2813.short}.
+
+\bibitem[Aleksic and Russell(2009)]{aleksic_chiping_2009}
+Jelena Aleksic and Steven Russell.
+\newblock {ChIPing} away at the genome: the new frontier travel guide.
+\newblock \emph{Molecular {BioSystems}}, 5\penalty0 (12):\penalty0 1421, 2009.
+\newblock ISSN 1742-206X, 1742-2051.
+\newblock \doi{10.1039/b906179g}.
+\newblock URL \url{http://xlink.rsc.org/?DOI=b906179g}.
+
+\bibitem[Aleksic et~al.(2013)Aleksic, Ferrero, Fischer, Shen, and
+  Russell]{aleksic_role_2013}
+Jelena Aleksic, Enrico Ferrero, Bettina Fischer, Shih~Pei Shen, and Steven
+  Russell.
+\newblock The role of dichaete in transcriptional regulation during drosophila
+  embryonic development.
+\newblock \emph{{BMC} genomics}, 14\penalty0 (1):\penalty0 861, 2013.
+\newblock URL \url{http://www.biomedcentral.com/1471-2164/14/861}.
+
+\bibitem[Ambrosetti et~al.(1997)Ambrosetti, Basilico, and
+  Dailey]{ambrosetti_synergistic_1997}
+Davide-Carlo Ambrosetti, Claudio Basilico, and Lisa Dailey.
+\newblock Synergistic activation of the fibroblast growth factor 4 enhancer by
+  sox2 and oct-3 depends on protein-protein interactions facilitated by a
+  specific spatial arrangement of factor binding sites.
+\newblock \emph{Molecular and cellular biology}, 17\penalty0 (11):\penalty0
+  6321--6329, 1997.
+\newblock URL \url{http://mcb.asm.org/content/17/11/6321.short}.
+
+\bibitem[Archer et~al.(2011)Archer, Jin, and Casey]{archer_interaction_2011}
+Tenley~C. Archer, Jing Jin, and Elena~S. Casey.
+\newblock Interaction of sox1, sox2, sox3 and oct4 during primary neurogenesis.
+\newblock \emph{Developmental Biology}, 350\penalty0 (2):\penalty0 429--440,
+  February 2011.
+\newblock ISSN 00121606.
+\newblock \doi{10.1016/j.ydbio.2010.12.013}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0012160610012546}.
+
+\bibitem[Bergsland et~al.(2011)Bergsland, Ramskold, Zaouter, Klum, Sandberg,
+  and Muhr]{bergsland_sequentially_2011}
+M.~Bergsland, D.~Ramskold, C.~Zaouter, S.~Klum, R.~Sandberg, and J.~Muhr.
+\newblock Sequentially acting sox transcription factors in neural lineage
+  development.
+\newblock \emph{Genes \& Development}, 25\penalty0 (23):\penalty0 2453--2464,
+  December 2011.
+\newblock ISSN 0890-9369.
+\newblock \doi{10.1101/gad.176008.111}.
+\newblock URL \url{http://genesdev.cshlp.org/cgi/doi/10.1101/gad.176008.111}.
+
+\bibitem[Bery et~al.(2013)Bery, Martynoga, Guillemot, Joly, and
+  Retaux]{bery_characterization_2013}
+A.~Bery, B.~Martynoga, F.~Guillemot, J.-S. Joly, and S.~Retaux.
+\newblock Characterization of enhancers active in the mouse embryonic cerebral
+  cortex suggests sox/pou cis-regulatory logics and heterogeneity of cortical
+  progenitors.
+\newblock \emph{Cerebral Cortex}, May 2013.
+\newblock ISSN 1047-3211, 1460-2199.
+\newblock \doi{10.1093/cercor/bht126}.
+\newblock URL
+  \url{http://www.cercor.oxfordjournals.org/cgi/doi/10.1093/cercor/bht126}.
+
+\bibitem[Bhattaram et~al.(2010)Bhattaram, Penzo-Méndez, Sock, Colmenares,
+  Kaneko, Vassilev, DePamphilis, Wegner, and
+  Lefebvre]{bhattaram_organogenesis_2010}
+Pallavi Bhattaram, Alfredo Penzo-Méndez, Elisabeth Sock, Clemencia Colmenares,
+  Kotaro~J. Kaneko, Alex Vassilev, Melvin~L. DePamphilis, Michael Wegner, and
+  Véronique Lefebvre.
+\newblock Organogenesis relies on {SoxC} transcription factors for the survival
+  of neural and mesenchymal progenitors.
+\newblock \emph{Nature Communications}, 1\penalty0 (1):\penalty0 1--12, April
+  2010.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/ncomms1008}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/ncomms1008}.
+
+\bibitem[Biggin(2011)]{biggin_animal_2011}
+Mark D. Biggin.
+\newblock Animal transcription networks as highly connected, quantitative
+  continua.
+\newblock \emph{Developmental Cell}, 21\penalty0 (4):\penalty0 611--626,
+  October 2011.
+\newblock ISSN 15345807.
+\newblock \doi{10.1016/j.devcel.2011.09.008}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1534580711004060}.
+
+\bibitem[Bowles et~al.(2000{\natexlab{a}})Bowles, Schepers, and
+  Koopman]{bowles_phylogeny_2000}
+J~Bowles, G~Schepers, and P~Koopman.
+\newblock Phylogeny of the {SOX} family of developmental transcription factors
+  based on sequence and structural indicators.
+\newblock \emph{Developmental Biology}, 227\penalty0 (2):\penalty0 239--255,
+  November 2000{\natexlab{a}}.
+
+\bibitem[Bowles et~al.(2000{\natexlab{b}})Bowles, Schepers, and
+  Koopman]{bowles_phylogeny_2000-1}
+Josephine Bowles, Goslik Schepers, and Peter Koopman.
+\newblock Phylogeny of the {SOX} family of developmental transcription factors
+  based on sequence and structural indicators.
+\newblock \emph{Developmental Biology}, 227\penalty0 (2):\penalty0 239--255,
+  November 2000{\natexlab{b}}.
+\newblock ISSN 00121606.
+\newblock \doi{10.1006/dbio.2000.9883}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S001216060099883X}.
+
+\bibitem[Bradley et~al.(2010)Bradley, Li, Trapnell, Davidson, Pachter, Chu,
+  Tonkin, Biggin, and Eisen]{bradley_binding_2010}
+Robert~K. Bradley, Xiao-Yong Li, Cole Trapnell, Stuart Davidson, Lior Pachter,
+  Hou~Cheng Chu, Leath~A. Tonkin, Mark~D. Biggin, and Michael~B. Eisen.
+\newblock Binding site turnover produces pervasive quantitative changes in
+  transcription factor binding between closely related drosophila species.
+\newblock \emph{{PLoS} Biology}, 8\penalty0 (3):\penalty0 e1000343, March 2010.
+\newblock ISSN 1545-7885.
+\newblock \doi{10.1371/journal.pbio.1000343}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pbio.1000343}.
+
+\bibitem[Buescher et~al.(2002)Buescher, Hing, and
+  Chia]{buescher_formation_2002}
+Marita Buescher, Fook~Sion Hing, and William Chia.
+\newblock Formation of neuroblasts in the embryonic central nervous system of
+  drosophila melanogaster is controlled by {SoxNeuro}.
+\newblock \emph{Development}, 129\penalty0 (18):\penalty0 4193--4203, 2002.
+\newblock URL \url{http://dev.biologists.org/content/129/18/4193.short}.
+
+\bibitem[Clark et~al.(2007)Clark, Eisen, Smith, Bergman, Oliver, Markow,
+  Kaufman, Kellis, Gelbart, Iyer, Pollard, Sackton, Larracuente, Singh, Abad,
+  Abt, Adryan, Aguade, Akashi, Anderson, Aquadro, Ardell, Arguello, Artieri,
+  Barbash, Barker, Barsanti, Batterham, Batzoglou, Begun, Bhutkar, Blanco,
+  Bosak, Bradley, Brand, Brent, Brooks, Brown, Butlin, Caggese, Calvi,
+  Bernardo~de Carvalho, Caspi, Castrezana, Celniker, Chang, Chapple, Chatterji,
+  Chinwalla, Civetta, Clifton, Comeron, Costello, Coyne, Daub, David, Delcher,
+  Delehaunty, Do, Ebling, Edwards, Eickbush, Evans, Filipski, Findeiß,
+  Freyhult, Fulton, Fulton, Garcia, Gardiner, Garfield, Garvin, Gibson,
+  Gilbert, Gnerre, Godfrey, Good, Gotea, Gravely, Greenberg, Griffiths-Jones,
+  Gross, Guigo, Gustafson, Haerty, Hahn, Halligan, Halpern, Halter, Han, Heger,
+  Hillier, Hinrichs, Holmes, Hoskins, Hubisz, Hultmark, Huntley, Jaffe,
+  Jagadeeshan, Jeck, Johnson, Jones, Jordan, Karpen, Kataoka, Keightley,
+  Kheradpour, Kirkness, Koerich, Kristiansen, Kudrna, Kulathinal, Kumar, Kwok,
+  Lander, Langley, Lapoint, Lazzaro, Lee, Levesque, Li, Lin, Lin, Lindblad-Toh,
+  Llopart, Long, Low, Lozovsky, Lu, Luo, Machado, Makalowski, Marzo, Matsuda,
+  Matzkin, McAllister, McBride, McKernan, McKernan, Mendez-Lago, Minx,
+  Mollenhauer, Montooth, Mount, Mu, Myers, Negre, Newfeld, Nielsen, Noor,
+  O'Grady, Pachter, Papaceit, Parisi, Parisi, Parts, Pedersen, Pesole,
+  Phillippy, Ponting, Pop, Porcelli, Powell, Prohaska, Pruitt, Puig,
+  Quesneville, Ravi~Ram, Rand, Rasmussen, Reed, Reenan, Reily, Remington,
+  Rieger, Ritchie, Robin, Rogers, Rohde, Rozas, Rubenfield, Ruiz, Russo,
+  Salzberg, Sanchez-Gracia, Saranga, Sato, Schaeffer, Schatz, Schlenke,
+  Schwartz, Segarra, Singh, Sirot, Sirota, Sisneros, Smith, Smith, Spieth,
+  Stage, Stark, Stephan, Strausberg, Strempel, Sturgill, Sutton, Sutton, Tao,
+  Teichmann, Tobari, Tomimura, Tsolas, Valente, Venter, Craig~Venter, Vicario,
+  Vieira, Vilella, Villasante, Walenz, Wang, Wasserman, Watts, Wilson, Wilson,
+  Wing, Wolfner, Wong, Ka-Shu~Wong, Wu, Wu, Yamamoto, Yang, Yang, Yorke,
+  Yoshida, Zdobnov, Zhang, Zhang, Zimin, Baldwin, Abdouelleil, Abdulkadir,
+  Abebe, Abera, Abreu, Christophe~Acer, Aftuck, Alexander, An, Anderson,
+  Anderson, Arachi, Azer, Bachantsang, Barry, Bayul, Berlin, Bessette, Bloom,
+  Blye, Boguslavskiy, Bonnet, Boukhgalter, Bourzgui, Brown, Cahill, Channer,
+  Cheshatsang, Chuda, Citroen, Collymore, Cooke, Costello, D'Aco, Daza,
+  De~Haan, DeGray, DeMaso, Dhargay, Dooley, Dooley, Doricent, Dorje, Dorjee,
+  Dupes, Elong, Falk, Farina, Faro, Ferguson, Fisher, Foley, Franke, Friedrich,
+  Gadbois, Gearin, Gearin, Giannoukos, Goode, Graham, Grandbois, Grewal,
+  Gyaltsen, Hafez, Hagos, Hall, Henson, Hollinger, Honan, Huard, Hughes,
+  Hurhula, Erii~Husby, Kamat, Kanga, Kashin, Khazanovich, Kisner, Lance, Lara,
+  Lee, Lennon, Letendre, LeVine, Lipovsky, Liu, Liu, Liu, Lokyitsang,
+  Lokyitsang, Lubonja, Lui, MacDonald, Magnisalis, Maru, Matthews, McCusker,
+  McDonough, Mehta, Meldrim, Meneus, Mihai, Mihalev, Mihova, Mittelman, Mlenga,
+  Montmayeur, Mulrain, Navidi, Naylor, Negash, Nguyen, Nguyen, Nicol, Norbu,
+  Norbu, Novod, O'Neill, Osman, Markiewicz, Oyono, Patti, Phunkhang, Pierre,
+  Priest, Raghuraman, Rege, Reyes, Rise, Rogov, Ross, Ryan, Settipalli, Shea,
+  Sherpa, Shi, Shih, Sparrow, Spaulding, Stalker, Stange-Thomann, Stavropoulos,
+  Stone, Strader, Tesfaye, Thomson, Thoulutsang, Thoulutsang, Topham, Topping,
+  Tsamla, Vassiliev, Vo, Wangchuk, Wangdi, Weiand, Wilkinson, Wilson, Yadav,
+  Young, Yu, Zembek, Zhong, Zimmer, Zwirko, Jaffe, Alvarez, Brockman, Butler,
+  Chin, Gnerre, Grabherr, Kleber, Mauceli, and MacCallum]{clark_evolution_2007}
+Andrew~G. Clark, Michael~B. Eisen, Douglas~R. Smith, Casey~M. Bergman, Brian
+  Oliver, Therese~A. Markow, Thomas~C. Kaufman, Manolis Kellis, William
+  Gelbart, Venky~N. Iyer, Daniel~A. Pollard, Timothy~B. Sackton, Amanda~M.
+  Larracuente, Nadia~D. Singh, Jose~P. Abad, Dawn~N. Abt, Boris Adryan,
+  Montserrat Aguade, Hiroshi Akashi, Wyatt~W. Anderson, Charles~F. Aquadro,
+  David~H. Ardell, Roman Arguello, Carlo~G. Artieri, Daniel~A. Barbash, Daniel
+  Barker, Paolo Barsanti, Phil Batterham, Serafim Batzoglou, Dave Begun, Arjun
+  Bhutkar, Enrico Blanco, Stephanie~A. Bosak, Robert~K. Bradley, Adrianne~D.
+  Brand, Michael~R. Brent, Angela~N. Brooks, Randall~H. Brown, Roger~K. Butlin,
+  Corrado Caggese, Brian~R. Calvi, A.~Bernardo~de Carvalho, Anat Caspi, Sergio
+  Castrezana, Susan~E. Celniker, Jean~L. Chang, Charles Chapple, Sourav
+  Chatterji, Asif Chinwalla, Alberto Civetta, Sandra~W. Clifton, Josep~M.
+  Comeron, James~C. Costello, Jerry~A. Coyne, Jennifer Daub, Robert~G. David,
+  Arthur~L. Delcher, Kim Delehaunty, Chuong~B. Do, Heather Ebling, Kevin
+  Edwards, Thomas Eickbush, Jay~D. Evans, Alan Filipski, Sven Findeiß, Eva
+  Freyhult, Lucinda Fulton, Robert Fulton, Ana C.~L. Garcia, Anastasia
+  Gardiner, David~A. Garfield, Barry~E. Garvin, Greg Gibson, Don Gilbert, Sante
+  Gnerre, Jennifer Godfrey, Robert Good, Valer Gotea, Brenton Gravely,
+  Anthony~J. Greenberg, Sam Griffiths-Jones, Samuel Gross, Roderic Guigo,
+  Erik~A. Gustafson, Wilfried Haerty, Matthew~W. Hahn, Daniel~L. Halligan,
+  Aaron~L. Halpern, Gillian~M. Halter, Mira~V. Han, Andreas Heger, LaDeana
+  Hillier, Angie~S. Hinrichs, Ian Holmes, Roger~A. Hoskins, Melissa~J. Hubisz,
+  Dan Hultmark, Melanie~A. Huntley, David~B. Jaffe, Santosh Jagadeeshan,
+  William~R. Jeck, Justin Johnson, Corbin~D. Jones, William~C. Jordan, Gary~H.
+  Karpen, Eiko Kataoka, Peter~D. Keightley, Pouya Kheradpour, Ewen~F. Kirkness,
+  Leonardo~B. Koerich, Karsten Kristiansen, Dave Kudrna, Rob~J. Kulathinal,
+  Sudhir Kumar, Roberta Kwok, Eric Lander, Charles~H. Langley, Richard Lapoint,
+  Brian~P. Lazzaro, So-Jeong Lee, Lisa Levesque, Ruiqiang Li, Chiao-Feng Lin,
+  Michael~F. Lin, Kerstin Lindblad-Toh, Ana Llopart, Manyuan Long, Lloyd Low,
+  Elena Lozovsky, Jian Lu, Meizhong Luo, Carlos~A. Machado, Wojciech
+  Makalowski, Mar Marzo, Muneo Matsuda, Luciano Matzkin, Bryant McAllister,
+  Carolyn~S. McBride, Brendan McKernan, Kevin McKernan, Maria Mendez-Lago,
+  Patrick Minx, Michael~U. Mollenhauer, Kristi Montooth, Stephen~M. Mount,
+  Xu~Mu, Eugene Myers, Barbara Negre, Stuart Newfeld, Rasmus Nielsen, Mohamed
+  A.~F. Noor, Patrick O'Grady, Lior Pachter, Montserrat Papaceit, Matthew~J.
+  Parisi, Michael Parisi, Leopold Parts, Jakob~S. Pedersen, Graziano Pesole,
+  Adam~M. Phillippy, Chris~P. Ponting, Mihai Pop, Damiano Porcelli, Jeffrey~R.
+  Powell, Sonja Prohaska, Kim Pruitt, Marta Puig, Hadi Quesneville, Kristipati
+  Ravi~Ram, David Rand, Matthew~D. Rasmussen, Laura~K. Reed, Robert Reenan, Amy
+  Reily, Karin~A. Remington, Tania~T. Rieger, Michael~G. Ritchie, Charles
+  Robin, Yu-Hui Rogers, Claudia Rohde, Julio Rozas, Marc~J. Rubenfield, Alfredo
+  Ruiz, Susan Russo, Steven~L. Salzberg, Alejandro Sanchez-Gracia, David~J.
+  Saranga, Hajime Sato, Stephen~W. Schaeffer, Michael~C. Schatz, Todd Schlenke,
+  Russell Schwartz, Carmen Segarra, Rama~S. Singh, Laura Sirot, Marina Sirota,
+  Nicholas~B. Sisneros, Chris~D. Smith, Temple~F. Smith, John Spieth,
+  Deborah~E. Stage, Alexander Stark, Wolfgang Stephan, Robert~L. Strausberg,
+  Sebastian Strempel, David Sturgill, Granger Sutton, Granger~G. Sutton, Wei
+  Tao, Sarah Teichmann, Yoshiko~N. Tobari, Yoshihiko Tomimura, Jason~M. Tsolas,
+  Vera L.~S. Valente, Eli Venter, J.~Craig~Venter, Saverio Vicario, Filipe~G.
+  Vieira, Albert~J. Vilella, Alfredo Villasante, Brian Walenz, Jun Wang, Marvin
+  Wasserman, Thomas Watts, Derek Wilson, Richard~K. Wilson, Rod~A. Wing,
+  Mariana~F. Wolfner, Alex Wong, Gane Ka-Shu~Wong, Chung-I Wu, Gabriel Wu,
+  Daisuke Yamamoto, Hsiao-Pei Yang, Shiaw-Pyng Yang, James~A. Yorke, Kiyohito
+  Yoshida, Evgeny Zdobnov, Peili Zhang, Yu~Zhang, Aleksey~V. Zimin, Jennifer
+  Baldwin, Amr Abdouelleil, Jamal Abdulkadir, Adal Abebe, Brikti Abera, Justin
+  Abreu, St~Christophe~Acer, Lynne Aftuck, Allen Alexander, Peter An, Erica
+  Anderson, Scott Anderson, Harindra Arachi, Marc Azer, Pasang Bachantsang,
+  Andrew Barry, Tashi Bayul, Aaron Berlin, Daniel Bessette, Toby Bloom, Jason
+  Blye, Leonid Boguslavskiy, Claude Bonnet, Boris Boukhgalter, Imane Bourzgui,
+  Adam Brown, Patrick Cahill, Sheridon Channer, Yama Cheshatsang, Lisa Chuda,
+  Mieke Citroen, Alville Collymore, Patrick Cooke, Maura Costello, Katie D'Aco,
+  Riza Daza, Georgius De~Haan, Stuart DeGray, Christina DeMaso, Norbu Dhargay,
+  Kimberly Dooley, Erin Dooley, Missole Doricent, Passang Dorje, Kunsang
+  Dorjee, Alan Dupes, Richard Elong, Jill Falk, Abderrahim Farina, Susan Faro,
+  Diallo Ferguson, Sheila Fisher, Chelsea~D. Foley, Alicia Franke, Dennis
+  Friedrich, Loryn Gadbois, Gary Gearin, Christina~R. Gearin, Georgia
+  Giannoukos, Tina Goode, Joseph Graham, Edward Grandbois, Sharleen Grewal,
+  Kunsang Gyaltsen, Nabil Hafez, Birhane Hagos, Jennifer Hall, Charlotte
+  Henson, Andrew Hollinger, Tracey Honan, Monika~D. Huard, Leanne Hughes, Brian
+  Hurhula, M~Erii~Husby, Asha Kamat, Ben Kanga, Seva Kashin, Dmitry
+  Khazanovich, Peter Kisner, Krista Lance, Marcia Lara, William Lee, Niall
+  Lennon, Frances Letendre, Rosie LeVine, Alex Lipovsky, Xiaohong Liu, Jinlei
+  Liu, Shangtao Liu, Tashi Lokyitsang, Yeshi Lokyitsang, Rakela Lubonja, Annie
+  Lui, Pen MacDonald, Vasilia Magnisalis, Kebede Maru, Charles Matthews,
+  William McCusker, Susan McDonough, Teena Mehta, James Meldrim, Louis Meneus,
+  Oana Mihai, Atanas Mihalev, Tanya Mihova, Rachel Mittelman, Valentine Mlenga,
+  Anna Montmayeur, Leonidas Mulrain, Adam Navidi, Jerome Naylor, Tamrat Negash,
+  Thu Nguyen, Nga Nguyen, Robert Nicol, Choe Norbu, Nyima Norbu, Nathaniel
+  Novod, Barry O'Neill, Sahal Osman, Eva Markiewicz, Otero~L. Oyono,
+  Christopher Patti, Pema Phunkhang, Fritz Pierre, Margaret Priest, Sujaa
+  Raghuraman, Filip Rege, Rebecca Reyes, Cecil Rise, Peter Rogov, Keenan Ross,
+  Elizabeth Ryan, Sampath Settipalli, Terry Shea, Ngawang Sherpa, Lu~Shi, Diana
+  Shih, Todd Sparrow, Jessica Spaulding, John Stalker, Nicole Stange-Thomann,
+  Sharon Stavropoulos, Catherine Stone, Christopher Strader, Senait Tesfaye,
+  Talene Thomson, Yama Thoulutsang, Dawa Thoulutsang, Kerri Topham, Ira
+  Topping, Tsamla Tsamla, Helen Vassiliev, Andy Vo, Tsering Wangchuk, Tsering
+  Wangdi, Michael Weiand, Jane Wilkinson, Adam Wilson, Shailendra Yadav, Geneva
+  Young, Qing Yu, Lisa Zembek, Danni Zhong, Andrew Zimmer, Zac Zwirko, David~B.
+  Jaffe, Pablo Alvarez, Will Brockman, Jonathan Butler, CheeWhye Chin, Sante
+  Gnerre, Manfred Grabherr, Michael Kleber, Evan Mauceli, and Iain MacCallum.
+\newblock Evolution of genes and genomes on the drosophila phylogeny.
+\newblock \emph{Nature}, 450\penalty0 (7167):\penalty0 203--218, November 2007.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature06341}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature06341}.
+
+\bibitem[Collignon et~al.(1996)Collignon, Sockanathan, Hacker, Cohen-Tannoudji,
+  Norris, Rastan, Stevanovic, Goodfellow, and
+  Lovell-Badge]{collignon_comparison_1996}
+Jérôme Collignon, Shanthini Sockanathan, Adam Hacker, Michel Cohen-Tannoudji,
+  Dominic Norris, Sohaila Rastan, Milena Stevanovic, Peter~N. Goodfellow, and
+  Robin Lovell-Badge.
+\newblock A comparison of the properties of sox-3 with sry and two related
+  genes, sox-1 and sox-2.
+\newblock \emph{Development}, 122\penalty0 (2):\penalty0 509--520, 1996.
+\newblock URL \url{http://dev.biologists.org/content/122/2/509.short}.
+
+\bibitem[Contrino et~al.(2011)Contrino, Smith, Butano, Carr, Hu, Lyne,
+  Rutherford, Kalderimis, Sullivan, Carbon, Kephart, Lloyd, Stinson,
+  Washington, Perry, Ruzanov, Zha, Lewis, Stein, and
+  Micklem]{contrino_modmine:_2011}
+S.~Contrino, R.~N. Smith, D.~Butano, A.~Carr, F.~Hu, R.~Lyne, K.~Rutherford,
+  A.~Kalderimis, J.~Sullivan, S.~Carbon, E.~T. Kephart, P.~Lloyd, E.~O.
+  Stinson, N.~L. Washington, M.~D. Perry, P.~Ruzanov, Z.~Zha, S.~E. Lewis,
+  L.~D. Stein, and G.~Micklem.
+\newblock {modMine}: flexible access to {modENCODE} data.
+\newblock \emph{Nucleic Acids Research}, 40\penalty0 (D1):\penalty0
+  D1082--D1088, November 2011.
+\newblock ISSN 0305-1048, 1362-4962.
+\newblock \doi{10.1093/nar/gkr921}.
+\newblock URL
+  \url{http://nar.oxfordjournals.org/lookup/doi/10.1093/nar/gkr921}.
+
+\bibitem[Crémazy et~al.(2000)Crémazy, Berta, and Girard]{cremazy_<_2000}
+Frédéric Crémazy, Philippe Berta, and Franck Girard.
+\newblock {\textless} i{\textgreater} sox neuro{\textless}/i{\textgreater}, a
+  new drosophila sox gene expressed in the developing central nervous system.
+\newblock \emph{Mechanisms of development}, 93\penalty0 (1):\penalty0 215--219,
+  2000.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0925477300002689}.
+
+\bibitem[Downes and Koopman()]{downes_sox18_????}
+Meredith Downes and Peter Koopman.
+\newblock {SOX}18 and the transcriptional regulation of blood vessel
+  development.
+\newblock \emph{Trends in Cardiovascular Medicine}, 11\penalty0 (8):\penalty0
+  318--324.
+\newblock \doi{10.1016/S1050-1738(01)00131-1}.
+\newblock URL
+  \url{http://www.tcmonline.org/article/S1050-1738(01)00131-1/abstract}.
+
+\bibitem[Dunham et~al.(2012)Dunham, Kundaje, Aldred, Collins, Davis, Doyle,
+  Epstein, Frietze, Harrow, Kaul, Khatun, Lajoie, Landt, Lee, Pauli,
+  Rosenbloom, Sabo, Safi, Sanyal, Shoresh, Simon, Song, Trinklein, Altshuler,
+  Birney, Brown, Cheng, Djebali, Dong, Dunham, Ernst, Furey, Gerstein,
+  Giardine, Greven, Hardison, Harris, Herrero, Hoffman, Iyer, Kellis, Khatun,
+  Kheradpour, Kundaje, Lassmann, Li, Lin, Marinov, Merkel, Mortazavi, Parker,
+  Reddy, Rozowsky, Schlesinger, Thurman, Wang, Ward, Whitfield, Wilder, Wu, Xi,
+  Yip, Zhuang, Bernstein, Birney, Dunham, Green, Gunter, Snyder, Pazin, Lowdon,
+  Dillon, Adams, Kelly, Zhang, Wexler, Green, Good, Feingold, Bernstein,
+  Birney, Crawford, Dekker, Elnitski, Farnham, Gerstein, Giddings, Gingeras,
+  Green, Guigó, Hardison, Hubbard, Kellis, Kent, Lieb, Margulies, Myers,
+  Snyder, Stamatoyannopoulos, Tenenbaum, Weng, White, Wold, Khatun, Yu, Wrobel,
+  Risk, Gunawardena, Kuiper, Maier, Xie, Chen, Giddings, Bernstein, Epstein,
+  Shoresh, Ernst, Kheradpour, Mikkelsen, Gillespie, Goren, Ram, Zhang, Wang,
+  Issner, Coyne, Durham, Ku, Truong, Ward, Altshuler, Eaton, Kellis, Djebali,
+  Davis, Merkel, Dobin, Lassmann, Mortazavi, Tanzer, Lagarde, Lin, Schlesinger,
+  Xue, Marinov, Khatun, Williams, Zaleski, Rozowsky, Röder, Kokocinski,
+  Abdelhamid, Alioto, Antoshechkin, Baer, Batut, Bell, Bell, Chakrabortty,
+  Chen, Chrast, Curado, Derrien, Drenkow, Dumais, Dumais, Duttagupta, Fastuca,
+  Fejes-Toth, Ferreira, Foissac, Fullwood, Gao, Gonzalez, Gordon, Gunawardena,
+  Howald, Jha, Johnson, Kapranov, King, Kingswood, Li, Luo, Park, Preall,
+  Presaud, Ribeca, Risk, Robyr, Ruan, Sammeth, Sandhu, Schaeffer, See, Shahab,
+  Skancke, Suzuki, Takahashi, Tilgner, Trout, Walters, Wang, Wrobel, Yu,
+  Hayashizaki, Harrow, Gerstein, Hubbard, Reymond, Antonarakis, Hannon,
+  Giddings, Ruan, Wold, Carninci, Guigó, Gingeras, Rosenbloom, Sloan, Learned,
+  Malladi, Wong, Barber, Cline, Dreszer, Heitner, Karolchik, Kent, Kirkup,
+  Meyer, Long, Maddren, Raney, Furey, Song, Grasfeder, Giresi, Lee,
+  Battenhouse, Sheffield, Simon, Showers, Safi, London, Bhinge, Shestak,
+  Schaner, Ki~Kim, Zhang, Mieczkowski, Mieczkowska, Liu, McDaniell, Ni, Rashid,
+  Kim, Adar, Zhang, Wang, Winter, Keefe, Birney, Iyer, Lieb, Crawford, Li,
+  Sandhu, Zheng, Wang, Luo, Shahab, Fullwood, Ruan, Ruan, Myers, Pauli,
+  Williams, Gertz, Marinov, Reddy, Vielmetter, Partridge, Trout, Varley,
+  Gasper, Bansal, Pepke, Jain, Amrhein, Bowling, Anaya, Cross, King, Muratet,
+  Antoshechkin, Newberry, McCue, Nesmith, Fisher-Aylor, Pusey, DeSalvo, Parker,
+  Balasubramanian, Davis, Meadows, Eggleston, Gunter, Newberry, Levy, Absher,
+  Mortazavi, Wong, Wold, Blow, Visel, Pennachio, Elnitski, Margulies, Parker,
+  Petrykowska, Abyzov, Aken, Barrell, Barson, Berry, Bignell, Boychenko,
+  Bussotti, Chrast, Davidson, Derrien, Despacio-Reyes, Diekhans, Ezkurdia,
+  Frankish, Gilbert, Gonzalez, Griffiths, Harte, Hendrix, Howald, Hunt,
+  Jungreis, Kay, Khurana, Kokocinski, Leng, Lin, Loveland, Lu, Manthravadi,
+  Mariotti, Mudge, Mukherjee, Notredame, Pei, Rodriguez, Saunders, Sboner,
+  Searle, Sisu, Snow, Steward, Tanzer, Tapanari, Tress, van Baren, Walters,
+  Washietl, Wilming, Zadissa, Zhang, Brent, Haussler, Kellis, Valencia,
+  Gerstein, Reymond, Guigó, Harrow, Hubbard, Landt, Frietze, Abyzov, Addleman,
+  Alexander, Auerbach, Balasubramanian, Bettinger, Bhardwaj, Boyle, Cao,
+  Cayting, Charos, Cheng, Cheng, Eastman, Euskirchen, Fleming, Grubert,
+  Habegger, Hariharan, Harmanci, Iyengar, Jin, Karczewski, Kasowski, Lacroute,
+  Lam, Lamarre-Vincent, Leng, Lian, Lindahl-Allen, Min, Miotto, Monahan,
+  Moqtaderi, Mu, O’Geen, Ouyang, Patacsil, Pei, Raha, Ramirez, Reed,
+  Rozowsky, Sboner, Shi, Sisu, Slifer, Witt, Wu, Xu, Yan, Yang, Yip, Zhang,
+  Struhl, Weissman, Gerstein, Farnham, Snyder, Tenenbaum, Penalva, Doyle,
+  Karmakar, Landt, Bhanvadia, Choudhury, Domanus, Ma, Moran, Patacsil, Slifer,
+  Victorsen, Yang, Snyder, White, Auer, Centanin, Eichenlaub, Gruhl, Heermann,
+  Hoeckendorf, Inoue, Kellner, Kirchmaier, Mueller, Reinhardt, Schertel,
+  Schneider, Sinn, Wittbrodt, Wittbrodt, Weng, Whitfield, Wang, Collins,
+  Aldred, Trinklein, Partridge, Myers, Dekker, Jain, Lajoie, Sanyal,
+  Balasundaram, Bates, Byron, Canfield, Diegel, Dunn, Ebersol, Frum, Garg,
+  Gist, Hansen, Boatman, Haugen, Humbert, Jain, Johnson, Johnson, Kutyavin,
+  Lajoie, Lee, Lotakis, Maurano, Neph, Neri, Nguyen, Qu, Reynolds, Roach,
+  Rynes, Sabo, Sanchez, Sandstrom, Sanyal, Shafer, Stergachis, Thomas, Thurman,
+  Vernot, Vierstra, Vong, Wang, Weaver, Yan, Zhang, Akey, Bender, Dorschner,
+  Groudine, MacCoss, Navas, Stamatoyannopoulos, Kaul, Dekker,
+  Stamatoyannopoulos, Dunham, Beal, Brazma, Flicek, Herrero, Johnson, Keefe,
+  Lukk, Luscombe, Sobral, Vaquerizas, Wilder, Batzoglou, Sidow, Hussami,
+  Kyriazopoulou-Panagiotopoulou, Libbrecht, Schaub, Kundaje, Hardison, Miller,
+  Giardine, Harris, Wu, Bickel, Banfai, Boley, Brown, Huang, Li, Li, Noble,
+  Bilmes, Buske, Hoffman, Sahu, Kharchenko, Park, Baker, Taylor, Weng, Iyer,
+  Dong, Greven, Lin, Wang, Xi, Zhuang, Gerstein, Alexander, Balasubramanian,
+  Cheng, Harmanci, Lochovsky, Min, Mu, Rozowsky, Yan, Yip, and
+  Birney]{dunham_integrated_2012}
+Ian Dunham, Anshul Kundaje, Shelley~F. Aldred, Patrick~J. Collins, Carrie~A.
+  Davis, Francis Doyle, Charles~B. Epstein, Seth Frietze, Jennifer Harrow,
+  Rajinder Kaul, Jainab Khatun, Bryan~R. Lajoie, Stephen~G. Landt, Bum-Kyu Lee,
+  Florencia Pauli, Kate~R. Rosenbloom, Peter Sabo, Alexias Safi, Amartya
+  Sanyal, Noam Shoresh, Jeremy~M. Simon, Lingyun Song, Nathan~D. Trinklein,
+  Robert~C. Altshuler, Ewan Birney, James~B. Brown, Chao Cheng, Sarah Djebali,
+  Xianjun Dong, Ian Dunham, Jason Ernst, Terrence~S. Furey, Mark Gerstein,
+  Belinda Giardine, Melissa Greven, Ross~C. Hardison, Robert~S. Harris, Javier
+  Herrero, Michael~M. Hoffman, Sowmya Iyer, Manolis Kellis, Jainab Khatun,
+  Pouya Kheradpour, Anshul Kundaje, Timo Lassmann, Qunhua Li, Xinying Lin,
+  Georgi~K. Marinov, Angelika Merkel, Ali Mortazavi, Stephen C.~J. Parker,
+  Timothy~E. Reddy, Joel Rozowsky, Felix Schlesinger, Robert~E. Thurman, Jie
+  Wang, Lucas~D. Ward, Troy~W. Whitfield, Steven~P. Wilder, Weisheng Wu,
+  Hualin~S. Xi, Kevin~Y. Yip, Jiali Zhuang, Bradley~E. Bernstein, Ewan Birney,
+  Ian Dunham, Eric~D. Green, Chris Gunter, Michael Snyder, Michael~J. Pazin,
+  Rebecca~F. Lowdon, Laura A.~L. Dillon, Leslie~B. Adams, Caroline~J. Kelly,
+  Julia Zhang, Judith~R. Wexler, Eric~D. Green, Peter~J. Good, Elise~A.
+  Feingold, Bradley~E. Bernstein, Ewan Birney, Gregory~E. Crawford, Job Dekker,
+  Laura Elnitski, Peggy~J. Farnham, Mark Gerstein, Morgan~C. Giddings,
+  Thomas~R. Gingeras, Eric~D. Green, Roderic Guigó, Ross~C. Hardison,
+  Timothy~J. Hubbard, Manolis Kellis, W.~James Kent, Jason~D. Lieb, Elliott~H.
+  Margulies, Richard~M. Myers, Michael Snyder, John~A. Stamatoyannopoulos,
+  Scott~A. Tenenbaum, Zhiping Weng, Kevin~P. White, Barbara Wold, Jainab
+  Khatun, Yanbao Yu, John Wrobel, Brian~A. Risk, Harsha~P. Gunawardena,
+  Heather~C. Kuiper, Christopher~W. Maier, Ling Xie, Xian Chen, Morgan~C.
+  Giddings, Bradley~E. Bernstein, Charles~B. Epstein, Noam Shoresh, Jason
+  Ernst, Pouya Kheradpour, Tarjei~S. Mikkelsen, Shawn Gillespie, Alon Goren,
+  Oren Ram, Xiaolan Zhang, Li~Wang, Robbyn Issner, Michael~J. Coyne, Timothy
+  Durham, Manching Ku, Thanh Truong, Lucas~D. Ward, Robert~C. Altshuler,
+  Matthew~L. Eaton, Manolis Kellis, Sarah Djebali, Carrie~A. Davis, Angelika
+  Merkel, Alex Dobin, Timo Lassmann, Ali Mortazavi, Andrea Tanzer, Julien
+  Lagarde, Wei Lin, Felix Schlesinger, Chenghai Xue, Georgi~K. Marinov, Jainab
+  Khatun, Brian~A. Williams, Chris Zaleski, Joel Rozowsky, Maik Röder, Felix
+  Kokocinski, Rehab~F. Abdelhamid, Tyler Alioto, Igor Antoshechkin, Michael~T.
+  Baer, Philippe Batut, Ian Bell, Kimberly Bell, Sudipto Chakrabortty, Xian
+  Chen, Jacqueline Chrast, Joao Curado, Thomas Derrien, Jorg Drenkow, Erica
+  Dumais, Jackie Dumais, Radha Duttagupta, Megan Fastuca, Kata Fejes-Toth,
+  Pedro Ferreira, Sylvain Foissac, Melissa~J. Fullwood, Hui Gao, David
+  Gonzalez, Assaf Gordon, Harsha~P. Gunawardena, Cédric Howald, Sonali Jha,
+  Rory Johnson, Philipp Kapranov, Brandon King, Colin Kingswood, Guoliang Li,
+  Oscar~J. Luo, Eddie Park, Jonathan~B. Preall, Kimberly Presaud, Paolo Ribeca,
+  Brian~A. Risk, Daniel Robyr, Xiaoan Ruan, Michael Sammeth, Kuljeet~Singh
+  Sandhu, Lorain Schaeffer, Lei-Hoon See, Atif Shahab, Jorgen Skancke,
+  Ana~Maria Suzuki, Hazuki Takahashi, Hagen Tilgner, Diane Trout, Nathalie
+  Walters, Huaien Wang, John Wrobel, Yanbao Yu, Yoshihide Hayashizaki, Jennifer
+  Harrow, Mark Gerstein, Timothy~J. Hubbard, Alexandre Reymond, Stylianos~E.
+  Antonarakis, Gregory~J. Hannon, Morgan~C. Giddings, Yijun Ruan, Barbara Wold,
+  Piero Carninci, Roderic Guigó, Thomas~R. Gingeras, Kate~R. Rosenbloom,
+  Cricket~A. Sloan, Katrina Learned, Venkat~S. Malladi, Matthew~C. Wong,
+  Galt~P. Barber, Melissa~S. Cline, Timothy~R. Dreszer, Steven~G. Heitner,
+  Donna Karolchik, W.~James Kent, Vanessa~M. Kirkup, Laurence~R. Meyer,
+  Jeffrey~C. Long, Morgan Maddren, Brian~J. Raney, Terrence~S. Furey, Lingyun
+  Song, Linda~L. Grasfeder, Paul~G. Giresi, Bum-Kyu Lee, Anna Battenhouse,
+  Nathan~C. Sheffield, Jeremy~M. Simon, Kimberly~A. Showers, Alexias Safi,
+  Darin London, Akshay~A. Bhinge, Christopher Shestak, Matthew~R. Schaner, Seul
+  Ki~Kim, Zhuzhu~Z. Zhang, Piotr~A. Mieczkowski, Joanna~O. Mieczkowska, Zheng
+  Liu, Ryan~M. McDaniell, Yunyun Ni, Naim~U. Rashid, Min~Jae Kim, Sheera Adar,
+  Zhancheng Zhang, Tianyuan Wang, Deborah Winter, Damian Keefe, Ewan Birney,
+  Vishwanath~R. Iyer, Jason~D. Lieb, Gregory~E. Crawford, Guoliang Li,
+  Kuljeet~Singh Sandhu, Meizhen Zheng, Ping Wang, Oscar~J. Luo, Atif Shahab,
+  Melissa~J. Fullwood, Xiaoan Ruan, Yijun Ruan, Richard~M. Myers, Florencia
+  Pauli, Brian~A. Williams, Jason Gertz, Georgi~K. Marinov, Timothy~E. Reddy,
+  Jost Vielmetter, E.~Partridge, Diane Trout, Katherine~E. Varley, Clarke
+  Gasper, Anita Bansal, Shirley Pepke, Preti Jain, Henry Amrhein, Kevin~M.
+  Bowling, Michael Anaya, Marie~K. Cross, Brandon King, Michael~A. Muratet,
+  Igor Antoshechkin, Kimberly~M. Newberry, Kenneth McCue, Amy~S. Nesmith,
+  Katherine~I. Fisher-Aylor, Barbara Pusey, Gilberto DeSalvo, Stephanie~L.
+  Parker, Sreeram Balasubramanian, Nicholas~S. Davis, Sarah~K. Meadows, Tracy
+  Eggleston, Chris Gunter, J.~Scott Newberry, Shawn~E. Levy, Devin~M. Absher,
+  Ali Mortazavi, Wing~H. Wong, Barbara Wold, Matthew~J. Blow, Axel Visel,
+  Len~A. Pennachio, Laura Elnitski, Elliott~H. Margulies, Stephen C.~J. Parker,
+  Hanna~M. Petrykowska, Alexej Abyzov, Bronwen Aken, Daniel Barrell, Gemma
+  Barson, Andrew Berry, Alexandra Bignell, Veronika Boychenko, Giovanni
+  Bussotti, Jacqueline Chrast, Claire Davidson, Thomas Derrien, Gloria
+  Despacio-Reyes, Mark Diekhans, Iakes Ezkurdia, Adam Frankish, James Gilbert,
+  Jose~Manuel Gonzalez, Ed~Griffiths, Rachel Harte, David~A. Hendrix, Cédric
+  Howald, Toby Hunt, Irwin Jungreis, Mike Kay, Ekta Khurana, Felix Kokocinski,
+  Jing Leng, Michael~F. Lin, Jane Loveland, Zhi Lu, Deepa Manthravadi, Marco
+  Mariotti, Jonathan Mudge, Gaurab Mukherjee, Cedric Notredame, Baikang Pei,
+  Jose~Manuel Rodriguez, Gary Saunders, Andrea Sboner, Stephen Searle, Cristina
+  Sisu, Catherine Snow, Charlie Steward, Andrea Tanzer, Electra Tapanari,
+  Michael~L. Tress, Marijke~J. van Baren, Nathalie Walters, Stefan Washietl,
+  Laurens Wilming, Amonida Zadissa, Zhengdong Zhang, Michael Brent, David
+  Haussler, Manolis Kellis, Alfonso Valencia, Mark Gerstein, Alexandre Reymond,
+  Roderic Guigó, Jennifer Harrow, Timothy~J. Hubbard, Stephen~G. Landt, Seth
+  Frietze, Alexej Abyzov, Nick Addleman, Roger~P. Alexander, Raymond~K.
+  Auerbach, Suganthi Balasubramanian, Keith Bettinger, Nitin Bhardwaj, Alan~P.
+  Boyle, Alina~R. Cao, Philip Cayting, Alexandra Charos, Yong Cheng, Chao
+  Cheng, Catharine Eastman, Ghia Euskirchen, Joseph~D. Fleming, Fabian Grubert,
+  Lukas Habegger, Manoj Hariharan, Arif Harmanci, Sushma Iyengar, Victor~X.
+  Jin, Konrad~J. Karczewski, Maya Kasowski, Phil Lacroute, Hugo Lam, Nathan
+  Lamarre-Vincent, Jing Leng, Jin Lian, Marianne Lindahl-Allen, Renqiang Min,
+  Benoit Miotto, Hannah Monahan, Zarmik Moqtaderi, Xinmeng~J. Mu, Henriette
+  O’Geen, Zhengqing Ouyang, Dorrelyn Patacsil, Baikang Pei, Debasish Raha,
+  Lucia Ramirez, Brian Reed, Joel Rozowsky, Andrea Sboner, Minyi Shi, Cristina
+  Sisu, Teri Slifer, Heather Witt, Linfeng Wu, Xiaoqin Xu, Koon-Kiu Yan,
+  Xinqiong Yang, Kevin~Y. Yip, Zhengdong Zhang, Kevin Struhl, Sherman~M.
+  Weissman, Mark Gerstein, Peggy~J. Farnham, Michael Snyder, Scott~A.
+  Tenenbaum, Luiz~O. Penalva, Francis Doyle, Subhradip Karmakar, Stephen~G.
+  Landt, Raj~R. Bhanvadia, Alina Choudhury, Marc Domanus, Lijia Ma, Jennifer
+  Moran, Dorrelyn Patacsil, Teri Slifer, Alec Victorsen, Xinqiong Yang, Michael
+  Snyder, Kevin~P. White, Thomas Auer, Lazaro Centanin, Michael Eichenlaub,
+  Franziska Gruhl, Stephan Heermann, Burkhard Hoeckendorf, Daigo Inoue, Tanja
+  Kellner, Stephan Kirchmaier, Claudia Mueller, Robert Reinhardt, Lea Schertel,
+  Stephanie Schneider, Rebecca Sinn, Beate Wittbrodt, Jochen Wittbrodt, Zhiping
+  Weng, Troy~W. Whitfield, Jie Wang, Patrick~J. Collins, Shelley~F. Aldred,
+  Nathan~D. Trinklein, E.~Christopher Partridge, Richard~M. Myers, Job Dekker,
+  Gaurav Jain, Bryan~R. Lajoie, Amartya Sanyal, Gayathri Balasundaram,
+  Daniel~L. Bates, Rachel Byron, Theresa~K. Canfield, Morgan~J. Diegel, Douglas
+  Dunn, Abigail~K. Ebersol, Tristan Frum, Kavita Garg, Erica Gist, R.~Scott
+  Hansen, Lisa Boatman, Eric Haugen, Richard Humbert, Gaurav Jain, Audra~K.
+  Johnson, Ericka~M. Johnson, Tattyana~V. Kutyavin, Bryan~R. Lajoie, Kristen
+  Lee, Dimitra Lotakis, Matthew~T. Maurano, Shane~J. Neph, Fiedencio~V. Neri,
+  Eric~D. Nguyen, Hongzhu Qu, Alex~P. Reynolds, Vaughn Roach, Eric Rynes, Peter
+  Sabo, Minerva~E. Sanchez, Richard~S. Sandstrom, Amartya Sanyal, Anthony~O.
+  Shafer, Andrew~B. Stergachis, Sean Thomas, Robert~E. Thurman, Benjamin
+  Vernot, Jeff Vierstra, Shinny Vong, Hao Wang, Molly~A. Weaver, Yongqi Yan,
+  Miaohua Zhang, Joshua~M. Akey, Michael Bender, Michael~O. Dorschner, Mark
+  Groudine, Michael~J. MacCoss, Patrick Navas, George Stamatoyannopoulos,
+  Rajinder Kaul, Job Dekker, John~A. Stamatoyannopoulos, Ian Dunham, Kathryn
+  Beal, Alvis Brazma, Paul Flicek, Javier Herrero, Nathan Johnson, Damian
+  Keefe, Margus Lukk, Nicholas~M. Luscombe, Daniel Sobral, Juan~M. Vaquerizas,
+  Steven~P. Wilder, Serafim Batzoglou, Arend Sidow, Nadine Hussami, Sofia
+  Kyriazopoulou-Panagiotopoulou, Max~W. Libbrecht, Marc~A. Schaub, Anshul
+  Kundaje, Ross~C. Hardison, Webb Miller, Belinda Giardine, Robert~S. Harris,
+  Weisheng Wu, Peter~J. Bickel, Balazs Banfai, Nathan~P. Boley, James~B. Brown,
+  Haiyan Huang, Qunhua Li, Jingyi~Jessica Li, William~Stafford Noble,
+  Jeffrey~A. Bilmes, Orion~J. Buske, Michael~M. Hoffman, Avinash~D. Sahu,
+  Peter~V. Kharchenko, Peter~J. Park, Dannon Baker, James Taylor, Zhiping Weng,
+  Sowmya Iyer, Xianjun Dong, Melissa Greven, Xinying Lin, Jie Wang, Hualin~S.
+  Xi, Jiali Zhuang, Mark Gerstein, Roger~P. Alexander, Suganthi
+  Balasubramanian, Chao Cheng, Arif Harmanci, Lucas Lochovsky, Renqiang Min,
+  Xinmeng~J. Mu, Joel Rozowsky, Koon-Kiu Yan, Kevin~Y. Yip, and Ewan Birney.
+\newblock An integrated encyclopedia of {DNA} elements in the human genome.
+\newblock \emph{Nature}, 489\penalty0 (7414):\penalty0 57--74, September 2012.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature11247}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature11247}.
+
+\bibitem[Espinosa-Soto and Wagner(2010)]{espinosa-soto_specialization_2010}
+Carlos Espinosa-Soto and Andreas Wagner.
+\newblock Specialization can drive the evolution of modularity.
+\newblock \emph{{PLoS} computational biology}, 6\penalty0 (3):\penalty0
+  e1000719, 2010.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pcbi.1000719}.
+
+\bibitem[Ferrari et~al.(1992)Ferrari, Harley, Pontiggia, Goodfellow,
+  Lovell-Badge, and Bianchi]{ferrari_sry_1992}
+S.~Ferrari, V.~R. Harley, A.~Pontiggia, P.~N. Goodfellow, R.~Lovell-Badge, and
+  M.~E. Bianchi.
+\newblock {SRY}, like {HMG}1, recognizes sharp angles in {DNA}.
+\newblock \emph{The {EMBO} journal}, 11\penalty0 (12):\penalty0 4497, 1992.
+\newblock URL \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC557025/}.
+
+\bibitem[Ferrero et~al.(2014{\natexlab{a}})Ferrero, Fischer, and
+  Russell]{ferrero_soxneuro_2014}
+Enrico Ferrero, Bettina Fischer, and Steven Russell.
+\newblock {SoxNeuro} orchestrates central nervous system specification and
+  differentiation in drosophila and is only partially redundant with dichaete.
+\newblock \emph{Genome biology}, 15\penalty0 (5), May 2014{\natexlab{a}}.
+\newblock \doi{10.1186/gb-2014-15-5-r74}.
+
+\bibitem[Ferrero et~al.(2014{\natexlab{b}})Ferrero, Fischer, and
+  Russell]{ferrero_soxneuro_2014-1}
+Enrico Ferrero, Bettina Fischer, and Steven Russell.
+\newblock {SoxNeuro} orchestrates central nervous system specification and
+  differentiation in drosophila and is only partially redundant with dichaete.
+\newblock \emph{Genome Biology}, 15\penalty0 (5):\penalty0 R74,
+  2014{\natexlab{b}}.
+\newblock ISSN 1465-6906.
+\newblock \doi{10.1186/gb-2014-15-5-r74}.
+\newblock URL \url{http://genomebiology.com/2014/15/5/R74}.
+
+\bibitem[Ferri(2004)]{ferri_sox2_2004}
+A.~L.~M. Ferri.
+\newblock Sox2 deficiency causes neurodegeneration and impaired neurogenesis in
+  the adult mouse brain.
+\newblock \emph{Development}, 131\penalty0 (15):\penalty0 3805--3819, June
+  2004.
+\newblock ISSN 0950-1991, 1477-9129.
+\newblock \doi{10.1242/dev.01204}.
+\newblock URL \url{http://dev.biologists.org/cgi/doi/10.1242/dev.01204}.
+
+\bibitem[Fisher et~al.(2012)Fisher, Li, Hammonds, Brown, Pfeiffer, Weiszmann,
+  MacArthur, Thomas, Stamatoyannopoulos, Eisen, Bickel, Biggin, and
+  Celniker]{fisher_dna_2012}
+W.~W. Fisher, J.~J. Li, A.~S. Hammonds, J.~B. Brown, B.~D. Pfeiffer,
+  R.~Weiszmann, S.~MacArthur, S.~Thomas, J.~A. Stamatoyannopoulos, M.~B. Eisen,
+  P.~J. Bickel, M.~D. Biggin, and S.~E. Celniker.
+\newblock {DNA} regions bound at low occupancy by transcription factors do not
+  drive patterned reporter gene expression in drosophila.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 109\penalty0
+  (52):\penalty0 21330--21335, December 2012.
+\newblock ISSN 0027-8424, 1091-6490.
+\newblock \doi{10.1073/pnas.1209589110}.
+\newblock URL \url{http://www.pnas.org/cgi/doi/10.1073/pnas.1209589110}.
+
+\bibitem[Force et~al.(1999)Force, Lynch, Pickett, Amores, Yan, and
+  Postlethwait]{force_preservation_1999}
+Allan Force, Michael Lynch, F.~Bryan Pickett, Angel Amores, Yi-lin Yan, and
+  John Postlethwait.
+\newblock Preservation of duplicate genes by complementary, degenerative
+  mutations.
+\newblock \emph{Genetics}, 151\penalty0 (4):\penalty0 1531--1545, 1999.
+\newblock URL \url{http://www.genetics.org/content/151/4/1531.short}.
+
+\bibitem[Foronda et~al.(2009)Foronda, de~Navas, Garaulet, and
+  Sanchez-Herrero]{foronda_function_2009}
+David Foronda, Luis~F. de~Navas, Daniel~L. Garaulet, and Ernesto
+  Sanchez-Herrero.
+\newblock Function and specificity of hox genes.
+\newblock \emph{The International Journal of Developmental Biology},
+  53\penalty0 (8-9-10):\penalty0 1404--1419, 2009.
+\newblock ISSN 0214-6282.
+\newblock \doi{10.1387/ijdb.072462df}.
+\newblock URL \url{http://www.intjdevbiol.com/paper.php?doi=072462df}.
+
+\bibitem[Gerstein et~al.(2007)Gerstein, Bruce, Rozowsky, Zheng, Du, Korbel,
+  Emanuelsson, Zhang, Weissman, and Snyder]{gerstein_what_2007}
+M.~B. Gerstein, C.~Bruce, J.~S. Rozowsky, D.~Zheng, J.~Du, J.~O. Korbel,
+  O.~Emanuelsson, Z.~D. Zhang, S.~Weissman, and M.~Snyder.
+\newblock What is a gene, post-{ENCODE}? history and updated definition.
+\newblock \emph{Genome Research}, 17\penalty0 (6):\penalty0 669--681, June
+  2007.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.6339607}.
+\newblock URL \url{http://www.genome.org/cgi/doi/10.1101/gr.6339607}.
+
+\bibitem[Giese et~al.(1992)Giese, Cox, and Grosschedl]{giese_hmg_1992}
+Klaus Giese, Jeffery Cox, and Rudolf Grosschedl.
+\newblock The \{{HMG}\} domain of lymphoid enhancer factor 1 bends \{{DNA}\}
+  and facilitates assembly of functional nucleoprotein structures.
+\newblock \emph{Cell}, 69\penalty0 (1):\penalty0 185 -- 195, 1992.
+\newblock ISSN 0092-8674.
+\newblock \doi{http://dx.doi.org/10.1016/0092-8674(92)90129-Z}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/009286749290129Z}.
+
+\bibitem[Girard et~al.(2006)Girard, Joly, Savare, Bonneaud, Ferraz, and
+  Maschat]{girard_chromatin_2006}
+Franck Girard, Willy Joly, Jean Savare, Nathalie Bonneaud, Conchita Ferraz, and
+  Florence Maschat.
+\newblock Chromatin immunoprecipitation reveals a novel role for the drosophila
+  {SoxNeuro} transcription factor in axonal patterning.
+\newblock \emph{Developmental Biology}, 299\penalty0 (2):\penalty0 530--542,
+  November 2006.
+\newblock ISSN 00121606.
+\newblock \doi{10.1016/j.ydbio.2006.08.014}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0012160606010840}.
+
+\bibitem[Giresi and Lieb(2009)]{giresi_isolation_2009}
+Paul~G. Giresi and Jason~D. Lieb.
+\newblock Isolation of active regulatory elements from eukaryotic chromatin
+  using {FAIRE} (formaldehyde assisted isolation of regulatory elements).
+\newblock \emph{Methods}, 48\penalty0 (3):\penalty0 233--239, July 2009.
+\newblock ISSN 10462023.
+\newblock \doi{10.1016/j.ymeth.2009.03.003}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1046202309000504}.
+
+\bibitem[Gordon and Ruvinsky(2012)]{gordon_tempo_2012}
+Kacy~L. Gordon and Ilya Ruvinsky.
+\newblock Tempo and mode in evolution of transcriptional regulation.
+\newblock \emph{{PLoS} genetics}, 8\penalty0 (1):\penalty0 e1002432, 2012.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pgen.1002432}.
+
+\bibitem[Graur et~al.(2013)Graur, Zheng, Price, Azevedo, Zufall, and
+  Elhaik]{graur_immortality_2013}
+D.~Graur, Y.~Zheng, N.~Price, R.~B.~R. Azevedo, R.~A. Zufall, and E.~Elhaik.
+\newblock On the immortality of television sets: "function" in the human genome
+  according to the evolution-free gospel of {ENCODE}.
+\newblock \emph{Genome Biology and Evolution}, 5\penalty0 (3):\penalty0
+  578--590, March 2013.
+\newblock ISSN 1759-6653.
+\newblock \doi{10.1093/gbe/evt028}.
+\newblock URL \url{http://gbe.oxfordjournals.org/cgi/doi/10.1093/gbe/evt028}.
+
+\bibitem[Greil et~al.(2006)Greil, Moorman, and van Steensel]{greil_[16]_2006}
+Frauke Greil, Celine Moorman, and Bas van Steensel.
+\newblock [16] {DamID}: Mapping of in vivo protein–genome interactions using
+  tethered {DNA} adenine methyltransferase.
+\newblock In \emph{Methods in Enzymology}, volume 410, pages 342--359.
+  Elsevier, 2006.
+\newblock ISBN 9780121828158.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0076687906100166}.
+
+\bibitem[Guth and Wegner(2008)]{guth_having_2008}
+S.~I.~E. Guth and M.~Wegner.
+\newblock Having it both ways: Sox protein function between conservation and
+  innovation.
+\newblock \emph{Cellular and Molecular Life Sciences}, 65\penalty0
+  (19):\penalty0 3000--3018, May 2008.
+\newblock ISSN 1420-682X, 1420-9071.
+\newblock \doi{10.1007/s00018-008-8138-7}.
+\newblock URL \url{http://link.springer.com/10.1007/s00018-008-8138-7}.
+
+\bibitem[Harrison et~al.(2011)Harrison, Li, Kaplan, Botchan, and
+  Eisen]{harrison_zelda_2011}
+Melissa~M. Harrison, Xiao-Yong Li, Tommy Kaplan, Michael~R. Botchan, and
+  Michael~B. Eisen.
+\newblock Zelda binding in the early drosophila melanogaster embryo marks
+  regions subsequently activated at the maternal-to-zygotic transition.
+\newblock \emph{{PLoS} Genetics}, 7\penalty0 (10):\penalty0 e1002266, October
+  2011.
+\newblock ISSN 1553-7404.
+\newblock \doi{10.1371/journal.pgen.1002266}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pgen.1002266}.
+
+\bibitem[He et~al.(2011)He, Bardet, Patton, Purvis, Johnston, Paulson, Gogol,
+  Stark, and Zeitlinger]{he_high_2011}
+Qiye He, Anaïs~F Bardet, Brianne Patton, Jennifer Purvis, Jeff Johnston, Ariel
+  Paulson, Madelaine Gogol, Alexander Stark, and Julia Zeitlinger.
+\newblock High conservation of transcription factor binding and evidence for
+  combinatorial regulation across six drosophila species.
+\newblock \emph{Nature Genetics}, 43\penalty0 (5):\penalty0 414--420, April
+  2011.
+\newblock ISSN 1061-4036, 1546-1718.
+\newblock \doi{10.1038/ng.808}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/ng.808}.
+
+\bibitem[Huang et~al.(2013)Huang, Arsenault, Kann, Lopez-Mendez, Saleh,
+  Wadowska, Taglienti, Ho, Miao, Sims, Spears, Lopez, Wright, and
+  Hartwig]{huang_transcription_2013}
+Jez Huang, Michel Arsenault, Martin Kann, Carlos Lopez-Mendez, Monique Saleh,
+  Dorota Wadowska, Mary Taglienti, Jacqueline Ho, Yuan Miao, David Sims,
+  Jonathan Spears, Alfonso Lopez, Glenda Wright, and Sunny Hartwig.
+\newblock The transcription factor sry-related {HMG} box-4 ({SOX}4) is required
+  for normal renal development \textit{in vivo}: \textit{{SOXC}} genes during
+  renal development.
+\newblock \emph{Developmental Dynamics}, 242\penalty0 (6):\penalty0 790--799,
+  June 2013.
+\newblock ISSN 10588388.
+\newblock \doi{10.1002/dvdy.23971}.
+\newblock URL \url{http://doi.wiley.com/10.1002/dvdy.23971}.
+
+\bibitem[Isshiki et~al.(2001)Isshiki, Pearson, Holbrook, and
+  Doe]{isshiki_drosophila_2001}
+Takako Isshiki, Bret Pearson, Scott Holbrook, and Chris~Q. Doe.
+\newblock Drosophila neuroblasts sequentially express transcription factors
+  which specify the temporal identity of their neuronal progeny.
+\newblock \emph{Cell}, 106\penalty0 (4):\penalty0 511, 2001.
+\newblock URL \url{http://pearsonlab.ca/papers/2001_Cell106.511.pdf}.
+
+\bibitem[Jager et~al.(2006)Jager, Quéinnec, Houliston, and
+  Manuel]{jager_expansion_2006}
+Muriel Jager, Eric Quéinnec, Evelyn Houliston, and Michaël Manuel.
+\newblock Expansion of the {SOX} gene family predated the emergence of the
+  bilateria.
+\newblock \emph{Molecular Phylogenetics and Evolution}, 39\penalty0
+  (2):\penalty0 468--477, May 2006.
+\newblock ISSN 10557903.
+\newblock \doi{10.1016/j.ympev.2005.12.005}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1055790305004148}.
+
+\bibitem[Jager et~al.(2008)Jager, Quéinnec, Chiori, Le~Guyader, and
+  Manuel]{jager_insights_2008}
+Muriel Jager, Eric Quéinnec, Roxane Chiori, Hervé Le~Guyader, and Michaël
+  Manuel.
+\newblock Insights into the early evolution of \textit{{SOX}} genes from
+  expression analyses in a ctenophore.
+\newblock \emph{Journal of Experimental Zoology Part B: Molecular and
+  Developmental Evolution}, 310B\penalty0 (8):\penalty0 650--667, December
+  2008.
+\newblock ISSN 15525007, 15525015.
+\newblock \doi{10.1002/jez.b.21244}.
+\newblock URL \url{http://doi.wiley.com/10.1002/jez.b.21244}.
+
+\bibitem[John et~al.(2011)John, Sabo, Thurman, Sung, Biddie, Johnson, Hager,
+  and Stamatoyannopoulos]{john_chromatin_2011}
+Sam John, Peter~J Sabo, Robert~E Thurman, Myong-Hee Sung, Simon~C Biddie,
+  Thomas~A Johnson, Gordon~L Hager, and John~A Stamatoyannopoulos.
+\newblock Chromatin accessibility pre-determines glucocorticoid receptor
+  binding patterns.
+\newblock \emph{Nature Genetics}, 43\penalty0 (3):\penalty0 264--268, January
+  2011.
+\newblock ISSN 1061-4036, 1546-1718.
+\newblock \doi{10.1038/ng.759}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/ng.759}.
+
+\bibitem[Kamachi et~al.(1998)Kamachi, Uchikawa, Collignon, Lovell-Badge, and
+  Kondoh]{kamachi_involvement_1998}
+Yusuke Kamachi, Masanori Uchikawa, Jérôme Collignon, Robin Lovell-Badge, and
+  Hisato Kondoh.
+\newblock Involvement of sox1, 2 and 3 in the early and subsequent molecular
+  events of lens induction.
+\newblock \emph{Development}, 125\penalty0 (13):\penalty0 2521--2532, 1998.
+\newblock URL \url{http://dev.biologists.org/content/125/13/2521.short}.
+
+\bibitem[Kaplan et~al.(2011)Kaplan, Li, Sabo, Thomas, Stamatoyannopoulos,
+  Biggin, and Eisen]{kaplan_quantitative_2011}
+Tommy Kaplan, Xiao-Yong Li, Peter~J. Sabo, Sean Thomas, John~A.
+  Stamatoyannopoulos, Mark~D. Biggin, and Michael~B. Eisen.
+\newblock Quantitative models of the mechanisms that control genome-wide
+  patterns of transcription factor binding during early drosophila development.
+\newblock \emph{{PLoS} Genetics}, 7\penalty0 (2):\penalty0 e1001290, February
+  2011.
+\newblock ISSN 1553-7404.
+\newblock \doi{10.1371/journal.pgen.1001290}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pgen.1001290}.
+
+\bibitem[Kappen and Ruddle(1993)]{kappen_evolution_1993}
+C.~Kappen and F.~H. Ruddle.
+\newblock Evolution of a regulatory gene family: {HOM}/{HOX} genes.
+\newblock \emph{Current opinion in genetics \& development}, 3\penalty0
+  (6):\penalty0 931--938, December 1993.
+
+\bibitem[Koohy et~al.(2013)Koohy, Down, and Hubbard]{koohy_chromatin_2013}
+Hashem Koohy, Thomas~A. Down, and Tim~J. Hubbard.
+\newblock Chromatin accessibility data sets show bias due to sequence
+  specificity of the {DNase} i enzyme.
+\newblock \emph{{PLoS} {ONE}}, 8\penalty0 (7):\penalty0 e69853, July 2013.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0069853}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pone.0069853}.
+
+\bibitem[Kvon et~al.(2012)Kvon, Stampfel, Yanez-Cuna, Dickson, and
+  Stark]{kvon_hot_2012}
+E.~Z. Kvon, G.~Stampfel, J.~O. Yanez-Cuna, B.~J. Dickson, and A.~Stark.
+\newblock {HOT} regions function as patterned developmental enhancers and have
+  a distinct cis-regulatory signature.
+\newblock \emph{Genes \& Development}, 26\penalty0 (9):\penalty0 908--913,
+  April 2012.
+\newblock ISSN 0890-9369.
+\newblock \doi{10.1101/gad.188052.112}.
+\newblock URL \url{http://genesdev.cshlp.org/cgi/doi/10.1101/gad.188052.112}.
+
+\bibitem[Landt et~al.(2012)Landt, Marinov, Kundaje, Kheradpour, Pauli,
+  Batzoglou, Bernstein, Bickel, Brown, Cayting, Chen, DeSalvo, Epstein,
+  Fisher-Aylor, Euskirchen, Gerstein, Gertz, Hartemink, Hoffman, Iyer, Jung,
+  Karmakar, Kellis, Kharchenko, Li, Liu, Liu, Ma, Milosavljevic, Myers, Park,
+  Pazin, Perry, Raha, Reddy, Rozowsky, Shoresh, Sidow, Slattery,
+  Stamatoyannopoulos, Tolstorukov, White, Xi, Farnham, Lieb, Wold, and
+  Snyder]{landt_chip-seq_2012}
+S.~G. Landt, G.~K. Marinov, A.~Kundaje, P.~Kheradpour, F.~Pauli, S.~Batzoglou,
+  B.~E. Bernstein, P.~Bickel, J.~B. Brown, P.~Cayting, Y.~Chen, G.~DeSalvo,
+  C.~Epstein, K.~I. Fisher-Aylor, G.~Euskirchen, M.~Gerstein, J.~Gertz, A.~J.
+  Hartemink, M.~M. Hoffman, V.~R. Iyer, Y.~L. Jung, S.~Karmakar, M.~Kellis,
+  P.~V. Kharchenko, Q.~Li, T.~Liu, X.~S. Liu, L.~Ma, A.~Milosavljevic, R.~M.
+  Myers, P.~J. Park, M.~J. Pazin, M.~D. Perry, D.~Raha, T.~E. Reddy,
+  J.~Rozowsky, N.~Shoresh, A.~Sidow, M.~Slattery, J.~A. Stamatoyannopoulos,
+  M.~Y. Tolstorukov, K.~P. White, S.~Xi, P.~J. Farnham, J.~D. Lieb, B.~J. Wold,
+  and M.~Snyder.
+\newblock {ChIP}-seq guidelines and practices of the {ENCODE} and {modENCODE}
+  consortia.
+\newblock \emph{Genome Research}, 22\penalty0 (9):\penalty0 1813--1831,
+  September 2012.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.136184.111}.
+\newblock URL \url{http://genome.cshlp.org/cgi/doi/10.1101/gr.136184.111}.
+
+\bibitem[Larroux et~al.(2008)Larroux, Luke, Koopman, Rokhsar, Shimeld, and
+  Degnan]{larroux_genesis_2008}
+C.~Larroux, G.~N. Luke, P.~Koopman, D.~S. Rokhsar, S.~M. Shimeld, and B.~M.
+  Degnan.
+\newblock Genesis and expansion of metazoan transcription factor gene classes.
+\newblock \emph{Molecular Biology and Evolution}, 25\penalty0 (5):\penalty0
+  980--996, February 2008.
+\newblock ISSN 0737-4038, 1537-1719.
+\newblock \doi{10.1093/molbev/msn047}.
+\newblock URL
+  \url{http://mbe.oxfordjournals.org/cgi/doi/10.1093/molbev/msn047}.
+
+\bibitem[Larroux et~al.(2006)Larroux, Fahey, Liubicich, Hinman, Gauthier,
+  Gongora, Green, Wörheide, Leys, and Degnan]{larroux_developmental_2006}
+Claire Larroux, Bryony Fahey, Danielle Liubicich, Veronica~F. Hinman, Marie
+  Gauthier, Milena Gongora, Kathryn Green, Gert Wörheide, Sally~P. Leys, and
+  Bernard~M. Degnan.
+\newblock Developmental expression of transcription factor genes in a
+  demosponge: insights into the origin of metazoan multicellularity.
+\newblock \emph{Evolution \& development}, 8\penalty0 (2):\penalty0 150--173,
+  2006.
+\newblock URL
+  \url{http://onlinelibrary.wiley.com/doi/10.1111/j.1525-142X.2006.00086.x/full}.
+
+\bibitem[Lefebvre et~al.(2007)Lefebvre, Dumitriu, Penzo-Méndez, Han, and
+  Pallavi]{lefebvre_control_2007}
+Véronique Lefebvre, Bogdan Dumitriu, Alfredo Penzo-Méndez, Yu~Han, and
+  Bhattaram Pallavi.
+\newblock Control of cell fate and differentiation by sry-related
+  high-mobility-group box (sox) transcription factors.
+\newblock \emph{The International Journal of Biochemistry \& Cell Biology},
+  39\penalty0 (12):\penalty0 2195--2214, 2007.
+\newblock ISSN 13572725.
+\newblock \doi{10.1016/j.biocel.2007.05.019}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1357272507001756}.
+
+\bibitem[Li et~al.(2011)Li, Thomas, Sabo, Eisen, Stamatoyannopoulos, and
+  Biggin]{li_role_2011}
+Xiao-Yong Li, Sean Thomas, Peter~J. Sabo, Michael~B. Eisen, John~A.
+  Stamatoyannopoulos, and Mark~D. Biggin.
+\newblock The role of chromatin accessibility in directing the widespread,
+  overlapping patterns of drosophila transcription factor binding.
+\newblock \emph{Genome Biol}, 12\penalty0 (4):\penalty0 R34, 2011.
+\newblock URL
+  \url{http://www.biomedcentral.com/content/pdf/gb-2011-12-4-r34.pdf}.
+
+\bibitem[Lynch(2000)]{lynch_evolutionary_2000}
+M.~Lynch.
+\newblock The evolutionary fate and consequences of duplicate genes.
+\newblock \emph{Science}, 290\penalty0 (5494):\penalty0 1151--1155, November
+  2000.
+\newblock ISSN 00368075, 10959203.
+\newblock \doi{10.1126/science.290.5494.1151}.
+\newblock URL
+  \url{http://www.sciencemag.org/cgi/doi/10.1126/science.290.5494.1151}.
+
+\bibitem[Ma et~al.(2000)Ma, Certel, Gao, Niemitz, Mosher, Mukherjee, Mutsuddi,
+  Huseinovic, Crews, Johnson, and {others}]{ma_functional_2000}
+Yue Ma, Kaan Certel, Yanping Gao, Emily Niemitz, Jack Mosher, Ashim Mukherjee,
+  Mousumi Mutsuddi, Neda Huseinovic, Stephen~T. Crews, Wayne~A. Johnson, and
+  {others}.
+\newblock Functional interactions between {DrosophilabHLH}/{PAS}, sox, and
+  {POU} transcription factors regulate {CNS} midline expression of the slit
+  gene.
+\newblock \emph{The Journal of Neuroscience}, 20\penalty0 (12):\penalty0
+  4596--4605, 2000.
+\newblock URL \url{http://www.jneurosci.org/content/20/12/4596.short}.
+
+\bibitem[MacArthur et~al.(2009)MacArthur, Li, Li, Brown, Chu, Zeng, Grondona,
+  Hechmer, Simirenko, and Keranen]{macarthur_developmental_2009}
+Stewart MacArthur, Xiao-Yong Li, Jingyi Li, James~B. Brown, Hou~Cheng Chu, Lucy
+  Zeng, Brandi~P. Grondona, Aaron Hechmer, Lisa Simirenko, and S.~V. Keranen.
+\newblock Developmental roles of 21 drosophila transcription factors are
+  determined by quantitative differences in binding to an overlapping set of
+  thousands of genomic regions.
+\newblock \emph{Genome Biol}, 10\penalty0 (7):\penalty0 R80, 2009.
+\newblock URL
+  \url{http://www.biomedcentral.com/content/pdf/gb-2009-10-7-r80.pdf}.
+
+\bibitem[Maconochie et~al.(1996)Maconochie, Nonchev, Morrison, and
+  Krumlauf]{maconochie_paralogous_1996}
+M.~Maconochie, S.~Nonchev, A.~Morrison, and R.~Krumlauf.
+\newblock Paralogous hox genes: function and regulation.
+\newblock \emph{Annual review of genetics}, 30:\penalty0 529--556, 1996.
+\newblock \doi{10.1146/annurev.genet.30.1.529}.
+
+\bibitem[Malas et~al.(1999)Malas, Duthie, Deloukas, and
+  Episkopou]{malas_isolation_1999}
+S.~Malas, S.~Duthie, P.~Deloukas, and V.~Episkopou.
+\newblock The isolation and high-resolution chromosomal mapping of human
+  {SOX}14 and {SOX}21; two members of the {SOX} gene family related to {SOX}1,
+  {SOX}2, and {SOX}3.
+\newblock \emph{Mammalian genome : official journal of the International
+  Mammalian Genome Society}, 10\penalty0 (9):\penalty0 934--937, September
+  1999.
+
+\bibitem[Masui et~al.(2007)Masui, Nakatake, Toyooka, Shimosato, Yagi,
+  Takahashi, Okochi, Okuda, Matoba, Sharov, Ko, and
+  Niwa]{masui_pluripotency_2007}
+Shinji Masui, Yuhki Nakatake, Yayoi Toyooka, Daisuke Shimosato, Rika Yagi,
+  Kazue Takahashi, Hitoshi Okochi, Akihiko Okuda, Ryo Matoba, Alexei~A. Sharov,
+  Minoru S.~H. Ko, and Hitoshi Niwa.
+\newblock Pluripotency governed by sox2 via regulation of oct3/4 expression in
+  mouse embryonic stem cells.
+\newblock \emph{Nature Cell Biology}, 9\penalty0 (6):\penalty0 625--635, June
+  2007.
+\newblock ISSN 1465-7392, 1476-4679.
+\newblock \doi{10.1038/ncb1589}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/ncb1589}.
+
+\bibitem[Matsui(2006)]{matsui_redundant_2006}
+T.~Matsui.
+\newblock Redundant roles of sox17 and sox18 in postnatal angiogenesis in mice.
+\newblock \emph{Journal of Cell Science}, 119\penalty0 (17):\penalty0
+  3513--3526, September 2006.
+\newblock ISSN 0021-9533, 1477-9137.
+\newblock \doi{10.1242/jcs.03081}.
+\newblock URL \url{http://jcs.biologists.org/cgi/doi/10.1242/jcs.03081}.
+
+\bibitem[Maurange and Gould(2005)]{maurange_brainy_2005}
+Cédric Maurange and Alex~P. Gould.
+\newblock Brainy but not too brainy: starting and stopping neuroblast divisions
+  in drosophila.
+\newblock \emph{Trends in Neurosciences}, 28\penalty0 (1):\penalty0 30--36,
+  January 2005.
+\newblock ISSN 01662236.
+\newblock \doi{10.1016/j.tins.2004.10.009}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0166223604003376}.
+
+\bibitem[McKay and Lieb(2013)]{mckay_common_2013}
+Daniel J. McKay and Jason D. Lieb.
+\newblock A common set of {DNA} regulatory elements shapes drosophila
+  appendages.
+\newblock \emph{Developmental Cell}, 27\penalty0 (3):\penalty0 306--318,
+  November 2013.
+\newblock ISSN 15345807.
+\newblock \doi{10.1016/j.devcel.2013.10.009}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1534580713006060}.
+
+\bibitem[McKimmie et~al.(2005)McKimmie, Woerfel, and
+  Russell]{mckimmie_conserved_2005}
+Carol McKimmie, Gertrud Woerfel, and Steven Russell.
+\newblock Conserved genomic organisation of group b sox genes in insects.
+\newblock \emph{{BMC} genetics}, 6\penalty0 (1):\penalty0 26, 2005.
+\newblock URL \url{http://www.biomedcentral.com/1471-2156/6/26/}.
+
+\bibitem[Moses et~al.(2006)Moses, Pollard, Nix, Iyer, Li, Biggin, and
+  Eisen]{moses_large-scale_2006}
+Alan~M. Moses, Daniel~A. Pollard, David~A. Nix, Venky~N. Iyer, Xiao-Yong Li,
+  Mark~D. Biggin, and Michael~B. Eisen.
+\newblock Large-scale turnover of functional transcription factor binding sites
+  in drosophila.
+\newblock \emph{{PLoS} Computational Biology}, 2\penalty0 (10):\penalty0 e130,
+  2006.
+\newblock ISSN 1553-734X, 1553-7358.
+\newblock \doi{10.1371/journal.pcbi.0020130}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pcbi.0020130}.
+
+\bibitem[Neph et~al.(2012)Neph, Vierstra, Stergachis, Reynolds, Haugen, Vernot,
+  Thurman, John, Sandstrom, Johnson, Maurano, Humbert, Rynes, Wang, Vong, Lee,
+  Bates, Diegel, Roach, Dunn, Neri, Schafer, Hansen, Kutyavin, Giste, Weaver,
+  Canfield, Sabo, Zhang, Balasundaram, Byron, MacCoss, Akey, Bender, Groudine,
+  Kaul, and Stamatoyannopoulos]{neph_expansive_2012}
+Shane Neph, Jeff Vierstra, Andrew~B. Stergachis, Alex~P. Reynolds, Eric Haugen,
+  Benjamin Vernot, Robert~E. Thurman, Sam John, Richard Sandstrom, Audra~K.
+  Johnson, Matthew~T. Maurano, Richard Humbert, Eric Rynes, Hao Wang, Shinny
+  Vong, Kristen Lee, Daniel Bates, Morgan Diegel, Vaughn Roach, Douglas Dunn,
+  Jun Neri, Anthony Schafer, R.~Scott Hansen, Tanya Kutyavin, Erika Giste,
+  Molly Weaver, Theresa Canfield, Peter Sabo, Miaohua Zhang, Gayathri
+  Balasundaram, Rachel Byron, Michael~J. MacCoss, Joshua~M. Akey, M.~A. Bender,
+  Mark Groudine, Rajinder Kaul, and John~A. Stamatoyannopoulos.
+\newblock An expansive human regulatory lexicon encoded in transcription factor
+  footprints.
+\newblock \emph{Nature}, 489\penalty0 (7414):\penalty0 83--90, September 2012.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature11212}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature11212}.
+
+\bibitem[Ni et~al.(2012)Ni, Zhang, Nègre, Chen, Long, and
+  White]{ni_adaptive_2012}
+Xiaochun Ni, Yong~E. Zhang, Nicolas Nègre, Sidi Chen, Manyuan Long, and
+  Kevin~P. White.
+\newblock Adaptive evolution and the birth of {CTCF} binding sites in the
+  drosophila genome.
+\newblock \emph{{PLoS} Biology}, 10\penalty0 (11):\penalty0 e1001420, November
+  2012.
+\newblock ISSN 1545-7885.
+\newblock \doi{10.1371/journal.pbio.1001420}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pbio.1001420}.
+
+\bibitem[Nishiguchi et~al.(1998)Nishiguchi, Wood, Kondoh, Lovell-Badge, and
+  Episkopou]{nishiguchi_sox1_1998}
+Seiji Nishiguchi, Heather Wood, Hisato Kondoh, Robin Lovell-Badge, and Vasso
+  Episkopou.
+\newblock Sox1 directly regulates the γ-crystallin genes and is essential for
+  lens development in mice.
+\newblock \emph{Genes \& development}, 12\penalty0 (6):\penalty0 776--781,
+  1998.
+\newblock URL \url{http://genesdev.cshlp.org/content/12/6/776.short}.
+
+\bibitem[Odom et~al.(2007)Odom, Dowell, Jacobsen, Gordon, Danford, MacIsaac,
+  Rolfe, Conboy, Gifford, and Fraenkel]{odom_tissue-specific_2007}
+Duncan~T Odom, Robin~D Dowell, Elizabeth~S Jacobsen, William Gordon, Timothy~W
+  Danford, Kenzie~D MacIsaac, P~Alexander Rolfe, Caitlin~M Conboy, David~K
+  Gifford, and Ernest Fraenkel.
+\newblock Tissue-specific transcriptional regulation has diverged significantly
+  between human and mouse.
+\newblock \emph{Nature Genetics}, 39\penalty0 (6):\penalty0 730--732, May 2007.
+\newblock ISSN 1061-4036.
+\newblock \doi{10.1038/ng2047}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/ng2047}.
+
+\bibitem[Overton et~al.(2007)Overton, Chia, and
+  Buescher]{overton_drosophila_2007}
+P.~M. Overton, W.~Chia, and M.~Buescher.
+\newblock The drosophila {HMG}-domain proteins {SoxNeuro} and dichaete direct
+  trichome formation via the activation of shavenbaby and the restriction of
+  wingless pathway activity.
+\newblock \emph{Development}, 134\penalty0 (15):\penalty0 2807--2813, June
+  2007.
+\newblock ISSN 0950-1991, 1477-9129.
+\newblock \doi{10.1242/dev.02878}.
+\newblock URL \url{http://dev.biologists.org/cgi/doi/10.1242/dev.02878}.
+
+\bibitem[Overton et~al.(2002)Overton, Meadows, Urban, and
+  Russell]{overton_evidence_2002}
+Paul~M. Overton, Lisa~A. Meadows, Joachim Urban, and Steven Russell.
+\newblock Evidence for differential and redundant function of the sox genes
+  dichaete and {SoxN} during {CNS} development in drosophila.
+\newblock \emph{Development}, 129\penalty0 (18):\penalty0 4219--4228, 2002.
+\newblock URL \url{http://dev.biologists.org/content/129/18/4219.short}.
+
+\bibitem[Paris et~al.(2013)Paris, Kaplan, Li, Villalta, Lott, and
+  Eisen]{paris_extensive_2013}
+Mathilde Paris, Tommy Kaplan, Xiao~Yong Li, Jacqueline~E. Villalta, Susan~E.
+  Lott, and Michael~B. Eisen.
+\newblock Extensive divergence of transcription factor binding in drosophila
+  embryos with highly conserved gene expression.
+\newblock \emph{{PLoS} Genetics}, 9\penalty0 (9):\penalty0 e1003748, September
+  2013.
+\newblock ISSN 1553-7404.
+\newblock \doi{10.1371/journal.pgen.1003748}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pgen.1003748}.
+
+\bibitem[Phochanukul and Russell(2010)]{phochanukul_no_2010}
+Nichanun Phochanukul and Steven Russell.
+\newblock No backbone but lots of sox: Invertebrate sox genes.
+\newblock \emph{The International Journal of Biochemistry \& Cell Biology},
+  42\penalty0 (3):\penalty0 453--464, March 2010.
+\newblock ISSN 13572725.
+\newblock \doi{10.1016/j.biocel.2009.06.013}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S1357272509001915}.
+
+\bibitem[Pioro and Stollewerk(2006)]{pioro_expression_2006}
+Hilary~L. Pioro and Angelika Stollewerk.
+\newblock The expression pattern of genes involved in early neurogenesis
+  suggests distinct and conserved functions in the diplopod glomeris marginata.
+\newblock \emph{Development Genes and Evolution}, 216\penalty0 (7-8):\penalty0
+  417--430, May 2006.
+\newblock ISSN 0949-944X, 1432-041X.
+\newblock \doi{10.1007/s00427-006-0078-3}.
+\newblock URL \url{http://link.springer.com/10.1007/s00427-006-0078-3}.
+
+\bibitem[Rizzoti et~al.(2004)Rizzoti, Brunelli, Carmignac, Thomas, Robinson,
+  and Lovell-Badge]{rizzoti_sox3_2004}
+Karine Rizzoti, Silvia Brunelli, Danielle Carmignac, Paul~Q Thomas, Iain~C
+  Robinson, and Robin Lovell-Badge.
+\newblock {SOX}3 is required during the formation of the hypothalamo-pituitary
+  axis.
+\newblock \emph{Nature Genetics}, 36\penalty0 (3):\penalty0 247--255, March
+  2004.
+\newblock ISSN 1061-4036.
+\newblock \doi{10.1038/ng1309}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/ng1309}.
+
+\bibitem[Russell et~al.(1996)Russell, Sanchez-Soriano, Wright, and
+  Ashburner]{russell_dichaete_1996}
+S.~R. Russell, Natalia Sanchez-Soriano, Charles~R. Wright, and Michael
+  Ashburner.
+\newblock The dichaete gene of drosophila melanogaster encodes a {SOX}-domain
+  protein required for embryonic segmentation.
+\newblock \emph{Development}, 122\penalty0 (11):\penalty0 3669--3676, 1996.
+\newblock URL \url{http://dev.biologists.org/content/122/11/3669.short}.
+
+\bibitem[Russo et~al.(1995)Russo, Takezaki, and Nei]{russo_molecular_1995}
+C.~A. Russo, Naoko Takezaki, and Masatoshi Nei.
+\newblock Molecular phylogeny and divergence times of drosophilid species.
+\newblock \emph{Molecular biology and evolution}, 12\penalty0 (3):\penalty0
+  391--404, 1995.
+\newblock URL \url{http://mbe.oxfordjournals.org/content/12/3/391.short}.
+
+\bibitem[Satija and Bradley(2012)]{satija_tagteam_2012}
+R.~Satija and R.~K. Bradley.
+\newblock The {TAGteam} motif facilitates binding of 21 sequence-specific
+  transcription factors in the drosophila embryo.
+\newblock \emph{Genome Research}, 22\penalty0 (4):\penalty0 656--665, January
+  2012.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.130682.111}.
+\newblock URL \url{http://genome.cshlp.org/cgi/doi/10.1101/gr.130682.111}.
+
+\bibitem[Schepers et~al.(2002)Schepers, Teasdale, and
+  Koopman]{schepers_twenty_2002}
+Goslik~E Schepers, Rohan~D Teasdale, and Peter Koopman.
+\newblock Twenty pairs of sox: extent, homology, and nomenclature of the mouse
+  and human sox transcription factor gene families.
+\newblock \emph{Developmental cell}, 3\penalty0 (2):\penalty0 167--170, August
+  2002.
+
+\bibitem[Schmidt et~al.(2010)Schmidt, Wilson, Ballester, Schwalie, Brown,
+  Marshall, Kutter, Watt, Martinez-Jimenez, Mackay, Talianidis, Flicek, and
+  Odom]{schmidt_five-vertebrate_2010}
+D.~Schmidt, M.~D. Wilson, B.~Ballester, P.~C. Schwalie, G.~D. Brown,
+  A.~Marshall, C.~Kutter, S.~Watt, C.~P. Martinez-Jimenez, S.~Mackay,
+  I.~Talianidis, P.~Flicek, and D.~T. Odom.
+\newblock Five-vertebrate {ChIP}-seq reveals the evolutionary dynamics of
+  transcription factor binding.
+\newblock \emph{Science}, 328\penalty0 (5981):\penalty0 1036--1040, April 2010.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1186176}.
+\newblock URL \url{http://www.sciencemag.org/cgi/doi/10.1126/science.1186176}.
+
+\bibitem[Searls(1997)]{searls_linguistic_1997}
+David~B. Searls.
+\newblock Linguistic approaches to biological sequences.
+\newblock \emph{Computer applications in the biosciences: {CABIOS}},
+  13\penalty0 (4):\penalty0 333--344, 1997.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/13/4/333.short}.
+
+\bibitem[Searls(2001)]{searls_reading_2001}
+David~B. Searls.
+\newblock Reading the book of life.
+\newblock \emph{Bioinformatics}, 17\penalty0 (7):\penalty0 579--580, 2001.
+\newblock \doi{10.1093/bioinformatics/17.7.579}.
+\newblock URL
+  \url{http://bioinformatics.oxfordjournals.org/content/17/7/579.short}.
+
+\bibitem[Searls(2002)]{searls_language_2002}
+David~B. Searls.
+\newblock The language of genes.
+\newblock \emph{Nature}, 420\penalty0 (6912):\penalty0 211--217, November 2002.
+\newblock ISSN 0028-0836.
+\newblock \doi{10.1038/nature01255}.
+\newblock URL \url{http://dx.doi.org/10.1038/nature01255}.
+
+\bibitem[Shen et~al.(2013)Shen, Aleksic, and Russell]{shen_identifying_2013}
+Shih~Pei Shen, Jelena Aleksic, and Steven Russell.
+\newblock Identifying targets of the sox domain protein dichaete in the
+  drosophila {CNS} via targeted expression of dominant negative proteins.
+\newblock \emph{{BMC} developmental biology}, 13\penalty0 (1):\penalty0 1,
+  2013.
+\newblock URL \url{http://www.biomedcentral.com/1471-213X/13/1/}.
+
+\bibitem[Simon et~al.(2012)Simon, Giresi, Davis, and Lieb]{simon_using_2012}
+Jeremy~M Simon, Paul~G Giresi, Ian~J Davis, and Jason~D Lieb.
+\newblock Using formaldehyde-assisted isolation of regulatory elements
+  ({FAIRE}) to isolate active regulatory {DNA}.
+\newblock \emph{Nature Protocols}, 7\penalty0 (2):\penalty0 256--267, January
+  2012.
+\newblock ISSN 1754-2189, 1750-2799.
+\newblock \doi{10.1038/nprot.2011.444}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nprot.2011.444}.
+
+\bibitem[Sinclair et~al.(1990)Sinclair, Berta, Palmer, Hawkins, Griffiths,
+  Smith, Foster, Frischauf, Lovell-Badge, and Goodfellow]{sinclair_gene_1990}
+Andrew~H. Sinclair, Philippe Berta, Mark~S. Palmer, J.~Ross Hawkins,
+  Beatrice~L. Griffiths, Matthijs~J. Smith, Jamie~W. Foster, Anna-Maria
+  Frischauf, Robin Lovell-Badge, and Peter~N. Goodfellow.
+\newblock A gene from the human sex-determining region encodes a protein with
+  homology to a conserved {DNA}-binding motif.
+\newblock \emph{Nature}, 346\penalty0 (6281):\penalty0 240--244, July 1990.
+\newblock \doi{10.1038/346240a0}.
+\newblock URL \url{http://dx.doi.org/10.1038/346240a0}.
+
+\bibitem[Smits et~al.()Smits, Li, Mandel, Zhang, Deng, Behringer,
+  de~Crombrugghe, and Lefebvre]{smits_transcription_????}
+Patrick Smits, Ping Li, Jennifer Mandel, Zhaoping Zhang, Jian~Ming Deng,
+  Richard~R Behringer, Benoit de~Crombrugghe, and Véronique Lefebvre.
+\newblock The transcription factors l-sox5 and sox6 are essential for cartilage
+  formation.
+\newblock \emph{Developmental Cell}, 1\penalty0 (2):\penalty0 277--290.
+\newblock \doi{10.1016/S1534-5807(01)00003-X}.
+\newblock URL
+  \url{http://www.cell.com/developmental-cell/abstract/S1534-5807(01)00003-X}.
+
+\bibitem[Sock et~al.(2004)Sock, Rettig, Enderich, Bosl, Tamm, and
+  Wegner]{sock_gene_2004}
+E.~Sock, S.~D. Rettig, J.~Enderich, M.~R. Bosl, E.~R. Tamm, and M.~Wegner.
+\newblock Gene targeting reveals a widespread role for the high-mobility-group
+  transcription factor sox11 in tissue remodeling.
+\newblock \emph{Molecular and Cellular Biology}, 24\penalty0 (15):\penalty0
+  6635--6644, August 2004.
+\newblock ISSN 0270-7306.
+\newblock \doi{10.1128/MCB.24.15.6635-6644.2004}.
+\newblock URL
+  \url{http://mcb.asm.org/cgi/doi/10.1128/MCB.24.15.6635-6644.2004}.
+
+\bibitem[Soriano and Russell(1998)]{soriano_drosophila_1998}
+Natalia~Sánchez Soriano and Steven Russell.
+\newblock The drosophila {SOX}-domain protein dichaete is required for the
+  development of the central nervous system midline.
+\newblock \emph{Development}, 125\penalty0 (20):\penalty0 3989--3996, 1998.
+\newblock URL \url{http://dev.biologists.org/content/125/20/3989.short}.
+
+\bibitem[Srivastava et~al.(2008)Srivastava, Begovic, Chapman, Putnam, Hellsten,
+  Kawashima, Kuo, Mitros, Salamov, Carpenter, Signorovitch, Moreno, Kamm,
+  Grimwood, Schmutz, Shapiro, Grigoriev, Buss, Schierwater, Dellaporta, and
+  Rokhsar]{srivastava_trichoplax_2008}
+Mansi Srivastava, Emina Begovic, Jarrod Chapman, Nicholas~H. Putnam, Uffe
+  Hellsten, Takeshi Kawashima, Alan Kuo, Therese Mitros, Asaf Salamov,
+  Meredith~L. Carpenter, Ana~Y. Signorovitch, Maria~A. Moreno, Kai Kamm, Jane
+  Grimwood, Jeremy Schmutz, Harris Shapiro, Igor~V. Grigoriev, Leo~W. Buss,
+  Bernd Schierwater, Stephen~L. Dellaporta, and Daniel~S. Rokhsar.
+\newblock The trichoplax genome and the nature of placozoans.
+\newblock \emph{Nature}, 454\penalty0 (7207):\penalty0 955--960, August 2008.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature07191}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature07191}.
+
+\bibitem[Stefflova et~al.(2013)Stefflova, Thybert, Wilson, Streeter, Aleksic,
+  Karagianni, Brazma, Adams, Talianidis, Marioni, Flicek, and
+  Odom]{stefflova_cooperativity_2013}
+Klara Stefflova, David Thybert, Michael D. Wilson, Ian Streeter, Jelena
+  Aleksic, Panagiota Karagianni, Alvis Brazma, David J. Adams, Iannis
+  Talianidis, John C. Marioni, Paul Flicek, and Duncan T. Odom.
+\newblock Cooperativity and rapid evolution of cobound transcription factors in
+  closely related mammals.
+\newblock \emph{Cell}, 154\penalty0 (3):\penalty0 530--540, August 2013.
+\newblock ISSN 00928674.
+\newblock \doi{10.1016/j.cell.2013.07.007}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0092867413008416}.
+
+\bibitem[Sánchez-Soriano and Russell(2000)]{sanchez-soriano_regulatory_2000}
+Natalia Sánchez-Soriano and Steven Russell.
+\newblock Regulatory mutations of the drosophila sox gene dichaete reveal new
+  functions in embryonic brain and hindgut development.
+\newblock \emph{Developmental Biology}, 220\penalty0 (2):\penalty0 307--321,
+  April 2000.
+\newblock ISSN 00121606.
+\newblock \doi{10.1006/dbio.2000.9648}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0012160600996489}.
+
+\bibitem[Tanaka et~al.(2004)Tanaka, Kamachi, Tanouchi, Hamada, Jing, and
+  Kondoh]{tanaka_interplay_2004}
+S.~Tanaka, Y.~Kamachi, A.~Tanouchi, H.~Hamada, N.~Jing, and H.~Kondoh.
+\newblock Interplay of {SOX} and {POU} factors in regulation of the nestin gene
+  in neural primordial cells.
+\newblock \emph{Molecular and Cellular Biology}, 24\penalty0 (20):\penalty0
+  8834--8846, October 2004.
+\newblock ISSN 0270-7306.
+\newblock \doi{10.1128/MCB.24.20.8834-8846.2004}.
+\newblock URL
+  \url{http://mcb.asm.org/cgi/doi/10.1128/MCB.24.20.8834-8846.2004}.
+
+\bibitem[{The modENCODE Consortium} et~al.(2010){The modENCODE Consortium},
+  Roy, Ernst, Kharchenko, Kheradpour, Negre, Eaton, Landolin, Bristow, Ma, Lin,
+  Washietl, Arshinoff, Ay, Meyer, Robine, Washington, Di~Stefano, Berezikov,
+  Brown, Candeias, Carlson, Carr, Jungreis, Marbach, Sealfon, Tolstorukov,
+  Will, Alekseyenko, Artieri, Booth, Brooks, Dai, Davis, Duff, Feng, Gorchakov,
+  Gu, Henikoff, Kapranov, Li, MacAlpine, Malone, Minoda, Nordman, Okamura,
+  Perry, Powell, Riddle, Sakai, Samsonova, Sandler, Schwartz, Sher, Spokony,
+  Sturgill, van Baren, Wan, Yang, Yu, Feingold, Good, Guyer, Lowdon, Ahmad,
+  Andrews, Berger, Brenner, Brent, Cherbas, Elgin, Gingeras, Grossman, Hoskins,
+  Kaufman, Kent, Kuroda, Orr-Weaver, Perrimon, Pirrotta, Posakony, Ren,
+  Russell, Cherbas, Graveley, Lewis, Micklem, Oliver, Park, Celniker, Henikoff,
+  Karpen, Lai, MacAlpine, Stein, White, Kellis, Acevedo, Auburn, Barber,
+  Bellen, Bishop, Bryson, Chateigner, Chen, Clawson, Comstock, Contrino,
+  DeNapoli, Ding, Dobin, Domanus, Drenkow, Dudoit, Dumais, Eng, Fagegaltier,
+  Gadel, Ghosh, Guillier, Hanley, Hannon, Hansen, Heinz, Hinrichs, Hirst, Jha,
+  Jiang, Jung, Kashevsky, Kennedy, Kephart, Langton, Lee, Li, Li, Lin,
+  Linder-Basso, Lloyd, Lyne, Marchetti, Marra, Mattiuzzo, McKay, Meyer, Miller,
+  Miller, Moore, Morrison, Prinz, Rooks, Moore, Rutherford, Ruzanov, Scheftner,
+  Senderowicz, Shah, Shanower, Smith, Stinson, Suchy, Tenney, Tian, Venken,
+  Wang, White, Wilkening, Willingham, Zaleski, Zha, Zhang, Zhao, and
+  Zieba]{the_modencode_consortium_identification_2010}
+{The modENCODE Consortium}, S.~Roy, J.~Ernst, P.~V. Kharchenko, P.~Kheradpour,
+  N.~Negre, M.~L. Eaton, J.~M. Landolin, C.~A. Bristow, L.~Ma, M.~F. Lin,
+  S.~Washietl, B.~I. Arshinoff, F.~Ay, P.~E. Meyer, N.~Robine, N.~L.
+  Washington, L.~Di~Stefano, E.~Berezikov, C.~D. Brown, R.~Candeias, J.~W.
+  Carlson, A.~Carr, I.~Jungreis, D.~Marbach, R.~Sealfon, M.~Y. Tolstorukov,
+  S.~Will, A.~A. Alekseyenko, C.~Artieri, B.~W. Booth, A.~N. Brooks, Q.~Dai,
+  C.~A. Davis, M.~O. Duff, X.~Feng, A.~A. Gorchakov, T.~Gu, J.~G. Henikoff,
+  P.~Kapranov, R.~Li, H.~K. MacAlpine, J.~Malone, A.~Minoda, J.~Nordman,
+  K.~Okamura, M.~Perry, S.~K. Powell, N.~C. Riddle, A.~Sakai, A.~Samsonova,
+  J.~E. Sandler, Y.~B. Schwartz, N.~Sher, R.~Spokony, D.~Sturgill, M.~van
+  Baren, K.~H. Wan, L.~Yang, C.~Yu, E.~Feingold, P.~Good, M.~Guyer, R.~Lowdon,
+  K.~Ahmad, J.~Andrews, B.~Berger, S.~E. Brenner, M.~R. Brent, L.~Cherbas,
+  S.~C.~R. Elgin, T.~R. Gingeras, R.~Grossman, R.~A. Hoskins, T.~C. Kaufman,
+  W.~Kent, M.~I. Kuroda, T.~Orr-Weaver, N.~Perrimon, V.~Pirrotta, J.~W.
+  Posakony, B.~Ren, S.~Russell, P.~Cherbas, B.~R. Graveley, S.~Lewis,
+  G.~Micklem, B.~Oliver, P.~J. Park, S.~E. Celniker, S.~Henikoff, G.~H. Karpen,
+  E.~C. Lai, D.~M. MacAlpine, L.~D. Stein, K.~P. White, M.~Kellis, D.~Acevedo,
+  R.~Auburn, G.~Barber, H.~J. Bellen, E.~P. Bishop, T.~D. Bryson,
+  A.~Chateigner, J.~Chen, H.~Clawson, C.~L.~G. Comstock, S.~Contrino, L.~C.
+  DeNapoli, Q.~Ding, A.~Dobin, M.~H. Domanus, J.~Drenkow, S.~Dudoit, J.~Dumais,
+  T.~Eng, D.~Fagegaltier, S.~E. Gadel, S.~Ghosh, F.~Guillier, D.~Hanley, G.~J.
+  Hannon, K.~D. Hansen, E.~Heinz, A.~S. Hinrichs, M.~Hirst, S.~Jha, L.~Jiang,
+  Y.~L. Jung, H.~Kashevsky, C.~D. Kennedy, E.~T. Kephart, L.~Langton, O.-K.
+  Lee, S.~Li, Z.~Li, W.~Lin, D.~Linder-Basso, P.~Lloyd, R.~Lyne, S.~E.
+  Marchetti, M.~Marra, N.~R. Mattiuzzo, S.~McKay, F.~Meyer, D.~Miller, S.~W.
+  Miller, R.~A. Moore, C.~A. Morrison, J.~A. Prinz, M.~Rooks, R.~Moore, K.~M.
+  Rutherford, P.~Ruzanov, D.~A. Scheftner, L.~Senderowicz, P.~K. Shah,
+  G.~Shanower, R.~Smith, E.~O. Stinson, S.~Suchy, A.~E. Tenney, F.~Tian,
+  K.~J.~T. Venken, H.~Wang, R.~White, J.~Wilkening, A.~T. Willingham,
+  C.~Zaleski, Z.~Zha, D.~Zhang, Y.~Zhao, and J.~Zieba.
+\newblock Identification of functional elements and regulatory circuits by
+  drosophila {modENCODE}.
+\newblock \emph{Science}, 330\penalty0 (6012):\penalty0 1787--1797, December
+  2010.
+\newblock ISSN 0036-8075, 1095-9203.
+\newblock \doi{10.1126/science.1198374}.
+\newblock URL \url{http://www.sciencemag.org/cgi/doi/10.1126/science.1198374}.
+
+\bibitem[Thomas et~al.(2011)Thomas, Li, Sabo, Sandstrom, Thurman, Canfield,
+  Giste, Fisher, Hammonds, and Celniker]{thomas_dynamic_2011}
+Sean Thomas, Xiao-Yong Li, Peter~J. Sabo, Richard Sandstrom, Robert~E. Thurman,
+  Theresa~K. Canfield, Erika Giste, William Fisher, Ann Hammonds, and Susan~E.
+  Celniker.
+\newblock Dynamic reprogramming of chromatin accessibility during drosophila
+  embryo development.
+\newblock \emph{Genome Biol}, 12\penalty0 (5):\penalty0 R43, 2011.
+\newblock URL
+  \url{http://www.biomedcentral.com/content/pdf/gb-2011-12-5-r43.pdf}.
+
+\bibitem[Trinh et~al.(2013)Trinh, Jen, Zhou, Chu, Perry, Kephart, Contrino,
+  Ruzanov, and Stein]{trinh_cloud-based_2013}
+Quang~M. Trinh, Fei-Yang~A. Jen, Ziru Zhou, Kar~M. Chu, Marc~D. Perry, Ellen~T.
+  Kephart, Sergio Contrino, Peter Ruzanov, and Lincoln~D. Stein.
+\newblock Cloud-based uniform {ChIP}-seq processing tools for {modENCODE} and
+  {ENCODE}.
+\newblock \emph{{BMC} genomics}, 14\penalty0 (1):\penalty0 494, 2013.
+\newblock URL
+  \url{http://www.biomedcentral.com/1471-2164/14/494?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Bmc%2FGenomics%2FLatestArticles+(BMC+Genomics+-+Latest+articles)}.
+
+\bibitem[Uchikawa et~al.(1999)Uchikawa, Kamachi, and Kondoh]{uchikawa_two_1999}
+Masanori Uchikawa, Yusuke Kamachi, and Hisato Kondoh.
+\newblock Two distinct subgroups of group b sox genes for transcriptional
+  activators and repressors: their expression during embryonic organogenesis of
+  the chicken.
+\newblock \emph{Mechanisms of Development}, 84\penalty0 (1–2):\penalty0 103
+  -- 120, 1999.
+\newblock ISSN 0925-4773.
+\newblock \doi{http://dx.doi.org/10.1016/S0925-4773(99)00083-0}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0925477399000830}.
+
+\bibitem[Uchikawa et~al.(2011)Uchikawa, Yoshida, Iwafuchi-Doi, Matsuda, Ishida,
+  Takemoto, and Kondoh]{uchikawa_b1_2011}
+Masanori Uchikawa, Megumi Yoshida, Makiko Iwafuchi-Doi, Kazunari Matsuda,
+  Yoshiko Ishida, Tatsuya Takemoto, and Hisato Kondoh.
+\newblock B1 and b2 sox gene expression during neural plate development in
+  chicken and mouse embryos: Universal versus species-dependent features.
+\newblock \emph{Development, Growth \& Differentiation}, 53\penalty0
+  (6):\penalty0 761--771, 2011.
+\newblock ISSN 1440-169X.
+\newblock \doi{10.1111/j.1440-169X.2011.01286.x}.
+\newblock URL \url{http://dx.doi.org/10.1111/j.1440-169X.2011.01286.x}.
+
+\bibitem[Uwanogho et~al.(1995{\natexlab{a}})Uwanogho, Rex, Cartwright, Pearl,
+  Healy, Scotting, and Sharpe]{uwanogho_embryonic_1995-1}
+D~Uwanogho, M~Rex, E~J Cartwright, G~Pearl, C~Healy, P~J Scotting, and P~T
+  Sharpe.
+\newblock Embryonic expression of the chicken sox2, sox3 and sox11 genes
+  suggests an interactive role in neuronal development.
+\newblock \emph{Mechanisms of development}, 49\penalty0 (1-2):\penalty0 23--36,
+  January 1995{\natexlab{a}}.
+
+\bibitem[Uwanogho et~al.(1995{\natexlab{b}})Uwanogho, Rex, Cartwright, Pearl,
+  Healy, Scotting, and Sharpe]{uwanogho_embryonic_1995}
+Dafe Uwanogho, Maria Rex, Elizabeth~J. Cartwright, Gina Pearl, Chris Healy,
+  Paul~J. Scotting, and Paul~T. Sharpe.
+\newblock Embryonic expression of the chicken{\textless} i{\textgreater} sox2,
+  sox3{\textless}/i{\textgreater} and{\textless} i{\textgreater}
+  sox11{\textless}/i{\textgreater} genes suggests an interactive role in
+  neuronal development.
+\newblock \emph{Mechanisms of development}, 49\penalty0 (1):\penalty0 23--36,
+  1995{\natexlab{b}}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/0925477394002993}.
+
+\bibitem[van Steensel et~al.(2001)van Steensel, Delrow, and
+  Henikoff]{van_steensel_chromatin_2001}
+B~van Steensel, J~Delrow, and S~Henikoff.
+\newblock Chromatin profiling using targeted {DNA} adenine methyltransferase.
+\newblock \emph{Nature Genetics}, 27\penalty0 (3):\penalty0 304--308, March
+  2001.
+
+\bibitem[Vavouri et~al.()Vavouri, Semple, and Lehner]{vavouri_widespread_????}
+Tanya Vavouri, Jennifer~I. Semple, and Ben Lehner.
+\newblock Widespread conservation of genetic redundancy during a billion years
+  of eukaryotic evolution.
+\newblock \emph{Trends in Genetics}, 24\penalty0 (10):\penalty0 485--488.
+\newblock \doi{10.1016/j.tig.2008.08.005}.
+\newblock URL
+  \url{http://www.cell.com/trends/genetics/abstract/S0168-9525(08)00224-2}.
+
+\bibitem[Villar et~al.(2014)Villar, Flicek, and Odom]{villar_evolution_2014}
+Diego Villar, Paul Flicek, and Duncan~T. Odom.
+\newblock Evolution of transcription factor binding in metazoans — mechanisms
+  and functional implications.
+\newblock \emph{Nature Reviews Genetics}, March 2014.
+\newblock ISSN 1471-0056, 1471-0064.
+\newblock \doi{10.1038/nrg3481}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nrg3481}.
+
+\bibitem[Wagner(2005)]{wagner_distributed_2005}
+Andreas Wagner.
+\newblock Distributed robustness versus redundancy as causes of mutational
+  robustness.
+\newblock \emph{{BioEssays}}, 27\penalty0 (2):\penalty0 176--188, February
+  2005.
+\newblock ISSN 0265-9247, 1521-1878.
+\newblock \doi{10.1002/bies.20170}.
+\newblock URL \url{http://doi.wiley.com/10.1002/bies.20170}.
+
+\bibitem[Wagner(2008)]{wagner_gene_2008}
+Andreas Wagner.
+\newblock Gene duplications, robustness and evolutionary innovations.
+\newblock \emph{{BioEssays}}, 30\penalty0 (4):\penalty0 367--373, April 2008.
+\newblock ISSN 02659247, 15211878.
+\newblock \doi{10.1002/bies.20728}.
+\newblock URL \url{http://doi.wiley.com/10.1002/bies.20728}.
+
+\bibitem[Wegner(2011)]{wegner_sox_2011}
+M.~Wegner.
+\newblock {SOX} after {SOX}: {SOXession} regulates neurogenesis.
+\newblock \emph{Genes \& Development}, 25\penalty0 (23):\penalty0 2423--2428,
+  December 2011.
+\newblock ISSN 0890-9369.
+\newblock \doi{10.1101/gad.181487.111}.
+\newblock URL \url{http://genesdev.cshlp.org/cgi/doi/10.1101/gad.181487.111}.
+
+\bibitem[Wegner and Stolt(2005)]{wegner_stem_2005}
+Michael Wegner and C.~Claus Stolt.
+\newblock From stem cells to neurons and glia: a soxist's view of neural
+  development.
+\newblock \emph{Trends in Neurosciences}, 28\penalty0 (11):\penalty0 583--588,
+  November 2005.
+\newblock ISSN 01662236.
+\newblock \doi{10.1016/j.tins.2005.08.008}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0166223605002201}.
+
+\bibitem[Wei et~al.(2010)Wei, Cheng, Li, Meng, Peng, Tang, Pan, Xiang, Xia, and
+  Lu]{wei_identification_2010}
+Ling Wei, Daojun Cheng, Dong Li, Meng Meng, Lina Peng, Lin Tang, Minhui Pan,
+  Zhonghuai Xiang, Qingyou Xia, and Cheng Lu.
+\newblock Identification and characterization of sox genes in the silkworm,
+  bombyx mori.
+\newblock \emph{Molecular Biology Reports}, 38\penalty0 (5):\penalty0
+  3573--3584, December 2010.
+\newblock ISSN 0301-4851, 1573-4978.
+\newblock \doi{10.1007/s11033-010-0468-5}.
+\newblock URL \url{http://link.springer.com/10.1007/s11033-010-0468-5}.
+
+\bibitem[Whyte et~al.(2013)Whyte, Orlando, Hnisz, Abraham, Lin, Kagey, Rahl,
+  Lee, and Young]{whyte_master_2013}
+Warren A. Whyte, David A. Orlando, Denes Hnisz, Brian J. Abraham,
+  Charles Y. Lin, Michael H. Kagey, Peter B. Rahl, Tong Ihn Lee, and
+  Richard A. Young.
+\newblock Master transcription factors and mediator establish super-enhancers
+  at key cell identity genes.
+\newblock \emph{Cell}, 153\penalty0 (2):\penalty0 307--319, April 2013.
+\newblock ISSN 00928674.
+\newblock \doi{10.1016/j.cell.2013.03.035}.
+\newblock URL
+  \url{http://linkinghub.elsevier.com/retrieve/pii/S0092867413003929}.
+
+\bibitem[Wilson et~al.(2005)Wilson, Yang, Kalousova, Lau, Kosaka, Lynn, Wang,
+  Mrejen, Episkopou, Clevers, and German]{wilson_hmg_2005}
+Maria~E. Wilson, Katherine~Y. Yang, Anna Kalousova, Janet Lau, Yasuhiro Kosaka,
+  Francis~C. Lynn, Juehu Wang, Caroline Mrejen, Vasso Episkopou, Hans~C.
+  Clevers, and Michael~S. German.
+\newblock The {HMG} box transcription factor sox4 contributes to the
+  development of the endocrine pancreas.
+\newblock \emph{Diabetes}, 54\penalty0 (12):\penalty0 3402--3409, December
+  2005.
+\newblock \doi{10.2337/diabetes.54.12.3402}.
+\newblock URL
+  \url{http://diabetes.diabetesjournals.org/content/54/12/3402.abstract}.
+
+\bibitem[Wilson and Dearden(2008)]{wilson_evolution_2008}
+Megan~J Wilson and Peter~K Dearden.
+\newblock Evolution of the insect sox genes.
+\newblock \emph{{BMC} Evolutionary Biology}, 8\penalty0 (1):\penalty0 120,
+  2008.
+\newblock ISSN 1471-2148.
+\newblock \doi{10.1186/1471-2148-8-120}.
+\newblock URL \url{http://www.biomedcentral.com/1471-2148/8/120}.
+
+\bibitem[Wood and Episkopou(1999{\natexlab{a}})]{wood_comparative_1999}
+H~B Wood and V~Episkopou.
+\newblock Comparative expression of the mouse sox1, sox2 and sox3 genes from
+  pre-gastrulation to early somite stages.
+\newblock \emph{Mechanisms of development}, 86\penalty0 (1-2):\penalty0
+  197--201, August 1999{\natexlab{a}}.
+
+\bibitem[Wood and Episkopou(1999{\natexlab{b}})]{wood_comparative_1999-1}
+Heather~B. Wood and Vasso Episkopou.
+\newblock Comparative expression of the mouse{\textless} i{\textgreater}
+  sox1{\textless}/i{\textgreater},{\textless} i{\textgreater}
+  sox2{\textless}/i{\textgreater} and{\textless} i{\textgreater}
+  sox3{\textless}/i{\textgreater} genes from pre-gastrulation to early somite
+  stages.
+\newblock \emph{Mechanisms of development}, 86\penalty0 (1):\penalty0 197--201,
+  1999{\natexlab{b}}.
+\newblock URL
+  \url{http://www.sciencedirect.com/science/article/pii/S0925477399001161}.
+
+\bibitem[Wray(2007)]{wray_evolutionary_2007}
+Gregory~A. Wray.
+\newblock The evolutionary significance of cis-regulatory mutations.
+\newblock \emph{Nature Reviews Genetics}, 8\penalty0 (3):\penalty0 206--216,
+  March 2007.
+\newblock ISSN 1471-0056, 1471-0064.
+\newblock \doi{10.1038/nrg2063}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nrg2063}.
+
+\bibitem[Yang et~al.(2012)Yang, Ramos, and Corces]{yang_beaf-32_2012}
+J.~Yang, E.~Ramos, and V.~G. Corces.
+\newblock The {BEAF}-32 insulator coordinates genome organization and function
+  during the evolution of drosophila species.
+\newblock \emph{Genome Research}, 22\penalty0 (11):\penalty0 2199--2207,
+  November 2012.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.142125.112}.
+\newblock URL \url{http://genome.cshlp.org/cgi/doi/10.1101/gr.142125.112}.
+
+\bibitem[Zhao et~al.(2007)Zhao, Wheeler, and Skeath]{zhao_genetic_2007}
+Guoyan Zhao, Scott~R. Wheeler, and James~B. Skeath.
+\newblock Genetic control of dorsoventral patterning and neuroblast
+  specification in the drosophila central nervous system.
+\newblock \emph{The International Journal of Developmental Biology},
+  51\penalty0 (2):\penalty0 107--115, 2007.
+\newblock ISSN 0214-6282.
+\newblock \doi{10.1387/ijdb.062188gz}.
+\newblock URL \url{http://www.intjdevbiol.com/paper.php?doi=062188gz}.
+
+\bibitem[Zhong et~al.(2011)Zhong, Wang, Gan, Yang, and He]{zhong_parallel_2011}
+Lei Zhong, Dengqiang Wang, Xiaoni Gan, Tong Yang, and Shunping He.
+\newblock Parallel expansions of sox transcription factor group b predating the
+  diversifications of the arthropods and jawed vertebrates.
+\newblock \emph{{PLoS} {ONE}}, 6\penalty0 (1):\penalty0 e16570, January 2011.
+\newblock ISSN 1932-6203.
+\newblock \doi{10.1371/journal.pone.0016570}.
+\newblock URL \url{http://dx.plos.org/10.1371/journal.pone.0016570}.
+
+\bibitem[Zinzen et~al.(2009)Zinzen, Girardot, Gagneur, Braun, and
+  Furlong]{zinzen_combinatorial_2009}
+Robert~P. Zinzen, Charles Girardot, Julien Gagneur, Martina Braun, and Eileen
+  E.~M. Furlong.
+\newblock Combinatorial binding predicts spatio-temporal cis-regulatory
+  activity.
+\newblock \emph{Nature}, 462\penalty0 (7269):\penalty0 65--70, November 2009.
+\newblock ISSN 0028-0836, 1476-4687.
+\newblock \doi{10.1038/nature08531}.
+\newblock URL \url{http://www.nature.com/doifinder/10.1038/nature08531}.
+
+\end{thebibliography}

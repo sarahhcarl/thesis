@@ -445,14 +445,14 @@ for the Degree of Doctor of Philosophy%
 \else
 \chapter*{Declaration}
 \thispagestyle{empty}
-This thesis:
+This dissertation:
 \begin{itemize}
-\item is my own work and contains nothing which is the outcome of work done in
-  collaboration with others, except where specified in the text;
-\item is not substantially the same as any that I have submitted for a degree or
-  diploma or other qualification at any other university; and
-\item does not exceed the prescribed limit of 60,000 words (approximately 39,853 words).
+\item is the result of my own work and includes nothing which is the outcome of work done in collaboration except as specified in the text. 
+\item is not substantially the same as any that I have submitted, or, is being concurrently submitted for a degree or diploma or other qualification at the University of Cambridge or any other University or similar institution except as specified in the text. I further state that no substantial part of my dissertation has already been submitted, or, is being concurrently submitted for any such degree, diploma or other qualification at the University of Cambridge or any other University of similar institution except as specified in the text; and
+\item does not exceed the prescribed limit of 60,000 words for the Degree Committee of the Faculty of Biology.
 \end{itemize}
+With the exception of all reproduced figures, this dissertation is licensed under a Creative Commons Attribution-NonCommercial 4.0 license. This document and the template used to create it are freely available online at:\\
+ \url{https://github.com/sarahhcarl/thesis}.
 \begin{flushright}
 \@author{}\\
 \@date{}\\
